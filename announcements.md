@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-02-20 22:46:45.851321+07:00**_
+_Last update: **2024-02-20 23:05:50.427930+07:00**_
 ## Thong Bao
 * 20/02/2024: [Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)](https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/)
 * 20/02/2024: [Thông tin về một số chương trình tài trợ nghiên cứu, học bổng nghiên cứu của Chính phủ Anh](https://www.ctda.hcmus.edu.vn/vi/2024/02/thong-tin-ve-mot-so-chuong-trinh-tai-tro-nghien-cuu-hoc-bong-nghien-cuu-cua-chinh-phu-anh/)
@@ -11,16 +11,9 @@ _Last update: **2024-02-20 22:46:45.851321+07:00**_
 * 18/01/2024: [[CTĐA] Thời khóa biểu HK2/2324](https://www.ctda.hcmus.edu.vn/vi/2024/01/ctda-thoi-khoa-bieu-hk2-2324/)
 * 16/01/2024: [MỜI THAM GIA SINH HOẠT VỀ KẾ HOẠCH TỔ CHỨC HỌC PHẦN THỰC TẬP THỰC TẾ – HỌC KỲ 3 NĂM HỌC 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/01/moi-tham-gia-sinh-hoat-ve-ke-hoach-to-chuc-hoc-phan-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2023-2024/)
 * 09/01/2024: [[CTĐA] DSSV đăng ký thực hiện KLTN/TTTN/TTDATN chính thức khóa 2020, đợt 1 (bảo vệ tháng 8/2024)](https://www.ctda.hcmus.edu.vn/vi/2024/01/ctda-dssv-nop-don-dang-ky-thuc-hien-kltn-tttn-ttdatn-khoa-2020-dot-1-bao-ve-thang-8-2024/)
-* 20/12/2023: [CTĐA_Lịch thi chi tiết cuối kỳ HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2023/12/ctda_lich-thi-chi-tiet-cuoi-ky-hk1-2324/)
-* 20/12/2023: [VP_HK1/2324_Thông báo khảo sát môn học cuối kỳ](https://www.ctda.hcmus.edu.vn/vi/2023/12/vp_hk1-2324_thong-bao-khao-sat-mon-hoc-cuoi-ky/)
-* 20/12/2023: [CLC_HK1/2324_Thông báo khảo sát môn học cuối kỳ](https://www.ctda.hcmus.edu.vn/vi/2023/12/clc_hk1-2324_thong-bao-khao-sat-mon-hoc-cuoi-ky/)
-* 20/12/2023: [CTTT_HK1/2324_Thông báo khảo sát môn học cuối kỳ](https://www.ctda.hcmus.edu.vn/vi/2023/12/cttt_hk1-2324_thong-bao-khao-sat-mon-hoc-cuoi-ky/)
-* 18/12/2023: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2020 – Đợt 1](https://www.ctda.hcmus.edu.vn/vi/2023/12/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2020-dot-1/)
-* 13/12/2023: [Thông báo kết quả cung cấp thông tin lưu trú năm học 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2023/12/thong-bao-ket-qua-cung-cap-thong-tin-luu-tru-nam-hoc-2023-2024/)
 ## Tin tuc
 ## Thong tin can biet
 ## Hoat dong sinh vien
-* 20/02/2024: [Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)](https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/)
 ## FIT-Tin tuc
 * 20/2/2024: [Cuộc thi học thuật Thách Thức 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15977)
 * 19/2/2024: [Hội thảo trực tuyến 'Giới thiệu chương trình liên thông môn học Đại học - Thạc sĩ' ngày 25/02/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15973)
