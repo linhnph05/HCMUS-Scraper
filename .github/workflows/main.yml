@@ -31,7 +31,7 @@ jobs:
       - name: Run scrapy
         run: scrapy crawl hcmusSpider -O output.json
       - name: Run script
-        run: python3 main.py
+        run: python main.py
       - name: Commit and push changes
         run: |
           git config user.name github-actions
