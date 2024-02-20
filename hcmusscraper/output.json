@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:40:46 20/02/2024",
+  "Update time": "10:11:26 20/02/2024",
   "Thong Bao": [
     {
       "tieuDe": "Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)",
@@ -94,6 +94,11 @@
   ],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Cuộc thi học thuật Thách Thức 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15977",
+      "date": "20/2/2024"
+    },
+    {
       "tieuDe": "Hội thảo trực tuyến 'Giới thiệu chương trình liên thông môn học Đại học - Thạc sĩ' ngày 25/02/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15973",
       "date": "19/2/2024"
@@ -137,11 +142,6 @@
       "tieuDe": "Chương trình thực tập nghiên cứu tại Trường MBZUAI dành cho Sinh viên",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15917",
       "date": "22/1/2024"
-    },
-    {
-      "tieuDe": "Thông báo xét tuyển sinh viên tham gia chương trình liên thông môn học ĐH-ThS năm 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15914",
-      "date": "19/1/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [],
