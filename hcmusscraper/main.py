@@ -11,7 +11,7 @@ def writeMdSection(file, section):
         file.write(f"* {item["date"]}: [{item["tieuDe"]}]({item["url"]})\n")
 
 with open('../announcements.md', 'w') as md_file:
-    md_file.write(f'# All news\n_Last update: **{dataList["Update time"]}**_\n')
+    md_file.write(f'# All news\n_Last update: **{datetime.now(tz=ZoneInfo("Asia/Ho_Chi_Minh"))}**_\n')
     sections = ["Thong Bao",
                 "Tin tuc",
                 "Thong tin can biet",
