@@ -1,6 +1,6 @@
 # HCMUS-News Scraper: a web scraper that crawl news from my university websites
 ## Inspired from this [github repo](https://github.com/huytrinhm/hcmus-news-crawler)
-## Visit the [Announcements page](https://linhnph05.github.io/HCMUS-Scraper/announcements)
+## Visit the [Results page](https://linhnph05.github.io/HCMUS-Scraper/announcements)
 
 ## Websites list that I scraping from:
 * https://www.ctda.hcmus.edu.vn/
