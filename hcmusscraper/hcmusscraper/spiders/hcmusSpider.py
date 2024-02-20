@@ -1,60 +1,8 @@
 import scrapy
-import json
 
 from datetime import datetime
 
 import re
-# class HcmusspiderSpider(scrapy.Spider):
-#     name = "hcmusSpider"
-#     #scrapy crawl hcmusSpider -O output.json
-#
-#     def start_requests(self):
-#         url = 'https://www.ctda.hcmus.edu.vn/vi/'
-#         yield scrapy.Request(url, callback=self.parse)
-#
-#     def extract_category_data(self, category):
-#         category_data =[
-#             {
-#                 "tieuDe": title,
-#                 "url": url,
-#                 "date": date
-#             }
-#             for title, url, date in zip(
-#                 category.css('a::text').getall(),
-#                 category.css('a::attr(href)').getall(),
-#                 category.css('.date::text').getall()
-#             )
-#             if datetime.strptime(date, "%d/%m/%Y").year >= 2023
-#         ]
-#
-#         category_data.sort(key=lambda x: datetime.strptime(x['date'], "%d/%m/%Y"),
-#                            reverse=True)
-#
-#         return category_data
-#
-#     def parse(self, response):
-#         thongBao = response.css('div.items_group')[1]
-#         yield {
-#             "Update time": datetime.now().strftime("%H:%M:%S %d/%m/%Y"),
-#             "keHoachHocTap": self.extract_category_data(thongBao.css('ul')[1]),
-#             "giaoVu": self.extract_category_data(thongBao.css('ul')[2]),
-#             "troLySinhVien": self.extract_category_data(thongBao.css('ul')[3]),
-#             "taiChinh": self.extract_category_data(thongBao.css('ul')[4]),
-#         }
-#
-#         # yield {
-#         #     "Update time": datetime.now().strftime("%H:%M:%S %d/%m/%Y"),
-#         #     "keHoachHocTap": [
-#         #         {
-#         #             "tieuDe": title,
-#         #             "url": url,
-#         #             "date": date
-#         #         }
-#         #         for title, url, date in zip(keHoachHocTap.css('a::text').getall(),
-#         #                                     keHoachHocTap.css('a::attr(href)').getall(),
-#         #                                     keHoachHocTap.css('.date::text').getall(),)
-#         #         if datetime.strptime(date, "%d/%m/%Y").year >= 2023
-#         #     ],
 
 
 def cleanString(s):
@@ -107,7 +55,8 @@ class HcmusspiderSpider(scrapy.Spider):
         elif 'https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36' in response.url:
             self.parseFIT(response)
         elif 'https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/' in response.url:
-            self.parseHCMUS1(response)
+            self.parseHCMUS1(response, "HCMUS-Thong tin nguoi hoc")
+            # yield from self.parseHCMUS1(response, "HCMUS-Thong tin nguoi hoc")
         elif 'https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/' in response.url:
             yield from self.parseHCMUS2(response, "HCMUS-Thong tin sinh vien")
         elif 'https://hcmus.edu.vn/category/tuyen-dung-viec-lam/' in response.url:
@@ -165,15 +114,32 @@ class HcmusspiderSpider(scrapy.Spider):
             }
             self.resultJson["FIT-Tin tuc"].append(item)
 
+    # def parseHCMUS1(self, response, page):
+    #     posts = response.css('.cmsmasters_post_cont_wrap')
+    #     for post in posts:
+    #         title = cleanString(post.css('.cmsmasters_post_title.entry-title > a::text').get())
+    #         url = post.css('.cmsmasters_post_title.entry-title > a::attr(href)').get()
+    #         date = post.css('.published::text').get()
+    #
+    #         if ((datetime.strptime(date, "%d/%m/%Y").year == 2023 and
+    #              datetime.strptime(date, "%d/%m/%Y").month == 12) or
+    #                 (datetime.strptime(date, "%d/%m/%Y").year == 2024) and
+    #                 datetime.strptime(date, "%d/%m/%Y").month >= 1):
+    #             item = {
+    #                 "tieuDe": title,
+    #                 "url": url,
+    #                 "date": date,
+    #             }
+    #             self.resultJson[page].append(item)
+    #
+    #     buttonURL = response.css('.next.page-numbers::attr(href)').get()
+    #     if buttonURL is not None:
+    #         yield scrapy.Request(buttonURL, callback=self.parseHCMUS1, cb_kwargs={'page': page}, dont_filter=True)
+
     def parseHCMUS2(self, response, page):
         posts = response.css('.cmsmasters_archive_item_cont_wrap')
         for post in posts:
             title = cleanString(post.css('.cmsmasters_archive_item_title.entry-title >a::text').get())
-
-            # cleanedString = title.strip()
-            # cleanedString = re.sub(r'[\r\n\t]', ' ', cleanedString)
-            # cleanedString = re.sub(' +', ' ', cleanedString)
-            # cleanedString = cleanedString.replace('\"', '\'')
 
             url = post.css('.cmsmasters_archive_item_title.entry-title >a::attr(href)').get()
             date = post.css('.published::text').get()
