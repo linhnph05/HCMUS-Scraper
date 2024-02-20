@@ -10,7 +10,7 @@ def writeMdSection(file, section):
     for item in dataList[section]:
         file.write(f"* {item["date"]}: [{item["tieuDe"]}]({item["url"]})\n")
 
-with open('announcements.md', 'w') as md_file:
+with open('../announcements.md', 'w') as md_file:
     md_file.write(f'# All news\n_Last update: **{dataList["Update time"]}**_\n')
     sections = ["Thong Bao",
                 "Tin tuc",

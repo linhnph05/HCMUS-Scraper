@@ -1,16 +1,8 @@
 import scrapy
 import json
-from scrapy.spiders import CrawlSpider, Rule
-from scrapy.linkextractors import LinkExtractor
 
 from datetime import datetime
 
-from scrapy_selenium import SeleniumRequest
-from selenium.webdriver import ActionChains
-import time
-from selenium.webdriver.common.by import By
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 import re
 # class HcmusspiderSpider(scrapy.Spider):
 #     name = "hcmusSpider"
