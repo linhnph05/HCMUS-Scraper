@@ -21,6 +21,7 @@ class HcmusspiderSpider(scrapy.Spider):
         'https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/',
         'https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/',
         'https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36',
+        'https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/',
         'https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/',
         'https://hcmus.edu.vn/category/tuyen-dung-viec-lam/',
         'https://hcmus.edu.vn/category/nguoi-hoc/',
@@ -55,8 +56,7 @@ class HcmusspiderSpider(scrapy.Spider):
         elif 'https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36' in response.url:
             self.parseFIT(response)
         elif 'https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/' in response.url:
-            self.parseHCMUS1(response, "HCMUS-Thong tin nguoi hoc")
-            # yield from self.parseHCMUS1(response, "HCMUS-Thong tin nguoi hoc")
+            yield from self.parseHCMUS1(response, "HCMUS-Thong tin nguoi hoc")
         elif 'https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/' in response.url:
             yield from self.parseHCMUS2(response, "HCMUS-Thong tin sinh vien")
         elif 'https://hcmus.edu.vn/category/tuyen-dung-viec-lam/' in response.url:
@@ -114,27 +114,27 @@ class HcmusspiderSpider(scrapy.Spider):
             }
             self.resultJson["FIT-Tin tuc"].append(item)
 
-    # def parseHCMUS1(self, response, page):
-    #     posts = response.css('.cmsmasters_post_cont_wrap')
-    #     for post in posts:
-    #         title = cleanString(post.css('.cmsmasters_post_title.entry-title > a::text').get())
-    #         url = post.css('.cmsmasters_post_title.entry-title > a::attr(href)').get()
-    #         date = post.css('.published::text').get()
-    #
-    #         if ((datetime.strptime(date, "%d/%m/%Y").year == 2023 and
-    #              datetime.strptime(date, "%d/%m/%Y").month == 12) or
-    #                 (datetime.strptime(date, "%d/%m/%Y").year == 2024) and
-    #                 datetime.strptime(date, "%d/%m/%Y").month >= 1):
-    #             item = {
-    #                 "tieuDe": title,
-    #                 "url": url,
-    #                 "date": date,
-    #             }
-    #             self.resultJson[page].append(item)
-    #
-    #     buttonURL = response.css('.next.page-numbers::attr(href)').get()
-    #     if buttonURL is not None:
-    #         yield scrapy.Request(buttonURL, callback=self.parseHCMUS1, cb_kwargs={'page': page}, dont_filter=True)
+    def parseHCMUS1(self, response, page):
+        posts = response.css('.cmsmasters_post_cont_wrap')
+        for post in posts:
+            title = cleanString(post.css('.cmsmasters_post_title.entry-title > a::text').get())
+            url = post.css('.cmsmasters_post_title.entry-title > a::attr(href)').get()
+            date = post.css('.published::text').get()
+
+            if ((datetime.strptime(date, "%d/%m/%Y").year == 2023 and
+                 datetime.strptime(date, "%d/%m/%Y").month == 12) or
+                    (datetime.strptime(date, "%d/%m/%Y").year == 2024) and
+                    datetime.strptime(date, "%d/%m/%Y").month >= 1):
+                item = {
+                    "tieuDe": title,
+                    "url": url,
+                    "date": date,
+                }
+                self.resultJson[page].append(item)
+
+        buttonURL = response.css('.next.page-numbers::attr(href)').get()
+        if buttonURL is not None:
+            yield scrapy.Request(buttonURL, callback=self.parseHCMUS1, cb_kwargs={'page': page}, dont_filter=True)
 
     def parseHCMUS2(self, response, page):
         posts = response.css('.cmsmasters_archive_item_cont_wrap')
