@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "06:14:05 21/02/2024",
+  "Update time": "07:10:10 21/02/2024",
   "Thong Bao": [
     {
       "tieuDe": "Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)",
@@ -85,7 +85,13 @@
   ],
   "Tin tuc": [],
   "Thong tin can biet": [],
-  "Hoat dong sinh vien": [],
+  "Hoat dong sinh vien": [
+    {
+      "tieuDe": "Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/",
+      "date": "20/02/2024"
+    }
+  ],
   "FIT-Tin tuc": [
     {
       "tieuDe": "[CQ] Danh sách lớp hủy HK2/23-24 do không đủ số lượng mở lớp",
