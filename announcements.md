@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-02-21 08:48:20.504468+07:00**_
+_Last update: **2024-02-21 09:21:38.896727+07:00**_
 ## Thong Bao
 * 20/02/2024: [Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)](https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/)
 * 20/02/2024: [Thông tin về một số chương trình tài trợ nghiên cứu, học bổng nghiên cứu của Chính phủ Anh](https://www.ctda.hcmus.edu.vn/vi/2024/02/thong-tin-ve-mot-so-chuong-trinh-tai-tro-nghien-cuu-hoc-bong-nghien-cuu-cua-chinh-phu-anh/)
@@ -33,6 +33,7 @@ _Last update: **2024-02-21 08:48:20.504468+07:00**_
 * 22/1/2024: [Thông báo đăng ký chuyển sang hệ tự túc áp dụng cho học viên cao học khoá 31/2021](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15919)
 * 22/1/2024: [Chương trình thực tập nghiên cứu tại Trường MBZUAI dành cho Sinh viên](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15917)
 ## HCMUS-Thong tin nguoi hoc
+* 21/02/2024: [Quy định về chính sách học bổng dành cho sinh viên](https://hcmus.edu.vn/quy-dinh-ve-chinh-sach-hoc-bong-danh-cho-sinh-vien/)
 * 19/02/2024: [THƯ MỜI VIẾT BÀI HỘI NGHỊ QUỐC TẾ VỀ CÔNG NGHỆ XANH VÀ PHÁT TRIỂN BỀN VỮNG NĂM 2024 [GTSD2024]](https://hcmus.edu.vn/thu-moi-viet-bai-hoi-nghi-quoc-te-ve-cong-nghe-xanh-va-phat-trien-ben-vung-nam-2024-gtsd2024/)
 * 19/02/2024: [Thông báo Đăng ký học phần học kỳ 2 năm học 2023-2024 cho sinh viên lớp Liên thông đại học học cùng lớp đại học](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2023-2024-cho-sinh-vien-lop-lien-thong-dai-hoc-hoc-cung-lop-dai-hoc/)
 * 16/02/2024: [Thông báo ĐKHP HK2/2023-2024 đối với sinh viên bậc cao đẳng](https://hcmus.edu.vn/thong-bao-dkhp-hk2-2023-2024-doi-voi-sinh-vien-bac-cao-dang/)
@@ -88,6 +89,7 @@ _Last update: **2024-02-21 08:48:20.504468+07:00**_
 * 05/12/2023: [Thông báo đề xuất, đặt hàng nhiệm vụ khoa học công nghệ tỉnh An Giang 2024-2025](https://hcmus.edu.vn/thong-bao-de-xuat-dat-hang-nhiem-vu-khoa-hoc-cong-nghe-tinh-an-giang-2024-2025/)
 * 04/12/2023: [[VIETHOPE] – THÔNG BÁO DANH SÁCH TRÚNG TUYỂN VÀO VÒNG PHỎNG VẤN HỌC BỔNG VSDP 2023](https://hcmus.edu.vn/viethope-thong-bao-danh-sach-trung-tuyen-vao-vong-phong-van-hoc-bong-vsdp-2023/)
 ## HCMUS-Thong tin sinh vien
+* 21/02/2024: [Quy định về chính sách học bổng dành cho sinh viên](https://hcmus.edu.vn/quy-dinh-ve-chinh-sach-hoc-bong-danh-cho-sinh-vien/)
 * 19/02/2024: [Thông báo Đăng ký học phần học kỳ 2 năm học 2023-2024 cho sinh viên lớp Liên thông đại học học cùng lớp đại học](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2023-2024-cho-sinh-vien-lop-lien-thong-dai-hoc-hoc-cung-lop-dai-hoc/)
 * 16/02/2024: [Thông báo ĐKHP HK2/2023-2024 đối với sinh viên bậc cao đẳng](https://hcmus.edu.vn/thong-bao-dkhp-hk2-2023-2024-doi-voi-sinh-vien-bac-cao-dang/)
 * 15/02/2024: [Thông báo kết quả dự kiến HBKK HK3/2022-2023 Khoa CNTT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2022-2023-khoa-cntt-ctda/)
