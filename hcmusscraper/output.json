@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:10:10 21/02/2024",
+  "Update time": "08:14:42 21/02/2024",
   "Thong Bao": [
     {
       "tieuDe": "Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)",
@@ -94,6 +94,11 @@
   ],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Danh sách tham quan công ty FPT Software ngày 5/3",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15981",
+      "date": "21/2/2024"
+    },
+    {
       "tieuDe": "[CQ] Danh sách lớp hủy HK2/23-24 do không đủ số lượng mở lớp",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15980",
       "date": "21/2/2024"
@@ -137,11 +142,6 @@
       "tieuDe": "Công ty BioTuring VN tuyển 4 vị trí Algorithm Engineer",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15937",
       "date": "1/2/2024"
-    },
-    {
-      "tieuDe": "[CQ] Thời khóa biểu dự kiến HK2/23-24",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15924",
-      "date": "26/1/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
