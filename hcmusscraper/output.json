@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "04:13:02 21/02/2024",
+  "Update time": "05:10:33 21/02/2024",
   "Thong Bao": [
     {
       "tieuDe": "Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)",
@@ -94,6 +94,11 @@
   ],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "[CQ] Danh sách lớp hủy HK2/23-24 do không đủ số lượng mở lớp",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15980",
+      "date": "21/2/2024"
+    },
+    {
       "tieuDe": "[CQ] Thông báo nộp cuốn TRƯỚC bảo vệ KLTN/TTTN/TTDATN Khóa 2020, đợt 1 (tháng 3/2024)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15978",
       "date": "21/2/2024"
@@ -137,11 +142,6 @@
       "tieuDe": "[CQ] Thời khóa biểu dự kiến HK2/23-24",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15924",
       "date": "26/1/2024"
-    },
-    {
-      "tieuDe": "Thông báo đăng ký chuyển sang hệ tự túc áp dụng cho học viên cao học khoá 31/2021",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15919",
-      "date": "22/1/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
