@@ -1,5 +1,5 @@
 # All news
-_Last update: **2024-02-22 10:16:43.831324+07:00**_
+_Last update: **2024-02-22 11:17:20.752046+07:00**_
 ## Thong Bao
 * 20/02/2024: [Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)](https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/)
 * 20/02/2024: [Thông tin về một số chương trình tài trợ nghiên cứu, học bổng nghiên cứu của Chính phủ Anh](https://www.ctda.hcmus.edu.vn/vi/2024/02/thong-tin-ve-mot-so-chuong-trinh-tai-tro-nghien-cuu-hoc-bong-nghien-cuu-cua-chinh-phu-anh/)
@@ -20,7 +20,9 @@ _Last update: **2024-02-22 10:16:43.831324+07:00**_
 ## Tin tuc
 ## Thong tin can biet
 ## Hoat dong sinh vien
+* 20/02/2024: [Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)](https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/)
 ## FIT-Tin tuc
+* 22/2/2024: [Danh sách tham quan công ty Netcompany ngày 1/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15983)
 * 21/2/2024: [Danh sách tham quan công ty FPT Software ngày 5/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15981)
 * 21/2/2024: [[CQ] Danh sách lớp hủy HK2/23-24 do không đủ số lượng mở lớp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15980)
 * 21/2/2024: [[CQ] Thông báo nộp cuốn TRƯỚC bảo vệ KLTN/TTTN/TTDATN Khóa 2020, đợt 1 (tháng 3/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15978)
@@ -30,8 +32,9 @@ _Last update: **2024-02-22 10:16:43.831324+07:00**_
 * 19/2/2024: [Thông báo lịch làm việc của Cố vấn học tập HK2/ NH 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15966)
 * 19/2/2024: [Đăng ký tham quan công ty Netcompany ngày 01/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15965)
 * 3/2/2024: [[CQ] Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ KLTN/TTTN/TTDATN khóa 2020, đợt 1 (bảo vệ tháng 3/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15947)
-* 1/2/2024: [Công ty BioTuring VN tuyển 4 vị trí Algorithm Engineer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15937)
 ## HCMUS-Thong tin nguoi hoc
+* 22/02/2024: [THÔNG BÁO TUYỂN DỤNG GIẢNG VIÊN BỘ MÔN HÓA LÝ – KHOA HÓA HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-giang-vien-bo-mon-hoa-ly-khoa-hoa-hoc/)
+* 22/02/2024: [THÔNG BÁO TUYỂN DỤNG CHUYÊN VIÊN KHOA TOÁN – TIN HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-chuyen-vien-khoa-toan-tin-hoc/)
 * 21/02/2024: [Quy định về chính sách học bổng dành cho sinh viên](https://hcmus.edu.vn/quy-dinh-ve-chinh-sach-hoc-bong-danh-cho-sinh-vien/)
 * 19/02/2024: [THƯ MỜI VIẾT BÀI HỘI NGHỊ QUỐC TẾ VỀ CÔNG NGHỆ XANH VÀ PHÁT TRIỂN BỀN VỮNG NĂM 2024 [GTSD2024]](https://hcmus.edu.vn/thu-moi-viet-bai-hoi-nghi-quoc-te-ve-cong-nghe-xanh-va-phat-trien-ben-vung-nam-2024-gtsd2024/)
 * 19/02/2024: [Thông báo Đăng ký học phần học kỳ 2 năm học 2023-2024 cho sinh viên lớp Liên thông đại học học cùng lớp đại học](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2023-2024-cho-sinh-vien-lop-lien-thong-dai-hoc-hoc-cung-lop-dai-hoc/)
@@ -125,6 +128,8 @@ _Last update: **2024-02-22 10:16:43.831324+07:00**_
 * 07/12/2023: [Thông báo Đăng ký học phần học kỳ 2/2023-2024 chương trình Chất lượng cao, Việt Pháp (cập nhật)](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-2023-2024-chuong-trinh-chat-luong-cao-viet-phap-cap-nhat-moi/)
 * 06/12/2023: [Thông báo phát thuốc tẩy giun miễn phí cho sinh viên (đợt tháng 12/2023)](https://hcmus.edu.vn/thong-bao-phat-thuoc-tay-giun-mien-phi-cho-sinh-vien-dot-thang-12-2023/)
 ## HCMUS-Tuyen dung
+* 22/02/2024: [THÔNG BÁO TUYỂN DỤNG GIẢNG VIÊN BỘ MÔN HÓA LÝ – KHOA HÓA HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-giang-vien-bo-mon-hoa-ly-khoa-hoa-hoc/)
+* 22/02/2024: [THÔNG BÁO TUYỂN DỤNG CHUYÊN VIÊN KHOA TOÁN – TIN HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-chuyen-vien-khoa-toan-tin-hoc/)
 * 11/01/2024: [Thông báo Tuyển dụng Kỹ thuật viên Phòng thí nghiệm Vật liệu kỹ thuật cao](https://hcmus.edu.vn/thong-bao-tuyen-dung-ky-thuat-vien-phong-thi-nghiem-vat-lieu-ky-thuat-cao/)
 * 11/12/2023: [THÔNG BÁO CHỈ TIÊU TUYỂN CHỌN CÔNG DÂN VÀO CÔNG AN NHÂN DÂN](https://hcmus.edu.vn/thong-bao-chi-tieu-tuyen-chon-cong-dan-vao-cong-an-nhan-dan/)
 ## HCMUS-Nguoi hoc

@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:11:55 22/02/2024",
+  "Update time": "04:12:15 22/02/2024",
   "Thong Bao": [
     {
       "tieuDe": "Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)",
@@ -85,8 +85,19 @@
   ],
   "Tin tuc": [],
   "Thong tin can biet": [],
-  "Hoat dong sinh vien": [],
+  "Hoat dong sinh vien": [
+    {
+      "tieuDe": "Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/",
+      "date": "20/02/2024"
+    }
+  ],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Danh sách tham quan công ty Netcompany ngày 1/3",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15983",
+      "date": "22/2/2024"
+    },
     {
       "tieuDe": "Danh sách tham quan công ty FPT Software ngày 5/3",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15981",
@@ -131,14 +142,19 @@
       "tieuDe": "[CQ] Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ KLTN/TTTN/TTDATN khóa 2020, đợt 1 (bảo vệ tháng 3/2024)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15947",
       "date": "3/2/2024"
-    },
-    {
-      "tieuDe": "Công ty BioTuring VN tuyển 4 vị trí Algorithm Engineer",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15937",
-      "date": "1/2/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "THÔNG BÁO TUYỂN DỤNG GIẢNG VIÊN BỘ MÔN HÓA LÝ – KHOA HÓA HỌC",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-giang-vien-bo-mon-hoa-ly-khoa-hoa-hoc/",
+      "date": "22/02/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO TUYỂN DỤNG CHUYÊN VIÊN KHOA TOÁN – TIN HỌC",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-chuyen-vien-khoa-toan-tin-hoc/",
+      "date": "22/02/2024"
+    },
     {
       "tieuDe": "Quy định về chính sách học bổng dành cho sinh viên",
       "url": "https://hcmus.edu.vn/quy-dinh-ve-chinh-sach-hoc-bong-danh-cho-sinh-vien/",
@@ -598,6 +614,16 @@
     }
   ],
   "HCMUS-Tuyen dung": [
+    {
+      "tieuDe": "THÔNG BÁO TUYỂN DỤNG GIẢNG VIÊN BỘ MÔN HÓA LÝ – KHOA HÓA HỌC",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-giang-vien-bo-mon-hoa-ly-khoa-hoa-hoc/",
+      "date": "22/02/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO TUYỂN DỤNG CHUYÊN VIÊN KHOA TOÁN – TIN HỌC",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-chuyen-vien-khoa-toan-tin-hoc/",
+      "date": "22/02/2024"
+    },
     {
       "tieuDe": "Thông báo Tuyển dụng Kỹ thuật viên Phòng thí nghiệm Vật liệu kỹ thuật cao",
       "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-ky-thuat-vien-phong-thi-nghiem-vat-lieu-ky-thuat-cao/",
