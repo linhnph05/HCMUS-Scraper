@@ -10,8 +10,17 @@ with open('output.json', 'r') as json_file:
     data = json.load(json_file)
 
 dataList = data[0]
+options = webdriver.ChromeOptions()
+options.add_argument('--headless') # Runs Chrome in headless mode.
+options.add_argument('--no-sandbox') # Bypass OS security model
+options.add_argument('--disable-gpu')  # Applicable to windows os only
+options.add_argument('start-maximized') #
+options.add_argument('disable-infobars')
+options.add_argument('--disable-extensions')
+options.binary_location = '/usr/bin/chromium-browser'
 
-driver = webdriver.Chrome()
+driver = webdriver.Chrome(executable_path='/usr/bin/chromedriver', options=options)
+
 start_urls = ["https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185",
               "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265",
               "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=493",
