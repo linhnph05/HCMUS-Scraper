@@ -34,7 +34,8 @@ jobs:
           # CHROMEDRIVER_VERSION=$(curl -s "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION")
           curl -L -O "https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.57/linux64/chromedriver-linux64.zip"
           unzip chromedriver-linux64.zip
-          sudo mv chromedriver /usr/bin/chromedriver
+          ls -l
+          sudo mv $(pwd)/chromedriver /usr/bin/chromedriver
           sudo chmod +x /usr/bin/chromedriver
       - name: Run scrapy
         run: scrapy crawl hcmusSpider -O output.json
