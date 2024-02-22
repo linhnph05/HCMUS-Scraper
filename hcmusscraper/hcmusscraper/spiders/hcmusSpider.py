@@ -4,7 +4,6 @@ from datetime import datetime
 
 import re
 
-
 def cleanString(s):
     cleanedString = s.strip()
     cleanedString = re.sub(r'[\r\n\t]', ' ', cleanedString)
@@ -12,7 +11,6 @@ def cleanString(s):
     cleanedString = cleanedString.replace('\"', '\'')
     return cleanedString
 class HcmusspiderSpider(scrapy.Spider):
-    # scrapy crawl hcmusSpider -O output.json
     name = "hcmusSpider"
 
     start_urls = [
@@ -35,6 +33,11 @@ class HcmusspiderSpider(scrapy.Spider):
         "Thong tin can biet": [],
         "Hoat dong sinh vien": [],
         "FIT-Tin tuc": [],
+        "FIT-Thong tin hoc bong": [],
+        "FIT-Thong tin tuyen dung": [],
+        "FIT-Hoi thao/Hoi Nghi": [],
+        "FIT-Hoat dong sinh vien": [],
+        "FIT-Thong bao chung": [],
         "HCMUS-Thong tin nguoi hoc": [],
         "HCMUS-Thong tin sinh vien": [],
         "HCMUS-Tuyen dung": [],
@@ -73,10 +76,10 @@ class HcmusspiderSpider(scrapy.Spider):
         for post in posts:
             title = post.css('.post-title')
             date = post.css('.post-date::text').get()
-            if((datetime.strptime(date, "%d/%m/%Y").year == 2023 and
-               datetime.strptime(date, "%d/%m/%Y").month == 12) or
-               (datetime.strptime(date, "%d/%m/%Y").year == 2024) and
-                datetime.strptime(date, "%d/%m/%Y").month >= 1):
+            year = datetime.strptime(date, "%d/%m/%Y").year
+            month = datetime.strptime(date, "%d/%m/%Y").month
+            day = datetime.strptime(date, "%d/%m/%Y").day
+            if ((datetime.now() - datetime(year, month, day)).days <= 30):
                 item = {
                     "tieuDe": title.css('a::text').get(),
                     "url": title.css('a::attr(href)').get(),
@@ -87,10 +90,6 @@ class HcmusspiderSpider(scrapy.Spider):
         buttonURL = response.css('.pager_load_more::attr(href)').get()
         if buttonURL is not None:
             yield scrapy.Request(buttonURL, callback=self.parsePage, cb_kwargs={'page': page}, dont_filter=True)
-        # else:
-        #     if page == "Hoat dong sinh vien":
-        #         yield self.resultJson
-
 
 
     def parseFIT(self, response):
@@ -103,16 +102,19 @@ class HcmusspiderSpider(scrapy.Spider):
             day = first.css('.day_month::text').get()
             month = last.css('.day_month::text').get()
             year = first.css('.post_year::text').get()
-
             title = cleanString(notClean)
             date = cleanString(day) + '/' + cleanString(month) + '/' + cleanString(year)
-            item = {
-                # "tieuDe": first.css('.post_title a::text').get(),
-                "tieuDe": title,
-                "url": 'https://www.fit.hcmus.edu.vn/vn/' + first.css('.post_title a::attr(href)').get(),
-                "date": date,
-            }
-            self.resultJson["FIT-Tin tuc"].append(item)
+
+            year = datetime.strptime(date, "%d/%m/%Y").year
+            month = datetime.strptime(date, "%d/%m/%Y").month
+            day = datetime.strptime(date, "%d/%m/%Y").day
+            if((datetime.now() - datetime(year, month, day)).days <= 30):
+                item = {
+                    "tieuDe": title,
+                    "url": 'https://www.fit.hcmus.edu.vn/vn/' + first.css('.post_title a::attr(href)').get(),
+                    "date": date,
+                }
+                self.resultJson["FIT-Tin tuc"].append(item)
 
     def parseHCMUS1(self, response, page):
         posts = response.css('.cmsmasters_post_cont_wrap')
@@ -121,10 +123,11 @@ class HcmusspiderSpider(scrapy.Spider):
             url = post.css('.cmsmasters_post_title.entry-title > a::attr(href)').get()
             date = post.css('.published::text').get()
 
-            if ((datetime.strptime(date, "%d/%m/%Y").year == 2023 and
-                 datetime.strptime(date, "%d/%m/%Y").month == 12) or
-                    (datetime.strptime(date, "%d/%m/%Y").year == 2024) and
-                    datetime.strptime(date, "%d/%m/%Y").month >= 1):
+            year = datetime.strptime(date, "%d/%m/%Y").year
+            month = datetime.strptime(date, "%d/%m/%Y").month
+            day = datetime.strptime(date, "%d/%m/%Y").day
+
+            if ((datetime.now() - datetime(year, month, day)).days <= 30):
                 item = {
                     "tieuDe": title,
                     "url": url,
@@ -144,10 +147,11 @@ class HcmusspiderSpider(scrapy.Spider):
             url = post.css('.cmsmasters_archive_item_title.entry-title >a::attr(href)').get()
             date = post.css('.published::text').get()
 
-            if ((datetime.strptime(date, "%d/%m/%Y").year == 2023 and
-                 datetime.strptime(date, "%d/%m/%Y").month == 12) or
-                    (datetime.strptime(date, "%d/%m/%Y").year == 2024) and
-                    datetime.strptime(date, "%d/%m/%Y").month >= 1):
+            year = datetime.strptime(date, "%d/%m/%Y").year
+            month = datetime.strptime(date, "%d/%m/%Y").month
+            day = datetime.strptime(date, "%d/%m/%Y").day
+
+            if ((datetime.now() - datetime(year, month, day)).days <= 30):
                 item = {
                     "tieuDe": title,
                     "url": url,
