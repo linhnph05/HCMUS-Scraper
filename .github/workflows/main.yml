@@ -26,9 +26,6 @@ jobs:
           python-version: '3.12.1'
           cache: 'pip' # caching pip dependencies
       - run: pip install -r requirements.txt
-      - name: Run scrapy
-        run: scrapy crawl hcmusSpider -O output.json
-        working-directory: hcmusscraper
       - name: Install Chrome and ChromeDriver
         run: |
           sudo apt-get update
@@ -39,6 +36,9 @@ jobs:
           unzip chromedriver-linux64.zip
           sudo mv chromedriver /usr/bin/chromedriver
           sudo chmod +x /usr/bin/chromedriver
+      - name: Run scrapy
+        run: scrapy crawl hcmusSpider -O output.json
+        working-directory: hcmusscraper
       - name: Run script
         run: python main.py
         working-directory: hcmusscraper
