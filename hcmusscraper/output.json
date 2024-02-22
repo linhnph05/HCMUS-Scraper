@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "06:14:20 22/02/2024",
+  "Update time": "07:11:09 22/02/2024",
   "Thong Bao": [
     {
       "tieuDe": "Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)",
@@ -85,14 +85,13 @@
   ],
   "Tin tuc": [],
   "Thong tin can biet": [],
-  "Hoat dong sinh vien": [
-    {
-      "tieuDe": "Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/",
-      "date": "20/02/2024"
-    }
-  ],
+  "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Đăng ký tham quan công ty Axon Active Việt Nam ngày 5/4",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15984",
+      "date": "22/2/2024"
+    },
     {
       "tieuDe": "Danh sách tham quan công ty Netcompany ngày 1/3",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15983",
@@ -137,14 +136,14 @@
       "tieuDe": "Đăng ký tham quan công ty Netcompany ngày 01/03",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15965",
       "date": "19/2/2024"
-    },
-    {
-      "tieuDe": "[CQ] Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ KLTN/TTTN/TTDATN khóa 2020, đợt 1 (bảo vệ tháng 3/2024)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15947",
-      "date": "3/2/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "THƯ MỜI VIẾT BÀI ĐĂNG TRÊN TẠP CHÍ KHOA HỌC TRƯỜNG ĐẠI HỌC TRÀ VINH",
+      "url": "https://hcmus.edu.vn/thu-moi-viet-bai-dang-tren-tap-chi-khoa-hoc-truong-dai-hoc-tra-vinh-2/",
+      "date": "22/02/2024"
+    },
     {
       "tieuDe": "THÔNG BÁO TUYỂN DỤNG GIẢNG VIÊN BỘ MÔN HÓA LÝ – KHOA HÓA HỌC",
       "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-giang-vien-bo-mon-hoa-ly-khoa-hoa-hoc/",
