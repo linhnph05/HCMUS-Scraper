@@ -26,7 +26,7 @@ jobs:
           python-version: '3.12.1'
           cache: 'pip' # caching pip dependencies
       - run: pip install -r requirements.txt
-      - name: Install Chrome and ChromeDriver
+      - name: Install Chrome browser
         run: |
           sudo apt-get update
           sudo apt-get install -y chromium-browser
