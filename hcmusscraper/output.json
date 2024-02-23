@@ -1,7 +1,12 @@
 [
 {
-  "Update time": "02:28:56 23/02/2024",
+  "Update time": "03:12:33 23/02/2024",
   "Thong Bao": [
+    {
+      "tieuDe": "[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN khóa 2019, đợt 2 (bảo vệ tháng 4/2024)",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/02/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-khoa-2019-dot-2-bao-ve-thang-4-2024/",
+      "date": "23/02/2024"
+    },
     {
       "tieuDe": "Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)",
       "url": "https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/",
@@ -40,8 +45,19 @@
   ],
   "Tin tuc": [],
   "Thong tin can biet": [],
-  "Hoat dong sinh vien": [],
+  "Hoat dong sinh vien": [
+    {
+      "tieuDe": "Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/",
+      "date": "20/02/2024"
+    }
+  ],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Đăng ký tham quan công ty Citek ngày 12/3",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15988",
+      "date": "23/2/2024"
+    },
     {
       "tieuDe": "[CQ] DSSV vi phạm quy định đăng ký học phần HK2/23-24",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15985",
@@ -85,11 +101,6 @@
     {
       "tieuDe": "Đăng ký tham quan công ty FPT Software ngày 5/3",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15967",
-      "date": "19/2/2024"
-    },
-    {
-      "tieuDe": "Thông báo lịch làm việc của Cố vấn học tập HK2/ NH 2023 - 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15966",
       "date": "19/2/2024"
     }
   ],
