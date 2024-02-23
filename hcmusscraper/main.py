@@ -1,10 +1,13 @@
 import json
+import time
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-import time
+from selenium.webdriver.chrome.service import Service
+
+service = Service(executable_path='/usr/bin/chromedriver')
 
 with open('output.json', 'r') as json_file:
     data = json.load(json_file)
@@ -19,7 +22,7 @@ options.add_argument('disable-infobars')
 options.add_argument('--disable-extensions')
 options.binary_location = '/usr/bin/chromium-browser'
 
-driver = webdriver.Chrome(executable_path='/usr/bin/chromedriver', options=options)
+driver = webdriver.Chrome(service = service, options=options)
 
 start_urls = ["https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185",
               "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265",
