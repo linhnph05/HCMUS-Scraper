@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **13:21:34 23/02/2024**_
+_Last update: **14:19:04 23/02/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 23/02/2024: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN khóa 2019, đợt 2 (bảo vệ tháng 4/2024)](https://www.ctda.hcmus.edu.vn/vi/2024/02/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-khoa-2019-dot-2-bao-ve-thang-4-2024/)
 * 20/02/2024: [Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)](https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/)
@@ -14,7 +14,7 @@ No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
 No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
-No news in the last 1 month
+* 20/02/2024: [Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)](https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/)
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
 * 23/2/2024: [Đăng ký tham quan công ty Citek ngày 12/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15988)
 * 23/2/2024: [Thông báo về việc đăng ký đề tài luận văn thạc sĩ khoá 32/2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15987)
@@ -55,6 +55,7 @@ No news in the last 1 month
 * 30/01/2024: [Giải chạy bộ gây quỹ MoveIT 2024 do công ty KMS tổ chức](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15925)
 * 24/01/2024: [GeoComply Hope Scholarship Opportunity for Female Students](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15922)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 23/02/2024: [HƯỚNG DẪN TỔ CHỨC XÉT TẶNG GIẢI THƯỜNG KHCN CHO GIẢNG VIÊN TRẺ TRONG CƠ SỞ GIÁO DỤC ĐẠI HỌC NĂM 2024](https://hcmus.edu.vn/huong-dan-to-chuc-xet-tang-giai-thuong-khcn-cho-giang-vien-tre-trong-co-so-giao-duc-dai-hoc-nam-2024/)
 * 22/02/2024: [THƯ MỜI VIẾT BÀI ĐĂNG TRÊN TẠP CHÍ KHOA HỌC TRƯỜNG ĐẠI HỌC TRÀ VINH](https://hcmus.edu.vn/thu-moi-viet-bai-dang-tren-tap-chi-khoa-hoc-truong-dai-hoc-tra-vinh-2/)
 * 22/02/2024: [THÔNG BÁO TUYỂN DỤNG GIẢNG VIÊN BỘ MÔN HÓA LÝ – KHOA HÓA HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-giang-vien-bo-mon-hoa-ly-khoa-hoa-hoc/)
 * 22/02/2024: [THÔNG BÁO TUYỂN DỤNG CHUYÊN VIÊN KHOA TOÁN – TIN HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-chuyen-vien-khoa-toan-tin-hoc/)

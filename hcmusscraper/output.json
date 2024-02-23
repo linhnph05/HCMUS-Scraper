@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "06:15:37 23/02/2024",
+  "Update time": "07:12:57 23/02/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN khóa 2019, đợt 2 (bảo vệ tháng 4/2024)",
@@ -45,7 +45,13 @@
   ],
   "Tin tuc": [],
   "Thong tin can biet": [],
-  "Hoat dong sinh vien": [],
+  "Hoat dong sinh vien": [
+    {
+      "tieuDe": "Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/",
+      "date": "20/02/2024"
+    }
+  ],
   "FIT-Tin tuc": [
     {
       "tieuDe": "Đăng ký tham quan công ty Citek ngày 12/3",
@@ -104,6 +110,11 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "HƯỚNG DẪN TỔ CHỨC XÉT TẶNG GIẢI THƯỜNG KHCN CHO GIẢNG VIÊN TRẺ TRONG CƠ SỞ GIÁO DỤC ĐẠI HỌC NĂM 2024",
+      "url": "https://hcmus.edu.vn/huong-dan-to-chuc-xet-tang-giai-thuong-khcn-cho-giang-vien-tre-trong-co-so-giao-duc-dai-hoc-nam-2024/",
+      "date": "23/02/2024"
+    },
     {
       "tieuDe": "THƯ MỜI VIẾT BÀI ĐĂNG TRÊN TẠP CHÍ KHOA HỌC TRƯỜNG ĐẠI HỌC TRÀ VINH",
       "url": "https://hcmus.edu.vn/thu-moi-viet-bai-dang-tren-tap-chi-khoa-hoc-truong-dai-hoc-tra-vinh-2/",
