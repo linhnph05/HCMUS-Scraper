@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "10:13:27 23/02/2024",
+  "Update time": "11:10:34 23/02/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN khóa 2019, đợt 2 (bảo vệ tháng 4/2024)",
@@ -45,13 +45,7 @@
   ],
   "Tin tuc": [],
   "Thong tin can biet": [],
-  "Hoat dong sinh vien": [
-    {
-      "tieuDe": "Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/",
-      "date": "20/02/2024"
-    }
-  ],
+  "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
       "tieuDe": "Đăng ký tham quan công ty mgm technology partners Vietnam ngày 19/3",
@@ -110,6 +104,11 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo dời ngày đăng ký học lại/cải thiện đối với SV K 2022 về trước",
+      "url": "https://hcmus.edu.vn/thong-bao-doi-ngay-dang-ky-hoc-lai-cai-thien-doi-voi-sv-k-2022-ve-truoc/",
+      "date": "23/02/2024"
+    },
     {
       "tieuDe": "Kết quả xét duyệt hồ sơ chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM cho sinh viên tham gia vay lần đầu HK1 NH 23-24",
       "url": "https://hcmus.edu.vn/ket-qua-xet-duyet-ho-so-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-cho-sinh-vien-tham-gia-vay-lan-dau-hk1-nh-23-24/",
@@ -207,6 +206,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Thông báo dời ngày đăng ký học lại/cải thiện đối với SV K 2022 về trước",
+      "url": "https://hcmus.edu.vn/thong-bao-doi-ngay-dang-ky-hoc-lai-cai-thien-doi-voi-sv-k-2022-ve-truoc/",
+      "date": "23/02/2024"
+    },
     {
       "tieuDe": "Kết quả xét duyệt hồ sơ chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM cho sinh viên tham gia vay lần đầu HK1 NH 23-24",
       "url": "https://hcmus.edu.vn/ket-qua-xet-duyet-ho-so-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-cho-sinh-vien-tham-gia-vay-lan-dau-hk1-nh-23-24/",

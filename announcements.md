@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **17:20:16 23/02/2024**_
+_Last update: **18:16:25 23/02/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 23/02/2024: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN khóa 2019, đợt 2 (bảo vệ tháng 4/2024)](https://www.ctda.hcmus.edu.vn/vi/2024/02/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-khoa-2019-dot-2-bao-ve-thang-4-2024/)
 * 20/02/2024: [Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)](https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/)
@@ -14,7 +14,7 @@ No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
 No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
-* 20/02/2024: [Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)](https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/)
+No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
 * 23/2/2024: [Đăng ký tham quan công ty mgm technology partners Vietnam ngày 19/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15986)
 * 23/2/2024: [Đăng ký tham quan công ty Citek ngày 12/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15988)
@@ -56,6 +56,7 @@ No news in the last 1 month
 * 30/01/2024: [Giải chạy bộ gây quỹ MoveIT 2024 do công ty KMS tổ chức](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15925)
 * 24/01/2024: [GeoComply Hope Scholarship Opportunity for Female Students](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15922)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 23/02/2024: [Thông báo dời ngày đăng ký học lại/cải thiện đối với SV K 2022 về trước](https://hcmus.edu.vn/thong-bao-doi-ngay-dang-ky-hoc-lai-cai-thien-doi-voi-sv-k-2022-ve-truoc/)
 * 23/02/2024: [Kết quả xét duyệt hồ sơ chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM cho sinh viên tham gia vay lần đầu HK1 NH 23-24](https://hcmus.edu.vn/ket-qua-xet-duyet-ho-so-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-cho-sinh-vien-tham-gia-vay-lan-dau-hk1-nh-23-24/)
 * 23/02/2024: [HƯỚNG DẪN TỔ CHỨC XÉT TẶNG GIẢI THƯỜNG KHCN CHO GIẢNG VIÊN TRẺ TRONG CƠ SỞ GIÁO DỤC ĐẠI HỌC NĂM 2024](https://hcmus.edu.vn/huong-dan-to-chuc-xet-tang-giai-thuong-khcn-cho-giang-vien-tre-trong-co-so-giao-duc-dai-hoc-nam-2024/)
 * 22/02/2024: [THƯ MỜI VIẾT BÀI ĐĂNG TRÊN TẠP CHÍ KHOA HỌC TRƯỜNG ĐẠI HỌC TRÀ VINH](https://hcmus.edu.vn/thu-moi-viet-bai-dang-tren-tap-chi-khoa-hoc-truong-dai-hoc-tra-vinh-2/)
@@ -76,6 +77,7 @@ No news in the last 1 month
 * 24/01/2024: [Quy chế tiếp công dân](https://hcmus.edu.vn/quy-che-tiep-cong-dan/)
 * 24/01/2024: [Kế hoạch ngày Pháp luật Việt Nam](https://hcmus.edu.vn/ke-hoach-ngay-phap-luat-viet-nam/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 23/02/2024: [Thông báo dời ngày đăng ký học lại/cải thiện đối với SV K 2022 về trước](https://hcmus.edu.vn/thong-bao-doi-ngay-dang-ky-hoc-lai-cai-thien-doi-voi-sv-k-2022-ve-truoc/)
 * 23/02/2024: [Kết quả xét duyệt hồ sơ chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM cho sinh viên tham gia vay lần đầu HK1 NH 23-24](https://hcmus.edu.vn/ket-qua-xet-duyet-ho-so-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-cho-sinh-vien-tham-gia-vay-lan-dau-hk1-nh-23-24/)
 * 21/02/2024: [Quy định về chính sách học bổng dành cho sinh viên](https://hcmus.edu.vn/quy-dinh-ve-chinh-sach-hoc-bong-danh-cho-sinh-vien/)
 * 19/02/2024: [Thông báo Đăng ký học phần học kỳ 2 năm học 2023-2024 cho sinh viên lớp Liên thông đại học học cùng lớp đại học](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2023-2024-cho-sinh-vien-lop-lien-thong-dai-hoc-hoc-cung-lop-dai-hoc/)
