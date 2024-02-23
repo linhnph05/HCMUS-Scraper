@@ -7,6 +7,7 @@ from selenium import webdriver
 # from webdriver_manager.chrome import ChromeDriverManager
 # from webdriver_manager.utils import ChromeType
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
 # from selenium.webdriver.chrome.service import Service
 
 # chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
@@ -26,8 +27,6 @@ for option in options:
 
 # driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
 driver = webdriver.Chrome(options=chrome_options)
-# from selenium.webdriver.common.by import By
-# from selenium.webdriver.chrome.service import Service
 
 # service = Service(executable_path='/usr/bin/chromedriver')
 
