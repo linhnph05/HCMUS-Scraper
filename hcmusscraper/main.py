@@ -4,13 +4,8 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 from selenium import webdriver
-# from webdriver_manager.chrome import ChromeDriverManager
-# from webdriver_manager.utils import ChromeType
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-# from selenium.webdriver.chrome.service import Service
-
-# chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
 
 chrome_options = Options()
 options = [
@@ -25,25 +20,12 @@ options = [
 for option in options:
     chrome_options.add_argument(option)
 
-# driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
 driver = webdriver.Chrome(options=chrome_options)
-
-# service = Service(executable_path='/usr/bin/chromedriver')
 
 with open('output.json', 'r') as json_file:
     data = json.load(json_file)
 
 dataList = data[0]
-# options = webdriver.ChromeOptions()
-# options.add_argument('--headless') # Runs Chrome in headless mode.
-# options.add_argument('--no-sandbox') # Bypass OS security model
-# options.add_argument('--disable-gpu')  # Applicable to windows os only
-# options.add_argument('start-maximized') #
-# options.add_argument('disable-infobars')
-# options.add_argument('--disable-extensions')
-# options.binary_location = '/usr/bin/chromium-browser'
-
-# driver = webdriver.Chrome(service = service, options=options)
 
 start_urls = ["https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185",
               "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265",
