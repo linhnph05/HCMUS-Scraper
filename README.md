@@ -11,4 +11,4 @@
 At first, I use Scrapy but then one of the page that I want to crawl has dynamic JS loaded content so I switch to Selenium.
 
 ## What I have learned: 
-working with json, scraping static and dynamic content, how to overcome website's blocking objection. 
+working with json, basic github ci/cd, scraping static and dynamic content, how to overcome website's blocking objection. 
