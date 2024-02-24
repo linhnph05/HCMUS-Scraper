@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:13:15 24/02/2024",
+  "Update time": "09:10:34 24/02/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN khóa 2019, đợt 2 (bảo vệ tháng 4/2024)",
@@ -105,6 +105,11 @@
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
     {
+      "tieuDe": "Kế hoạch học tập môn Thực tập sinh học đại cương 2",
+      "url": "https://hcmus.edu.vn/ke-hoach-hoc-tap-mon-thuc-tap-sinh-hoc-dai-cuong-2/",
+      "date": "24/02/2024"
+    },
+    {
       "tieuDe": "Thông báo dời ngày bắt đầu học Anh văn",
       "url": "https://hcmus.edu.vn/thong-bao-doi-ngay-bat-dau-hoc-anh-van/",
       "date": "24/02/2024"
@@ -201,6 +206,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Kế hoạch học tập môn Thực tập sinh học đại cương 2",
+      "url": "https://hcmus.edu.vn/ke-hoach-hoc-tap-mon-thuc-tap-sinh-hoc-dai-cuong-2/",
+      "date": "24/02/2024"
+    },
     {
       "tieuDe": "Thông báo dời ngày bắt đầu học Anh văn",
       "url": "https://hcmus.edu.vn/thong-bao-doi-ngay-bat-dau-hoc-anh-van/",
