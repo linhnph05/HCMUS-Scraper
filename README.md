@@ -7,6 +7,8 @@
 * https://www.fit.hcmus.edu.vn/vn/
 * https://hcmus.edu.vn/
 
-## Technology: At first, I use Scrapy but then one of the page that I want to crawl has dynamic JS loaded content so I switch to Selenium.
+## Technology: 
+At first, I use Scrapy but then one of the page that I want to crawl has dynamic JS loaded content so I switch to Selenium.
 
-## What I have learned: working with json, scraping static and dynamic content, how to overcome website's blocking objection. 
+## What I have learned: 
+working with json, scraping static and dynamic content, how to overcome website's blocking objection. 
