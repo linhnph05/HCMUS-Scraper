@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "05:11:45 25/02/2024",
+  "Update time": "06:14:10 25/02/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN khóa 2019, đợt 2 (bảo vệ tháng 4/2024)",
@@ -105,6 +105,11 @@
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
     {
+      "tieuDe": "Thông báo bổ sung thời gian đăng ký học phần Anh văn, Thể dục, Tin học cơ sở và học phần tự chọn đối với sinh viên K2023",
+      "url": "https://hcmus.edu.vn/thong-bao-bo-sung-thoi-gian-dang-ky-hoc-phan-anh-van-the-duc-tin-hoc-co-so-va-hoc-phan-tu-chon-doi-voi-sinh-vien-k2023/",
+      "date": "25/02/2024"
+    },
+    {
       "tieuDe": "Kế hoạch học tập môn Thực tập sinh học đại cương 2",
       "url": "https://hcmus.edu.vn/ke-hoach-hoc-tap-mon-thuc-tap-sinh-hoc-dai-cuong-2/",
       "date": "24/02/2024"
@@ -206,6 +211,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Thông báo bổ sung thời gian đăng ký học phần Anh văn, Thể dục, Tin học cơ sở và học phần tự chọn đối với sinh viên K2023",
+      "url": "https://hcmus.edu.vn/thong-bao-bo-sung-thoi-gian-dang-ky-hoc-phan-anh-van-the-duc-tin-hoc-co-so-va-hoc-phan-tu-chon-doi-voi-sinh-vien-k2023/",
+      "date": "25/02/2024"
+    },
     {
       "tieuDe": "Kế hoạch học tập môn Thực tập sinh học đại cương 2",
       "url": "https://hcmus.edu.vn/ke-hoach-hoc-tap-mon-thuc-tap-sinh-hoc-dai-cuong-2/",

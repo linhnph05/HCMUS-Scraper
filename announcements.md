@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **12:17:37 25/02/2024**_
+_Last update: **13:20:23 25/02/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 23/02/2024: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN khóa 2019, đợt 2 (bảo vệ tháng 4/2024)](https://www.ctda.hcmus.edu.vn/vi/2024/02/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-khoa-2019-dot-2-bao-ve-thang-4-2024/)
 * 20/02/2024: [Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)](https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/)
@@ -53,6 +53,7 @@ No news in the last 1 month
 * 19/02/2024: [Đăng ký tham quan công ty Netcompany ngày 01/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15965)
 * 30/01/2024: [Giải chạy bộ gây quỹ MoveIT 2024 do công ty KMS tổ chức](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15925)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 25/02/2024: [Thông báo bổ sung thời gian đăng ký học phần Anh văn, Thể dục, Tin học cơ sở và học phần tự chọn đối với sinh viên K2023](https://hcmus.edu.vn/thong-bao-bo-sung-thoi-gian-dang-ky-hoc-phan-anh-van-the-duc-tin-hoc-co-so-va-hoc-phan-tu-chon-doi-voi-sinh-vien-k2023/)
 * 24/02/2024: [Kế hoạch học tập môn Thực tập sinh học đại cương 2](https://hcmus.edu.vn/ke-hoach-hoc-tap-mon-thuc-tap-sinh-hoc-dai-cuong-2/)
 * 24/02/2024: [Thông báo dời ngày bắt đầu học Anh văn](https://hcmus.edu.vn/thong-bao-doi-ngay-bat-dau-hoc-anh-van/)
 * 23/02/2024: [Thông báo dời ngày đăng ký học lại/cải thiện đối với SV K 2022 về trước](https://hcmus.edu.vn/thong-bao-doi-ngay-dang-ky-hoc-lai-cai-thien-doi-voi-sv-k-2022-ve-truoc/)
@@ -74,6 +75,7 @@ No news in the last 1 month
 * 30/01/2024: [Kế hoạch đào tạo khóa 2023 và môn chung mở trong HK2/2023-2024 tại cơ sở Linh Trung](https://hcmus.edu.vn/ke-hoach-dao-tao-khoa-2023-va-mon-chung-mo-trong-hk2-2023-2024-tai-co-so-linh-trung/)
 * 30/01/2024: [THÔNG BÁO V.V CẬP NHẬT SỐ ĐIỆN THOẠI SINH VIÊN](https://hcmus.edu.vn/thong-bao-v-v-cap-nhat-so-dien-thoai-sinh-vien/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 25/02/2024: [Thông báo bổ sung thời gian đăng ký học phần Anh văn, Thể dục, Tin học cơ sở và học phần tự chọn đối với sinh viên K2023](https://hcmus.edu.vn/thong-bao-bo-sung-thoi-gian-dang-ky-hoc-phan-anh-van-the-duc-tin-hoc-co-so-va-hoc-phan-tu-chon-doi-voi-sinh-vien-k2023/)
 * 24/02/2024: [Kế hoạch học tập môn Thực tập sinh học đại cương 2](https://hcmus.edu.vn/ke-hoach-hoc-tap-mon-thuc-tap-sinh-hoc-dai-cuong-2/)
 * 24/02/2024: [Thông báo dời ngày bắt đầu học Anh văn](https://hcmus.edu.vn/thong-bao-doi-ngay-bat-dau-hoc-anh-van/)
 * 23/02/2024: [Thông báo dời ngày đăng ký học lại/cải thiện đối với SV K 2022 về trước](https://hcmus.edu.vn/thong-bao-doi-ngay-dang-ky-hoc-lai-cai-thien-doi-voi-sv-k-2022-ve-truoc/)
