@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **10:19:33 27/02/2024**_
+_Last update: **11:20:33 27/02/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/02/2024: [[TLSV]_Thông báo thực hiện chế độ chính sách cho sinh viên học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/02/tlsv_thong-bao-thuc-hien-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2023-2024/)
 * 23/02/2024: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN khóa 2019, đợt 2 (bảo vệ tháng 4/2024)](https://www.ctda.hcmus.edu.vn/vi/2024/02/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-khoa-2019-dot-2-bao-ve-thang-4-2024/)
@@ -17,6 +17,8 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 27/2/2024: [Quy trình bảo vệ luận văn thạc sĩ đợt cuối tháng 4/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15991)
+* 27/2/2024: [Kế hoạch bảo vệ luận văn thạc sĩ năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15990)
 * 23/2/2024: [Đăng ký tham quan công ty mgm technology partners Vietnam ngày 19/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15986)
 * 23/2/2024: [Đăng ký tham quan công ty Citek ngày 12/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15988)
 * 23/2/2024: [Thông báo về việc đăng ký đề tài luận văn thạc sĩ khoá 32/2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15987)
@@ -25,8 +27,6 @@ No news in the last 1 month
 * 22/2/2024: [Danh sách tham quan công ty Netcompany ngày 1/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15983)
 * 21/2/2024: [Danh sách tham quan công ty FPT Software ngày 5/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15981)
 * 21/2/2024: [[CQ] Danh sách lớp hủy HK2/23-24 do không đủ số lượng mở lớp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15980)
-* 21/2/2024: [[CQ] Thông báo nộp cuốn TRƯỚC bảo vệ KLTN/TTTN/TTDATN Khóa 2020, đợt 1 (tháng 3/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15978)
-* 20/2/2024: [Cuộc thi học thuật Thách Thức 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15977)
 ## [FIT-Thong tin hoc bong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185)
 No news in the last 1 month
 ## [FIT-Thong tin tuyen dung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265)
