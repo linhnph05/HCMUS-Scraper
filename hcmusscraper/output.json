@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "16:15:16 27/02/2024",
+  "Update time": "17:12:30 27/02/2024",
   "Thong Bao": [
     {
       "tieuDe": "[TLSV]_Thông báo thực hiện chế độ chính sách cho sinh viên học kỳ 2/2023-2024",
@@ -50,7 +50,13 @@
   ],
   "Tin tuc": [],
   "Thong tin can biet": [],
-  "Hoat dong sinh vien": [],
+  "Hoat dong sinh vien": [
+    {
+      "tieuDe": "Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/",
+      "date": "20/02/2024"
+    }
+  ],
   "FIT-Tin tuc": [
     {
       "tieuDe": "Mời tham dự buổi Giới thiệu các hướng đề tài luận văn dành cho HVCH khóa 32/2022",
