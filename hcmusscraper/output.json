@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:12:58 27/02/2024",
+  "Update time": "08:14:19 27/02/2024",
   "Thong Bao": [
     {
       "tieuDe": "[TLSV]_Thông báo thực hiện chế độ chính sách cho sinh viên học kỳ 2/2023-2024",
@@ -109,6 +109,16 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo nộp hồ sơ xét tốt nghiệp cao đẳng hệ chính quy cho đợt công bố danh sách tốt nghiệp vào tháng 3 và tháng 5 năm 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-cao-dang-he-chinh-quy-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-3-va-thang-5-nam-2024/",
+      "date": "27/02/2024"
+    },
+    {
+      "tieuDe": "Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy, chương trình liên thông cho đợt công bố danh sách tốt nghiệp vào tháng 3 và tháng 5 năm 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-chuong-trinh-lien-thong-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-3-va-thang-5-nam-2024/",
+      "date": "27/02/2024"
+    },
     {
       "tieuDe": "Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK2/2023-2024 sinh viên bậc đại học hệ chính quy – đợt 2",
       "url": "https://hcmus.edu.vn/thong-bao-huy-lopmo-lop-bo-sung-va-cap-nhat-phong-hoccac-lop-trong-hk2-2023-2024-sinh-vien-bac-dai-hoc-he-chinh-quy-dot-2/",
@@ -246,6 +256,21 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Thông báo nộp hồ sơ xét tốt nghiệp cao đẳng hệ chính quy cho đợt công bố danh sách tốt nghiệp vào tháng 3 và tháng 5 năm 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-cao-dang-he-chinh-quy-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-3-va-thang-5-nam-2024/",
+      "date": "27/02/2024"
+    },
+    {
+      "tieuDe": "Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy, chương trình liên thông cho đợt công bố danh sách tốt nghiệp vào tháng 3 và tháng 5 năm 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-chuong-trinh-lien-thong-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-3-va-thang-5-nam-2024/",
+      "date": "27/02/2024"
+    },
+    {
+      "tieuDe": "Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK2/2023-2024 sinh viên bậc đại học hệ chính quy – đợt 2",
+      "url": "https://hcmus.edu.vn/thong-bao-huy-lopmo-lop-bo-sung-va-cap-nhat-phong-hoccac-lop-trong-hk2-2023-2024-sinh-vien-bac-dai-hoc-he-chinh-quy-dot-2/",
+      "date": "27/02/2024"
+    },
     {
       "tieuDe": "Thời khóa biểu / Danh sách giảng viên các lớp Thể dục 2 – HK2/23-24",
       "url": "https://hcmus.edu.vn/thoi-khoa-bieu-danh-sach-giang-vien-cac-lop-the-duc-2-hk2-23-24/",
