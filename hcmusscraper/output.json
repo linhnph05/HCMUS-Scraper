@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "10:13:32 27/02/2024",
+  "Update time": "11:10:02 27/02/2024",
   "Thong Bao": [
     {
       "tieuDe": "[TLSV]_Thông báo thực hiện chế độ chính sách cho sinh viên học kỳ 2/2023-2024",
@@ -53,6 +53,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Mời tham dự buổi Giới thiệu các hướng đề tài luận văn dành cho HVCH khóa 32/2022",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15993",
+      "date": "27/2/2024"
+    },
+    {
       "tieuDe": "Quy trình bảo vệ luận văn thạc sĩ đợt cuối tháng 4/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15991",
       "date": "27/2/2024"
@@ -95,11 +100,6 @@
     {
       "tieuDe": "Danh sách tham quan công ty FPT Software ngày 5/3",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15981",
-      "date": "21/2/2024"
-    },
-    {
-      "tieuDe": "[CQ] Danh sách lớp hủy HK2/23-24 do không đủ số lượng mở lớp",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15980",
       "date": "21/2/2024"
     }
   ],
