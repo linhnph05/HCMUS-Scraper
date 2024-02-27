@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:18:33 27/02/2024**_
+_Last update: **07:55:12 27/02/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/02/2024: [[TLSV]_Thông báo thực hiện chế độ chính sách cho sinh viên học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/02/tlsv_thong-bao-thuc-hien-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2023-2024/)
 * 23/02/2024: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN khóa 2019, đợt 2 (bảo vệ tháng 4/2024)](https://www.ctda.hcmus.edu.vn/vi/2024/02/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-khoa-2019-dot-2-bao-ve-thang-4-2024/)
@@ -15,7 +15,7 @@ No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
 No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
-* 20/02/2024: [Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)](https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/)
+No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
 * 23/2/2024: [Đăng ký tham quan công ty mgm technology partners Vietnam ngày 19/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15986)
 * 23/2/2024: [Đăng ký tham quan công ty Citek ngày 12/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15988)
