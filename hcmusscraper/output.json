@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:17:54 28/02/2024",
+  "Update time": "03:12:30 28/02/2024",
   "Thong Bao": [
     {
       "tieuDe": "[TLSV]_Thông báo thực hiện chế độ chính sách cho sinh viên học kỳ 2/2023-2024",
@@ -109,6 +109,11 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo về việc đăng ký nội trú tại KTX Trường",
+      "url": "https://hcmus.edu.vn/41571-2/",
+      "date": "28/02/2024"
+    },
     {
       "tieuDe": "Thông báo kết quả chính thức HBKK HK3/2022-2023 Khoa CNTT (CTĐA)",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2022-2023-khoa-cntt-ctda/",
@@ -272,6 +277,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "Thông báo về việc đăng ký nội trú tại KTX Trường",
+      "url": "https://hcmus.edu.vn/41571-2/",
+      "date": "28/02/2024"
+    },
+    {
       "tieuDe": "Thông báo kết quả chính thức HBKK HK3/2022-2023 Khoa CNTT (CTĐA)",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2022-2023-khoa-cntt-ctda/",
       "date": "27/02/2024"
@@ -405,6 +415,11 @@
     }
   ],
   "HCMUS-Nguoi hoc": [
+    {
+      "tieuDe": "Thông báo về việc đăng ký nội trú tại KTX Trường",
+      "url": "https://hcmus.edu.vn/41571-2/",
+      "date": "28/02/2024"
+    },
     {
       "tieuDe": "Thông báo kết quả chính thức HBKK HK3/2022-2023 Khoa CNTT (CTĐA)",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2022-2023-khoa-cntt-ctda/",
