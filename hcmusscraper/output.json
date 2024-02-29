@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:12:56 29/02/2024",
+  "Update time": "04:14:07 29/02/2024",
   "Thong Bao": [
     {
       "tieuDe": "[TLSV]_Thông báo thực hiện chế độ chính sách cho sinh viên học kỳ 2/2023-2024",
@@ -53,6 +53,16 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Thông báo học bổng Thạc sĩ JAIST (Nhật Bản) năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15996",
+      "date": "29/2/2024"
+    },
+    {
+      "tieuDe": "Danh sách tham quan công ty Citek ngày 12/3",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15995",
+      "date": "29/2/2024"
+    },
+    {
       "tieuDe": "Mời tham dự buổi Giới thiệu các hướng đề tài luận văn dành cho HVCH khóa 32/2022",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15993",
       "date": "27/2/2024"
@@ -91,16 +101,6 @@
       "tieuDe": "Đăng ký tham quan công ty Axon Active Việt Nam ngày 5/4",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15984",
       "date": "22/2/2024"
-    },
-    {
-      "tieuDe": "Danh sách tham quan công ty Netcompany ngày 1/3",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15983",
-      "date": "22/2/2024"
-    },
-    {
-      "tieuDe": "Danh sách tham quan công ty FPT Software ngày 5/3",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15981",
-      "date": "21/2/2024"
     }
   ],
   "FIT-Thong tin hoc bong": [],
@@ -109,6 +109,11 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "MAMM 2024 – HO CHI MINH CITY, VIETNAM – The 7th Conference on Microactuators, Microsensors and Micromechanisms",
+      "url": "https://hcmus.edu.vn/mamm-2024-ho-chi-minh-city-vietnam-the-7th-conference-on-microactuators-microsensors-and-micromechanisms/",
+      "date": "29/02/2024"
+    },
     {
       "tieuDe": "Thông báo tuyển dụng-Khoa Khoa học và Công nghệ Vật liệu",
       "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-khoa-hoc-va-cong-nghe-vat-lieu/",
@@ -435,6 +440,11 @@
     }
   ],
   "HCMUS-Nguoi hoc": [
+    {
+      "tieuDe": "MAMM 2024 – HO CHI MINH CITY, VIETNAM – The 7th Conference on Microactuators, Microsensors and Micromechanisms",
+      "url": "https://hcmus.edu.vn/mamm-2024-ho-chi-minh-city-vietnam-the-7th-conference-on-microactuators-microsensors-and-micromechanisms/",
+      "date": "29/02/2024"
+    },
     {
       "tieuDe": "Thông báo về việc đăng ký nội trú tại KTX Trường",
       "url": "https://hcmus.edu.vn/41571-2/",

@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **10:19:26 29/02/2024**_
+_Last update: **11:20:24 29/02/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/02/2024: [[TLSV]_Thông báo thực hiện chế độ chính sách cho sinh viên học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/02/tlsv_thong-bao-thuc-hien-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2023-2024/)
 * 23/02/2024: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN khóa 2019, đợt 2 (bảo vệ tháng 4/2024)](https://www.ctda.hcmus.edu.vn/vi/2024/02/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-khoa-2019-dot-2-bao-ve-thang-4-2024/)
@@ -17,6 +17,8 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 29/2/2024: [Thông báo học bổng Thạc sĩ JAIST (Nhật Bản) năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15996)
+* 29/2/2024: [Danh sách tham quan công ty Citek ngày 12/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15995)
 * 27/2/2024: [Mời tham dự buổi Giới thiệu các hướng đề tài luận văn dành cho HVCH khóa 32/2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15993)
 * 27/2/2024: [Quy trình bảo vệ luận văn thạc sĩ đợt cuối tháng 4/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15991)
 * 27/2/2024: [Kế hoạch bảo vệ luận văn thạc sĩ năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15990)
@@ -25,8 +27,6 @@ No news in the last 1 month
 * 23/2/2024: [Thông báo về việc đăng ký đề tài luận văn thạc sĩ khoá 32/2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15987)
 * 22/2/2024: [[CQ] DSSV vi phạm quy định đăng ký học phần HK2/23-24](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15985)
 * 22/2/2024: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 5/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15984)
-* 22/2/2024: [Danh sách tham quan công ty Netcompany ngày 1/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15983)
-* 21/2/2024: [Danh sách tham quan công ty FPT Software ngày 5/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15981)
 ## [FIT-Thong tin hoc bong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185)
 No news in the last 1 month
 ## [FIT-Thong tin tuyen dung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265)
@@ -39,6 +39,7 @@ No news in the last 1 month
 ## [FIT-Hoat dong sinh vien](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1186)
 No news in the last 1 month
 ## [FIT-Thong bao chung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=57)
+* 29/02/2024: [Danh sách tham quan công ty Citek ngày 12/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15995)
 * 23/02/2024: [Đăng ký tham quan công ty mgm technology partners Vietnam ngày 19/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15986)
 * 23/02/2024: [Đăng ký tham quan công ty Citek ngày 12/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15988)
 * 22/02/2024: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 5/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15984)
@@ -54,6 +55,7 @@ No news in the last 1 month
 * 19/02/2024: [Đăng ký tham quan công ty Netcompany ngày 01/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15965)
 * 30/01/2024: [Giải chạy bộ gây quỹ MoveIT 2024 do công ty KMS tổ chức](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15925)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 29/02/2024: [MAMM 2024 – HO CHI MINH CITY, VIETNAM – The 7th Conference on Microactuators, Microsensors and Micromechanisms](https://hcmus.edu.vn/mamm-2024-ho-chi-minh-city-vietnam-the-7th-conference-on-microactuators-microsensors-and-micromechanisms/)
 * 29/02/2024: [Thông báo tuyển dụng-Khoa Khoa học và Công nghệ Vật liệu](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-khoa-hoc-va-cong-nghe-vat-lieu/)
 * 28/02/2024: [Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK2/2023-2024 cho sinh viên bậc đại học hệ chính quy – đợt 3](https://hcmus.edu.vn/thong-bao-huy-lop-mo-lop-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk2-2023-2024-cho-sinh-vien-bac-dai-hoc-he-chinh-quy-dot-3/)
 * 28/02/2024: [Thông báo về việc đăng ký nội trú tại KTX Trường](https://hcmus.edu.vn/41571-2/)
@@ -121,6 +123,7 @@ No news in the last 1 month
 * 22/02/2024: [THÔNG BÁO TUYỂN DỤNG GIẢNG VIÊN BỘ MÔN HÓA LÝ – KHOA HÓA HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-giang-vien-bo-mon-hoa-ly-khoa-hoa-hoc/)
 * 22/02/2024: [THÔNG BÁO TUYỂN DỤNG CHUYÊN VIÊN KHOA TOÁN – TIN HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-chuyen-vien-khoa-toan-tin-hoc/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
+* 29/02/2024: [MAMM 2024 – HO CHI MINH CITY, VIETNAM – The 7th Conference on Microactuators, Microsensors and Micromechanisms](https://hcmus.edu.vn/mamm-2024-ho-chi-minh-city-vietnam-the-7th-conference-on-microactuators-microsensors-and-micromechanisms/)
 * 28/02/2024: [Thông báo về việc đăng ký nội trú tại KTX Trường](https://hcmus.edu.vn/41571-2/)
 * 27/02/2024: [Thông báo kết quả chính thức HBKK HK3/2022-2023 Khoa CNTT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2022-2023-khoa-cntt-ctda/)
 * 26/02/2024: [THÔNG BÁO Chương trình học bổng Phát triển Nhân tài số 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-phat-trien-nhan-tai-so-2024/)
