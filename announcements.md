@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:10:50 03/03/2024**_
+_Last update: **07:20:09 03/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/02/2024: [[TLSV]_Thông báo thực hiện chế độ chính sách cho sinh viên học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/02/tlsv_thong-bao-thuc-hien-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2023-2024/)
 * 23/02/2024: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN khóa 2019, đợt 2 (bảo vệ tháng 4/2024)](https://www.ctda.hcmus.edu.vn/vi/2024/02/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-khoa-2019-dot-2-bao-ve-thang-4-2024/)
@@ -33,7 +33,6 @@ No news in the last 1 month
 * 21/02/2024: [[AHAMOVE HCM] Ahamove tuyển dụng Engineer 02.2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15979)
 * 19/02/2024: [Microsoft Việt Nam tuyển dụng Software Engineer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15972)
 * 19/02/2024: [[Q2,Q3] Golden Owl Solutions Tuyển dụng Thực Tập Sinh IT T2/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15964)
-* 01/02/2024: [Công ty BioTuring VN tuyển 4 vị trí Algorithm Engineer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15937)
 ## [FIT-Hoi thao/Hoi Nghi](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=493)
 No news in the last 1 month
 ## [FIT-Hoat dong sinh vien](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1186)
