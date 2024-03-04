@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:11:04 04/03/2024**_
+_Last update: **07:18:55 04/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/02/2024: [[TLSV]_Thông báo thực hiện chế độ chính sách cho sinh viên học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/02/tlsv_thong-bao-thuc-hien-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2023-2024/)
 * 23/02/2024: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN khóa 2019, đợt 2 (bảo vệ tháng 4/2024)](https://www.ctda.hcmus.edu.vn/vi/2024/02/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-khoa-2019-dot-2-bao-ve-thang-4-2024/)
@@ -93,7 +93,6 @@ No news in the last 1 month
 * 05/02/2024: [Thông báo điều chỉnh giờ các tiết học tại cơ sở Nguyễn Văn Cừ và Linh Trung](https://hcmus.edu.vn/thong-bao-dieu-chinh-gio-cac-tiet-hoc-tai-co-so-nguyen-van-cu-va-linh-trung/)
 * 03/02/2024: [Thông báo cập nhật thông tin chuyên ngành cho sinh viên trình độ đại học hệ chính quy các chương trình Khóa tuyển 2020 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-chuyen-nganh-cho-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2020-tro-ve-truoc/)
 * 03/02/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại hoc đợt tháng 3 và tháng 5 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-dot-thang-3-va-thang-5-nam-2024/)
-* 02/02/2024: [THÔNG BÁO SỐ 2 HỘI NGHỊ XÚC TÁC VÀ HẤP PHỤ TOÀN QUỐC LẦN THỨ XII](https://hcmus.edu.vn/thong-bao-so-2-hoi-nghi-xuc-tac-va-hap-phu-toan-quoc-lan-thu-xii/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 01/03/2024: [Thông báo chương trình học bổng Pony Chung Invitation Scholarship Program mùa thu năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-invitation-scholarship-program-mua-thu-nam-2024/)
 * 28/02/2024: [Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK2/2023-2024 cho sinh viên bậc đại học hệ chính quy – đợt 3](https://hcmus.edu.vn/thong-bao-huy-lop-mo-lop-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk2-2023-2024-cho-sinh-vien-bac-dai-hoc-he-chinh-quy-dot-3/)
