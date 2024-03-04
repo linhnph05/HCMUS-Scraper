@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "06:18:54 04/03/2024",
+  "Update time": "07:25:33 04/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "[TLSV]_Thông báo thực hiện chế độ chính sách cho sinh viên học kỳ 2/2023-2024",
@@ -48,6 +48,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "[CQ] Thông báo kiểm tra kết quả kiểm duyệt đăng ký học phần HK2, NH 2023-2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16004",
+      "date": "4/3/2024"
+    },
+    {
       "tieuDe": "Đăng ký tham dự Seminar Human-Evidence Interaction: Manipulating Users in a Courtroom Environment",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16003",
       "date": "4/3/2024"
@@ -91,11 +96,6 @@
       "tieuDe": "Quy trình bảo vệ luận văn thạc sĩ đợt cuối tháng 4/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15991",
       "date": "27/2/2024"
-    },
-    {
-      "tieuDe": "Kế hoạch bảo vệ luận văn thạc sĩ năm 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15990",
-      "date": "27/2/2024"
     }
   ],
   "FIT-Thong tin hoc bong": [],
@@ -104,6 +104,16 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK1/2023-2024",
+      "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk1-2023-2024/",
+      "date": "04/03/2024"
+    },
+    {
+      "tieuDe": "TB Về lịch Sinh hoạt Công dân Cuối khóa Năm học 2023-2024",
+      "url": "https://hcmus.edu.vn/tb-ve-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024/",
+      "date": "04/03/2024"
+    },
     {
       "tieuDe": "CÁC CHƯƠNG TRÌNH TÀI TRỢ VÀ HỢP TÁC CỦA QUỸ VINIF NĂM 2024",
       "url": "https://hcmus.edu.vn/cac-chuong-trinh-tai-tro-va-hop-tac-cua-quy-vinif-nam-2024/",
@@ -292,6 +302,16 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK1/2023-2024",
+      "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk1-2023-2024/",
+      "date": "04/03/2024"
+    },
+    {
+      "tieuDe": "TB Về lịch Sinh hoạt Công dân Cuối khóa Năm học 2023-2024",
+      "url": "https://hcmus.edu.vn/tb-ve-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024/",
+      "date": "04/03/2024"
+    },
+    {
       "tieuDe": "Thông báo chương trình học bổng Pony Chung Invitation Scholarship Program mùa thu năm 2024",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-invitation-scholarship-program-mua-thu-nam-2024/",
       "date": "01/03/2024"
@@ -430,6 +450,16 @@
     }
   ],
   "HCMUS-Nguoi hoc": [
+    {
+      "tieuDe": "Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK1/2023-2024",
+      "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk1-2023-2024/",
+      "date": "04/03/2024"
+    },
+    {
+      "tieuDe": "TB Về lịch Sinh hoạt Công dân Cuối khóa Năm học 2023-2024",
+      "url": "https://hcmus.edu.vn/tb-ve-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024/",
+      "date": "04/03/2024"
+    },
     {
       "tieuDe": "MAMM 2024 – HO CHI MINH CITY, VIETNAM – The 7th Conference on Microactuators, Microsensors and Micromechanisms",
       "url": "https://hcmus.edu.vn/mamm-2024-ho-chi-minh-city-vietnam-the-7th-conference-on-microactuators-microsensors-and-micromechanisms/",
