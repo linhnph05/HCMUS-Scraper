@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **09:15:49 05/03/2024**_
+_Last update: **10:11:30 05/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 04/03/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK1/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk1-2023-2024/)
 * 26/02/2024: [[TLSV]_Thông báo thực hiện chế độ chính sách cho sinh viên học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/02/tlsv_thong-bao-thuc-hien-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2023-2024/)
@@ -60,6 +60,7 @@ No news in the last 1 month
 * 19/02/2024: [Đăng ký tham quan công ty FPT Software ngày 5/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15967)
 * 19/02/2024: [Đăng ký tham quan công ty Netcompany ngày 01/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15965)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 05/03/2024: [Chương trình đào tạo Khóa 2020](https://hcmus.edu.vn/chuong-trinh-dao-tao-khoa-2020/)
 * 04/03/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK1/2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk1-2023-2024/)
 * 04/03/2024: [TB Về lịch Sinh hoạt Công dân Cuối khóa Năm học 2023-2024](https://hcmus.edu.vn/tb-ve-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024/)
 * 04/03/2024: [CÁC CHƯƠNG TRÌNH TÀI TRỢ VÀ HỢP TÁC CỦA QUỸ VINIF NĂM 2024](https://hcmus.edu.vn/cac-chuong-trinh-tai-tro-va-hop-tac-cua-quy-vinif-nam-2024/)
@@ -98,6 +99,7 @@ No news in the last 1 month
 * 15/02/2024: [Thông báo kết quả dự kiến HBKK HK3/2022-2023 Khoa CNTT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2022-2023-khoa-cntt-ctda/)
 * 05/02/2024: [Thông báo điều chỉnh giờ các tiết học tại cơ sở Nguyễn Văn Cừ và Linh Trung](https://hcmus.edu.vn/thong-bao-dieu-chinh-gio-cac-tiet-hoc-tai-co-so-nguyen-van-cu-va-linh-trung/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 05/03/2024: [Chương trình đào tạo Khóa 2020](https://hcmus.edu.vn/chuong-trinh-dao-tao-khoa-2020/)
 * 04/03/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK1/2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk1-2023-2024/)
 * 04/03/2024: [TB Về lịch Sinh hoạt Công dân Cuối khóa Năm học 2023-2024](https://hcmus.edu.vn/tb-ve-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024/)
 * 01/03/2024: [Thông báo chương trình học bổng Pony Chung Invitation Scholarship Program mùa thu năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-invitation-scholarship-program-mua-thu-nam-2024/)

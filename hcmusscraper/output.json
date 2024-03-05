@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:09:14 05/03/2024",
+  "Update time": "03:04:39 05/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK1/2023-2024",
@@ -109,6 +109,11 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Chương trình đào tạo Khóa 2020",
+      "url": "https://hcmus.edu.vn/chuong-trinh-dao-tao-khoa-2020/",
+      "date": "05/03/2024"
+    },
     {
       "tieuDe": "Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK1/2023-2024",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk1-2023-2024/",
@@ -296,6 +301,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Chương trình đào tạo Khóa 2020",
+      "url": "https://hcmus.edu.vn/chuong-trinh-dao-tao-khoa-2020/",
+      "date": "05/03/2024"
+    },
     {
       "tieuDe": "Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK1/2023-2024",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk1-2023-2024/",
