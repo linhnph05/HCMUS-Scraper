@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:10:30 05/03/2024**_
+_Last update: **07:19:10 05/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 04/03/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK1/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk1-2023-2024/)
 * 26/02/2024: [[TLSV]_Thông báo thực hiện chế độ chính sách cho sinh viên học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/02/tlsv_thong-bao-thuc-hien-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2023-2024/)
@@ -97,8 +97,6 @@ No news in the last 1 month
 * 16/02/2024: [Thông báo ĐKHP HK2/2023-2024 đối với sinh viên bậc cao đẳng](https://hcmus.edu.vn/thong-bao-dkhp-hk2-2023-2024-doi-voi-sinh-vien-bac-cao-dang/)
 * 15/02/2024: [Thông báo kết quả dự kiến HBKK HK3/2022-2023 Khoa CNTT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2022-2023-khoa-cntt-ctda/)
 * 05/02/2024: [Thông báo điều chỉnh giờ các tiết học tại cơ sở Nguyễn Văn Cừ và Linh Trung](https://hcmus.edu.vn/thong-bao-dieu-chinh-gio-cac-tiet-hoc-tai-co-so-nguyen-van-cu-va-linh-trung/)
-* 03/02/2024: [Thông báo cập nhật thông tin chuyên ngành cho sinh viên trình độ đại học hệ chính quy các chương trình Khóa tuyển 2020 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-chuyen-nganh-cho-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2020-tro-ve-truoc/)
-* 03/02/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại hoc đợt tháng 3 và tháng 5 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-dot-thang-3-va-thang-5-nam-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 04/03/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK1/2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk1-2023-2024/)
 * 04/03/2024: [TB Về lịch Sinh hoạt Công dân Cuối khóa Năm học 2023-2024](https://hcmus.edu.vn/tb-ve-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024/)
@@ -124,8 +122,6 @@ No news in the last 1 month
 * 16/02/2024: [Thông báo ĐKHP HK2/2023-2024 đối với sinh viên bậc cao đẳng](https://hcmus.edu.vn/thong-bao-dkhp-hk2-2023-2024-doi-voi-sinh-vien-bac-cao-dang/)
 * 15/02/2024: [Thông báo kết quả dự kiến HBKK HK3/2022-2023 Khoa CNTT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2022-2023-khoa-cntt-ctda/)
 * 05/02/2024: [Thông báo điều chỉnh giờ các tiết học tại cơ sở Nguyễn Văn Cừ và Linh Trung](https://hcmus.edu.vn/thong-bao-dieu-chinh-gio-cac-tiet-hoc-tai-co-so-nguyen-van-cu-va-linh-trung/)
-* 03/02/2024: [Thông báo cập nhật thông tin chuyên ngành cho sinh viên trình độ đại học hệ chính quy các chương trình Khóa tuyển 2020 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-chuyen-nganh-cho-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2020-tro-ve-truoc/)
-* 03/02/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại hoc đợt tháng 3 và tháng 5 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-dot-thang-3-va-thang-5-nam-2024/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 29/02/2024: [Thông báo tuyển dụng-Khoa Khoa học và Công nghệ Vật liệu](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-khoa-hoc-va-cong-nghe-vat-lieu/)
 * 22/02/2024: [THÔNG BÁO TUYỂN DỤNG GIẢNG VIÊN BỘ MÔN HÓA LÝ – KHOA HÓA HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-giang-vien-bo-mon-hoa-ly-khoa-hoa-hoc/)
