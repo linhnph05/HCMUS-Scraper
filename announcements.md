@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **16:10:46 06/03/2024**_
+_Last update: **17:10:50 06/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 05/03/2024: [VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2024/03/vp_danh-sach-sinh-vien-tot-nghiep-lyon-nam-hoc-2022-2023/)
 * 04/03/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK1/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk1-2023-2024/)
@@ -18,6 +18,8 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 6/3/2024: [Talk show: The Era of Generative AI and Its Impact](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16009)
+* 6/3/2024: [[CQ] Nhắc thời gian học thực hành HT1 - bắt đầu học từ tuần 11/3/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16010)
 * 6/3/2024: [Danh sách sinh viên tham quan công ty FPT Telecom](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16007)
 * 5/3/2024: [Đăng ký tham quan công ty TMA Technology Group ngày 26/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16006)
 * 4/3/2024: [[CQ] Thông báo kiểm tra kết quả kiểm duyệt đăng ký học phần HK2, NH 2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16004)
@@ -26,8 +28,6 @@ No news in the last 1 month
 * 1/3/2024: [Danh sách sinh viên tham quan công ty mgm technology partners ngày 19/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16000)
 * 1/3/2024: [Danh sách sinh viên tham quan công ty Axon Active ngày 5/04](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15999)
 * 29/2/2024: [Đăng ký tham quan công ty FPT Telecom ngày 20/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15998)
-* 29/2/2024: [Danh sách tham quan công ty Citek ngày 12/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15995)
-* 29/2/2024: [Thông báo học bổng Thạc sĩ JAIST (Nhật Bản) năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15996)
 ## [FIT-Thong tin hoc bong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185)
 No news in the last 1 month
 ## [FIT-Thong tin tuyen dung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265)
@@ -42,6 +42,7 @@ No news in the last 1 month
 ## [FIT-Hoat dong sinh vien](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1186)
 No news in the last 1 month
 ## [FIT-Thong bao chung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=57)
+* 06/03/2024: [Talk show: The Era of Generative AI and Its Impact](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16009)
 * 06/03/2024: [Danh sách sinh viên tham quan công ty FPT Telecom](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16007)
 * 05/03/2024: [Đăng ký tham quan công ty TMA Technology Group ngày 26/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16006)
 * 04/03/2024: [Đăng ký tham dự Seminar Human-Evidence Interaction: Manipulating Users in a Courtroom Environment](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16003)
@@ -65,6 +66,7 @@ No news in the last 1 month
 * 19/02/2024: [Đăng ký tham quan công ty FPT Software ngày 5/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15967)
 * 19/02/2024: [Đăng ký tham quan công ty Netcompany ngày 01/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15965)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 06/03/2024: [THÔNG BÁO ĐĂNG KÝ NHIỆM VỤ KHCN ĐỂ HÌNH THÀNH PHÁT TRIỂN TRUNG TÂM NGHIÊN CỨU ĐẠT CHUẨN QUỐC TẾ](https://hcmus.edu.vn/thong-bao-dang-ky-nhiem-vu-khcn-de-hinh-thanh-phat-trien-trung-tam-nghien-cuu-dat-chuan-quoc-te/)
 * 06/03/2024: [THÔNG BÁO ĐỀ XUẤT NHIỆM VỤ NGHIÊN CỨU ĐỀ XUẤT ĐẶT HÀNG NHIỆM VỤ NCKH & PHÁT TRIỂN CÔNG NGHỆ BÌNH DƯƠNG 2024](https://hcmus.edu.vn/thong-bao-de-xuat-nhiem-vu-nghien-cuu-de-xuat-dat-hang-nhiem-vu-nckh-phat-trien-cong-nghe-binh-duong-2024/)
 * 05/03/2024: [THÔNG BÁO Cuộc thi Wake up your talent 2024](https://hcmus.edu.vn/thong-bao-cuoc-thi-wake-up-your-talent-2024/)
 * 05/03/2024: [Chương trình đào tạo Khóa 2020](https://hcmus.edu.vn/chuong-trinh-dao-tao-khoa-2020/)
