@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:04:38 07/03/2024",
+  "Update time": "09:03:59 07/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023",
@@ -114,6 +114,16 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "THÔNG TƯ 20 QUY ĐỊNH TUYỂN CHỌN, GIAO TRỰC TIẾP THỰC HIỆN NHIỆM VỤ KHCN SỬ DỤNG NGÂN SÁCH NHÀ NƯỚC",
+      "url": "https://hcmus.edu.vn/thong-tu-20-quy-dinh-tuyen-chon-giao-truc-tiep-thuc-hien-nhiem-vu-khcn-su-dung-ngan-sach-nha-nuoc/",
+      "date": "07/03/2024"
+    },
+    {
+      "tieuDe": "Chương trình đào tạo Liên thông đại học ngành Công nghệ thông tin – hệ chính quy",
+      "url": "https://hcmus.edu.vn/chuong-trinh-dao-tao-lien-thong-dai-hoc-nganh-cong-nghe-thong-tin-he-chinh-quy/",
+      "date": "07/03/2024"
+    },
     {
       "tieuDe": "THÔNG BÁO ĐĂNG KÝ NHIỆM VỤ KHCN ĐỂ HÌNH THÀNH PHÁT TRIỂN TRUNG TÂM NGHIÊN CỨU ĐẠT CHUẨN QUỐC TẾ",
       "url": "https://hcmus.edu.vn/thong-bao-dang-ky-nhiem-vu-khcn-de-hinh-thanh-phat-trien-trung-tam-nghien-cuu-dat-chuan-quoc-te/",
@@ -316,6 +326,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Chương trình đào tạo Liên thông đại học ngành Công nghệ thông tin – hệ chính quy",
+      "url": "https://hcmus.edu.vn/chuong-trinh-dao-tao-lien-thong-dai-hoc-nganh-cong-nghe-thong-tin-he-chinh-quy/",
+      "date": "07/03/2024"
+    },
     {
       "tieuDe": "THÔNG BÁO Cuộc thi Wake up your talent 2024",
       "url": "https://hcmus.edu.vn/thong-bao-cuoc-thi-wake-up-your-talent-2024/",
