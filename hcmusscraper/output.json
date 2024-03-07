@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:03:59 07/03/2024",
+  "Update time": "10:05:12 07/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023",
@@ -114,6 +114,11 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Quy định chuẩn đầu ra ngoại ngữ chương trình Cử nhân tài năng Khóa 2023 về sau",
+      "url": "https://hcmus.edu.vn/quy-dinh-chuan-dau-ra-ngoai-ngu-chuong-trinh-cu-nhan-tai-nang-khoa-2023-ve-sau/",
+      "date": "07/03/2024"
+    },
     {
       "tieuDe": "THÔNG TƯ 20 QUY ĐỊNH TUYỂN CHỌN, GIAO TRỰC TIẾP THỰC HIỆN NHIỆM VỤ KHCN SỬ DỤNG NGÂN SÁCH NHÀ NƯỚC",
       "url": "https://hcmus.edu.vn/thong-tu-20-quy-dinh-tuyen-chon-giao-truc-tiep-thuc-hien-nhiem-vu-khcn-su-dung-ngan-sach-nha-nuoc/",
@@ -326,6 +331,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Quy định chuẩn đầu ra ngoại ngữ chương trình Cử nhân tài năng Khóa 2023 về sau",
+      "url": "https://hcmus.edu.vn/quy-dinh-chuan-dau-ra-ngoai-ngu-chuong-trinh-cu-nhan-tai-nang-khoa-2023-ve-sau/",
+      "date": "07/03/2024"
+    },
     {
       "tieuDe": "Chương trình đào tạo Liên thông đại học ngành Công nghệ thông tin – hệ chính quy",
       "url": "https://hcmus.edu.vn/chuong-trinh-dao-tao-lien-thong-dai-hoc-nganh-cong-nghe-thong-tin-he-chinh-quy/",
