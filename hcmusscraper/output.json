@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:04:16 08/03/2024",
+  "Update time": "10:04:28 08/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023",
@@ -58,6 +58,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Thông báo về việc cập nhật chuyên ngành cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn – Khóa 2021",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16016",
+      "date": "8/3/2024"
+    },
+    {
       "tieuDe": "Đăng ký tham quan công ty Fujinet Systems ngày 9/4",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16015",
       "date": "8/3/2024"
@@ -100,11 +105,6 @@
     {
       "tieuDe": "[CQ] Thông báo kiểm tra kết quả kiểm duyệt đăng ký học phần HK2, NH 2023-2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16004",
-      "date": "4/3/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham dự Seminar Human-Evidence Interaction: Manipulating Users in a Courtroom Environment",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16003",
       "date": "4/3/2024"
     }
   ],
