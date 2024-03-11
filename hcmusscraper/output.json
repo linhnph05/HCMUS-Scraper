@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:05:10 11/03/2024",
+  "Update time": "09:04:47 11/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023",
@@ -58,6 +58,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Đăng ký tham gia Hội thảo hành trang vào nghề: Tập huấn kỹ năng viết CV, phỏng vấn và giao tiếp (lớp 2, lớp 4)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16023",
+      "date": "11/3/2024"
+    },
+    {
       "tieuDe": "Danh sách sinh viên tham gia Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 1 - lớp 3)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16022",
       "date": "11/3/2024"
@@ -101,11 +106,6 @@
       "tieuDe": "[CQ] Hủy lớp Xử lý phân tích dữ liệu trực tuyến HK2/23-24",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16011",
       "date": "7/3/2024"
-    },
-    {
-      "tieuDe": "Talk show: The Era of Generative AI and Its Impact",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16009",
-      "date": "6/3/2024"
     }
   ],
   "FIT-Thong tin hoc bong": [],
