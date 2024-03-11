@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **13:11:14 11/03/2024**_
+_Last update: **14:11:29 11/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 05/03/2024: [VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2024/03/vp_danh-sach-sinh-vien-tot-nghiep-lyon-nam-hoc-2022-2023/)
 * 04/03/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK1/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk1-2023-2024/)
@@ -43,6 +43,7 @@ No news in the last 1 month
 ## [FIT-Hoat dong sinh vien](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1186)
 No news in the last 1 month
 ## [FIT-Thong bao chung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=57)
+* 11/03/2024: [Buổi Giới thiệu Học bổng Vingroup 13/3/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16019)
 * 09/03/2024: [Đăng ký tham gia Hội thảo hành trang vào nghề: Tập huấn kỹ năng viết CV, phỏng vấn và giao tiếp (lớp 1 - lớp 3)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16017)
 * 08/03/2024: [Đăng ký tham quan công ty Fujinet Systems ngày 9/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16015)
 * 08/03/2024: [Danh sách tham quan công ty TMA Technology Group ngày 26/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16014)
