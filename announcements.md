@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **08:30:43 12/03/2024**_
+_Last update: **09:16:03 12/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 05/03/2024: [VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2024/03/vp_danh-sach-sinh-vien-tot-nghiep-lyon-nam-hoc-2022-2023/)
 * 04/03/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK1/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk1-2023-2024/)
@@ -74,9 +74,12 @@ No news in the last 1 month
 * 19/02/2024: [Đăng ký tham quan công ty FPT Software ngày 5/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15967)
 * 19/02/2024: [Đăng ký tham quan công ty Netcompany ngày 01/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15965)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 12/03/2024: [THÔNG BÁO ĐỀ XUẤT NV KHCN TỈNH QUẢNG NGÃI THUỘC CT QG HỖ TRỢ DOANH NGHIỆP NÂNG CAO NĂNG SUẤT VÀ CHẤT LƯỢNG SẢN PHẨM, HÀNG HÓA 2021-2025](https://hcmus.edu.vn/thong-bao-de-xuat-nv-khcn-tinh-quang-ngai-thuoc-ct-qg-ho-tro-doanh-nghiep-nang-cao-nang-suat-va-chat-luong-san-pham-hang-hoa-2021-2025/)
+* 12/03/2024: [Thông báo Cuộc thi “CV Challenge” năm 2024](https://hcmus.edu.vn/thong-bao-cuoc-thi-cv-challenge-nam-2024/)
 * 11/03/2024: [THÔNG BÁO LẦN 2 HỘI NGHỊ KHOA HỌC VÀ TRIỄN LÃM QUỐC TẾ LẦN 7 VỀ ĐIỀU KHIỂN VÀ TỰ ĐỘNG HÓA VCCA-2024](https://hcmus.edu.vn/thong-bao-lan-2-hoi-nghi-khoa-hoc-va-trien-lam-quoc-te-lan-7-ve-dieu-khien-va-tu-dong-hoa-vcca-2024/)
 * 11/03/2024: [THÔNG BÁO LẦN 1 HỘI NGHỊ KHOA HỌC 2024 VIỆN PASTEUR THÀNH PHỐ HỒ CHÍ MINH](https://hcmus.edu.vn/thong-bao-lan-1-hoi-nghi-khoa-hoc-2024-vien-pasteur-thanh-pho-ho-chi-minh/)
 * 11/03/2024: [[Thông báo] Buổi Giới thiệu Học bổng Vingroup đến sinh viên Trường Đại học Khoa học Tự nhiên, ĐH Quốc gia TP Hồ Chí Minh](https://hcmus.edu.vn/thong-bao-buoi-gioi-thieu-hoc-bong-vingroup-den-sinh-vien-truong-dai-hoc-khoa-hoc-tu-nhien-dh-quoc-gia-tp-ho-chi-minh/)
+* 08/03/2024: [THÔNG BÁO ĐĂNG KÝ ĐỀ XUẤT ĐỀ TÀI KHCN CẤP BỘ NĂM 2025 CỦA CHƯƠNG TRÌNH TOÁN](https://hcmus.edu.vn/thong-bao-dang-ky-de-xuat-de-tai-khcn-cap-bo-nam-2025-cua-chuong-trinh-toan/)
 * 07/03/2024: [Quy định chuẩn đầu ra ngoại ngữ chương trình Cử nhân tài năng Khóa 2023 về sau](https://hcmus.edu.vn/quy-dinh-chuan-dau-ra-ngoai-ngu-chuong-trinh-cu-nhan-tai-nang-khoa-2023-ve-sau/)
 * 07/03/2024: [THÔNG TƯ 20 QUY ĐỊNH TUYỂN CHỌN, GIAO TRỰC TIẾP THỰC HIỆN NHIỆM VỤ KHCN SỬ DỤNG NGÂN SÁCH NHÀ NƯỚC](https://hcmus.edu.vn/thong-tu-20-quy-dinh-tuyen-chon-giao-truc-tiep-thuc-hien-nhiem-vu-khcn-su-dung-ngan-sach-nha-nuoc/)
 * 07/03/2024: [Chương trình đào tạo Liên thông đại học ngành Công nghệ thông tin – hệ chính quy](https://hcmus.edu.vn/chuong-trinh-dao-tao-lien-thong-dai-hoc-nganh-cong-nghe-thong-tin-he-chinh-quy/)
@@ -121,6 +124,7 @@ No news in the last 1 month
 * 16/02/2024: [Thông báo ĐKHP HK2/2023-2024 đối với sinh viên bậc cao đẳng](https://hcmus.edu.vn/thong-bao-dkhp-hk2-2023-2024-doi-voi-sinh-vien-bac-cao-dang/)
 * 15/02/2024: [Thông báo kết quả dự kiến HBKK HK3/2022-2023 Khoa CNTT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2022-2023-khoa-cntt-ctda/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 12/03/2024: [Thông báo Cuộc thi “CV Challenge” năm 2024](https://hcmus.edu.vn/thong-bao-cuoc-thi-cv-challenge-nam-2024/)
 * 11/03/2024: [[Thông báo] Buổi Giới thiệu Học bổng Vingroup đến sinh viên Trường Đại học Khoa học Tự nhiên, ĐH Quốc gia TP Hồ Chí Minh](https://hcmus.edu.vn/thong-bao-buoi-gioi-thieu-hoc-bong-vingroup-den-sinh-vien-truong-dai-hoc-khoa-hoc-tu-nhien-dh-quoc-gia-tp-ho-chi-minh/)
 * 07/03/2024: [Quy định chuẩn đầu ra ngoại ngữ chương trình Cử nhân tài năng Khóa 2023 về sau](https://hcmus.edu.vn/quy-dinh-chuan-dau-ra-ngoai-ngu-chuong-trinh-cu-nhan-tai-nang-khoa-2023-ve-sau/)
 * 07/03/2024: [Chương trình đào tạo Liên thông đại học ngành Công nghệ thông tin – hệ chính quy](https://hcmus.edu.vn/chuong-trinh-dao-tao-lien-thong-dai-hoc-nganh-cong-nghe-thong-tin-he-chinh-quy/)

@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "01:23:54 12/03/2024",
+  "Update time": "02:09:11 12/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023",
@@ -115,6 +115,16 @@
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
     {
+      "tieuDe": "THÔNG BÁO ĐỀ XUẤT NV KHCN TỈNH QUẢNG NGÃI THUỘC CT QG HỖ TRỢ DOANH NGHIỆP NÂNG CAO NĂNG SUẤT VÀ CHẤT LƯỢNG SẢN PHẨM, HÀNG HÓA 2021-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-de-xuat-nv-khcn-tinh-quang-ngai-thuoc-ct-qg-ho-tro-doanh-nghiep-nang-cao-nang-suat-va-chat-luong-san-pham-hang-hoa-2021-2025/",
+      "date": "12/03/2024"
+    },
+    {
+      "tieuDe": "Thông báo Cuộc thi “CV Challenge” năm 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-cuoc-thi-cv-challenge-nam-2024/",
+      "date": "12/03/2024"
+    },
+    {
       "tieuDe": "THÔNG BÁO LẦN 2 HỘI NGHỊ KHOA HỌC VÀ TRIỄN LÃM QUỐC TẾ LẦN 7 VỀ ĐIỀU KHIỂN VÀ TỰ ĐỘNG HÓA VCCA-2024",
       "url": "https://hcmus.edu.vn/thong-bao-lan-2-hoi-nghi-khoa-hoc-va-trien-lam-quoc-te-lan-7-ve-dieu-khien-va-tu-dong-hoa-vcca-2024/",
       "date": "11/03/2024"
@@ -128,6 +138,11 @@
       "tieuDe": "[Thông báo] Buổi Giới thiệu Học bổng Vingroup đến sinh viên Trường Đại học Khoa học Tự nhiên, ĐH Quốc gia TP Hồ Chí Minh",
       "url": "https://hcmus.edu.vn/thong-bao-buoi-gioi-thieu-hoc-bong-vingroup-den-sinh-vien-truong-dai-hoc-khoa-hoc-tu-nhien-dh-quoc-gia-tp-ho-chi-minh/",
       "date": "11/03/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO ĐĂNG KÝ ĐỀ XUẤT ĐỀ TÀI KHCN CẤP BỘ NĂM 2025 CỦA CHƯƠNG TRÌNH TOÁN",
+      "url": "https://hcmus.edu.vn/thong-bao-dang-ky-de-xuat-de-tai-khcn-cap-bo-nam-2025-cua-chuong-trinh-toan/",
+      "date": "08/03/2024"
     },
     {
       "tieuDe": "Quy định chuẩn đầu ra ngoại ngữ chương trình Cử nhân tài năng Khóa 2023 về sau",
@@ -346,6 +361,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Thông báo Cuộc thi “CV Challenge” năm 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-cuoc-thi-cv-challenge-nam-2024/",
+      "date": "12/03/2024"
+    },
     {
       "tieuDe": "[Thông báo] Buổi Giới thiệu Học bổng Vingroup đến sinh viên Trường Đại học Khoa học Tự nhiên, ĐH Quốc gia TP Hồ Chí Minh",
       "url": "https://hcmus.edu.vn/thong-bao-buoi-gioi-thieu-hoc-bong-vingroup-den-sinh-vien-truong-dai-hoc-khoa-hoc-tu-nhien-dh-quoc-gia-tp-ho-chi-minh/",
