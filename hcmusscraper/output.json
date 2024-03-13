@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:04:35 13/03/2024",
+  "Update time": "09:04:48 13/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023",
@@ -58,6 +58,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Thông tin các buổi phỏng vấn chương trình liên thông ĐH-ThS năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16034",
+      "date": "13/3/2024"
+    },
+    {
       "tieuDe": "Danh sách sinh viên tham gia Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 2,4)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16033",
       "date": "13/3/2024"
@@ -101,11 +106,6 @@
       "tieuDe": "Đăng ký tham gia Hội thảo hành trang vào nghề: Tập huấn kỹ năng viết CV, phỏng vấn và giao tiếp (lớp 1 - lớp 3)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16017",
       "date": "9/3/2024"
-    },
-    {
-      "tieuDe": "Thông báo về việc cập nhật chuyên ngành cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn – Khóa 2021",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16016",
-      "date": "8/3/2024"
     }
   ],
   "FIT-Thong tin hoc bong": [],
@@ -114,6 +114,11 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "GIỚI THIỆU “CHƯƠNG TRÌNH VƯỜN ƯƠM TÀI NĂNG” & HỢP TÁC TUYỂN DỤNG GIỮA TẬP ĐOÀN HOA SEN VÀ TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM",
+      "url": "https://hcmus.edu.vn/gioi-thieu-chuong-trinh-vuon-uom-tai-nang-hop-tac-tuyen-dung-giua-tap-doan-hoa-sen-va-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/",
+      "date": "13/03/2024"
+    },
     {
       "tieuDe": "Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 1 năm 2024",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sv-cua-cong-ty-duong-nhat-dot-1-nam-2024/",
@@ -518,6 +523,11 @@
     }
   ],
   "HCMUS-Tuyen dung": [
+    {
+      "tieuDe": "GIỚI THIỆU “CHƯƠNG TRÌNH VƯỜN ƯƠM TÀI NĂNG” & HỢP TÁC TUYỂN DỤNG GIỮA TẬP ĐOÀN HOA SEN VÀ TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM",
+      "url": "https://hcmus.edu.vn/gioi-thieu-chuong-trinh-vuon-uom-tai-nang-hop-tac-tuyen-dung-giua-tap-doan-hoa-sen-va-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/",
+      "date": "13/03/2024"
+    },
     {
       "tieuDe": "Thông báo tuyển dụng-Khoa Khoa học và Công nghệ Vật liệu",
       "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-khoa-hoc-va-cong-nghe-vat-lieu/",
