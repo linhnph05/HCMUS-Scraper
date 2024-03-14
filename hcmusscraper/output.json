@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "04:04:22 14/03/2024",
+  "Update time": "05:04:27 14/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023",
@@ -58,6 +58,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Thời gian, địa điểm phỏng vấn chương trình liên thông ĐH-ThS năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16037",
+      "date": "14/3/2024"
+    },
+    {
       "tieuDe": "Thông báo tuyển sinh Sau Đại học năm 2024 - đợt 1",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16035",
       "date": "13/3/2024"
@@ -100,11 +105,6 @@
     {
       "tieuDe": "V/v thực hiện khảo sát các môn mở trong Học phần 2 lớp cao học K33/2023",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16021",
-      "date": "11/3/2024"
-    },
-    {
-      "tieuDe": "DSSV Khóa 2021 đăng ký xét tuyển chương trình liên thông ĐH-ThS năm 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16020",
       "date": "11/3/2024"
     }
   ],
