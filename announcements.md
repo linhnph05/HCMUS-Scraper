@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:12:23 17/03/2024**_
+_Last update: **07:19:37 17/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
 * 05/03/2024: [VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2024/03/vp_danh-sach-sinh-vien-tot-nghiep-lyon-nam-hoc-2022-2023/)
@@ -132,7 +132,6 @@ No news in the last 1 month
 * 19/02/2024: [THƯ MỜI VIẾT BÀI HỘI NGHỊ QUỐC TẾ VỀ CÔNG NGHỆ XANH VÀ PHÁT TRIỂN BỀN VỮNG NĂM 2024 [GTSD2024]](https://hcmus.edu.vn/thu-moi-viet-bai-hoi-nghi-quoc-te-ve-cong-nghe-xanh-va-phat-trien-ben-vung-nam-2024-gtsd2024/)
 * 19/02/2024: [Thông báo Đăng ký học phần học kỳ 2 năm học 2023-2024 cho sinh viên lớp Liên thông đại học học cùng lớp đại học](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2023-2024-cho-sinh-vien-lop-lien-thong-dai-hoc-hoc-cung-lop-dai-hoc/)
 * 16/02/2024: [Thông báo ĐKHP HK2/2023-2024 đối với sinh viên bậc cao đẳng](https://hcmus.edu.vn/thong-bao-dkhp-hk2-2023-2024-doi-voi-sinh-vien-bac-cao-dang/)
-* 15/02/2024: [Thông báo kết quả dự kiến HBKK HK3/2022-2023 Khoa CNTT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2022-2023-khoa-cntt-ctda/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 15/03/2024: [Thông báo nộp học phí học kỳ 2 năm học 2023-2024 đối với sinh viên trình độ đại học hệ chính quy chương trình đại trà](https://hcmus.edu.vn/41856-2/)
 * 14/03/2024: [Kết quả đăng ký Sinh hoạt Công dân Cuối khóa chuyên đề A, Năm học 2023-2024](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024/)
@@ -165,7 +164,6 @@ No news in the last 1 month
 * 21/02/2024: [Quy định về chính sách học bổng dành cho sinh viên](https://hcmus.edu.vn/quy-dinh-ve-chinh-sach-hoc-bong-danh-cho-sinh-vien/)
 * 19/02/2024: [Thông báo Đăng ký học phần học kỳ 2 năm học 2023-2024 cho sinh viên lớp Liên thông đại học học cùng lớp đại học](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2023-2024-cho-sinh-vien-lop-lien-thong-dai-hoc-hoc-cung-lop-dai-hoc/)
 * 16/02/2024: [Thông báo ĐKHP HK2/2023-2024 đối với sinh viên bậc cao đẳng](https://hcmus.edu.vn/thong-bao-dkhp-hk2-2023-2024-doi-voi-sinh-vien-bac-cao-dang/)
-* 15/02/2024: [Thông báo kết quả dự kiến HBKK HK3/2022-2023 Khoa CNTT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2022-2023-khoa-cntt-ctda/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 13/03/2024: [GIỚI THIỆU “CHƯƠNG TRÌNH VƯỜN ƯƠM TÀI NĂNG” & HỢP TÁC TUYỂN DỤNG GIỮA TẬP ĐOÀN HOA SEN VÀ TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/gioi-thieu-chuong-trinh-vuon-uom-tai-nang-hop-tac-tuyen-dung-giua-tap-doan-hoa-sen-va-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 29/02/2024: [Thông báo tuyển dụng-Khoa Khoa học và Công nghệ Vật liệu](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-khoa-hoc-va-cong-nghe-vat-lieu/)
@@ -182,10 +180,8 @@ No news in the last 1 month
 * 26/02/2024: [THÔNG BÁO Chương trình học bổng Phát triển Nhân tài số 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-phat-trien-nhan-tai-so-2024/)
 * 23/02/2024: [Kết quả xét duyệt hồ sơ chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM cho sinh viên tham gia vay lần đầu HK1 NH 23-24](https://hcmus.edu.vn/ket-qua-xet-duyet-ho-so-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-cho-sinh-vien-tham-gia-vay-lan-dau-hk1-nh-23-24/)
 * 23/02/2024: [Thông báo v/v thực hiện chế độ chính sách cho sinh viên học kỳ 2/2023-2024](https://hcmus.edu.vn/thong-bao-v-v-thuc-hien-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2023-2024/)
-* 15/02/2024: [Thông báo kết quả dự kiến HBKK HK3/2022-2023 Khoa CNTT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2022-2023-khoa-cntt-ctda/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
 * 12/03/2024: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 1 năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sv-cua-cong-ty-duong-nhat-dot-1-nam-2024/)
 * 11/03/2024: [[Thông báo] Buổi Giới thiệu Học bổng Vingroup đến sinh viên Trường Đại học Khoa học Tự nhiên, ĐH Quốc gia TP Hồ Chí Minh](https://hcmus.edu.vn/thong-bao-buoi-gioi-thieu-hoc-bong-vingroup-den-sinh-vien-truong-dai-hoc-khoa-hoc-tu-nhien-dh-quoc-gia-tp-ho-chi-minh/)
 * 01/03/2024: [Thông báo chương trình học bổng Pony Chung Invitation Scholarship Program mùa thu năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-invitation-scholarship-program-mua-thu-nam-2024/)
 * 23/02/2024: [Kết quả xét duyệt hồ sơ chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM cho sinh viên tham gia vay lần đầu HK1 NH 23-24](https://hcmus.edu.vn/ket-qua-xet-duyet-ho-so-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-cho-sinh-vien-tham-gia-vay-lan-dau-hk1-nh-23-24/)
-* 15/02/2024: [Thông báo kết quả dự kiến HBKK HK3/2022-2023 Khoa CNTT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2022-2023-khoa-cntt-ctda/)
