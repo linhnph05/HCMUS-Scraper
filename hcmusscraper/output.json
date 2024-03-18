@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:04:43 18/03/2024",
+  "Update time": "04:04:31 18/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Thông báo kết quả phúc khảo HK1/2324",
@@ -51,22 +51,11 @@
       "tieuDe": "Thông báo lịch làm việc của Cố vấn học tập HK2/ NH 2023 – 2024",
       "url": "https://www.ctda.hcmus.edu.vn/vi/2024/02/thong-bao-lich-lam-viec-cua-co-van-hoc-tap-hk2-nh-2023-2024/",
       "date": "20/02/2024"
-    },
-    {
-      "tieuDe": "[CTĐA] – Thông báo phúc khảo HK1/2023-2024",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/02/ctda-thong-bao-phuc-khao-hk1-2023-2024/",
-      "date": "19/02/2024"
     }
   ],
   "Tin tuc": [],
   "Thong tin can biet": [],
-  "Hoat dong sinh vien": [
-    {
-      "tieuDe": "Chương trình trao đổi học kỳ mùa thu 2024 – Đại học Khoa học và Công nghệ Pohang (POSTECH)",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/02/chuong-trinh-trao-doi-hoc-ky-mua-thu-2024-dai-hoc-khoa-hoc-va-cong-nghe-pohang-postech/",
-      "date": "20/02/2024"
-    }
-  ],
+  "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
       "tieuDe": "Đăng ký tham gia Hội thảo hành trang vào nghề: Tập huấn kỹ năng viết CV, phỏng vấn và giao tiếp (lớp 5 - lớp 7)",
@@ -244,6 +233,171 @@
       "tieuDe": "Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK1/2023-2024",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk1-2023-2024/",
       "date": "04/03/2024"
+    },
+    {
+      "tieuDe": "TB Về lịch Sinh hoạt Công dân Cuối khóa Năm học 2023-2024",
+      "url": "https://hcmus.edu.vn/tb-ve-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024/",
+      "date": "04/03/2024"
+    },
+    {
+      "tieuDe": "CÁC CHƯƠNG TRÌNH TÀI TRỢ VÀ HỢP TÁC CỦA QUỸ VINIF NĂM 2024",
+      "url": "https://hcmus.edu.vn/cac-chuong-trinh-tai-tro-va-hop-tac-cua-quy-vinif-nam-2024/",
+      "date": "04/03/2024"
+    },
+    {
+      "tieuDe": "THƯ MỜI VIẾT BÀI HTKH ĐỊNH HƯỚNG GIẢNG DẠY, NGHIÊN CỨU KHOA HỌC VÀ CHUYỂN GIAO CÔNG NGHỆ KỶ NGUYÊN SỐ",
+      "url": "https://hcmus.edu.vn/thu-moi-viet-bai-htkh-dinh-huong-giang-day-nghien-cuu-khoa-hoc-va-chuyen-giao-cong-nghe-ky-nguyen-so/",
+      "date": "04/03/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO VV ĐỀ XUẤT ĐẶT HÀNG NHIỆM VỤ KHCN TỈNH QUẢNG NGÃI 2025",
+      "url": "https://hcmus.edu.vn/thong-bao-vv-de-xuat-dat-hang-nhiem-vu-khcn-tinh-quang-ngai-2025/",
+      "date": "01/03/2024"
+    },
+    {
+      "tieuDe": "Thông báo chương trình học bổng Pony Chung Invitation Scholarship Program mùa thu năm 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-invitation-scholarship-program-mua-thu-nam-2024/",
+      "date": "01/03/2024"
+    },
+    {
+      "tieuDe": "MAMM 2024 – HO CHI MINH CITY, VIETNAM – The 7th Conference on Microactuators, Microsensors and Micromechanisms",
+      "url": "https://hcmus.edu.vn/mamm-2024-ho-chi-minh-city-vietnam-the-7th-conference-on-microactuators-microsensors-and-micromechanisms/",
+      "date": "29/02/2024"
+    },
+    {
+      "tieuDe": "Thông báo tuyển dụng-Khoa Khoa học và Công nghệ Vật liệu",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-khoa-hoc-va-cong-nghe-vat-lieu/",
+      "date": "29/02/2024"
+    },
+    {
+      "tieuDe": "Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK2/2023-2024 cho sinh viên bậc đại học hệ chính quy – đợt 3",
+      "url": "https://hcmus.edu.vn/thong-bao-huy-lop-mo-lop-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk2-2023-2024-cho-sinh-vien-bac-dai-hoc-he-chinh-quy-dot-3/",
+      "date": "28/02/2024"
+    },
+    {
+      "tieuDe": "THƯ MỜI TỔ CHỨC CÁ NHÂN CHỦ TRÌ NHIỆM VỤ KHCN TỈNH VĨNH LONG",
+      "url": "https://hcmus.edu.vn/thu-moi-to-chuc-ca-nhan-chu-tri-nhiem-vu-khcn-tinh-vinh-long/",
+      "date": "28/02/2024"
+    },
+    {
+      "tieuDe": "Thông báo về việc đăng ký nội trú tại KTX Trường",
+      "url": "https://hcmus.edu.vn/41571-2/",
+      "date": "28/02/2024"
+    },
+    {
+      "tieuDe": "Thông báo kết quả chính thức HBKK HK3/2022-2023 Khoa CNTT (CTĐA)",
+      "url": "https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2022-2023-khoa-cntt-ctda/",
+      "date": "27/02/2024"
+    },
+    {
+      "tieuDe": "THƯ MỜI ĐỀ XUẤT NHIỆM VỤ KHCN TỈNH BÌNH PHƯỚC NĂM 2025",
+      "url": "https://hcmus.edu.vn/thu-moi-de-xuat-nhiem-vu-khcn-tinh-binh-phuoc-nam-2025/",
+      "date": "27/02/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO TUYỂN TỔ CHỨC CÁ NHÂN CHỦ TRÌ THỰC HIỆN NHIỆM VỤ KHCN TỈNH QUẢNG NGÃI 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-to-chuc-ca-nhan-chu-tri-thuc-hien-nhiem-vu-khcn-tinh-quang-ngai-2024/",
+      "date": "27/02/2024"
+    },
+    {
+      "tieuDe": "Thông báo nộp hồ sơ xét tốt nghiệp cao đẳng hệ chính quy cho đợt công bố danh sách tốt nghiệp vào tháng 3 và tháng 5 năm 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-cao-dang-he-chinh-quy-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-3-va-thang-5-nam-2024/",
+      "date": "27/02/2024"
+    },
+    {
+      "tieuDe": "Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy, chương trình liên thông cho đợt công bố danh sách tốt nghiệp vào tháng 3 và tháng 5 năm 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-chuong-trinh-lien-thong-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-3-va-thang-5-nam-2024/",
+      "date": "27/02/2024"
+    },
+    {
+      "tieuDe": "Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK2/2023-2024 sinh viên bậc đại học hệ chính quy – đợt 2",
+      "url": "https://hcmus.edu.vn/thong-bao-huy-lopmo-lop-bo-sung-va-cap-nhat-phong-hoccac-lop-trong-hk2-2023-2024-sinh-vien-bac-dai-hoc-he-chinh-quy-dot-2/",
+      "date": "27/02/2024"
+    },
+    {
+      "tieuDe": "Thời khóa biểu / Danh sách giảng viên các lớp Thể dục 2 – HK2/23-24",
+      "url": "https://hcmus.edu.vn/thoi-khoa-bieu-danh-sach-giang-vien-cac-lop-the-duc-2-hk2-23-24/",
+      "date": "26/02/2024"
+    },
+    {
+      "tieuDe": "Thông báo về việc hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK2/2023-2024 – bậc đại học hệ chính quy",
+      "url": "https://hcmus.edu.vn/thong-bao-ve-viec-huy-lop-mo-lop-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk2-2023-2024-bac-dai-hoc-he-chinh-quy/",
+      "date": "26/02/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO Chương trình học bổng Phát triển Nhân tài số 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-phat-trien-nhan-tai-so-2024/",
+      "date": "26/02/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO Triển khai Giải thưởng Khoa học và Công nghệ của Bộ Giáo dục và Đào tạo dành cho sinh viên năm 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-trien-khai-giai-thuong-khoa-hoc-va-cong-nghe-cua-bo-giao-duc-va-dao-tao-danh-cho-sinh-vien-nam-2024/",
+      "date": "26/02/2024"
+    },
+    {
+      "tieuDe": "Thông báo bổ sung thời gian đăng ký học phần Anh văn, Thể dục, Tin học cơ sở và học phần tự chọn đối với sinh viên K2023",
+      "url": "https://hcmus.edu.vn/thong-bao-bo-sung-thoi-gian-dang-ky-hoc-phan-anh-van-the-duc-tin-hoc-co-so-va-hoc-phan-tu-chon-doi-voi-sinh-vien-k2023/",
+      "date": "25/02/2024"
+    },
+    {
+      "tieuDe": "Kế hoạch học tập môn Thực tập sinh học đại cương 2",
+      "url": "https://hcmus.edu.vn/ke-hoach-hoc-tap-mon-thuc-tap-sinh-hoc-dai-cuong-2/",
+      "date": "24/02/2024"
+    },
+    {
+      "tieuDe": "Thông báo dời ngày bắt đầu học Anh văn",
+      "url": "https://hcmus.edu.vn/thong-bao-doi-ngay-bat-dau-hoc-anh-van/",
+      "date": "24/02/2024"
+    },
+    {
+      "tieuDe": "Thông báo dời ngày đăng ký học lại/cải thiện đối với SV K 2022 về trước",
+      "url": "https://hcmus.edu.vn/thong-bao-doi-ngay-dang-ky-hoc-lai-cai-thien-doi-voi-sv-k-2022-ve-truoc/",
+      "date": "23/02/2024"
+    },
+    {
+      "tieuDe": "Kết quả xét duyệt hồ sơ chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM cho sinh viên tham gia vay lần đầu HK1 NH 23-24",
+      "url": "https://hcmus.edu.vn/ket-qua-xet-duyet-ho-so-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-cho-sinh-vien-tham-gia-vay-lan-dau-hk1-nh-23-24/",
+      "date": "23/02/2024"
+    },
+    {
+      "tieuDe": "Thông báo v/v thực hiện chế độ chính sách cho sinh viên học kỳ 2/2023-2024",
+      "url": "https://hcmus.edu.vn/thong-bao-v-v-thuc-hien-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2023-2024/",
+      "date": "23/02/2024"
+    },
+    {
+      "tieuDe": "HƯỚNG DẪN TỔ CHỨC XÉT TẶNG GIẢI THƯỜNG KHCN CHO GIẢNG VIÊN TRẺ TRONG CƠ SỞ GIÁO DỤC ĐẠI HỌC NĂM 2024",
+      "url": "https://hcmus.edu.vn/huong-dan-to-chuc-xet-tang-giai-thuong-khcn-cho-giang-vien-tre-trong-co-so-giao-duc-dai-hoc-nam-2024/",
+      "date": "23/02/2024"
+    },
+    {
+      "tieuDe": "THƯ MỜI VIẾT BÀI ĐĂNG TRÊN TẠP CHÍ KHOA HỌC TRƯỜNG ĐẠI HỌC TRÀ VINH",
+      "url": "https://hcmus.edu.vn/thu-moi-viet-bai-dang-tren-tap-chi-khoa-hoc-truong-dai-hoc-tra-vinh-2/",
+      "date": "22/02/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO TUYỂN DỤNG GIẢNG VIÊN BỘ MÔN HÓA LÝ – KHOA HÓA HỌC",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-giang-vien-bo-mon-hoa-ly-khoa-hoa-hoc/",
+      "date": "22/02/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO TUYỂN DỤNG CHUYÊN VIÊN KHOA TOÁN – TIN HỌC",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-chuyen-vien-khoa-toan-tin-hoc/",
+      "date": "22/02/2024"
+    },
+    {
+      "tieuDe": "Quy định về chính sách học bổng dành cho sinh viên",
+      "url": "https://hcmus.edu.vn/quy-dinh-ve-chinh-sach-hoc-bong-danh-cho-sinh-vien/",
+      "date": "21/02/2024"
+    },
+    {
+      "tieuDe": "THƯ MỜI VIẾT BÀI HỘI NGHỊ QUỐC TẾ VỀ CÔNG NGHỆ XANH VÀ PHÁT TRIỂN BỀN VỮNG NĂM 2024 [GTSD2024]",
+      "url": "https://hcmus.edu.vn/thu-moi-viet-bai-hoi-nghi-quoc-te-ve-cong-nghe-xanh-va-phat-trien-ben-vung-nam-2024-gtsd2024/",
+      "date": "19/02/2024"
+    },
+    {
+      "tieuDe": "Thông báo Đăng ký học phần học kỳ 2 năm học 2023-2024 cho sinh viên lớp Liên thông đại học học cùng lớp đại học",
+      "url": "https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2023-2024-cho-sinh-vien-lop-lien-thong-dai-hoc-hoc-cung-lop-dai-hoc/",
+      "date": "19/02/2024"
     }
   ],
   "HCMUS-Thong tin sinh vien": [
