@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:04:54 19/03/2024",
+  "Update time": "09:05:33 19/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Thông báo kết quả phúc khảo HK1/2324",
@@ -63,6 +63,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Đăng ký tham quan công ty GeoComply ngày 4/4",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16044",
+      "date": "19/3/2024"
+    },
+    {
       "tieuDe": "Danh sách sinh viên tham gia Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 5,6,7)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16043",
       "date": "19/3/2024"
@@ -106,11 +111,6 @@
       "tieuDe": "Danh sách sinh viên tham gia Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 2,4)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16033",
       "date": "13/3/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên tham quan công ty Fujinet Systems ngày 9/4",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16031",
-      "date": "12/3/2024"
     }
   ],
   "FIT-Thong tin hoc bong": [],
@@ -119,6 +119,16 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "TB Đăng ký lịch Sinh hoạt Công dân Cuối khóa Năm học 2023-2024, chuyên đề A (đợt bổ sung)",
+      "url": "https://hcmus.edu.vn/tb-dang-ky-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024-chuyen-de-a-dot-bo-sung/",
+      "date": "19/03/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO MỜI ĐĂNG KÝ THỰC HIỆN CÁC NHIỆM VỤ KH&CN ĐỂ HÌNH THÀNH VÀ PHÁT TRIỂN TRUNG TÂM NGHIÊN CỨU ĐẠT CHUẨN QUỐC TẾ – SỞ KH&CN TP.HCM",
+      "url": "https://hcmus.edu.vn/thong-bao-hoi-thao-quoc-gia-nhung-tien-bo-trogn-xay-dung-kien-truc-kinh-te-va-cong-nghe-2024-2/",
+      "date": "19/03/2024"
+    },
     {
       "tieuDe": "Thông báo đăng ký học phần HK3/2023-2024 đối với sinh viên chương trình Chất lượng cao, Việt Pháp (ngoại trừ SV khoa CNTT)",
       "url": "https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk3-2023-2024-doi-voi-sinh-vien-chuong-trinh-chat-luong-cao-viet-phap-ngoai-tru-sv-khoa-cntt/",
@@ -417,6 +427,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "TB Đăng ký lịch Sinh hoạt Công dân Cuối khóa Năm học 2023-2024, chuyên đề A (đợt bổ sung)",
+      "url": "https://hcmus.edu.vn/tb-dang-ky-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024-chuyen-de-a-dot-bo-sung/",
+      "date": "19/03/2024"
+    },
+    {
       "tieuDe": "Thông báo đăng ký học phần HK3/2023-2024 đối với sinh viên chương trình Chất lượng cao, Việt Pháp (ngoại trừ SV khoa CNTT)",
       "url": "https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk3-2023-2024-doi-voi-sinh-vien-chuong-trinh-chat-luong-cao-viet-phap-ngoai-tru-sv-khoa-cntt/",
       "date": "19/03/2024"
@@ -605,6 +620,11 @@
     }
   ],
   "HCMUS-Nguoi hoc": [
+    {
+      "tieuDe": "TB Đăng ký lịch Sinh hoạt Công dân Cuối khóa Năm học 2023-2024, chuyên đề A (đợt bổ sung)",
+      "url": "https://hcmus.edu.vn/tb-dang-ky-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024-chuyen-de-a-dot-bo-sung/",
+      "date": "19/03/2024"
+    },
     {
       "tieuDe": "DSSV đã tham gia Sinh hoạt Công dân cuối khóa chuyên đề A năm học 2023-2024 ngày 17/03/2024",
       "url": "https://hcmus.edu.vn/dssv-da-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-ngay-17-03-2024/",

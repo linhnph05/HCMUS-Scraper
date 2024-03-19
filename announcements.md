@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:12:29 19/03/2024**_
+_Last update: **16:12:50 19/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
 * 05/03/2024: [VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2024/03/vp_danh-sach-sinh-vien-tot-nghiep-lyon-nam-hoc-2022-2023/)
@@ -19,6 +19,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 19/3/2024: [Đăng ký tham quan công ty GeoComply ngày 4/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16044)
 * 19/3/2024: [Danh sách sinh viên tham gia Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 5,6,7)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16043)
 * 19/3/2024: [DSHV đăng ký bảo vệ luận văn thạc sĩ đợt cuối tháng 4/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16042)
 * 18/3/2024: [Lễ bảo vệ đề tài Thực tập dự án tốt nghiệp chương trình Chuẩn đợt 1 năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16040)
@@ -28,7 +29,6 @@ No news in the last 1 month
 * 13/3/2024: [Thông báo tuyển sinh Sau Đại học năm 2024 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16035)
 * 13/3/2024: [Thông tin các buổi phỏng vấn chương trình liên thông ĐH-ThS năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16034)
 * 13/3/2024: [Danh sách sinh viên tham gia Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 2,4)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16033)
-* 12/3/2024: [Danh sách sinh viên tham quan công ty Fujinet Systems ngày 9/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16031)
 ## [FIT-Thong tin hoc bong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185)
 * 11/03/2024: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 2, NH 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16026)
 ## [FIT-Thong tin tuyen dung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265)
@@ -47,6 +47,7 @@ No news in the last 1 month
 ## [FIT-Hoat dong sinh vien](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1186)
 No news in the last 1 month
 ## [FIT-Thong bao chung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=57)
+* 19/03/2024: [Đăng ký tham quan công ty GeoComply ngày 4/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16044)
 * 19/03/2024: [Danh sách sinh viên tham gia Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 5,6,7)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16043)
 * 18/03/2024: [Lễ bảo vệ đề tài Thực tập dự án tốt nghiệp chương trình Chuẩn đợt 1 năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16040)
 * 14/03/2024: [Đăng ký tham gia Hội thảo hành trang vào nghề: Tập huấn kỹ năng viết CV, phỏng vấn và giao tiếp (lớp 5 - lớp 7)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16039)
@@ -82,6 +83,8 @@ No news in the last 1 month
 * 19/02/2024: [Đăng ký tham quan công ty FPT Software ngày 5/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15967)
 * 19/02/2024: [Đăng ký tham quan công ty Netcompany ngày 01/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15965)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 19/03/2024: [TB Đăng ký lịch Sinh hoạt Công dân Cuối khóa Năm học 2023-2024, chuyên đề A (đợt bổ sung)](https://hcmus.edu.vn/tb-dang-ky-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024-chuyen-de-a-dot-bo-sung/)
+* 19/03/2024: [THÔNG BÁO MỜI ĐĂNG KÝ THỰC HIỆN CÁC NHIỆM VỤ KH&CN ĐỂ HÌNH THÀNH VÀ PHÁT TRIỂN TRUNG TÂM NGHIÊN CỨU ĐẠT CHUẨN QUỐC TẾ – SỞ KH&CN TP.HCM](https://hcmus.edu.vn/thong-bao-hoi-thao-quoc-gia-nhung-tien-bo-trogn-xay-dung-kien-truc-kinh-te-va-cong-nghe-2024-2/)
 * 19/03/2024: [Thông báo đăng ký học phần HK3/2023-2024 đối với sinh viên chương trình Chất lượng cao, Việt Pháp (ngoại trừ SV khoa CNTT)](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk3-2023-2024-doi-voi-sinh-vien-chuong-trinh-chat-luong-cao-viet-phap-ngoai-tru-sv-khoa-cntt/)
 * 18/03/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN PHÒNG THÍ NGHIỆM PHÂN TÍCH TRUNG TÂM](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-phong-thi-nghiem-phan-tich-trung-tam-2/)
 * 18/03/2024: [DSSV đã tham gia Sinh hoạt Công dân cuối khóa chuyên đề A năm học 2023-2024 ngày 17/03/2024](https://hcmus.edu.vn/dssv-da-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-ngay-17-03-2024/)
@@ -142,6 +145,7 @@ No news in the last 1 month
 * 19/02/2024: [THƯ MỜI VIẾT BÀI HỘI NGHỊ QUỐC TẾ VỀ CÔNG NGHỆ XANH VÀ PHÁT TRIỂN BỀN VỮNG NĂM 2024 [GTSD2024]](https://hcmus.edu.vn/thu-moi-viet-bai-hoi-nghi-quoc-te-ve-cong-nghe-xanh-va-phat-trien-ben-vung-nam-2024-gtsd2024/)
 * 19/02/2024: [Thông báo Đăng ký học phần học kỳ 2 năm học 2023-2024 cho sinh viên lớp Liên thông đại học học cùng lớp đại học](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2023-2024-cho-sinh-vien-lop-lien-thong-dai-hoc-hoc-cung-lop-dai-hoc/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 19/03/2024: [TB Đăng ký lịch Sinh hoạt Công dân Cuối khóa Năm học 2023-2024, chuyên đề A (đợt bổ sung)](https://hcmus.edu.vn/tb-dang-ky-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024-chuyen-de-a-dot-bo-sung/)
 * 19/03/2024: [Thông báo đăng ký học phần HK3/2023-2024 đối với sinh viên chương trình Chất lượng cao, Việt Pháp (ngoại trừ SV khoa CNTT)](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk3-2023-2024-doi-voi-sinh-vien-chuong-trinh-chat-luong-cao-viet-phap-ngoai-tru-sv-khoa-cntt/)
 * 18/03/2024: [DSSV đã tham gia Sinh hoạt Công dân cuối khóa chuyên đề A năm học 2023-2024 ngày 17/03/2024](https://hcmus.edu.vn/dssv-da-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-ngay-17-03-2024/)
 * 15/03/2024: [Thông báo nộp học phí học kỳ 2 năm học 2023-2024 đối với sinh viên trình độ đại học hệ chính quy chương trình đại trà](https://hcmus.edu.vn/41856-2/)
@@ -181,6 +185,7 @@ No news in the last 1 month
 * 22/02/2024: [THÔNG BÁO TUYỂN DỤNG GIẢNG VIÊN BỘ MÔN HÓA LÝ – KHOA HÓA HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-giang-vien-bo-mon-hoa-ly-khoa-hoa-hoc/)
 * 22/02/2024: [THÔNG BÁO TUYỂN DỤNG CHUYÊN VIÊN KHOA TOÁN – TIN HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-chuyen-vien-khoa-toan-tin-hoc/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
+* 19/03/2024: [TB Đăng ký lịch Sinh hoạt Công dân Cuối khóa Năm học 2023-2024, chuyên đề A (đợt bổ sung)](https://hcmus.edu.vn/tb-dang-ky-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024-chuyen-de-a-dot-bo-sung/)
 * 18/03/2024: [DSSV đã tham gia Sinh hoạt Công dân cuối khóa chuyên đề A năm học 2023-2024 ngày 17/03/2024](https://hcmus.edu.vn/dssv-da-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-ngay-17-03-2024/)
 * 14/03/2024: [Kết quả đăng ký Sinh hoạt Công dân Cuối khóa chuyên đề A, Năm học 2023-2024](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024/)
 * 12/03/2024: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 1 năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sv-cua-cong-ty-duong-nhat-dot-1-nam-2024/)
