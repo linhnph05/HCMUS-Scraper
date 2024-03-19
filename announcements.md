@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **16:12:50 19/03/2024**_
+_Last update: **17:11:32 19/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
 * 05/03/2024: [VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2024/03/vp_danh-sach-sinh-vien-tot-nghiep-lyon-nam-hoc-2022-2023/)
@@ -83,6 +83,8 @@ No news in the last 1 month
 * 19/02/2024: [Đăng ký tham quan công ty FPT Software ngày 5/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15967)
 * 19/02/2024: [Đăng ký tham quan công ty Netcompany ngày 01/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15965)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 19/03/2024: [THƯ MỜI VIẾT BÀI TẠP CHÍ KHOA HỌC VÀ CÔNG NGHỆ CẦN THƠ TẠI TRƯỜNG ĐH KỸ THUẬT CÔNG NGHỆ CẦN THƠ](https://hcmus.edu.vn/thu-moi-viet-bai-tap-chi-khoa-hoc-va-cong-nghe-can-tho-tai-truong-dh-ky-thuat-cong-nghe-can-tho/)
+* 19/03/2024: [HỘI THẢO ĐỀ CỬ GIẢI THƯỞNG VINFUTURE VÀ CHƯƠNG TRÌNH TRI ÂN ĐỐI TÁC ĐỀ CỬ](https://hcmus.edu.vn/hoi-thao-de-cu-giai-thuong-vinfuture-va-chuong-trinh-tri-an-doi-tac-de-cu/)
 * 19/03/2024: [TB Đăng ký lịch Sinh hoạt Công dân Cuối khóa Năm học 2023-2024, chuyên đề A (đợt bổ sung)](https://hcmus.edu.vn/tb-dang-ky-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024-chuyen-de-a-dot-bo-sung/)
 * 19/03/2024: [THÔNG BÁO MỜI ĐĂNG KÝ THỰC HIỆN CÁC NHIỆM VỤ KH&CN ĐỂ HÌNH THÀNH VÀ PHÁT TRIỂN TRUNG TÂM NGHIÊN CỨU ĐẠT CHUẨN QUỐC TẾ – SỞ KH&CN TP.HCM](https://hcmus.edu.vn/thong-bao-hoi-thao-quoc-gia-nhung-tien-bo-trogn-xay-dung-kien-truc-kinh-te-va-cong-nghe-2024-2/)
 * 19/03/2024: [Thông báo đăng ký học phần HK3/2023-2024 đối với sinh viên chương trình Chất lượng cao, Việt Pháp (ngoại trừ SV khoa CNTT)](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk3-2023-2024-doi-voi-sinh-vien-chuong-trinh-chat-luong-cao-viet-phap-ngoai-tru-sv-khoa-cntt/)
