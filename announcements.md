@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **11:12:01 20/03/2024**_
+_Last update: **12:11:28 20/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
 * 05/03/2024: [VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2024/03/vp_danh-sach-sinh-vien-tot-nghiep-lyon-nam-hoc-2022-2023/)
@@ -19,6 +19,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 20/3/2024: [Danh sách môn mở trong Học phần 2 lớp cao học khóa 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16046)
 * 19/3/2024: [DSHV đăng ký đề tài luận văn Thạc sĩ khóa 32/2022 - đợt 1 (tháng 3/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16045)
 * 19/3/2024: [Đăng ký tham quan công ty GeoComply ngày 4/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16044)
 * 19/3/2024: [Danh sách sinh viên tham gia Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 5,6,7)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16043)
@@ -28,7 +29,6 @@ No news in the last 1 month
 * 14/3/2024: [Tổng kết Seminar Human-Evidence Interaction: Manipulating Users in a Courtroom Environment](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16038)
 * 14/3/2024: [Thời gian, địa điểm phỏng vấn chương trình liên thông ĐH-ThS năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16037)
 * 13/3/2024: [Thông báo tuyển sinh Sau Đại học năm 2024 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16035)
-* 13/3/2024: [Thông tin các buổi phỏng vấn chương trình liên thông ĐH-ThS năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16034)
 ## [FIT-Thong tin hoc bong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185)
 * 11/03/2024: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 2, NH 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16026)
 ## [FIT-Thong tin tuyen dung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265)
