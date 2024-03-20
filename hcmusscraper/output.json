@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:04:22 20/03/2024",
+  "Update time": "08:04:43 20/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Thông báo kết quả phúc khảo HK1/2324",
@@ -51,12 +51,27 @@
       "tieuDe": "Thông báo lịch làm việc của Cố vấn học tập HK2/ NH 2023 – 2024",
       "url": "https://www.ctda.hcmus.edu.vn/vi/2024/02/thong-bao-lich-lam-viec-cua-co-van-hoc-tap-hk2-nh-2023-2024/",
       "date": "20/02/2024"
+    },
+    {
+      "tieuDe": "[CTĐA] – Thông báo phúc khảo HK1/2023-2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/02/ctda-thong-bao-phuc-khao-hk1-2023-2024/",
+      "date": "19/02/2024"
     }
   ],
   "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Đăng ký bổ sung Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 7)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16048",
+      "date": "20/3/2024"
+    },
+    {
+      "tieuDe": "Đăng ký tham gia Hội thảo Large Language Model (LLM) ngày 2/4",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16047",
+      "date": "20/3/2024"
+    },
     {
       "tieuDe": "Danh sách môn mở trong Học phần 2 lớp cao học khóa 33/2023",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16046",
@@ -96,16 +111,6 @@
       "tieuDe": "Tổng kết Seminar Human-Evidence Interaction: Manipulating Users in a Courtroom Environment",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16038",
       "date": "14/3/2024"
-    },
-    {
-      "tieuDe": "Thời gian, địa điểm phỏng vấn chương trình liên thông ĐH-ThS năm 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16037",
-      "date": "14/3/2024"
-    },
-    {
-      "tieuDe": "Thông báo tuyển sinh Sau Đại học năm 2024 - đợt 1",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16035",
-      "date": "13/3/2024"
     }
   ],
   "FIT-Thong tin hoc bong": [],
