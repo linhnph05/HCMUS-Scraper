@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:04:57 21/03/2024",
+  "Update time": "08:04:43 21/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024",
@@ -78,7 +78,7 @@
       "date": "20/3/2024"
     },
     {
-      "tieuDe": "Đăng ký bổ sung Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 7)",
+      "tieuDe": "Đăng ký Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 7)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16048",
       "date": "20/3/2024"
     },
@@ -119,6 +119,11 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Kế hoạch tuyển dụng viên chức năm 2024",
+      "url": "https://hcmus.edu.vn/ke-hoach-tuyen-dung-vien-chuc-nam-2024/",
+      "date": "21/03/2024"
+    },
     {
       "tieuDe": "THÔNG BÁO ĐỀ XUẤT NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ TỈNH LÂM ĐỒNG NĂM 2025 VÀ NĂM 2026",
       "url": "https://hcmus.edu.vn/thong-bao-de-xuat-nhiem-vu-khcn-tinh-lam-dong-nam-2025-va-nam-2026/",
@@ -643,6 +648,11 @@
     }
   ],
   "HCMUS-Tuyen dung": [
+    {
+      "tieuDe": "Kế hoạch tuyển dụng viên chức năm 2024",
+      "url": "https://hcmus.edu.vn/ke-hoach-tuyen-dung-vien-chuc-nam-2024/",
+      "date": "21/03/2024"
+    },
     {
       "tieuDe": "THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN PHÒNG THÍ NGHIỆM PHÂN TÍCH TRUNG TÂM",
       "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-phong-thi-nghiem-phan-tich-trung-tam-2/",
