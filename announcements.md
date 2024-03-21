@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **11:13:07 21/03/2024**_
+_Last update: **12:11:58 21/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 21/03/2024: [Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/)
 * 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
@@ -77,7 +77,8 @@ No news in the last 1 month
 * 20/02/2024: [Cuộc thi học thuật Thách Thức 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15977)
 * 20/02/2024: [Học bổng Thạc sĩ toàn phần tại Hoa Kỳ Fulbright năm học 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15975)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
-* 21/03/2024: [THÔNG BÁO MỜI THAM GIA VÀ ĐĂNG KÍ TUYỂN CHỌN TỔ CHỨC, CÁ NHÂN CHỦ TRÌ THỰC HIỆN DỰ ÁN KH&CN TỈNH THỪA THIÊN HUẾ NĂM 2022 (LẦN 2)](https://hcmus.edu.vn/thong-bao-moi-tham-gia-va-dang-ki-tuyen-chon-to-chuc-ca-nhan-chu-tri-thuc-hien-du-an-khcn-tinh-thua-thien-hue-nam-2022-lan-2/)
+* 21/03/2024: [THÔNG BÁO ĐỀ XUẤT NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ TỈNH LÂM ĐỒNG NĂM 2025 VÀ NĂM 2026](https://hcmus.edu.vn/thong-bao-de-xuat-nhiem-vu-khcn-tinh-lam-dong-nam-2025-va-nam-2026/)
+* 21/03/2024: [THÔNG BÁO ĐỀ XUẤT NHIỆM VỤ KH&CN CẤP QUỐC GIA TỈNH CÀ MAU](https://hcmus.edu.vn/thong-bao-moi-tham-gia-va-dang-ki-tuyen-chon-to-chuc-ca-nhan-chu-tri-thuc-hien-du-an-khcn-tinh-thua-thien-hue-nam-2022-lan-2/)
 * 21/03/2024: [THÔNG BÁO MỜI THAM GIA VÀ ĐĂNG KÍ TUYỂN CHỌN TỔ CHỨC, CÁ NHÂN CHỦ TRÌ THỰC HIỆN DỰ ÁN KH&CN TỈNH THỪA THIÊN HUẾ NĂM 2022 (LẦN 2)](https://hcmus.edu.vn/thong-bao-moi-tham-gia-va-dang-ki-tuyen-chon-to-chuc-ca-nhanchu-tri-thuc-hien-du-an-khcn-tinh-thua-thien-hue-nam-2022-lan-2/)
 * 21/03/2024: [Thông báo nộp học phí HK2/2023-2024 chương trình Liên thông ĐH và Cao đẳng](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk2-2023-2024-chuong-trinh-lien-thong-dh-va-cao-dang/)
 * 21/03/2024: [Thông báo nộp học phí HK2/2023-2024, đại học chính quy, chương trình đại trà (cập nhật)](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk2-2023-2024-chuong-trinh-dai-tra-cap-nhat/)
