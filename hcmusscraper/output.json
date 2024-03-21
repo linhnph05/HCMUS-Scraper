@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:04:33 21/03/2024",
+  "Update time": "10:04:13 21/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024",
@@ -119,6 +119,11 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "THÔNG BÁO THU HỌC PHÍ HỌC KỲ 2 NĂM HỌC 2023-2024",
+      "url": "https://hcmus.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-2-nam-hoc-2023-2024/",
+      "date": "21/03/2024"
+    },
     {
       "tieuDe": "HỘI THẢO QUỐC TẾ VỀ VẬT LIỆU TỪ TIÊN TIẾN VÀ ỨNG DỤNG LẦN THỨ 5",
       "url": "https://hcmus.edu.vn/hoi-thao-quoc-te-ve-vat-lieu-tu-tien-tien-va-ung-dung-lan-thu-5/",
@@ -471,6 +476,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "THÔNG BÁO THU HỌC PHÍ HỌC KỲ 2 NĂM HỌC 2023-2024",
+      "url": "https://hcmus.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-2-nam-hoc-2023-2024/",
+      "date": "21/03/2024"
+    },
     {
       "tieuDe": "Thông báo nộp học phí HK2/2023-2024 chương trình Liên thông ĐH và Cao đẳng",
       "url": "https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk2-2023-2024-chuong-trinh-lien-thong-dh-va-cao-dang/",
