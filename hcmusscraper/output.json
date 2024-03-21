@@ -1,7 +1,12 @@
 [
 {
-  "Update time": "03:05:25 21/03/2024",
+  "Update time": "04:05:27 21/03/2024",
   "Thong Bao": [
+    {
+      "tieuDe": "Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/",
+      "date": "21/03/2024"
+    },
     {
       "tieuDe": "CTĐA_Thông báo kết quả phúc khảo HK1/2324",
       "url": "https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/",
@@ -63,6 +68,11 @@
       "date": "21/3/2024"
     },
     {
+      "tieuDe": "Thông báo chuyên ngành chính thức cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn – đợt xét Khóa 2021",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16053",
+      "date": "21/3/2024"
+    },
+    {
       "tieuDe": "Đăng ký tham gia Chương trình: Gặp gỡ & Trò chuyện cùng Ban chủ nhiệm Khoa CNTT",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16049",
       "date": "20/3/2024"
@@ -101,11 +111,6 @@
       "tieuDe": "DSHV đăng ký bảo vệ luận văn thạc sĩ đợt cuối tháng 4/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16042",
       "date": "19/3/2024"
-    },
-    {
-      "tieuDe": "Lễ bảo vệ đề tài Thực tập dự án tốt nghiệp chương trình Chuẩn đợt 1 năm 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16040",
-      "date": "18/3/2024"
     }
   ],
   "FIT-Thong tin hoc bong": [],
@@ -114,6 +119,26 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "THÔNG BÁO MỜI THAM GIA VÀ ĐĂNG KÍ TUYỂN CHỌN TỔ CHỨC, CÁ NHÂN CHỦ TRÌ THỰC HIỆN DỰ ÁN KH&CN TỈNH THỪA THIÊN HUẾ NĂM 2022 (LẦN 2)",
+      "url": "https://hcmus.edu.vn/thong-bao-moi-tham-gia-va-dang-ki-tuyen-chon-to-chuc-ca-nhan-chu-tri-thuc-hien-du-an-khcn-tinh-thua-thien-hue-nam-2022-lan-2/",
+      "date": "21/03/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO MỜI THAM GIA VÀ ĐĂNG KÍ TUYỂN CHỌN TỔ CHỨC, CÁ NHÂN CHỦ TRÌ THỰC HIỆN DỰ ÁN KH&CN TỈNH THỪA THIÊN HUẾ NĂM 2022 (LẦN 2)",
+      "url": "https://hcmus.edu.vn/thong-bao-moi-tham-gia-va-dang-ki-tuyen-chon-to-chuc-ca-nhanchu-tri-thuc-hien-du-an-khcn-tinh-thua-thien-hue-nam-2022-lan-2/",
+      "date": "21/03/2024"
+    },
+    {
+      "tieuDe": "Thông báo nộp học phí HK2/2023-2024 chương trình Liên thông ĐH và Cao đẳng",
+      "url": "https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk2-2023-2024-chuong-trinh-lien-thong-dh-va-cao-dang/",
+      "date": "21/03/2024"
+    },
+    {
+      "tieuDe": "Thông báo nộp học phí HK2/2023-2024, đại học chính quy, chương trình đại trà (cập nhật)",
+      "url": "https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk2-2023-2024-chuong-trinh-dai-tra-cap-nhat/",
+      "date": "21/03/2024"
+    },
     {
       "tieuDe": "Thông báo dời ngày công bố danh sách tốt nghiệp Đại học, Cao đẳng hệ chính quy",
       "url": "https://hcmus.edu.vn/thong-bao-doi-ngay-cong-bo-danh-sach-tot-nghiep-dai-hoc-cao-dang-he-chinh-quy/",
@@ -431,6 +456,16 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Thông báo nộp học phí HK2/2023-2024 chương trình Liên thông ĐH và Cao đẳng",
+      "url": "https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk2-2023-2024-chuong-trinh-lien-thong-dh-va-cao-dang/",
+      "date": "21/03/2024"
+    },
+    {
+      "tieuDe": "Thông báo nộp học phí HK2/2023-2024, đại học chính quy, chương trình đại trà (cập nhật)",
+      "url": "https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk2-2023-2024-chuong-trinh-dai-tra-cap-nhat/",
+      "date": "21/03/2024"
+    },
     {
       "tieuDe": "Thông báo dời ngày công bố danh sách tốt nghiệp Đại học, Cao đẳng hệ chính quy",
       "url": "https://hcmus.edu.vn/thong-bao-doi-ngay-cong-bo-danh-sach-tot-nghiep-dai-hoc-cao-dang-he-chinh-quy/",
