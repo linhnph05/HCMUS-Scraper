@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "00:12:13 21/03/2024",
+  "Update time": "01:25:42 21/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Thông báo kết quả phúc khảo HK1/2324",
@@ -58,6 +58,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Danh sách học phần tiến sĩ mở cho Nghiên cứu sinh khóa tuyển năm 2023",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16051",
+      "date": "21/3/2024"
+    },
+    {
       "tieuDe": "Đăng ký tham gia Chương trình: Gặp gỡ & Trò chuyện cùng Ban chủ nhiệm Khoa CNTT",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16049",
       "date": "20/3/2024"
@@ -101,11 +106,6 @@
       "tieuDe": "Lễ bảo vệ đề tài Thực tập dự án tốt nghiệp chương trình Chuẩn đợt 1 năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16040",
       "date": "18/3/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham gia Hội thảo hành trang vào nghề: Tập huấn kỹ năng viết CV, phỏng vấn và giao tiếp (lớp 5 - lớp 7)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16039",
-      "date": "14/3/2024"
     }
   ],
   "FIT-Thong tin hoc bong": [],
@@ -114,6 +114,11 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo nộp hồ sơ xét tốt nghiệp đại hoc (cập nhật ngày công bố danh sách)",
+      "url": "https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-dot-thang-3-va-thang-5-nam-2024-2/",
+      "date": "21/03/2024"
+    },
     {
       "tieuDe": "THƯ MỜI VIẾT BÀI TẠP CHÍ KHOA HỌC VÀ CÔNG NGHỆ CẦN THƠ TẠI TRƯỜNG ĐH KỸ THUẬT CÔNG NGHỆ CẦN THƠ",
       "url": "https://hcmus.edu.vn/thu-moi-viet-bai-tap-chi-khoa-hoc-va-cong-nghe-can-tho-tai-truong-dh-ky-thuat-cong-nghe-can-tho/",
@@ -421,6 +426,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Thông báo nộp hồ sơ xét tốt nghiệp đại hoc (cập nhật ngày công bố danh sách)",
+      "url": "https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-dot-thang-3-va-thang-5-nam-2024-2/",
+      "date": "21/03/2024"
+    },
     {
       "tieuDe": "TB Đăng ký lịch Sinh hoạt Công dân Cuối khóa Năm học 2023-2024, chuyên đề A (đợt bổ sung)",
       "url": "https://hcmus.edu.vn/tb-dang-ky-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024-chuyen-de-a-dot-bo-sung/",
