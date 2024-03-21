@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:12:51 21/03/2024**_
+_Last update: **07:19:49 21/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
 * 05/03/2024: [VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2024/03/vp_danh-sach-sinh-vien-tot-nghiep-lyon-nam-hoc-2022-2023/)
@@ -11,7 +11,6 @@ _Last update: **06:12:51 21/03/2024**_
 * 20/02/2024: [Học bổng Chính phủ Ý “Invest your talent in Italy” năm học 2024 – 2025](https://www.ctda.hcmus.edu.vn/vi/2024/02/hoc-bong-chinh-phu-y-invest-your-talent-in-italy-nam-hoc-2024-2025/)
 * 20/02/2024: [Đăng ký tham quan công ty FPT Software ngày 5/3](https://www.ctda.hcmus.edu.vn/vi/2024/02/dang-ky-tham-quan-cong-ty-fpt-software-ngay-5-3/)
 * 20/02/2024: [Thông báo lịch làm việc của Cố vấn học tập HK2/ NH 2023 – 2024](https://www.ctda.hcmus.edu.vn/vi/2024/02/thong-bao-lich-lam-viec-cua-co-van-hoc-tap-hk2-nh-2023-2024/)
-* 19/02/2024: [[CTĐA] – Thông báo phúc khảo HK1/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/02/ctda-thong-bao-phuc-khao-hk1-2023-2024/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
@@ -38,8 +37,6 @@ No news in the last 1 month
 * 05/03/2024: [[InspireUI] Flutter/Quality Control (QC) Intern](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16005)
 * 29/02/2024: [Chương trình hợp tác giữa Công ty cổ phần USE Nhật Bản và ARIS Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15997)
 * 21/02/2024: [[AHAMOVE HCM] Ahamove tuyển dụng Engineer 02.2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15979)
-* 19/02/2024: [Microsoft Việt Nam tuyển dụng Software Engineer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15972)
-* 19/02/2024: [[Q2,Q3] Golden Owl Solutions Tuyển dụng Thực Tập Sinh IT T2/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15964)
 ## [FIT-Hoi thao/Hoi Nghi](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=493)
 * 14/03/2024: [Tổng kết Seminar Human-Evidence Interaction: Manipulating Users in a Courtroom Environment](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16038)
 * 06/03/2024: [Talk show: The Era of Generative AI and Its Impact](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16009)
@@ -78,12 +75,6 @@ No news in the last 1 month
 * 21/02/2024: [Danh sách tham quan công ty FPT Software ngày 5/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15981)
 * 20/02/2024: [Cuộc thi học thuật Thách Thức 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15977)
 * 20/02/2024: [Học bổng Thạc sĩ toàn phần tại Hoa Kỳ Fulbright năm học 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15975)
-* 19/02/2024: [Hội thảo quảng bá các chương trình đào tạo sau đại học về chất bán dẫn - Đại học Quốc gia Singapore (NUS)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15971)
-* 19/02/2024: [Chương trình trao đổi học kỳ mùa thu 2024 - Đại học Khoa học và Công nghệ Pohang (POSTECH)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15970)
-* 19/02/2024: [Thông tin về một số chương trình tài trợ nghiên cứu, học bổng nghiên cứu của Chính phủ Anh](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15969)
-* 19/02/2024: [Học bổng Chính phủ Ý "Invest your talent in Italy" năm học 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15968)
-* 19/02/2024: [Đăng ký tham quan công ty FPT Software ngày 5/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15967)
-* 19/02/2024: [Đăng ký tham quan công ty Netcompany ngày 01/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15965)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 19/03/2024: [THƯ MỜI VIẾT BÀI TẠP CHÍ KHOA HỌC VÀ CÔNG NGHỆ CẦN THƠ TẠI TRƯỜNG ĐH KỸ THUẬT CÔNG NGHỆ CẦN THƠ](https://hcmus.edu.vn/thu-moi-viet-bai-tap-chi-khoa-hoc-va-cong-nghe-can-tho-tai-truong-dh-ky-thuat-cong-nghe-can-tho/)
 * 19/03/2024: [HỘI THẢO ĐỀ CỬ GIẢI THƯỞNG VINFUTURE VÀ CHƯƠNG TRÌNH TRI ÂN ĐỐI TÁC ĐỀ CỬ](https://hcmus.edu.vn/hoi-thao-de-cu-giai-thuong-vinfuture-va-chuong-trinh-tri-an-doi-tac-de-cu/)
@@ -146,8 +137,6 @@ No news in the last 1 month
 * 22/02/2024: [THÔNG BÁO TUYỂN DỤNG GIẢNG VIÊN BỘ MÔN HÓA LÝ – KHOA HÓA HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-giang-vien-bo-mon-hoa-ly-khoa-hoa-hoc/)
 * 22/02/2024: [THÔNG BÁO TUYỂN DỤNG CHUYÊN VIÊN KHOA TOÁN – TIN HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-chuyen-vien-khoa-toan-tin-hoc/)
 * 21/02/2024: [Quy định về chính sách học bổng dành cho sinh viên](https://hcmus.edu.vn/quy-dinh-ve-chinh-sach-hoc-bong-danh-cho-sinh-vien/)
-* 19/02/2024: [THƯ MỜI VIẾT BÀI HỘI NGHỊ QUỐC TẾ VỀ CÔNG NGHỆ XANH VÀ PHÁT TRIỂN BỀN VỮNG NĂM 2024 [GTSD2024]](https://hcmus.edu.vn/thu-moi-viet-bai-hoi-nghi-quoc-te-ve-cong-nghe-xanh-va-phat-trien-ben-vung-nam-2024-gtsd2024/)
-* 19/02/2024: [Thông báo Đăng ký học phần học kỳ 2 năm học 2023-2024 cho sinh viên lớp Liên thông đại học học cùng lớp đại học](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2023-2024-cho-sinh-vien-lop-lien-thong-dai-hoc-hoc-cung-lop-dai-hoc/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 19/03/2024: [TB Đăng ký lịch Sinh hoạt Công dân Cuối khóa Năm học 2023-2024, chuyên đề A (đợt bổ sung)](https://hcmus.edu.vn/tb-dang-ky-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024-chuyen-de-a-dot-bo-sung/)
 * 19/03/2024: [Thông báo đăng ký học phần HK3/2023-2024 đối với sinh viên chương trình Chất lượng cao, Việt Pháp (ngoại trừ SV khoa CNTT)](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk3-2023-2024-doi-voi-sinh-vien-chuong-trinh-chat-luong-cao-viet-phap-ngoai-tru-sv-khoa-cntt/)
@@ -181,7 +170,6 @@ No news in the last 1 month
 * 23/02/2024: [Kết quả xét duyệt hồ sơ chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM cho sinh viên tham gia vay lần đầu HK1 NH 23-24](https://hcmus.edu.vn/ket-qua-xet-duyet-ho-so-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-cho-sinh-vien-tham-gia-vay-lan-dau-hk1-nh-23-24/)
 * 23/02/2024: [Thông báo v/v thực hiện chế độ chính sách cho sinh viên học kỳ 2/2023-2024](https://hcmus.edu.vn/thong-bao-v-v-thuc-hien-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2023-2024/)
 * 21/02/2024: [Quy định về chính sách học bổng dành cho sinh viên](https://hcmus.edu.vn/quy-dinh-ve-chinh-sach-hoc-bong-danh-cho-sinh-vien/)
-* 19/02/2024: [Thông báo Đăng ký học phần học kỳ 2 năm học 2023-2024 cho sinh viên lớp Liên thông đại học học cùng lớp đại học](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2023-2024-cho-sinh-vien-lop-lien-thong-dai-hoc-hoc-cung-lop-dai-hoc/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 18/03/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN PHÒNG THÍ NGHIỆM PHÂN TÍCH TRUNG TÂM](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-phong-thi-nghiem-phan-tich-trung-tam-2/)
 * 13/03/2024: [GIỚI THIỆU “CHƯƠNG TRÌNH VƯỜN ƯƠM TÀI NĂNG” & HỢP TÁC TUYỂN DỤNG GIỮA TẬP ĐOÀN HOA SEN VÀ TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/gioi-thieu-chuong-trinh-vuon-uom-tai-nang-hop-tac-tuyen-dung-giua-tap-doan-hoa-sen-va-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
