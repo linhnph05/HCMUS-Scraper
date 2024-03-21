@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **13:12:38 21/03/2024**_
+_Last update: **14:13:41 21/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 21/03/2024: [Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/)
 * 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
@@ -46,7 +46,7 @@ No news in the last 1 month
 * 20/03/2024: [Đăng ký tham gia Hội thảo Large Language Model (LLM) ngày 2/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16047)
 ## [FIT-Thong bao chung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=57)
 * 20/03/2024: [Đăng ký tham gia Chương trình: Gặp gỡ & Trò chuyện cùng Ban chủ nhiệm Khoa CNTT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16049)
-* 20/03/2024: [Đăng ký bổ sung Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 7)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16048)
+* 20/03/2024: [Đăng ký Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 7)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16048)
 * 19/03/2024: [Đăng ký tham quan công ty GeoComply ngày 4/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16044)
 * 19/03/2024: [Danh sách sinh viên tham gia Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 5,6,7)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16043)
 * 18/03/2024: [Lễ bảo vệ đề tài Thực tập dự án tốt nghiệp chương trình Chuẩn đợt 1 năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16040)
