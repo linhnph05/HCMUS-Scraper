@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **22:17:45 21/03/2024**_
+_Last update: **23:13:45 21/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 21/03/2024: [Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/)
 * 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
@@ -11,6 +11,7 @@ _Last update: **22:17:45 21/03/2024**_
 * 20/02/2024: [Thông tin về một số chương trình tài trợ nghiên cứu, học bổng nghiên cứu của Chính phủ Anh](https://www.ctda.hcmus.edu.vn/vi/2024/02/thong-tin-ve-mot-so-chuong-trinh-tai-tro-nghien-cuu-hoc-bong-nghien-cuu-cua-chinh-phu-anh/)
 * 20/02/2024: [Học bổng Chính phủ Ý “Invest your talent in Italy” năm học 2024 – 2025](https://www.ctda.hcmus.edu.vn/vi/2024/02/hoc-bong-chinh-phu-y-invest-your-talent-in-italy-nam-hoc-2024-2025/)
 * 20/02/2024: [Đăng ký tham quan công ty FPT Software ngày 5/3](https://www.ctda.hcmus.edu.vn/vi/2024/02/dang-ky-tham-quan-cong-ty-fpt-software-ngay-5-3/)
+* 20/02/2024: [Thông báo lịch làm việc của Cố vấn học tập HK2/ NH 2023 – 2024](https://www.ctda.hcmus.edu.vn/vi/2024/02/thong-bao-lich-lam-viec-cua-co-van-hoc-tap-hk2-nh-2023-2024/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
