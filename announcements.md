@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **09:17:58 21/03/2024**_
+_Last update: **10:16:02 21/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
 * 05/03/2024: [VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2024/03/vp_danh-sach-sinh-vien-tot-nghiep-lyon-nam-hoc-2022-2023/)
@@ -76,6 +76,7 @@ No news in the last 1 month
 * 20/02/2024: [Cuộc thi học thuật Thách Thức 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15977)
 * 20/02/2024: [Học bổng Thạc sĩ toàn phần tại Hoa Kỳ Fulbright năm học 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15975)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 21/03/2024: [Thông báo dời ngày công bố danh sách tốt nghiệp Đại học, Cao đẳng hệ chính quy](https://hcmus.edu.vn/thong-bao-doi-ngay-cong-bo-danh-sach-tot-nghiep-dai-hoc-cao-dang-he-chinh-quy/)
 * 21/03/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại hoc (cập nhật ngày công bố danh sách)](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-dot-thang-3-va-thang-5-nam-2024-2/)
 * 19/03/2024: [THƯ MỜI VIẾT BÀI TẠP CHÍ KHOA HỌC VÀ CÔNG NGHỆ CẦN THƠ TẠI TRƯỜNG ĐH KỸ THUẬT CÔNG NGHỆ CẦN THƠ](https://hcmus.edu.vn/thu-moi-viet-bai-tap-chi-khoa-hoc-va-cong-nghe-can-tho-tai-truong-dh-ky-thuat-cong-nghe-can-tho/)
 * 19/03/2024: [HỘI THẢO ĐỀ CỬ GIẢI THƯỞNG VINFUTURE VÀ CHƯƠNG TRÌNH TRI ÂN ĐỐI TÁC ĐỀ CỬ](https://hcmus.edu.vn/hoi-thao-de-cu-giai-thuong-vinfuture-va-chuong-trinh-tri-an-doi-tac-de-cu/)
@@ -139,6 +140,7 @@ No news in the last 1 month
 * 22/02/2024: [THÔNG BÁO TUYỂN DỤNG CHUYÊN VIÊN KHOA TOÁN – TIN HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-chuyen-vien-khoa-toan-tin-hoc/)
 * 21/02/2024: [Quy định về chính sách học bổng dành cho sinh viên](https://hcmus.edu.vn/quy-dinh-ve-chinh-sach-hoc-bong-danh-cho-sinh-vien/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 21/03/2024: [Thông báo dời ngày công bố danh sách tốt nghiệp Đại học, Cao đẳng hệ chính quy](https://hcmus.edu.vn/thong-bao-doi-ngay-cong-bo-danh-sach-tot-nghiep-dai-hoc-cao-dang-he-chinh-quy/)
 * 21/03/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại hoc (cập nhật ngày công bố danh sách)](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-dot-thang-3-va-thang-5-nam-2024-2/)
 * 19/03/2024: [TB Đăng ký lịch Sinh hoạt Công dân Cuối khóa Năm học 2023-2024, chuyên đề A (đợt bổ sung)](https://hcmus.edu.vn/tb-dang-ky-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024-chuyen-de-a-dot-bo-sung/)
 * 19/03/2024: [Thông báo đăng ký học phần HK3/2023-2024 đối với sinh viên chương trình Chất lượng cao, Việt Pháp (ngoại trừ SV khoa CNTT)](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk3-2023-2024-doi-voi-sinh-vien-chuong-trinh-chat-luong-cao-viet-phap-ngoai-tru-sv-khoa-cntt/)

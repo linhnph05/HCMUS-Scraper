@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:10:49 21/03/2024",
+  "Update time": "03:05:25 21/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Thông báo kết quả phúc khảo HK1/2324",
@@ -114,6 +114,11 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo dời ngày công bố danh sách tốt nghiệp Đại học, Cao đẳng hệ chính quy",
+      "url": "https://hcmus.edu.vn/thong-bao-doi-ngay-cong-bo-danh-sach-tot-nghiep-dai-hoc-cao-dang-he-chinh-quy/",
+      "date": "21/03/2024"
+    },
     {
       "tieuDe": "Thông báo nộp hồ sơ xét tốt nghiệp đại hoc (cập nhật ngày công bố danh sách)",
       "url": "https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-dot-thang-3-va-thang-5-nam-2024-2/",
@@ -426,6 +431,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Thông báo dời ngày công bố danh sách tốt nghiệp Đại học, Cao đẳng hệ chính quy",
+      "url": "https://hcmus.edu.vn/thong-bao-doi-ngay-cong-bo-danh-sach-tot-nghiep-dai-hoc-cao-dang-he-chinh-quy/",
+      "date": "21/03/2024"
+    },
     {
       "tieuDe": "Thông báo nộp hồ sơ xét tốt nghiệp đại hoc (cập nhật ngày công bố danh sách)",
       "url": "https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-dot-thang-3-va-thang-5-nam-2024-2/",
