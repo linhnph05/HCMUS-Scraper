@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:13:03 21/03/2024**_
+_Last update: **16:13:16 21/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 21/03/2024: [Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/)
 * 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
@@ -77,6 +77,7 @@ No news in the last 1 month
 * 20/02/2024: [Cuộc thi học thuật Thách Thức 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15977)
 * 20/02/2024: [Học bổng Thạc sĩ toàn phần tại Hoa Kỳ Fulbright năm học 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15975)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 21/03/2024: [HỘI THẢO QUỐC TẾ VỀ VẬT LIỆU TỪ TIÊN TIẾN VÀ ỨNG DỤNG LẦN THỨ 5](https://hcmus.edu.vn/hoi-thao-quoc-te-ve-vat-lieu-tu-tien-tien-va-ung-dung-lan-thu-5/)
 * 21/03/2024: [Kế hoạch tuyển dụng viên chức năm 2024](https://hcmus.edu.vn/ke-hoach-tuyen-dung-vien-chuc-nam-2024/)
 * 21/03/2024: [THÔNG BÁO ĐỀ XUẤT NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ TỈNH LÂM ĐỒNG NĂM 2025 VÀ NĂM 2026](https://hcmus.edu.vn/thong-bao-de-xuat-nhiem-vu-khcn-tinh-lam-dong-nam-2025-va-nam-2026/)
 * 21/03/2024: [THÔNG BÁO ĐỀ XUẤT NHIỆM VỤ KH&CN CẤP QUỐC GIA TỈNH CÀ MAU](https://hcmus.edu.vn/thong-bao-moi-tham-gia-va-dang-ki-tuyen-chon-to-chuc-ca-nhan-chu-tri-thuc-hien-du-an-khcn-tinh-thua-thien-hue-nam-2022-lan-2/)
