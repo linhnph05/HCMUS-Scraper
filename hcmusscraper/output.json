@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "12:06:25 22/03/2024",
+  "Update time": "13:04:01 22/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024",
@@ -94,6 +94,11 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "CUỘC THI TRỰC TUYẾN “TÌM HIỂU KIẾN THỨC PHÁP LUẬT VỀ AN NINH MẠNG, AN TOÀN THÔNG TIN MẠNG 2024”.",
+      "url": "https://hcmus.edu.vn/cuoc-thi-truc-tuyen-tim-hieu-kien-thuc-phap-luat-ve-an-ninh-mang-an-toan-thong-tin-mang-2024/",
+      "date": "22/03/2024"
+    },
     {
       "tieuDe": "THÔNG BÁO VỀ VIỆC XUẤT HÓA ĐƠN",
       "url": "https://hcmus.edu.vn/thong-bao-ve-viec-xuat-hoa-don/",
@@ -457,6 +462,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "CUỘC THI TRỰC TUYẾN “TÌM HIỂU KIẾN THỨC PHÁP LUẬT VỀ AN NINH MẠNG, AN TOÀN THÔNG TIN MẠNG 2024”.",
+      "url": "https://hcmus.edu.vn/cuoc-thi-truc-tuyen-tim-hieu-kien-thuc-phap-luat-ve-an-ninh-mang-an-toan-thong-tin-mang-2024/",
+      "date": "22/03/2024"
+    },
+    {
       "tieuDe": "THÔNG BÁO VỀ VIỆC XUẤT HÓA ĐƠN",
       "url": "https://hcmus.edu.vn/thong-bao-ve-viec-xuat-hoa-don/",
       "date": "22/03/2024"
@@ -680,6 +690,11 @@
     }
   ],
   "HCMUS-Nguoi hoc": [
+    {
+      "tieuDe": "CUỘC THI TRỰC TUYẾN “TÌM HIỂU KIẾN THỨC PHÁP LUẬT VỀ AN NINH MẠNG, AN TOÀN THÔNG TIN MẠNG 2024”.",
+      "url": "https://hcmus.edu.vn/cuoc-thi-truc-tuyen-tim-hieu-kien-thuc-phap-luat-ve-an-ninh-mang-an-toan-thong-tin-mang-2024/",
+      "date": "22/03/2024"
+    },
     {
       "tieuDe": "THÔNG BÁO VỀ VIỆC XUẤT HÓA ĐƠN",
       "url": "https://hcmus.edu.vn/thong-bao-ve-viec-xuat-hoa-don/",
