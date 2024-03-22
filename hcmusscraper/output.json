@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:03:55 22/03/2024",
+  "Update time": "10:04:37 22/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024",
@@ -37,6 +37,16 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Đăng ký tham dự Seminar về AI",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16057",
+      "date": "22/3/2024"
+    },
+    {
+      "tieuDe": "Triển khai Giải thưởng Khoa học và Công nghệ dành cho sinh viên trong các cơ sở giáo dục Đại học năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16056",
+      "date": "22/3/2024"
+    },
     {
       "tieuDe": "[CQ] Quy trình nộp cuốn SAU bảo vệ KLTN/TTDATN khóa 2020, đợt 1 (bảo vệ tháng 3/2024)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16055",
@@ -76,16 +86,6 @@
       "tieuDe": "DSHV đăng ký đề tài luận văn Thạc sĩ khóa 32/2022 - đợt 1 (tháng 3/2024)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16045",
       "date": "19/3/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham quan công ty GeoComply ngày 4/4",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16044",
-      "date": "19/3/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên tham gia Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 5,6,7)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16043",
-      "date": "19/3/2024"
     }
   ],
   "FIT-Thong tin hoc bong": [],
@@ -94,6 +94,11 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "THÔNG BÁO VỀ VIỆC XUẤT HÓA ĐƠN",
+      "url": "https://hcmus.edu.vn/thong-bao-ve-viec-xuat-hoa-don/",
+      "date": "22/03/2024"
+    },
     {
       "tieuDe": "THÔNG BÁO THU HỌC PHÍ HỌC KỲ 2 NĂM HỌC 2023-2024",
       "url": "https://hcmus.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-2-nam-hoc-2023-2024/",
@@ -452,6 +457,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "THÔNG BÁO VỀ VIỆC XUẤT HÓA ĐƠN",
+      "url": "https://hcmus.edu.vn/thong-bao-ve-viec-xuat-hoa-don/",
+      "date": "22/03/2024"
+    },
+    {
       "tieuDe": "THÔNG BÁO THU HỌC PHÍ HỌC KỲ 2 NĂM HỌC 2023-2024",
       "url": "https://hcmus.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-2-nam-hoc-2023-2024/",
       "date": "21/03/2024"
@@ -670,6 +680,11 @@
     }
   ],
   "HCMUS-Nguoi hoc": [
+    {
+      "tieuDe": "THÔNG BÁO VỀ VIỆC XUẤT HÓA ĐƠN",
+      "url": "https://hcmus.edu.vn/thong-bao-ve-viec-xuat-hoa-don/",
+      "date": "22/03/2024"
+    },
     {
       "tieuDe": "TB Đăng ký lịch Sinh hoạt Công dân Cuối khóa Năm học 2023-2024, chuyên đề A (đợt bổ sung)",
       "url": "https://hcmus.edu.vn/tb-dang-ky-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024-chuyen-de-a-dot-bo-sung/",
