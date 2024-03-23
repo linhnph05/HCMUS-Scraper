@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:12:42 23/03/2024**_
+_Last update: **07:18:52 23/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 21/03/2024: [Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/)
 * 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
@@ -32,7 +32,6 @@ No news in the last 1 month
 * 06/03/2024: [[Sun Life Việt Nam] Từ sinh viên năm hai trở thành công dân toàn cầu với mức đầu tư lên đến 1 TỈ VND!](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16008)
 * 05/03/2024: [[InspireUI] Flutter/Quality Control (QC) Intern](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16005)
 * 29/02/2024: [Chương trình hợp tác giữa Công ty cổ phần USE Nhật Bản và ARIS Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15997)
-* 21/02/2024: [[AHAMOVE HCM] Ahamove tuyển dụng Engineer 02.2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15979)
 ## [FIT-Hoi thao/Hoi Nghi](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=493)
 * 14/03/2024: [Tổng kết Seminar Human-Evidence Interaction: Manipulating Users in a Courtroom Environment](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16038)
 * 06/03/2024: [Talk show: The Era of Generative AI and Its Impact](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16009)
@@ -69,7 +68,6 @@ No news in the last 1 month
 * 23/02/2024: [Đăng ký tham quan công ty Citek ngày 12/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15988)
 * 22/02/2024: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 5/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15984)
 * 22/02/2024: [Danh sách tham quan công ty Netcompany ngày 1/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15983)
-* 21/02/2024: [Danh sách tham quan công ty FPT Software ngày 5/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15981)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 22/03/2024: [CUỘC THI TRỰC TUYẾN “TÌM HIỂU KIẾN THỨC PHÁP LUẬT VỀ AN NINH MẠNG, AN TOÀN THÔNG TIN MẠNG 2024”.](https://hcmus.edu.vn/cuoc-thi-truc-tuyen-tim-hieu-kien-thuc-phap-luat-ve-an-ninh-mang-an-toan-thong-tin-mang-2024/)
 * 22/03/2024: [THÔNG BÁO VỀ VIỆC XUẤT HÓA ĐƠN](https://hcmus.edu.vn/thong-bao-ve-viec-xuat-hoa-don/)
@@ -143,7 +141,6 @@ No news in the last 1 month
 * 22/02/2024: [THƯ MỜI VIẾT BÀI ĐĂNG TRÊN TẠP CHÍ KHOA HỌC TRƯỜNG ĐẠI HỌC TRÀ VINH](https://hcmus.edu.vn/thu-moi-viet-bai-dang-tren-tap-chi-khoa-hoc-truong-dai-hoc-tra-vinh-2/)
 * 22/02/2024: [THÔNG BÁO TUYỂN DỤNG GIẢNG VIÊN BỘ MÔN HÓA LÝ – KHOA HÓA HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-giang-vien-bo-mon-hoa-ly-khoa-hoa-hoc/)
 * 22/02/2024: [THÔNG BÁO TUYỂN DỤNG CHUYÊN VIÊN KHOA TOÁN – TIN HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-chuyen-vien-khoa-toan-tin-hoc/)
-* 21/02/2024: [Quy định về chính sách học bổng dành cho sinh viên](https://hcmus.edu.vn/quy-dinh-ve-chinh-sach-hoc-bong-danh-cho-sinh-vien/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 22/03/2024: [CUỘC THI TRỰC TUYẾN “TÌM HIỂU KIẾN THỨC PHÁP LUẬT VỀ AN NINH MẠNG, AN TOÀN THÔNG TIN MẠNG 2024”.](https://hcmus.edu.vn/cuoc-thi-truc-tuyen-tim-hieu-kien-thuc-phap-luat-ve-an-ninh-mang-an-toan-thong-tin-mang-2024/)
 * 22/03/2024: [THÔNG BÁO VỀ VIỆC XUẤT HÓA ĐƠN](https://hcmus.edu.vn/thong-bao-ve-viec-xuat-hoa-don/)
@@ -183,7 +180,6 @@ No news in the last 1 month
 * 23/02/2024: [Thông báo dời ngày đăng ký học lại/cải thiện đối với SV K 2022 về trước](https://hcmus.edu.vn/thong-bao-doi-ngay-dang-ky-hoc-lai-cai-thien-doi-voi-sv-k-2022-ve-truoc/)
 * 23/02/2024: [Kết quả xét duyệt hồ sơ chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM cho sinh viên tham gia vay lần đầu HK1 NH 23-24](https://hcmus.edu.vn/ket-qua-xet-duyet-ho-so-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-cho-sinh-vien-tham-gia-vay-lan-dau-hk1-nh-23-24/)
 * 23/02/2024: [Thông báo v/v thực hiện chế độ chính sách cho sinh viên học kỳ 2/2023-2024](https://hcmus.edu.vn/thong-bao-v-v-thuc-hien-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2023-2024/)
-* 21/02/2024: [Quy định về chính sách học bổng dành cho sinh viên](https://hcmus.edu.vn/quy-dinh-ve-chinh-sach-hoc-bong-danh-cho-sinh-vien/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 21/03/2024: [Kế hoạch tuyển dụng viên chức năm 2024](https://hcmus.edu.vn/ke-hoach-tuyen-dung-vien-chuc-nam-2024/)
 * 18/03/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN PHÒNG THÍ NGHIỆM PHÂN TÍCH TRUNG TÂM](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-phong-thi-nghiem-phan-tich-trung-tam-2/)
