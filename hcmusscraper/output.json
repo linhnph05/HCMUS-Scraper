@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:06:09 25/03/2024",
+  "Update time": "09:04:27 25/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024",
@@ -32,6 +32,16 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "DSSV đạt yêu cầu tham gia học liên thông ĐH-ThS năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16061",
+      "date": "25/3/2024"
+    },
+    {
+      "tieuDe": "[CQ] Thông báo nộp đề cương đề tài Khóa luận/ Thực tập dự án tốt nghiệp Khóa 2020 Đợt 2 (bảo vệ T7/2024)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16060",
+      "date": "25/3/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên tham gia hội thảo Large Language Model (LLM) ngày 2/4",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16059",
@@ -71,16 +81,6 @@
       "tieuDe": "Đăng ký Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 7)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16048",
       "date": "20/3/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham gia Hội thảo Large Language Model (LLM) ngày 2/4",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16047",
-      "date": "20/3/2024"
-    },
-    {
-      "tieuDe": "Danh sách môn mở trong Học phần 2 lớp cao học khóa 33/2023",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16046",
-      "date": "20/3/2024"
     }
   ],
   "FIT-Thong tin hoc bong": [],
@@ -89,6 +89,11 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "DSSV đã tham gia Sinh hoạt Công dân cuối khóa chuyên đề A năm học 2023-2024 ngày 24/03/2024",
+      "url": "https://hcmus.edu.vn/dssv-da-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-ngay-24-03-2024/",
+      "date": "25/03/2024"
+    },
     {
       "tieuDe": "CUỘC THI TRỰC TUYẾN “TÌM HIỂU KIẾN THỨC PHÁP LUẬT VỀ AN NINH MẠNG, AN TOÀN THÔNG TIN MẠNG 2024”.",
       "url": "https://hcmus.edu.vn/cuoc-thi-truc-tuyen-tim-hieu-kien-thuc-phap-luat-ve-an-ninh-mang-an-toan-thong-tin-mang-2024/",
@@ -417,6 +422,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "DSSV đã tham gia Sinh hoạt Công dân cuối khóa chuyên đề A năm học 2023-2024 ngày 24/03/2024",
+      "url": "https://hcmus.edu.vn/dssv-da-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-ngay-24-03-2024/",
+      "date": "25/03/2024"
+    },
+    {
       "tieuDe": "CUỘC THI TRỰC TUYẾN “TÌM HIỂU KIẾN THỨC PHÁP LUẬT VỀ AN NINH MẠNG, AN TOÀN THÔNG TIN MẠNG 2024”.",
       "url": "https://hcmus.edu.vn/cuoc-thi-truc-tuyen-tim-hieu-kien-thuc-phap-luat-ve-an-ninh-mang-an-toan-thong-tin-mang-2024/",
       "date": "22/03/2024"
@@ -615,6 +625,11 @@
     }
   ],
   "HCMUS-Nguoi hoc": [
+    {
+      "tieuDe": "DSSV đã tham gia Sinh hoạt Công dân cuối khóa chuyên đề A năm học 2023-2024 ngày 24/03/2024",
+      "url": "https://hcmus.edu.vn/dssv-da-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-ngay-24-03-2024/",
+      "date": "25/03/2024"
+    },
     {
       "tieuDe": "CUỘC THI TRỰC TUYẾN “TÌM HIỂU KIẾN THỨC PHÁP LUẬT VỀ AN NINH MẠNG, AN TOÀN THÔNG TIN MẠNG 2024”.",
       "url": "https://hcmus.edu.vn/cuoc-thi-truc-tuyen-tim-hieu-kien-thuc-phap-luat-ve-an-ninh-mang-an-toan-thong-tin-mang-2024/",

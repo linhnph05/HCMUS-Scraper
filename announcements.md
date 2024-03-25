@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:13:46 25/03/2024**_
+_Last update: **16:12:16 25/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 21/03/2024: [Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/)
 * 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
@@ -13,6 +13,8 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 25/3/2024: [DSSV đạt yêu cầu tham gia học liên thông ĐH-ThS năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16061)
+* 25/3/2024: [[CQ] Thông báo nộp đề cương đề tài Khóa luận/ Thực tập dự án tốt nghiệp Khóa 2020 Đợt 2 (bảo vệ T7/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16060)
 * 25/3/2024: [Danh sách sinh viên tham gia hội thảo Large Language Model (LLM) ngày 2/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16059)
 * 25/3/2024: [Thông báo đăng ký tín chỉ học phần 2 chương trình cao học khoá 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16058)
 * 22/3/2024: [Triển khai Giải thưởng Khoa học và Công nghệ dành cho sinh viên trong các cơ sở giáo dục Đại học năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16056)
@@ -21,8 +23,6 @@ No news in the last 1 month
 * 21/3/2024: [Thông báo chuyên ngành chính thức cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn – đợt xét Khóa 2021](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16053)
 * 20/3/2024: [Đăng ký tham gia Chương trình: Gặp gỡ & Trò chuyện cùng Ban chủ nhiệm Khoa CNTT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16049)
 * 20/3/2024: [Đăng ký Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 7)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16048)
-* 20/3/2024: [Đăng ký tham gia Hội thảo Large Language Model (LLM) ngày 2/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16047)
-* 20/3/2024: [Danh sách môn mở trong Học phần 2 lớp cao học khóa 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16046)
 ## [FIT-Thong tin hoc bong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185)
 * 11/03/2024: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 2, NH 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16026)
 ## [FIT-Thong tin tuyen dung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265)
@@ -39,6 +39,7 @@ No news in the last 1 month
 * 25/03/2024: [Danh sách sinh viên tham gia hội thảo Large Language Model (LLM) ngày 2/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16059)
 * 20/03/2024: [Đăng ký tham gia Hội thảo Large Language Model (LLM) ngày 2/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16047)
 ## [FIT-Thong bao chung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=57)
+* 25/03/2024: [Danh sách sinh viên tham quan công ty GeoComply ngày 4/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16062)
 * 22/03/2024: [Triển khai Giải thưởng Khoa học và Công nghệ dành cho sinh viên trong các cơ sở giáo dục Đại học năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16056)
 * 20/03/2024: [Đăng ký tham gia Chương trình: Gặp gỡ & Trò chuyện cùng Ban chủ nhiệm Khoa CNTT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16049)
 * 20/03/2024: [Đăng ký Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 7)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16048)
@@ -65,6 +66,7 @@ No news in the last 1 month
 * 29/02/2024: [Đăng ký tham quan công ty FPT Telecom ngày 20/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15998)
 * 29/02/2024: [Danh sách tham quan công ty Citek ngày 12/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15995)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 25/03/2024: [DSSV đã tham gia Sinh hoạt Công dân cuối khóa chuyên đề A năm học 2023-2024 ngày 24/03/2024](https://hcmus.edu.vn/dssv-da-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-ngay-24-03-2024/)
 * 22/03/2024: [CUỘC THI TRỰC TUYẾN “TÌM HIỂU KIẾN THỨC PHÁP LUẬT VỀ AN NINH MẠNG, AN TOÀN THÔNG TIN MẠNG 2024”.](https://hcmus.edu.vn/cuoc-thi-truc-tuyen-tim-hieu-kien-thuc-phap-luat-ve-an-ninh-mang-an-toan-thong-tin-mang-2024/)
 * 22/03/2024: [THÔNG BÁO VỀ VIỆC XUẤT HÓA ĐƠN](https://hcmus.edu.vn/thong-bao-ve-viec-xuat-hoa-don/)
 * 21/03/2024: [THÔNG BÁO THU HỌC PHÍ HỌC KỲ 2 NĂM HỌC 2023-2024](https://hcmus.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-2-nam-hoc-2023-2024/)
@@ -131,6 +133,7 @@ No news in the last 1 month
 * 24/02/2024: [Kế hoạch học tập môn Thực tập sinh học đại cương 2](https://hcmus.edu.vn/ke-hoach-hoc-tap-mon-thuc-tap-sinh-hoc-dai-cuong-2/)
 * 24/02/2024: [Thông báo dời ngày bắt đầu học Anh văn](https://hcmus.edu.vn/thong-bao-doi-ngay-bat-dau-hoc-anh-van/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 25/03/2024: [DSSV đã tham gia Sinh hoạt Công dân cuối khóa chuyên đề A năm học 2023-2024 ngày 24/03/2024](https://hcmus.edu.vn/dssv-da-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-ngay-24-03-2024/)
 * 22/03/2024: [CUỘC THI TRỰC TUYẾN “TÌM HIỂU KIẾN THỨC PHÁP LUẬT VỀ AN NINH MẠNG, AN TOÀN THÔNG TIN MẠNG 2024”.](https://hcmus.edu.vn/cuoc-thi-truc-tuyen-tim-hieu-kien-thuc-phap-luat-ve-an-ninh-mang-an-toan-thong-tin-mang-2024/)
 * 22/03/2024: [THÔNG BÁO VỀ VIỆC XUẤT HÓA ĐƠN](https://hcmus.edu.vn/thong-bao-ve-viec-xuat-hoa-don/)
 * 21/03/2024: [THÔNG BÁO THU HỌC PHÍ HỌC KỲ 2 NĂM HỌC 2023-2024](https://hcmus.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-2-nam-hoc-2023-2024/)
@@ -172,6 +175,7 @@ No news in the last 1 month
 * 13/03/2024: [GIỚI THIỆU “CHƯƠNG TRÌNH VƯỜN ƯƠM TÀI NĂNG” & HỢP TÁC TUYỂN DỤNG GIỮA TẬP ĐOÀN HOA SEN VÀ TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/gioi-thieu-chuong-trinh-vuon-uom-tai-nang-hop-tac-tuyen-dung-giua-tap-doan-hoa-sen-va-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 29/02/2024: [Thông báo tuyển dụng-Khoa Khoa học và Công nghệ Vật liệu](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-khoa-hoc-va-cong-nghe-vat-lieu/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
+* 25/03/2024: [DSSV đã tham gia Sinh hoạt Công dân cuối khóa chuyên đề A năm học 2023-2024 ngày 24/03/2024](https://hcmus.edu.vn/dssv-da-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-ngay-24-03-2024/)
 * 22/03/2024: [CUỘC THI TRỰC TUYẾN “TÌM HIỂU KIẾN THỨC PHÁP LUẬT VỀ AN NINH MẠNG, AN TOÀN THÔNG TIN MẠNG 2024”.](https://hcmus.edu.vn/cuoc-thi-truc-tuyen-tim-hieu-kien-thuc-phap-luat-ve-an-ninh-mang-an-toan-thong-tin-mang-2024/)
 * 22/03/2024: [THÔNG BÁO VỀ VIỆC XUẤT HÓA ĐƠN](https://hcmus.edu.vn/thong-bao-ve-viec-xuat-hoa-don/)
 * 19/03/2024: [TB Đăng ký lịch Sinh hoạt Công dân Cuối khóa Năm học 2023-2024, chuyên đề A (đợt bổ sung)](https://hcmus.edu.vn/tb-dang-ky-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024-chuyen-de-a-dot-bo-sung/)
