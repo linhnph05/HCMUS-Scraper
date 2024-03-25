@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "06:05:26 25/03/2024",
+  "Update time": "07:04:30 25/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024",
@@ -32,6 +32,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Danh sách sinh viên tham gia hội thảo Large Language Model (LLM) ngày 2/4",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16059",
+      "date": "25/3/2024"
+    },
     {
       "tieuDe": "Thông báo đăng ký tín chỉ học phần 2 chương trình cao học khoá 33/2023",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16058",
@@ -76,11 +81,6 @@
       "tieuDe": "Danh sách môn mở trong Học phần 2 lớp cao học khóa 33/2023",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16046",
       "date": "20/3/2024"
-    },
-    {
-      "tieuDe": "DSHV đăng ký đề tài luận văn Thạc sĩ khóa 32/2022 - đợt 1 (tháng 3/2024)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16045",
-      "date": "19/3/2024"
     }
   ],
   "FIT-Thong tin hoc bong": [],
