@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "01:24:44 26/03/2024",
+  "Update time": "02:09:35 26/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024",
@@ -33,6 +33,16 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "[CQ] Nghỉ học lớp Lý thuyết số 22_6 ngày 29/3/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16066",
+      "date": "26/3/2024"
+    },
+    {
+      "tieuDe": "Danh sách sinh viên tham quan công ty GeoComply ngày 4/4",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16062",
+      "date": "26/3/2024"
+    },
+    {
       "tieuDe": "Đăng ký tham dự Seminar về AI",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16065",
       "date": "25/3/2024"
@@ -45,11 +55,6 @@
     {
       "tieuDe": "Thông báo danh sách tham dự Talkshow The Era of Generative AI and Its Impact",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16063",
-      "date": "25/3/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên tham quan công ty GeoComply ngày 4/4",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16062",
       "date": "25/3/2024"
     },
     {
@@ -76,11 +81,6 @@
       "tieuDe": "Triển khai Giải thưởng Khoa học và Công nghệ dành cho sinh viên trong các cơ sở giáo dục Đại học năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16056",
       "date": "22/3/2024"
-    },
-    {
-      "tieuDe": "[CQ] Quy trình nộp cuốn SAU bảo vệ KLTN/TTDATN khóa 2020, đợt 1 (bảo vệ tháng 3/2024)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16055",
-      "date": "21/3/2024"
     }
   ],
   "FIT-Thong tin hoc bong": [],
