@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:13:06 26/03/2024**_
+_Last update: **16:12:35 26/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 21/03/2024: [Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/)
 * 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
@@ -71,6 +71,7 @@ No news in the last 1 month
 * 29/02/2024: [Đăng ký tham quan công ty FPT Telecom ngày 20/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15998)
 * 29/02/2024: [Danh sách tham quan công ty Citek ngày 12/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15995)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 26/03/2024: [[THÔNG BÁO] Chương trình hè 2024 – Pohang University of Science and Technology (POSTECH)](https://hcmus.edu.vn/thong-bao-chuong-trinh-he-2024-pohang-university-of-science-and-technology-postech/)
 * 25/03/2024: [DSSV đã tham gia Sinh hoạt Công dân cuối khóa chuyên đề A năm học 2023-2024 ngày 24/03/2024](https://hcmus.edu.vn/dssv-da-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-ngay-24-03-2024/)
 * 22/03/2024: [CUỘC THI TRỰC TUYẾN “TÌM HIỂU KIẾN THỨC PHÁP LUẬT VỀ AN NINH MẠNG, AN TOÀN THÔNG TIN MẠNG 2024”.](https://hcmus.edu.vn/cuoc-thi-truc-tuyen-tim-hieu-kien-thuc-phap-luat-ve-an-ninh-mang-an-toan-thong-tin-mang-2024/)
 * 22/03/2024: [THÔNG BÁO VỀ VIỆC XUẤT HÓA ĐƠN](https://hcmus.edu.vn/thong-bao-ve-viec-xuat-hoa-don/)
@@ -136,6 +137,7 @@ No news in the last 1 month
 * 26/02/2024: [THÔNG BÁO Triển khai Giải thưởng Khoa học và Công nghệ của Bộ Giáo dục và Đào tạo dành cho sinh viên năm 2024](https://hcmus.edu.vn/thong-bao-trien-khai-giai-thuong-khoa-hoc-va-cong-nghe-cua-bo-giao-duc-va-dao-tao-danh-cho-sinh-vien-nam-2024/)
 * 25/02/2024: [Thông báo bổ sung thời gian đăng ký học phần Anh văn, Thể dục, Tin học cơ sở và học phần tự chọn đối với sinh viên K2023](https://hcmus.edu.vn/thong-bao-bo-sung-thoi-gian-dang-ky-hoc-phan-anh-van-the-duc-tin-hoc-co-so-va-hoc-phan-tu-chon-doi-voi-sinh-vien-k2023/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 26/03/2024: [[THÔNG BÁO] Chương trình hè 2024 – Pohang University of Science and Technology (POSTECH)](https://hcmus.edu.vn/thong-bao-chuong-trinh-he-2024-pohang-university-of-science-and-technology-postech/)
 * 25/03/2024: [DSSV đã tham gia Sinh hoạt Công dân cuối khóa chuyên đề A năm học 2023-2024 ngày 24/03/2024](https://hcmus.edu.vn/dssv-da-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-ngay-24-03-2024/)
 * 22/03/2024: [CUỘC THI TRỰC TUYẾN “TÌM HIỂU KIẾN THỨC PHÁP LUẬT VỀ AN NINH MẠNG, AN TOÀN THÔNG TIN MẠNG 2024”.](https://hcmus.edu.vn/cuoc-thi-truc-tuyen-tim-hieu-kien-thuc-phap-luat-ve-an-ninh-mang-an-toan-thong-tin-mang-2024/)
 * 22/03/2024: [THÔNG BÁO VỀ VIỆC XUẤT HÓA ĐƠN](https://hcmus.edu.vn/thong-bao-ve-viec-xuat-hoa-don/)
@@ -190,6 +192,7 @@ No news in the last 1 month
 * 27/02/2024: [Thông báo kết quả chính thức HBKK HK3/2022-2023 Khoa CNTT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2022-2023-khoa-cntt-ctda/)
 * 26/02/2024: [THÔNG BÁO Chương trình học bổng Phát triển Nhân tài số 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-phat-trien-nhan-tai-so-2024/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
+* 26/03/2024: [[THÔNG BÁO] Chương trình hè 2024 – Pohang University of Science and Technology (POSTECH)](https://hcmus.edu.vn/thong-bao-chuong-trinh-he-2024-pohang-university-of-science-and-technology-postech/)
 * 12/03/2024: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 1 năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sv-cua-cong-ty-duong-nhat-dot-1-nam-2024/)
 * 11/03/2024: [[Thông báo] Buổi Giới thiệu Học bổng Vingroup đến sinh viên Trường Đại học Khoa học Tự nhiên, ĐH Quốc gia TP Hồ Chí Minh](https://hcmus.edu.vn/thong-bao-buoi-gioi-thieu-hoc-bong-vingroup-den-sinh-vien-truong-dai-hoc-khoa-hoc-tu-nhien-dh-quoc-gia-tp-ho-chi-minh/)
 * 01/03/2024: [Thông báo chương trình học bổng Pony Chung Invitation Scholarship Program mùa thu năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-invitation-scholarship-program-mua-thu-nam-2024/)
