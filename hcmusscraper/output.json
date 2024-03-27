@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:04:40 27/03/2024",
+  "Update time": "09:04:32 27/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024",
@@ -32,6 +32,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Đăng ký tham gia Hội thảo Large Language Model (LLM) ngày 11/4",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16075",
+      "date": "27/3/2024"
+    },
     {
       "tieuDe": "Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16073",
@@ -75,11 +80,6 @@
     {
       "tieuDe": "Thông báo đăng ký Học phần 2 cùng lớp cao học khóa 33/2023 đối với sinh viên liên thông ĐH-ThS",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16064",
-      "date": "25/3/2024"
-    },
-    {
-      "tieuDe": "Thông báo danh sách tham dự Talkshow The Era of Generative AI and Its Impact",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16063",
       "date": "25/3/2024"
     }
   ],
