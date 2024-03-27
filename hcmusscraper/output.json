@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:09:42 27/03/2024",
+  "Update time": "03:04:32 27/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024",
@@ -89,6 +89,16 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 2/2024",
+      "url": "https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-2-2024/",
+      "date": "27/03/2024"
+    },
+    {
+      "tieuDe": "Tuyển dụng chuyên viên Phòng Quản trị thiết bị",
+      "url": "https://hcmus.edu.vn/tuyen-dung-chuyen-vien-phong-quan-tri-thiet-bi/",
+      "date": "27/03/2024"
+    },
     {
       "tieuDe": "[THÔNG BÁO] Chương trình hè 2024 – Pohang University of Science and Technology (POSTECH)",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-he-2024-pohang-university-of-science-and-technology-postech/",
@@ -412,6 +422,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 2/2024",
+      "url": "https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-2-2024/",
+      "date": "27/03/2024"
+    },
+    {
       "tieuDe": "[THÔNG BÁO] Chương trình hè 2024 – Pohang University of Science and Technology (POSTECH)",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-he-2024-pohang-university-of-science-and-technology-postech/",
       "date": "26/03/2024"
@@ -583,6 +598,11 @@
     }
   ],
   "HCMUS-Tuyen dung": [
+    {
+      "tieuDe": "Tuyển dụng chuyên viên Phòng Quản trị thiết bị",
+      "url": "https://hcmus.edu.vn/tuyen-dung-chuyen-vien-phong-quan-tri-thiet-bi/",
+      "date": "27/03/2024"
+    },
     {
       "tieuDe": "Kế hoạch tuyển dụng viên chức năm 2024",
       "url": "https://hcmus.edu.vn/ke-hoach-tuyen-dung-vien-chuc-nam-2024/",
