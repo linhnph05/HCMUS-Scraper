@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **10:12:28 27/03/2024**_
+_Last update: **11:13:11 27/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 21/03/2024: [Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/)
 * 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
@@ -26,6 +26,7 @@ No news in the last 1 month
 ## [FIT-Thong tin hoc bong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185)
 * 11/03/2024: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 2, NH 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16026)
 ## [FIT-Thong tin tuyen dung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265)
+* 27/03/2024: [[Q2,Q3] Golden Owl Solutions Tuyển dụng Thực Tập Sinh IT T4/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16074)
 * 26/03/2024: [JAVA BACKEND WITH JAPANESE LANGUAGE](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16068)
 * 26/03/2024: [DXC Vietnam cần gấp 5 intern Java biết tiếng Nhật lương 5 triệu](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14986)
 * 12/03/2024: [[FUJINET] Tuyển dụng FRESHER JAVA WEB DEVELOPERS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16025)
@@ -74,6 +75,7 @@ No news in the last 1 month
 * 29/02/2024: [Đăng ký tham quan công ty FPT Telecom ngày 20/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15998)
 * 29/02/2024: [Danh sách tham quan công ty Citek ngày 12/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15995)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 27/03/2024: [[THÔNG BÁO] Chương trình Global Young Leaders 2024/25 – POSTECH và POSCO Group](https://hcmus.edu.vn/thong-bao-chuong-trinh-global-young-leaders-2024-25-postech-va-posco-group/)
 * 27/03/2024: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 2/2024](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-2-2024/)
 * 27/03/2024: [Tuyển dụng chuyên viên Phòng Quản trị thiết bị](https://hcmus.edu.vn/tuyen-dung-chuyen-vien-phong-quan-tri-thiet-bi/)
 * 26/03/2024: [[THÔNG BÁO] Chương trình hè 2024 – Pohang University of Science and Technology (POSTECH)](https://hcmus.edu.vn/thong-bao-chuong-trinh-he-2024-pohang-university-of-science-and-technology-postech/)
@@ -197,6 +199,7 @@ No news in the last 1 month
 * 27/02/2024: [Thông báo kết quả chính thức HBKK HK3/2022-2023 Khoa CNTT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2022-2023-khoa-cntt-ctda/)
 * 26/02/2024: [THÔNG BÁO Chương trình học bổng Phát triển Nhân tài số 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-phat-trien-nhan-tai-so-2024/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
+* 27/03/2024: [[THÔNG BÁO] Chương trình Global Young Leaders 2024/25 – POSTECH và POSCO Group](https://hcmus.edu.vn/thong-bao-chuong-trinh-global-young-leaders-2024-25-postech-va-posco-group/)
 * 26/03/2024: [[THÔNG BÁO] Chương trình hè 2024 – Pohang University of Science and Technology (POSTECH)](https://hcmus.edu.vn/thong-bao-chuong-trinh-he-2024-pohang-university-of-science-and-technology-postech/)
 * 12/03/2024: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 1 năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sv-cua-cong-ty-duong-nhat-dot-1-nam-2024/)
 * 11/03/2024: [[Thông báo] Buổi Giới thiệu Học bổng Vingroup đến sinh viên Trường Đại học Khoa học Tự nhiên, ĐH Quốc gia TP Hồ Chí Minh](https://hcmus.edu.vn/thong-bao-buoi-gioi-thieu-hoc-bong-vingroup-den-sinh-vien-truong-dai-hoc-khoa-hoc-tu-nhien-dh-quoc-gia-tp-ho-chi-minh/)
