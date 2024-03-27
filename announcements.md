@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **16:15:58 27/03/2024**_
+_Last update: **18:09:04 27/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 21/03/2024: [Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/)
 * 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
@@ -26,6 +26,7 @@ No news in the last 1 month
 ## [FIT-Thong tin hoc bong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185)
 * 11/03/2024: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 2, NH 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16026)
 ## [FIT-Thong tin tuyen dung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265)
+* 27/03/2024: [Công ty TNHH Việt Nam Wacoal tuyển dụng Lập trình viên RPA](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16076)
 * 27/03/2024: [[Q2,Q3] Golden Owl Solutions Tuyển dụng Thực Tập Sinh IT T4/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16074)
 * 26/03/2024: [JAVA BACKEND WITH JAPANESE LANGUAGE](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16068)
 * 26/03/2024: [DXC Vietnam cần gấp 5 intern Java biết tiếng Nhật lương 5 triệu](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14986)
