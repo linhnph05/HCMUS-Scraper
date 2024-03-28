@@ -1,11 +1,10 @@
 # All news in the last 1 month 
-_Last update: **06:13:13 28/03/2024**_
+_Last update: **07:19:45 28/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 21/03/2024: [Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/)
 * 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
 * 05/03/2024: [VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2024/03/vp_danh-sach-sinh-vien-tot-nghiep-lyon-nam-hoc-2022-2023/)
 * 04/03/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK1/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk1-2023-2024/)
-* 26/02/2024: [[TLSV]_Thông báo thực hiện chế độ chính sách cho sinh viên học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/02/tlsv_thong-bao-thuc-hien-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2023-2024/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
@@ -140,10 +139,6 @@ No news in the last 1 month
 * 27/02/2024: [Thông báo nộp hồ sơ xét tốt nghiệp cao đẳng hệ chính quy cho đợt công bố danh sách tốt nghiệp vào tháng 3 và tháng 5 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-cao-dang-he-chinh-quy-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-3-va-thang-5-nam-2024/)
 * 27/02/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy, chương trình liên thông cho đợt công bố danh sách tốt nghiệp vào tháng 3 và tháng 5 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-chuong-trinh-lien-thong-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-3-va-thang-5-nam-2024/)
 * 27/02/2024: [Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK2/2023-2024 sinh viên bậc đại học hệ chính quy – đợt 2](https://hcmus.edu.vn/thong-bao-huy-lopmo-lop-bo-sung-va-cap-nhat-phong-hoccac-lop-trong-hk2-2023-2024-sinh-vien-bac-dai-hoc-he-chinh-quy-dot-2/)
-* 26/02/2024: [Thời khóa biểu / Danh sách giảng viên các lớp Thể dục 2 – HK2/23-24](https://hcmus.edu.vn/thoi-khoa-bieu-danh-sach-giang-vien-cac-lop-the-duc-2-hk2-23-24/)
-* 26/02/2024: [Thông báo về việc hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK2/2023-2024 – bậc đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-ve-viec-huy-lop-mo-lop-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk2-2023-2024-bac-dai-hoc-he-chinh-quy/)
-* 26/02/2024: [THÔNG BÁO Chương trình học bổng Phát triển Nhân tài số 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-phat-trien-nhan-tai-so-2024/)
-* 26/02/2024: [THÔNG BÁO Triển khai Giải thưởng Khoa học và Công nghệ của Bộ Giáo dục và Đào tạo dành cho sinh viên năm 2024](https://hcmus.edu.vn/thong-bao-trien-khai-giai-thuong-khoa-hoc-va-cong-nghe-cua-bo-giao-duc-va-dao-tao-danh-cho-sinh-vien-nam-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 27/03/2024: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 2/2024](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-2-2024/)
 * 26/03/2024: [[THÔNG BÁO] Chương trình hè 2024 – Pohang University of Science and Technology (POSTECH)](https://hcmus.edu.vn/thong-bao-chuong-trinh-he-2024-pohang-university-of-science-and-technology-postech/)
@@ -176,10 +171,6 @@ No news in the last 1 month
 * 27/02/2024: [Thông báo nộp hồ sơ xét tốt nghiệp cao đẳng hệ chính quy cho đợt công bố danh sách tốt nghiệp vào tháng 3 và tháng 5 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-cao-dang-he-chinh-quy-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-3-va-thang-5-nam-2024/)
 * 27/02/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy, chương trình liên thông cho đợt công bố danh sách tốt nghiệp vào tháng 3 và tháng 5 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-chuong-trinh-lien-thong-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-3-va-thang-5-nam-2024/)
 * 27/02/2024: [Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK2/2023-2024 sinh viên bậc đại học hệ chính quy – đợt 2](https://hcmus.edu.vn/thong-bao-huy-lopmo-lop-bo-sung-va-cap-nhat-phong-hoccac-lop-trong-hk2-2023-2024-sinh-vien-bac-dai-hoc-he-chinh-quy-dot-2/)
-* 26/02/2024: [Thời khóa biểu / Danh sách giảng viên các lớp Thể dục 2 – HK2/23-24](https://hcmus.edu.vn/thoi-khoa-bieu-danh-sach-giang-vien-cac-lop-the-duc-2-hk2-23-24/)
-* 26/02/2024: [Thông báo về việc hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK2/2023-2024 – bậc đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-ve-viec-huy-lop-mo-lop-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk2-2023-2024-bac-dai-hoc-he-chinh-quy/)
-* 26/02/2024: [THÔNG BÁO Chương trình học bổng Phát triển Nhân tài số 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-phat-trien-nhan-tai-so-2024/)
-* 26/02/2024: [THÔNG BÁO Triển khai Giải thưởng Khoa học và Công nghệ của Bộ Giáo dục và Đào tạo dành cho sinh viên năm 2024](https://hcmus.edu.vn/thong-bao-trien-khai-giai-thuong-khoa-hoc-va-cong-nghe-cua-bo-giao-duc-va-dao-tao-danh-cho-sinh-vien-nam-2024/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 27/03/2024: [Tuyển dụng chuyên viên Phòng Quản trị thiết bị](https://hcmus.edu.vn/tuyen-dung-chuyen-vien-phong-quan-tri-thiet-bi/)
 * 21/03/2024: [Kế hoạch tuyển dụng viên chức năm 2024](https://hcmus.edu.vn/ke-hoach-tuyen-dung-vien-chuc-nam-2024/)
@@ -199,7 +190,6 @@ No news in the last 1 month
 * 29/02/2024: [MAMM 2024 – HO CHI MINH CITY, VIETNAM – The 7th Conference on Microactuators, Microsensors and Micromechanisms](https://hcmus.edu.vn/mamm-2024-ho-chi-minh-city-vietnam-the-7th-conference-on-microactuators-microsensors-and-micromechanisms/)
 * 28/02/2024: [Thông báo về việc đăng ký nội trú tại KTX Trường](https://hcmus.edu.vn/41571-2/)
 * 27/02/2024: [Thông báo kết quả chính thức HBKK HK3/2022-2023 Khoa CNTT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2022-2023-khoa-cntt-ctda/)
-* 26/02/2024: [THÔNG BÁO Chương trình học bổng Phát triển Nhân tài số 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-phat-trien-nhan-tai-so-2024/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
 * 27/03/2024: [[THÔNG BÁO] Chương trình Global Young Leaders 2024/25 – POSTECH và POSCO Group](https://hcmus.edu.vn/thong-bao-chuong-trinh-global-young-leaders-2024-25-postech-va-posco-group/)
 * 26/03/2024: [[THÔNG BÁO] Chương trình hè 2024 – Pohang University of Science and Technology (POSTECH)](https://hcmus.edu.vn/thong-bao-chuong-trinh-he-2024-pohang-university-of-science-and-technology-postech/)
