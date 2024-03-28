@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:13:06 28/03/2024**_
+_Last update: **16:13:26 28/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 21/03/2024: [Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/)
 * 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
@@ -12,6 +12,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 28/3/2024: [Tổng kết Talkshow The Era of Generative AI and Its Impact](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16079)
 * 27/3/2024: [Đăng ký tham gia Hội thảo Large Language Model (LLM) ngày 11/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16075)
 * 26/3/2024: [Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16073)
 * 26/3/2024: [Gặp gỡ đại diện Pohang University of Science and Technology (POSTECH) và POSCO Group 05/4/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16072)
@@ -21,7 +22,6 @@ No news in the last 1 month
 * 26/3/2024: [[CQ] Nghỉ học lớp Lý thuyết số 22_6 ngày 29/3/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16066)
 * 26/3/2024: [Danh sách sinh viên tham quan công ty GeoComply ngày 4/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16062)
 * 25/3/2024: [Đăng ký tham dự Seminar về AI](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16065)
-* 25/3/2024: [Thông báo đăng ký Học phần 2 cùng lớp cao học khóa 33/2023 đối với sinh viên liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16064)
 ## [FIT-Thong tin hoc bong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185)
 * 11/03/2024: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 2, NH 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16026)
 ## [FIT-Thong tin tuyen dung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265)
@@ -36,6 +36,7 @@ No news in the last 1 month
 * 05/03/2024: [[InspireUI] Flutter/Quality Control (QC) Intern](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16005)
 * 29/02/2024: [Chương trình hợp tác giữa Công ty cổ phần USE Nhật Bản và ARIS Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15997)
 ## [FIT-Hoi thao/Hoi Nghi](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=493)
+* 28/03/2024: [Tổng kết Talkshow The Era of Generative AI and Its Impact](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16079)
 * 25/03/2024: [Đăng ký tham dự Seminar về AI](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16065)
 * 25/03/2024: [Thông báo danh sách tham dự Talkshow The Era of Generative AI and Its Impact](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16063)
 * 14/03/2024: [Tổng kết Seminar Human-Evidence Interaction: Manipulating Users in a Courtroom Environment](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16038)
@@ -77,6 +78,7 @@ No news in the last 1 month
 * 29/02/2024: [Đăng ký tham quan công ty FPT Telecom ngày 20/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15998)
 * 29/02/2024: [Danh sách tham quan công ty Citek ngày 12/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15995)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 28/03/2024: [Quy định học bổng Khuyến khích](https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich/)
 * 28/03/2024: [Kết quả đăng ký Sinh hoạt Công dân Cuối khóa chuyên đề A, Năm học 2023-2024 (Đợt bổ sung)](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-dot-bo-sung/)
 * 28/03/2024: [Thông báo tuyển sinh hệ Đào tạo từ xa ngành Công nghệ thông tin – Khóa 2024 đợt 1](https://hcmus.edu.vn/thong-bao-tuyen-sinh-he-dao-tao-tu-xa-nganh-cong-nghe-thong-tin-khoa-2024-dot-1/)
 * 27/03/2024: [[THÔNG BÁO] Chương trình Global Young Leaders 2024/25 – POSTECH và POSCO Group](https://hcmus.edu.vn/thong-bao-chuong-trinh-global-young-leaders-2024-25-postech-va-posco-group/)
@@ -143,6 +145,7 @@ No news in the last 1 month
 * 27/02/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy, chương trình liên thông cho đợt công bố danh sách tốt nghiệp vào tháng 3 và tháng 5 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-chuong-trinh-lien-thong-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-3-va-thang-5-nam-2024/)
 * 27/02/2024: [Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK2/2023-2024 sinh viên bậc đại học hệ chính quy – đợt 2](https://hcmus.edu.vn/thong-bao-huy-lopmo-lop-bo-sung-va-cap-nhat-phong-hoccac-lop-trong-hk2-2023-2024-sinh-vien-bac-dai-hoc-he-chinh-quy-dot-2/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 28/03/2024: [Quy định học bổng Khuyến khích](https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich/)
 * 28/03/2024: [Kết quả đăng ký Sinh hoạt Công dân Cuối khóa chuyên đề A, Năm học 2023-2024 (Đợt bổ sung)](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-dot-bo-sung/)
 * 27/03/2024: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 2/2024](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-2-2024/)
 * 26/03/2024: [[THÔNG BÁO] Chương trình hè 2024 – Pohang University of Science and Technology (POSTECH)](https://hcmus.edu.vn/thong-bao-chuong-trinh-he-2024-pohang-university-of-science-and-technology-postech/)
@@ -182,6 +185,7 @@ No news in the last 1 month
 * 13/03/2024: [GIỚI THIỆU “CHƯƠNG TRÌNH VƯỜN ƯƠM TÀI NĂNG” & HỢP TÁC TUYỂN DỤNG GIỮA TẬP ĐOÀN HOA SEN VÀ TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/gioi-thieu-chuong-trinh-vuon-uom-tai-nang-hop-tac-tuyen-dung-giua-tap-doan-hoa-sen-va-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 29/02/2024: [Thông báo tuyển dụng-Khoa Khoa học và Công nghệ Vật liệu](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-khoa-hoc-va-cong-nghe-vat-lieu/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
+* 28/03/2024: [Quy định học bổng Khuyến khích](https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich/)
 * 28/03/2024: [Kết quả đăng ký Sinh hoạt Công dân Cuối khóa chuyên đề A, Năm học 2023-2024 (Đợt bổ sung)](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-dot-bo-sung/)
 * 25/03/2024: [DSSV đã tham gia Sinh hoạt Công dân cuối khóa chuyên đề A năm học 2023-2024 ngày 24/03/2024](https://hcmus.edu.vn/dssv-da-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-ngay-24-03-2024/)
 * 22/03/2024: [CUỘC THI TRỰC TUYẾN “TÌM HIỂU KIẾN THỨC PHÁP LUẬT VỀ AN NINH MẠNG, AN TOÀN THÔNG TIN MẠNG 2024”.](https://hcmus.edu.vn/cuoc-thi-truc-tuyen-tim-hieu-kien-thuc-phap-luat-ve-an-ninh-mang-an-toan-thong-tin-mang-2024/)
@@ -196,6 +200,7 @@ No news in the last 1 month
 * 28/02/2024: [Thông báo về việc đăng ký nội trú tại KTX Trường](https://hcmus.edu.vn/41571-2/)
 * 27/02/2024: [Thông báo kết quả chính thức HBKK HK3/2022-2023 Khoa CNTT (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2022-2023-khoa-cntt-ctda/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
+* 28/03/2024: [Quy định học bổng Khuyến khích](https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich/)
 * 27/03/2024: [[THÔNG BÁO] Chương trình Global Young Leaders 2024/25 – POSTECH và POSCO Group](https://hcmus.edu.vn/thong-bao-chuong-trinh-global-young-leaders-2024-25-postech-va-posco-group/)
 * 26/03/2024: [[THÔNG BÁO] Chương trình hè 2024 – Pohang University of Science and Technology (POSTECH)](https://hcmus.edu.vn/thong-bao-chuong-trinh-he-2024-pohang-university-of-science-and-technology-postech/)
 * 12/03/2024: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 1 năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sv-cua-cong-ty-duong-nhat-dot-1-nam-2024/)

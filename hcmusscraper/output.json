@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:04:52 28/03/2024",
+  "Update time": "09:05:00 28/03/2024",
   "Thong Bao": [
     {
       "tieuDe": "Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024",
@@ -27,6 +27,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Tổng kết Talkshow The Era of Generative AI and Its Impact",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16079",
+      "date": "28/3/2024"
+    },
     {
       "tieuDe": "Đăng ký tham gia Hội thảo Large Language Model (LLM) ngày 11/4",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16075",
@@ -71,11 +76,6 @@
       "tieuDe": "Đăng ký tham dự Seminar về AI",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16065",
       "date": "25/3/2024"
-    },
-    {
-      "tieuDe": "Thông báo đăng ký Học phần 2 cùng lớp cao học khóa 33/2023 đối với sinh viên liên thông ĐH-ThS",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16064",
-      "date": "25/3/2024"
     }
   ],
   "FIT-Thong tin hoc bong": [],
@@ -84,6 +84,11 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Quy định học bổng Khuyến khích",
+      "url": "https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich/",
+      "date": "28/03/2024"
+    },
     {
       "tieuDe": "Kết quả đăng ký Sinh hoạt Công dân Cuối khóa chuyên đề A, Năm học 2023-2024 (Đợt bổ sung)",
       "url": "https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-dot-bo-sung/",
@@ -412,6 +417,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "Quy định học bổng Khuyến khích",
+      "url": "https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich/",
+      "date": "28/03/2024"
+    },
+    {
       "tieuDe": "Kết quả đăng ký Sinh hoạt Công dân Cuối khóa chuyên đề A, Năm học 2023-2024 (Đợt bổ sung)",
       "url": "https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-dot-bo-sung/",
       "date": "28/03/2024"
@@ -601,6 +611,11 @@
   ],
   "HCMUS-Nguoi hoc": [
     {
+      "tieuDe": "Quy định học bổng Khuyến khích",
+      "url": "https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich/",
+      "date": "28/03/2024"
+    },
+    {
       "tieuDe": "Kết quả đăng ký Sinh hoạt Công dân Cuối khóa chuyên đề A, Năm học 2023-2024 (Đợt bổ sung)",
       "url": "https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-dot-bo-sung/",
       "date": "28/03/2024"
@@ -667,6 +682,11 @@
     }
   ],
   "HCMUS-Hoc bong dai hoc": [
+    {
+      "tieuDe": "Quy định học bổng Khuyến khích",
+      "url": "https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich/",
+      "date": "28/03/2024"
+    },
     {
       "tieuDe": "[THÔNG BÁO] Chương trình Global Young Leaders 2024/25 – POSTECH và POSCO Group",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-global-young-leaders-2024-25-postech-va-posco-group/",
