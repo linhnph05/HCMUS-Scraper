@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:13:13 31/03/2024**_
+_Last update: **07:21:23 31/03/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 21/03/2024: [Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/)
 * 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
@@ -34,7 +34,6 @@ No news in the last 1 month
 * 07/03/2024: [[SynergieGlobal] Site Reliability Engineer - MS SQL, ASP.NET, HTML, and JavaScript](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16012)
 * 06/03/2024: [[Sun Life Việt Nam] Từ sinh viên năm hai trở thành công dân toàn cầu với mức đầu tư lên đến 1 TỈ VND!](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16008)
 * 05/03/2024: [[InspireUI] Flutter/Quality Control (QC) Intern](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16005)
-* 29/02/2024: [Chương trình hợp tác giữa Công ty cổ phần USE Nhật Bản và ARIS Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15997)
 ## [FIT-Hoi thao/Hoi Nghi](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=493)
 * 28/03/2024: [Tổng kết Talkshow The Era of Generative AI and Its Impact](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16079)
 * 25/03/2024: [Đăng ký tham dự Seminar về AI](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16065)
@@ -75,8 +74,6 @@ No news in the last 1 month
 * 01/03/2024: [Chương trình Hè Kinh doanh Khởi nghiệp - Đại học Quốc gia Singapore (NUS)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16001)
 * 01/03/2024: [Danh sách sinh viên tham quan công ty mgm technology partners ngày 19/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16000)
 * 01/03/2024: [Danh sách sinh viên tham quan công ty Axon Active ngày 5/04](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15999)
-* 29/02/2024: [Đăng ký tham quan công ty FPT Telecom ngày 20/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15998)
-* 29/02/2024: [Danh sách tham quan công ty Citek ngày 12/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=15995)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 29/03/2024: [THƯ MỜI VIẾT BÀI HỘI NGHỊ QUỐC TẾ PHÂN TÍCH NỘI DUNG ĐA PHƯƠNG TIỆN VÀ NHẬN DẠNG LẦN 7 – MAPR-7](https://hcmus.edu.vn/thu-moi-viet-bai-hoi-nghi-quoc-te-phan-tich-noi-dung-da-phuong-tien-va-nhan-dang-lan-7-mapr-7/)
 * 28/03/2024: [Quy định học bổng Khuyến khích](https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich/)
@@ -134,8 +131,6 @@ No news in the last 1 month
 * 04/03/2024: [THƯ MỜI VIẾT BÀI HTKH ĐỊNH HƯỚNG GIẢNG DẠY, NGHIÊN CỨU KHOA HỌC VÀ CHUYỂN GIAO CÔNG NGHỆ KỶ NGUYÊN SỐ](https://hcmus.edu.vn/thu-moi-viet-bai-htkh-dinh-huong-giang-day-nghien-cuu-khoa-hoc-va-chuyen-giao-cong-nghe-ky-nguyen-so/)
 * 01/03/2024: [THÔNG BÁO VV ĐỀ XUẤT ĐẶT HÀNG NHIỆM VỤ KHCN TỈNH QUẢNG NGÃI 2025](https://hcmus.edu.vn/thong-bao-vv-de-xuat-dat-hang-nhiem-vu-khcn-tinh-quang-ngai-2025/)
 * 01/03/2024: [Thông báo chương trình học bổng Pony Chung Invitation Scholarship Program mùa thu năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-invitation-scholarship-program-mua-thu-nam-2024/)
-* 29/02/2024: [MAMM 2024 – HO CHI MINH CITY, VIETNAM – The 7th Conference on Microactuators, Microsensors and Micromechanisms](https://hcmus.edu.vn/mamm-2024-ho-chi-minh-city-vietnam-the-7th-conference-on-microactuators-microsensors-and-micromechanisms/)
-* 29/02/2024: [Thông báo tuyển dụng-Khoa Khoa học và Công nghệ Vật liệu](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-khoa-hoc-va-cong-nghe-vat-lieu/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 28/03/2024: [Quy định học bổng Khuyến khích](https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich/)
 * 28/03/2024: [Kết quả đăng ký Sinh hoạt Công dân Cuối khóa chuyên đề A, Năm học 2023-2024 (Đợt bổ sung)](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-dot-bo-sung/)
@@ -169,7 +164,6 @@ No news in the last 1 month
 * 21/03/2024: [Kế hoạch tuyển dụng viên chức năm 2024](https://hcmus.edu.vn/ke-hoach-tuyen-dung-vien-chuc-nam-2024/)
 * 18/03/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN PHÒNG THÍ NGHIỆM PHÂN TÍCH TRUNG TÂM](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-phong-thi-nghiem-phan-tich-trung-tam-2/)
 * 13/03/2024: [GIỚI THIỆU “CHƯƠNG TRÌNH VƯỜN ƯƠM TÀI NĂNG” & HỢP TÁC TUYỂN DỤNG GIỮA TẬP ĐOÀN HOA SEN VÀ TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/gioi-thieu-chuong-trinh-vuon-uom-tai-nang-hop-tac-tuyen-dung-giua-tap-doan-hoa-sen-va-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
-* 29/02/2024: [Thông báo tuyển dụng-Khoa Khoa học và Công nghệ Vật liệu](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-khoa-hoc-va-cong-nghe-vat-lieu/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
 * 28/03/2024: [Quy định học bổng Khuyến khích](https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich/)
 * 28/03/2024: [Kết quả đăng ký Sinh hoạt Công dân Cuối khóa chuyên đề A, Năm học 2023-2024 (Đợt bổ sung)](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-dot-bo-sung/)
@@ -182,7 +176,6 @@ No news in the last 1 month
 * 12/03/2024: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 1 năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sv-cua-cong-ty-duong-nhat-dot-1-nam-2024/)
 * 04/03/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK1/2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk1-2023-2024/)
 * 04/03/2024: [TB Về lịch Sinh hoạt Công dân Cuối khóa Năm học 2023-2024](https://hcmus.edu.vn/tb-ve-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024/)
-* 29/02/2024: [MAMM 2024 – HO CHI MINH CITY, VIETNAM – The 7th Conference on Microactuators, Microsensors and Micromechanisms](https://hcmus.edu.vn/mamm-2024-ho-chi-minh-city-vietnam-the-7th-conference-on-microactuators-microsensors-and-micromechanisms/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
 * 28/03/2024: [Quy định học bổng Khuyến khích](https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich/)
 * 27/03/2024: [[THÔNG BÁO] Chương trình Global Young Leaders 2024/25 – POSTECH và POSCO Group](https://hcmus.edu.vn/thong-bao-chuong-trinh-global-young-leaders-2024-25-postech-va-posco-group/)
