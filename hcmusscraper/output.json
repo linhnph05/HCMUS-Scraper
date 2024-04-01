@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:04:32 01/04/2024",
+  "Update time": "04:04:37 01/04/2024",
   "Thong Bao": [
     {
       "tieuDe": "Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024",
@@ -27,6 +27,16 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Đăng ký tham dự chương trình 'Phỏng vấn thử - việc thật' năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16083",
+      "date": "1/4/2024"
+    },
+    {
+      "tieuDe": "Danh sách sinh viên tham gia hội thảo Clean code",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16082",
+      "date": "1/4/2024"
+    },
     {
       "tieuDe": "Tổng kết Talkshow The Era of Generative AI and Its Impact",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16079",
@@ -66,16 +76,6 @@
       "tieuDe": "[CQ] Nghỉ học lớp Lý thuyết số 22_6 ngày 29/3/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16066",
       "date": "26/3/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên tham quan công ty GeoComply ngày 4/4",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16062",
-      "date": "26/3/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham dự Seminar về AI",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16065",
-      "date": "25/3/2024"
     }
   ],
   "FIT-Thong tin hoc bong": [],
