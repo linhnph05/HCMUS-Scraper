@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:04:47 01/04/2024",
+  "Update time": "08:05:33 01/04/2024",
   "Thong Bao": [
     {
       "tieuDe": "Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024",
@@ -27,6 +27,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "DSSV đăng ký môn học ĐH-ThS cùng HP2 cao học khóa 33/2023",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16085",
+      "date": "1/4/2024"
+    },
     {
       "tieuDe": "Đăng ký tham dự chương trình 'Phỏng vấn thử - việc thật' năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16083",
@@ -71,11 +76,6 @@
       "tieuDe": "Đăng ký tham gia Hội thảo Clean code",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16067",
       "date": "26/3/2024"
-    },
-    {
-      "tieuDe": "[CQ] Nghỉ học lớp Lý thuyết số 22_6 ngày 29/3/2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16066",
-      "date": "26/3/2024"
     }
   ],
   "FIT-Thong tin hoc bong": [],
@@ -84,6 +84,11 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "[THÔNG BÁO] Chương trình học bổng Thạc sĩ Khoa học, Kỹ thuật và Công nghệ Thông minh – Trường Đại học Chung Hsing, Đài Loan",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thac-si-khoa-hoc-ky-thuat-va-cong-nghe-thong-minh-truong-dai-hoc-chung-hsing-dai-loan/",
+      "date": "01/04/2024"
+    },
     {
       "tieuDe": "THƯ MỜI VIẾT BÀI HỘI NGHỊ QUỐC TẾ PHÂN TÍCH NỘI DUNG ĐA PHƯƠNG TIỆN VÀ NHẬN DẠNG LẦN 7 – MAPR-7",
       "url": "https://hcmus.edu.vn/thu-moi-viet-bai-hoi-nghi-quoc-te-phan-tich-noi-dung-da-phuong-tien-va-nhan-dang-lan-7-mapr-7/",

@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **14:13:31 01/04/2024**_
+_Last update: **15:13:55 01/04/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 21/03/2024: [Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/)
 * 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
@@ -12,6 +12,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 1/4/2024: [DSSV đăng ký môn học ĐH-ThS cùng HP2 cao học khóa 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16085)
 * 1/4/2024: [Đăng ký tham dự chương trình 'Phỏng vấn thử - việc thật' năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16083)
 * 1/4/2024: [Danh sách sinh viên tham gia hội thảo Clean code](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16082)
 * 28/3/2024: [Tổng kết Talkshow The Era of Generative AI and Its Impact](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16079)
@@ -21,7 +22,6 @@ No news in the last 1 month
 * 26/3/2024: [Chương trình hè 2024 - Pohang University of Science and Technology (POSTECH)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16071)
 * 26/3/2024: [Thông báo mở lớp bổ túc kiến thức dự thi thạc sĩ khoá tháng 4/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16069)
 * 26/3/2024: [Đăng ký tham gia Hội thảo Clean code](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16067)
-* 26/3/2024: [[CQ] Nghỉ học lớp Lý thuyết số 22_6 ngày 29/3/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16066)
 ## [FIT-Thong tin hoc bong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185)
 * 11/03/2024: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 2, NH 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16026)
 ## [FIT-Thong tin tuyen dung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265)
@@ -48,6 +48,7 @@ No news in the last 1 month
 * 25/03/2024: [Danh sách sinh viên tham gia hội thảo Large Language Model (LLM) ngày 2/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16059)
 * 20/03/2024: [Đăng ký tham gia Hội thảo Large Language Model (LLM) ngày 2/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16047)
 ## [FIT-Thong bao chung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=57)
+* 01/04/2024: [Hội thảo hè 2024 - Toyota Technology Institute, Nhật Bản](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16086)
 * 01/04/2024: [Chương trình học bổng Thạc sĩ Khoa học, Kỹ thuật và Công nghệ Thông minh - Trường Đại học Chung Hsing, Đài Loan](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16084)
 * 01/04/2024: [Danh sách sinh viên tham gia hội thảo Clean code](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16082)
 * 26/03/2024: [Gặp gỡ đại diện Pohang University of Science and Technology (POSTECH) và POSCO Group 05/4/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16072)
@@ -74,6 +75,7 @@ No news in the last 1 month
 * 06/03/2024: [Danh sách sinh viên tham quan công ty FPT Telecom](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16007)
 * 05/03/2024: [Đăng ký tham quan công ty TMA Technology Group ngày 26/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16006)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 01/04/2024: [[THÔNG BÁO] Chương trình học bổng Thạc sĩ Khoa học, Kỹ thuật và Công nghệ Thông minh – Trường Đại học Chung Hsing, Đài Loan](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thac-si-khoa-hoc-ky-thuat-va-cong-nghe-thong-minh-truong-dai-hoc-chung-hsing-dai-loan/)
 * 29/03/2024: [THƯ MỜI VIẾT BÀI HỘI NGHỊ QUỐC TẾ PHÂN TÍCH NỘI DUNG ĐA PHƯƠNG TIỆN VÀ NHẬN DẠNG LẦN 7 – MAPR-7](https://hcmus.edu.vn/thu-moi-viet-bai-hoi-nghi-quoc-te-phan-tich-noi-dung-da-phuong-tien-va-nhan-dang-lan-7-mapr-7/)
 * 28/03/2024: [Quy định học bổng Khuyến khích](https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich/)
 * 28/03/2024: [Kết quả đăng ký Sinh hoạt Công dân Cuối khóa chuyên đề A, Năm học 2023-2024 (Đợt bổ sung)](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-dot-bo-sung/)
