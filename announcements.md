@@ -1,7 +1,11 @@
 # All news in the last 1 month 
-_Last update: **01:10:54 03/04/2024**_
+_Last update: **02:19:35 03/04/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
-No news in the last 1 month
+* 02/04/2024: [[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/04/ctda-thong-bao-nop-de-cuong-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2020-dot-1/)
+* 21/03/2024: [Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/)
+* 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
+* 05/03/2024: [VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2024/03/vp_danh-sach-sinh-vien-tot-nghiep-lyon-nam-hoc-2022-2023/)
+* 04/03/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK1/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk1-2023-2024/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
