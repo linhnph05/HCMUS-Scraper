@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **16:13:49 02/04/2024**_
+_Last update: **17:13:12 02/04/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 02/04/2024: [[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/04/ctda-thong-bao-nop-de-cuong-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2020-dot-1/)
 * 21/03/2024: [Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/)
@@ -26,6 +26,7 @@ No news in the last 1 month
 ## [FIT-Thong tin hoc bong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185)
 * 11/03/2024: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 2, NH 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16026)
 ## [FIT-Thong tin tuyen dung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265)
+* 02/04/2024: [AXON ACTIVE - OPENING POSTIONS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16090)
 * 02/04/2024: [LIFULL Tech Vietnam x Ngày hội việc làm CNTT 2024 - Tham gia là có quà!!!](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16089)
 * 02/04/2024: [VNG SẼ MANG ĐẾN NHỮNG BẤT NGỜ NÀO TẠI FIT@HCMUS JOB FAIR 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16081)
 * 28/03/2024: [[BioTuring] Algorithm/AI Engineer (Open for internship - full-time 3 months)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16077)
@@ -53,6 +54,10 @@ No news in the last 1 month
 * 25/03/2024: [Danh sách sinh viên tham gia hội thảo Large Language Model (LLM) ngày 2/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16059)
 * 20/03/2024: [Đăng ký tham gia Hội thảo Large Language Model (LLM) ngày 2/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16047)
 ## [FIT-Thong bao chung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=57)
+* 02/04/2024: [Chương trình Trại Hè UGM-AUN Summer Camp 2024 tại Đại học Universitas Gadjah Mada, Indonesia](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16095)
+* 02/04/2024: [Chương trình Trại Hè AUN-Thailand Summer Camp năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16094)
+* 02/04/2024: [Chương trình Trại Hè UBD-AUN Summer Camp 2024 tại Đại học Universiti Brunei Darussalam, Brunei](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16093)
+* 02/04/2024: [Chương trình Temasek Foundation – NUS Leadership Enrichment and Regional Networking (TF-NUS LEaRN) 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16092)
 * 01/04/2024: [Hội thảo hè 2024 - Toyota Technology Institute, Nhật Bản](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16086)
 * 01/04/2024: [Chương trình học bổng Thạc sĩ Khoa học, Kỹ thuật và Công nghệ Thông minh - Trường Đại học Chung Hsing, Đài Loan](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16084)
 * 01/04/2024: [Danh sách sinh viên tham gia hội thảo Clean code](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16082)
