@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **11:13:16 02/04/2024**_
+_Last update: **12:12:07 02/04/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 02/04/2024: [[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/04/ctda-thong-bao-nop-de-cuong-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2020-dot-1/)
 * 21/03/2024: [Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/)
@@ -13,6 +13,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 2/4/2024: [Danh sách sinh viên tham gia Hội thảo Large Language Model (LLM) ngày 11/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16088)
 * 2/4/2024: [Thông báo thay đổi thời gian và địa điểm tổ chức Seminar về AI](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16087)
 * 1/4/2024: [DSSV đăng ký môn học ĐH-ThS cùng HP2 cao học khóa 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16085)
 * 1/4/2024: [Đăng ký tham dự chương trình 'Phỏng vấn thử - việc thật' năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16083)
@@ -22,7 +23,6 @@ No news in the last 1 month
 * 26/3/2024: [Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16073)
 * 26/3/2024: [Gặp gỡ đại diện Pohang University of Science and Technology (POSTECH) và POSCO Group 05/4/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16072)
 * 26/3/2024: [Chương trình hè 2024 - Pohang University of Science and Technology (POSTECH)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16071)
-* 26/3/2024: [Thông báo mở lớp bổ túc kiến thức dự thi thạc sĩ khoá tháng 4/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16069)
 ## [FIT-Thong tin hoc bong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185)
 * 11/03/2024: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 2, NH 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16026)
 ## [FIT-Thong tin tuyen dung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265)
@@ -45,6 +45,7 @@ No news in the last 1 month
 * 06/03/2024: [Talk show: The Era of Generative AI and Its Impact](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16009)
 * 04/03/2024: [Đăng ký tham dự Seminar Human-Evidence Interaction: Manipulating Users in a Courtroom Environment](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16003)
 ## [FIT-Hoat dong sinh vien](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1186)
+* 02/04/2024: [Danh sách sinh viên tham gia Hội thảo Large Language Model (LLM) ngày 11/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16088)
 * 01/04/2024: [Đăng ký tham dự chương trình "Phỏng vấn thử - việc thật" năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16083)
 * 27/03/2024: [Đăng ký tham gia Hội thảo Large Language Model (LLM) ngày 11/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16075)
 * 26/03/2024: [Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16073)
