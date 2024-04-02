@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:04:40 02/04/2024",
+  "Update time": "04:04:29 02/04/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 1",
@@ -32,6 +32,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Thông báo thay đổi thời gian và địa điểm tổ chức Seminar về AI",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16087",
+      "date": "2/4/2024"
+    },
     {
       "tieuDe": "DSSV đăng ký môn học ĐH-ThS cùng HP2 cao học khóa 33/2023",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16085",
@@ -75,11 +80,6 @@
     {
       "tieuDe": "Thông báo mở lớp bổ túc kiến thức dự thi thạc sĩ khoá tháng 4/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16069",
-      "date": "26/3/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham gia Hội thảo Clean code",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16067",
       "date": "26/3/2024"
     }
   ],
