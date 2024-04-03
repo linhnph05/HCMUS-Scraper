@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:05:03 03/04/2024",
+  "Update time": "09:04:16 03/04/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 1",
@@ -32,6 +32,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Ngày hội việc làm Khoa Công nghệ thông tin năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16099",
+      "date": "3/4/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên tham gia Hội thảo Large Language Model (LLM) ngày 11/4",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16088",
@@ -75,11 +80,6 @@
     {
       "tieuDe": "Gặp gỡ đại diện Pohang University of Science and Technology (POSTECH) và POSCO Group 05/4/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16072",
-      "date": "26/3/2024"
-    },
-    {
-      "tieuDe": "Chương trình hè 2024 - Pohang University of Science and Technology (POSTECH)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16071",
       "date": "26/3/2024"
     }
   ],
