@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **14:13:13 03/04/2024**_
+_Last update: **15:17:19 03/04/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 02/04/2024: [[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/04/ctda-thong-bao-nop-de-cuong-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2020-dot-1/)
 * 21/03/2024: [Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/)
@@ -26,6 +26,8 @@ No news in the last 1 month
 ## [FIT-Thong tin hoc bong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185)
 * 11/03/2024: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 2, NH 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16026)
 ## [FIT-Thong tin tuyen dung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265)
+* 03/04/2024: [TPS FOUNDATION TRAINING PROGRAM 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16097)
+* 03/04/2024: [Công ty ALGOTRADE tuyển thực tập sinh ngành Giao Dịch Thuật Toán](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16098)
 * 03/04/2024: [AXON ACTIVE - OPENING POSTIONS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16090)
 * 02/04/2024: [LIFULL Tech Vietnam x Ngày hội việc làm CNTT 2024 - Tham gia là có quà!!!](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16089)
 * 02/04/2024: [VNG SẼ MANG ĐẾN NHỮNG BẤT NGỜ NÀO TẠI FIT@HCMUS JOB FAIR 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16081)
@@ -85,7 +87,7 @@ No news in the last 1 month
 * 06/03/2024: [Danh sách sinh viên tham quan công ty FPT Telecom](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16007)
 * 05/03/2024: [Đăng ký tham quan công ty TMA Technology Group ngày 26/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16006)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
-* 03/04/2024: [Danh sách tốt nghiệp đại học – đợt tháng 3/2024](https://hcmus.edu.vn/danh-sach-tot-nghiep-dai-hoc-dot-thang-3-2024/)
+* 03/04/2024: [Danh sách sinh viên tốt nghiệp đại học – đợt tháng 3 năm 2024](https://hcmus.edu.vn/danh-sach-tot-nghiep-dai-hoc-dot-thang-3-2024/)
 * 01/04/2024: [[THÔNG BÁO] Chương trình học bổng Thạc sĩ Khoa học, Kỹ thuật và Công nghệ Thông minh – Trường Đại học Chung Hsing, Đài Loan](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thac-si-khoa-hoc-ky-thuat-va-cong-nghe-thong-minh-truong-dai-hoc-chung-hsing-dai-loan/)
 * 29/03/2024: [THƯ MỜI VIẾT BÀI HỘI NGHỊ QUỐC TẾ PHÂN TÍCH NỘI DUNG ĐA PHƯƠNG TIỆN VÀ NHẬN DẠNG LẦN 7 – MAPR-7](https://hcmus.edu.vn/thu-moi-viet-bai-hoi-nghi-quoc-te-phan-tich-noi-dung-da-phuong-tien-va-nhan-dang-lan-7-mapr-7/)
 * 28/03/2024: [Quy định học bổng Khuyến khích](https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich/)
@@ -142,7 +144,7 @@ No news in the last 1 month
 * 04/03/2024: [CÁC CHƯƠNG TRÌNH TÀI TRỢ VÀ HỢP TÁC CỦA QUỸ VINIF NĂM 2024](https://hcmus.edu.vn/cac-chuong-trinh-tai-tro-va-hop-tac-cua-quy-vinif-nam-2024/)
 * 04/03/2024: [THƯ MỜI VIẾT BÀI HTKH ĐỊNH HƯỚNG GIẢNG DẠY, NGHIÊN CỨU KHOA HỌC VÀ CHUYỂN GIAO CÔNG NGHỆ KỶ NGUYÊN SỐ](https://hcmus.edu.vn/thu-moi-viet-bai-htkh-dinh-huong-giang-day-nghien-cuu-khoa-hoc-va-chuyen-giao-cong-nghe-ky-nguyen-so/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
-* 03/04/2024: [Danh sách tốt nghiệp đại học – đợt tháng 3/2024](https://hcmus.edu.vn/danh-sach-tot-nghiep-dai-hoc-dot-thang-3-2024/)
+* 03/04/2024: [Danh sách sinh viên tốt nghiệp đại học – đợt tháng 3 năm 2024](https://hcmus.edu.vn/danh-sach-tot-nghiep-dai-hoc-dot-thang-3-2024/)
 * 28/03/2024: [Quy định học bổng Khuyến khích](https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich/)
 * 28/03/2024: [Kết quả đăng ký Sinh hoạt Công dân Cuối khóa chuyên đề A, Năm học 2023-2024 (Đợt bổ sung)](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-cuoi-khoa-chuyen-de-a-nam-hoc-2023-2024-dot-bo-sung/)
 * 27/03/2024: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 2/2024](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-2-2024/)
