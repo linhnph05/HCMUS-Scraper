@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "06:04:58 03/04/2024",
+  "Update time": "07:04:20 03/04/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 1",
@@ -89,6 +89,11 @@
   "FIT-Hoat dong sinh vien": [],
   "FIT-Thong bao chung": [],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Danh sách tốt nghiệp đại học – đợt tháng 3/2024",
+      "url": "https://hcmus.edu.vn/danh-sach-tot-nghiep-dai-hoc-dot-thang-3-2024/",
+      "date": "03/04/2024"
+    },
     {
       "tieuDe": "[THÔNG BÁO] Chương trình học bổng Thạc sĩ Khoa học, Kỹ thuật và Công nghệ Thông minh – Trường Đại học Chung Hsing, Đài Loan",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thac-si-khoa-hoc-ky-thuat-va-cong-nghe-thong-minh-truong-dai-hoc-chung-hsing-dai-loan/",
@@ -366,6 +371,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Danh sách tốt nghiệp đại học – đợt tháng 3/2024",
+      "url": "https://hcmus.edu.vn/danh-sach-tot-nghiep-dai-hoc-dot-thang-3-2024/",
+      "date": "03/04/2024"
+    },
     {
       "tieuDe": "Quy định học bổng Khuyến khích",
       "url": "https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich/",
