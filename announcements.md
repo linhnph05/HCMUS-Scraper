@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **09:19:42 03/04/2024**_
+_Last update: **10:14:55 03/04/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 02/04/2024: [[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/04/ctda-thong-bao-nop-de-cuong-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2020-dot-1/)
 * 21/03/2024: [Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/)
@@ -26,7 +26,7 @@ No news in the last 1 month
 ## [FIT-Thong tin hoc bong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185)
 * 11/03/2024: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 2, NH 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16026)
 ## [FIT-Thong tin tuyen dung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265)
-* 02/04/2024: [AXON ACTIVE - OPENING POSTIONS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16090)
+* 03/04/2024: [AXON ACTIVE - OPENING POSTIONS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16090)
 * 02/04/2024: [LIFULL Tech Vietnam x Ngày hội việc làm CNTT 2024 - Tham gia là có quà!!!](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16089)
 * 02/04/2024: [VNG SẼ MANG ĐẾN NHỮNG BẤT NGỜ NÀO TẠI FIT@HCMUS JOB FAIR 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16081)
 * 28/03/2024: [[BioTuring] Algorithm/AI Engineer (Open for internship - full-time 3 months)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16077)
