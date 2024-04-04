@@ -1,7 +1,17 @@
 [
 {
-  "Update time": "03:05:32 04/04/2024",
+  "Update time": "04:04:52 04/04/2024",
   "Thong Bao": [
+    {
+      "tieuDe": "Ngày hội việc làm Khoa Công nghệ thông tin năm 2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/04/ngay-hoi-viec-lam-khoa-cong-nghe-thong-tin-nam-2024/",
+      "date": "04/04/2024"
+    },
+    {
+      "tieuDe": "Đăng ký tham dự chương trình “Phỏng vấn thử – việc thật” năm 2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/04/dang-ky-tham-du-chuong-trinh-phong-van-thu-viec-that-nam-2024/",
+      "date": "04/04/2024"
+    },
     {
       "tieuDe": "[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 1",
       "url": "https://www.ctda.hcmus.edu.vn/vi/2024/04/ctda-thong-bao-nop-de-cuong-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2020-dot-1/",
@@ -24,7 +34,18 @@
     }
   ],
   "Tin tuc": [],
-  "Thong tin can biet": [],
+  "Thong tin can biet": [
+    {
+      "tieuDe": "Ngày hội việc làm Khoa Công nghệ thông tin năm 2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/04/ngay-hoi-viec-lam-khoa-cong-nghe-thong-tin-nam-2024/",
+      "date": "04/04/2024"
+    },
+    {
+      "tieuDe": "Đăng ký tham dự chương trình “Phỏng vấn thử – việc thật” năm 2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/04/dang-ky-tham-du-chuong-trinh-phong-van-thu-viec-that-nam-2024/",
+      "date": "04/04/2024"
+    }
+  ],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
