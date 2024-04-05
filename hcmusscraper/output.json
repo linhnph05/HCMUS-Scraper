@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:04:47 05/04/2024",
+  "Update time": "10:04:37 05/04/2024",
   "Thong Bao": [
     {
       "tieuDe": "Ngày hội việc làm Khoa Công nghệ thông tin năm 2024",
@@ -43,6 +43,11 @@
   ],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Danh sách sinh viên nhận học bổng 'Hành trang hướng nghiệp' HK2/ 2023 - 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16117",
+      "date": "5/4/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên tham dự Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16112",
@@ -87,11 +92,6 @@
       "tieuDe": "Tổng kết Talkshow The Era of Generative AI and Its Impact",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16079",
       "date": "28/3/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham gia Hội thảo Large Language Model (LLM) ngày 11/4",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16075",
-      "date": "27/3/2024"
     }
   ],
   "FIT-Thong tin hoc bong": [],
