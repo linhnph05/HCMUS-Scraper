@@ -1,17 +1,15 @@
 # All news in the last 1 month 
-_Last update: **06:15:11 05/04/2024**_
+_Last update: **07:29:40 05/04/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 04/04/2024: [Ngày hội việc làm Khoa Công nghệ thông tin năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/ngay-hoi-viec-lam-khoa-cong-nghe-thong-tin-nam-2024/)
 * 04/04/2024: [Đăng ký tham dự chương trình “Phỏng vấn thử – việc thật” năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/dang-ky-tham-du-chuong-trinh-phong-van-thu-viec-that-nam-2024/)
 * 02/04/2024: [[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/04/ctda-thong-bao-nop-de-cuong-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2020-dot-1/)
 * 21/03/2024: [Cập nhật lịch trực Cố vấn học học tập học kỳ 2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/03/cap-nhat-lich-truc-co-van-hoc-hoc-tap-hoc-ky-2-2023-2024/)
 * 14/03/2024: [CTĐA_Thông báo kết quả phúc khảo HK1/2324](https://www.ctda.hcmus.edu.vn/vi/2024/03/ctda_thong-bao-ket-qua-phuc-khao-hk1-2324/)
-* 05/03/2024: [VP_Danh sách sinh viên tốt nghiệp Lyon năm học 2022-2023](https://www.ctda.hcmus.edu.vn/vi/2024/03/vp_danh-sach-sinh-vien-tot-nghiep-lyon-nam-hoc-2022-2023/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
-* 04/04/2024: [Ngày hội việc làm Khoa Công nghệ thông tin năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/ngay-hoi-viec-lam-khoa-cong-nghe-thong-tin-nam-2024/)
-* 04/04/2024: [Đăng ký tham dự chương trình “Phỏng vấn thử – việc thật” năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/dang-ky-tham-du-chuong-trinh-phong-van-thu-viec-that-nam-2024/)
+No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
@@ -44,7 +42,6 @@ No news in the last 1 month
 * 12/03/2024: [[FUJINET] Tuyển dụng FRESHER JAVA WEB DEVELOPERS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16025)
 * 07/03/2024: [[SynergieGlobal] Site Reliability Engineer - MS SQL, ASP.NET, HTML, and JavaScript](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16012)
 * 06/03/2024: [[Sun Life Việt Nam] Từ sinh viên năm hai trở thành công dân toàn cầu với mức đầu tư lên đến 1 TỈ VND!](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16008)
-* 05/03/2024: [[InspireUI] Flutter/Quality Control (QC) Intern](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16005)
 ## [FIT-Hoi thao/Hoi Nghi](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=493)
 * 02/04/2024: [Thông báo thay đổi thời gian và địa điểm tổ chức Seminar về AI](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16087)
 * 28/03/2024: [Tổng kết Talkshow The Era of Generative AI and Its Impact](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16079)
@@ -91,7 +88,6 @@ No news in the last 1 month
 * 08/03/2024: [Danh sách tham quan công ty TMA Technology Group ngày 26/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16014)
 * 08/03/2024: [Danh sách tham quan công ty TecAlliance Việt Nam ngày 29/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16013)
 * 06/03/2024: [Danh sách sinh viên tham quan công ty FPT Telecom](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16007)
-* 05/03/2024: [Đăng ký tham quan công ty TMA Technology Group ngày 26/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16006)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 04/04/2024: [THÔNG BÁO ĐĂNG KÝ ĐỀ TÀI CẤP ĐHQG-HCM MỚI THỰC HIỆN TỪ NĂM 2025 – GIAI ĐOẠN ĐỀ XUẤT](https://hcmus.edu.vn/thong-bao-dang-ky-de-tai-cap-dhqg-hcm-moi-thuc-hien-tu-nam-2025-giai-doan-de-xuat/)
 * 03/04/2024: [Danh sách sinh viên tốt nghiệp đại học – đợt tháng 3 năm 2024](https://hcmus.edu.vn/danh-sach-tot-nghiep-dai-hoc-dot-thang-3-2024/)
@@ -144,8 +140,6 @@ No news in the last 1 month
 * 07/03/2024: [Chương trình đào tạo Liên thông đại học ngành Công nghệ thông tin – hệ chính quy](https://hcmus.edu.vn/chuong-trinh-dao-tao-lien-thong-dai-hoc-nganh-cong-nghe-thong-tin-he-chinh-quy/)
 * 06/03/2024: [THÔNG BÁO ĐĂNG KÝ NHIỆM VỤ KHCN ĐỂ HÌNH THÀNH PHÁT TRIỂN TRUNG TÂM NGHIÊN CỨU ĐẠT CHUẨN QUỐC TẾ](https://hcmus.edu.vn/thong-bao-dang-ky-nhiem-vu-khcn-de-hinh-thanh-phat-trien-trung-tam-nghien-cuu-dat-chuan-quoc-te/)
 * 06/03/2024: [THÔNG BÁO ĐỀ XUẤT NHIỆM VỤ NGHIÊN CỨU ĐỀ XUẤT ĐẶT HÀNG NHIỆM VỤ NCKH & PHÁT TRIỂN CÔNG NGHỆ BÌNH DƯƠNG 2024](https://hcmus.edu.vn/thong-bao-de-xuat-nhiem-vu-nghien-cuu-de-xuat-dat-hang-nhiem-vu-nckh-phat-trien-cong-nghe-binh-duong-2024/)
-* 05/03/2024: [THÔNG BÁO Cuộc thi Wake up your talent 2024](https://hcmus.edu.vn/thong-bao-cuoc-thi-wake-up-your-talent-2024/)
-* 05/03/2024: [Chương trình đào tạo Khóa 2020](https://hcmus.edu.vn/chuong-trinh-dao-tao-khoa-2020/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 03/04/2024: [Danh sách sinh viên tốt nghiệp đại học – đợt tháng 3 năm 2024](https://hcmus.edu.vn/danh-sach-tot-nghiep-dai-hoc-dot-thang-3-2024/)
 * 28/03/2024: [Quy định học bổng Khuyến khích](https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich/)
@@ -170,8 +164,6 @@ No news in the last 1 month
 * 11/03/2024: [[Thông báo] Buổi Giới thiệu Học bổng Vingroup đến sinh viên Trường Đại học Khoa học Tự nhiên, ĐH Quốc gia TP Hồ Chí Minh](https://hcmus.edu.vn/thong-bao-buoi-gioi-thieu-hoc-bong-vingroup-den-sinh-vien-truong-dai-hoc-khoa-hoc-tu-nhien-dh-quoc-gia-tp-ho-chi-minh/)
 * 07/03/2024: [Quy định chuẩn đầu ra ngoại ngữ chương trình Cử nhân tài năng Khóa 2023 về sau](https://hcmus.edu.vn/quy-dinh-chuan-dau-ra-ngoai-ngu-chuong-trinh-cu-nhan-tai-nang-khoa-2023-ve-sau/)
 * 07/03/2024: [Chương trình đào tạo Liên thông đại học ngành Công nghệ thông tin – hệ chính quy](https://hcmus.edu.vn/chuong-trinh-dao-tao-lien-thong-dai-hoc-nganh-cong-nghe-thong-tin-he-chinh-quy/)
-* 05/03/2024: [THÔNG BÁO Cuộc thi Wake up your talent 2024](https://hcmus.edu.vn/thong-bao-cuoc-thi-wake-up-your-talent-2024/)
-* 05/03/2024: [Chương trình đào tạo Khóa 2020](https://hcmus.edu.vn/chuong-trinh-dao-tao-khoa-2020/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 27/03/2024: [Tuyển dụng chuyên viên Phòng Quản trị thiết bị](https://hcmus.edu.vn/tuyen-dung-chuyen-vien-phong-quan-tri-thiet-bi/)
 * 21/03/2024: [Kế hoạch tuyển dụng viên chức năm 2024](https://hcmus.edu.vn/ke-hoach-tuyen-dung-vien-chuc-nam-2024/)
