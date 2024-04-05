@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **11:18:04 05/04/2024**_
+_Last update: **12:16:25 05/04/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 04/04/2024: [Ngày hội việc làm Khoa Công nghệ thông tin năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/ngay-hoi-viec-lam-khoa-cong-nghe-thong-tin-nam-2024/)
 * 04/04/2024: [Đăng ký tham dự chương trình “Phỏng vấn thử – việc thật” năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/dang-ky-tham-du-chuong-trinh-phong-van-thu-viec-that-nam-2024/)
@@ -9,10 +9,12 @@ _Last update: **11:18:04 05/04/2024**_
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
-No news in the last 1 month
+* 04/04/2024: [Ngày hội việc làm Khoa Công nghệ thông tin năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/ngay-hoi-viec-lam-khoa-cong-nghe-thong-tin-nam-2024/)
+* 04/04/2024: [Đăng ký tham dự chương trình “Phỏng vấn thử – việc thật” năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/dang-ky-tham-du-chuong-trinh-phong-van-thu-viec-that-nam-2024/)
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 5/4/2024: [Danh sách sinh viên tham dự Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16112)
 * 3/4/2024: [Chương Trình 'Người Trong Nghề' - Chia sẻ kinh nghiệm, quy trình, và con đường nghề nghiệp của vị trí phân tích yêu cầu](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16100)
 * 3/4/2024: [Ngày hội việc làm Khoa Công nghệ thông tin năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16099)
 * 2/4/2024: [Danh sách sinh viên tham gia Hội thảo Large Language Model (LLM) ngày 11/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16088)
@@ -22,7 +24,6 @@ No news in the last 1 month
 * 1/4/2024: [Danh sách sinh viên tham gia hội thảo Clean code](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16082)
 * 28/3/2024: [Tổng kết Talkshow The Era of Generative AI and Its Impact](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16079)
 * 27/3/2024: [Đăng ký tham gia Hội thảo Large Language Model (LLM) ngày 11/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16075)
-* 26/3/2024: [Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16073)
 ## [FIT-Thong tin hoc bong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185)
 * 11/03/2024: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 2, NH 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16026)
 ## [FIT-Thong tin tuyen dung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265)
@@ -53,6 +54,7 @@ No news in the last 1 month
 * 14/03/2024: [Tổng kết Seminar Human-Evidence Interaction: Manipulating Users in a Courtroom Environment](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16038)
 * 06/03/2024: [Talk show: The Era of Generative AI and Its Impact](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16009)
 ## [FIT-Hoat dong sinh vien](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1186)
+* 05/04/2024: [Danh sách sinh viên tham dự Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16112)
 * 02/04/2024: [Danh sách sinh viên tham gia Hội thảo Large Language Model (LLM) ngày 11/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16088)
 * 01/04/2024: [Đăng ký tham dự chương trình "Phỏng vấn thử - việc thật" năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16083)
 * 27/03/2024: [Đăng ký tham gia Hội thảo Large Language Model (LLM) ngày 11/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16075)
