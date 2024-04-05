@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **08:36:10 05/04/2024**_
+_Last update: **09:21:51 05/04/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 04/04/2024: [Ngày hội việc làm Khoa Công nghệ thông tin năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/ngay-hoi-viec-lam-khoa-cong-nghe-thong-tin-nam-2024/)
 * 04/04/2024: [Đăng ký tham dự chương trình “Phỏng vấn thử – việc thật” năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/dang-ky-tham-du-chuong-trinh-phong-van-thu-viec-that-nam-2024/)
@@ -27,6 +27,7 @@ No news in the last 1 month
 ## [FIT-Thong tin hoc bong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185)
 * 11/03/2024: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 2, NH 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16026)
 ## [FIT-Thong tin tuyen dung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265)
+* 05/04/2024: [2024-CÙNG FUJINET CHẠM ĐẾN ƯỚC MƠ KỸ SƯ PHẦN MỀM CỦA BẠN!](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16106)
 * 04/04/2024: [[CITYNOW] TUYỂN DỤNG THỰC TẬP SINH NHÂN SỰ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16104)
 * 04/04/2024: [[CITYNOW] CHƯƠNG TRÌNH INTERNSHIP](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16103)
 * 04/04/2024: [Cơ hội tham gia Dự Án Thử Nghiệm Sản Phẩm Garena](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16102)
