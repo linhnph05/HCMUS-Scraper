@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **10:16:48 05/04/2024**_
+_Last update: **11:18:04 05/04/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 04/04/2024: [Ngày hội việc làm Khoa Công nghệ thông tin năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/ngay-hoi-viec-lam-khoa-cong-nghe-thong-tin-nam-2024/)
 * 04/04/2024: [Đăng ký tham dự chương trình “Phỏng vấn thử – việc thật” năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/dang-ky-tham-du-chuong-trinh-phong-van-thu-viec-that-nam-2024/)
@@ -9,8 +9,7 @@ _Last update: **10:16:48 05/04/2024**_
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
-* 04/04/2024: [Ngày hội việc làm Khoa Công nghệ thông tin năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/ngay-hoi-viec-lam-khoa-cong-nghe-thong-tin-nam-2024/)
-* 04/04/2024: [Đăng ký tham dự chương trình “Phỏng vấn thử – việc thật” năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/dang-ky-tham-du-chuong-trinh-phong-van-thu-viec-that-nam-2024/)
+No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
@@ -27,6 +26,7 @@ No news in the last 1 month
 ## [FIT-Thong tin hoc bong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185)
 * 11/03/2024: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 2, NH 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16026)
 ## [FIT-Thong tin tuyen dung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265)
+* 05/04/2024: [Giới thiệu về công ty mgm technology partners Vietnam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16111)
 * 05/04/2024: [Hẹn gặp các HCMUS-ers ở booth KMS tại Ngày hội việc làm Khoa Công nghệ thông tin 2024!](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16105)
 * 05/04/2024: [2024-CÙNG FUJINET CHẠM ĐẾN ƯỚC MƠ KỸ SƯ PHẦN MỀM CỦA BẠN!](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16106)
 * 04/04/2024: [[CITYNOW] TUYỂN DỤNG THỰC TẬP SINH NHÂN SỰ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16104)
