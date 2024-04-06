@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **11:13:54 06/04/2024**_
+_Last update: **12:13:20 06/04/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 04/04/2024: [Ngày hội việc làm Khoa Công nghệ thông tin năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/ngay-hoi-viec-lam-khoa-cong-nghe-thong-tin-nam-2024/)
 * 04/04/2024: [Đăng ký tham dự chương trình “Phỏng vấn thử – việc thật” năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/dang-ky-tham-du-chuong-trinh-phong-van-thu-viec-that-nam-2024/)
@@ -28,6 +28,7 @@ No news in the last 1 month
 * 05/04/2024: [Danh sách sinh viên nhận học bổng "Hành trang hướng nghiệp" HK2/ 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16117)
 * 11/03/2024: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 2, NH 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16026)
 ## [FIT-Thong tin tuyen dung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265)
+* 06/04/2024: [SYSTEMEXE VIỆT NAM - BẢN TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16115)
 * 05/04/2024: [NAB StarCamp Program - Batch 6](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16116)
 * 05/04/2024: [Giới thiệu về công ty mgm technology partners Vietnam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16111)
 * 05/04/2024: [Hẹn gặp các HCMUS-ers ở booth KMS tại Ngày hội việc làm Khoa Công nghệ thông tin 2024!](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16105)
