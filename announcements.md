@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:13:37 06/04/2024**_
+_Last update: **07:23:38 06/04/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 04/04/2024: [Ngày hội việc làm Khoa Công nghệ thông tin năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/ngay-hoi-viec-lam-khoa-cong-nghe-thong-tin-nam-2024/)
 * 04/04/2024: [Đăng ký tham dự chương trình “Phỏng vấn thử – việc thật” năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/dang-ky-tham-du-chuong-trinh-phong-van-thu-viec-that-nam-2024/)
@@ -47,14 +47,12 @@ No news in the last 1 month
 * 26/03/2024: [DXC Vietnam cần gấp 5 intern Java biết tiếng Nhật lương 5 triệu](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14986)
 * 12/03/2024: [[FUJINET] Tuyển dụng FRESHER JAVA WEB DEVELOPERS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16025)
 * 07/03/2024: [[SynergieGlobal] Site Reliability Engineer - MS SQL, ASP.NET, HTML, and JavaScript](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16012)
-* 06/03/2024: [[Sun Life Việt Nam] Từ sinh viên năm hai trở thành công dân toàn cầu với mức đầu tư lên đến 1 TỈ VND!](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16008)
 ## [FIT-Hoi thao/Hoi Nghi](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=493)
 * 02/04/2024: [Thông báo thay đổi thời gian và địa điểm tổ chức Seminar về AI](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16087)
 * 28/03/2024: [Tổng kết Talkshow The Era of Generative AI and Its Impact](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16079)
 * 25/03/2024: [Đăng ký tham dự Seminar về AI](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16065)
 * 25/03/2024: [Thông báo danh sách tham dự Talkshow The Era of Generative AI and Its Impact](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16063)
 * 14/03/2024: [Tổng kết Seminar Human-Evidence Interaction: Manipulating Users in a Courtroom Environment](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16038)
-* 06/03/2024: [Talk show: The Era of Generative AI and Its Impact](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16009)
 ## [FIT-Hoat dong sinh vien](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1186)
 * 05/04/2024: [Danh sách sinh viên tham dự Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16112)
 * 02/04/2024: [Danh sách sinh viên tham gia Hội thảo Large Language Model (LLM) ngày 11/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16088)
@@ -95,7 +93,6 @@ No news in the last 1 month
 * 08/03/2024: [Đăng ký tham quan công ty Fujinet Systems ngày 9/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16015)
 * 08/03/2024: [Danh sách tham quan công ty TMA Technology Group ngày 26/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16014)
 * 08/03/2024: [Danh sách tham quan công ty TecAlliance Việt Nam ngày 29/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16013)
-* 06/03/2024: [Danh sách sinh viên tham quan công ty FPT Telecom](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16007)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 05/04/2024: [Danh sach sinh viên tốt nghiệp đại học tháng 3/2024 – chương trình Liên thông đại học](https://hcmus.edu.vn/danh-sach-sinh-vien-tot-nghiep-dai-hoc-thang-3-2024-chuong-trinh-lien-thong-dai-hoc/)
 * 04/04/2024: [THÔNG BÁO ĐĂNG KÝ ĐỀ TÀI CẤP ĐHQG-HCM MỚI THỰC HIỆN TỪ NĂM 2025 – GIAI ĐOẠN ĐỀ XUẤT](https://hcmus.edu.vn/thong-bao-dang-ky-de-tai-cap-dhqg-hcm-moi-thuc-hien-tu-nam-2025-giai-doan-de-xuat/)
@@ -147,8 +144,6 @@ No news in the last 1 month
 * 07/03/2024: [Quy định chuẩn đầu ra ngoại ngữ chương trình Cử nhân tài năng Khóa 2023 về sau](https://hcmus.edu.vn/quy-dinh-chuan-dau-ra-ngoai-ngu-chuong-trinh-cu-nhan-tai-nang-khoa-2023-ve-sau/)
 * 07/03/2024: [THÔNG TƯ 20 QUY ĐỊNH TUYỂN CHỌN, GIAO TRỰC TIẾP THỰC HIỆN NHIỆM VỤ KHCN SỬ DỤNG NGÂN SÁCH NHÀ NƯỚC](https://hcmus.edu.vn/thong-tu-20-quy-dinh-tuyen-chon-giao-truc-tiep-thuc-hien-nhiem-vu-khcn-su-dung-ngan-sach-nha-nuoc/)
 * 07/03/2024: [Chương trình đào tạo Liên thông đại học ngành Công nghệ thông tin – hệ chính quy](https://hcmus.edu.vn/chuong-trinh-dao-tao-lien-thong-dai-hoc-nganh-cong-nghe-thong-tin-he-chinh-quy/)
-* 06/03/2024: [THÔNG BÁO ĐĂNG KÝ NHIỆM VỤ KHCN ĐỂ HÌNH THÀNH PHÁT TRIỂN TRUNG TÂM NGHIÊN CỨU ĐẠT CHUẨN QUỐC TẾ](https://hcmus.edu.vn/thong-bao-dang-ky-nhiem-vu-khcn-de-hinh-thanh-phat-trien-trung-tam-nghien-cuu-dat-chuan-quoc-te/)
-* 06/03/2024: [THÔNG BÁO ĐỀ XUẤT NHIỆM VỤ NGHIÊN CỨU ĐỀ XUẤT ĐẶT HÀNG NHIỆM VỤ NCKH & PHÁT TRIỂN CÔNG NGHỆ BÌNH DƯƠNG 2024](https://hcmus.edu.vn/thong-bao-de-xuat-nhiem-vu-nghien-cuu-de-xuat-dat-hang-nhiem-vu-nckh-phat-trien-cong-nghe-binh-duong-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 05/04/2024: [Danh sach sinh viên tốt nghiệp đại học tháng 3/2024 – chương trình Liên thông đại học](https://hcmus.edu.vn/danh-sach-sinh-vien-tot-nghiep-dai-hoc-thang-3-2024-chuong-trinh-lien-thong-dai-hoc/)
 * 03/04/2024: [Danh sách sinh viên tốt nghiệp đại học – đợt tháng 3 năm 2024](https://hcmus.edu.vn/danh-sach-tot-nghiep-dai-hoc-dot-thang-3-2024/)
