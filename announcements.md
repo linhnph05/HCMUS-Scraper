@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:13:19 08/04/2024**_
+_Last update: **07:21:54 08/04/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 04/04/2024: [Ngày hội việc làm Khoa Công nghệ thông tin năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/ngay-hoi-viec-lam-khoa-cong-nghe-thong-tin-nam-2024/)
 * 04/04/2024: [Đăng ký tham dự chương trình “Phỏng vấn thử – việc thật” năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/04/dang-ky-tham-du-chuong-trinh-phong-van-thu-viec-that-nam-2024/)
@@ -90,9 +90,6 @@ No news in the last 1 month
 * 11/03/2024: [Danh sách sinh viên tham gia Hội thảo Hành trang vào nghề: Tập huấn kỹ năng CV, phỏng vấn và giao tiếp (lớp 1 - lớp 3)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16022)
 * 11/03/2024: [Buổi Giới thiệu Học bổng Vingroup 13/3/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16019)
 * 09/03/2024: [Đăng ký tham gia Hội thảo hành trang vào nghề: Tập huấn kỹ năng viết CV, phỏng vấn và giao tiếp (lớp 1 - lớp 3)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16017)
-* 08/03/2024: [Đăng ký tham quan công ty Fujinet Systems ngày 9/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16015)
-* 08/03/2024: [Danh sách tham quan công ty TMA Technology Group ngày 26/03](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16014)
-* 08/03/2024: [Danh sách tham quan công ty TecAlliance Việt Nam ngày 29/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16013)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 05/04/2024: [Danh sach sinh viên tốt nghiệp đại học tháng 3/2024 – chương trình Liên thông đại học](https://hcmus.edu.vn/danh-sach-sinh-vien-tot-nghiep-dai-hoc-thang-3-2024-chuong-trinh-lien-thong-dai-hoc/)
 * 04/04/2024: [THÔNG BÁO ĐĂNG KÝ ĐỀ TÀI CẤP ĐHQG-HCM MỚI THỰC HIỆN TỪ NĂM 2025 – GIAI ĐOẠN ĐỀ XUẤT](https://hcmus.edu.vn/thong-bao-dang-ky-de-tai-cap-dhqg-hcm-moi-thuc-hien-tu-nam-2025-giai-doan-de-xuat/)
@@ -140,7 +137,6 @@ No news in the last 1 month
 * 11/03/2024: [THÔNG BÁO LẦN 2 HỘI NGHỊ KHOA HỌC VÀ TRIỄN LÃM QUỐC TẾ LẦN 7 VỀ ĐIỀU KHIỂN VÀ TỰ ĐỘNG HÓA VCCA-2024](https://hcmus.edu.vn/thong-bao-lan-2-hoi-nghi-khoa-hoc-va-trien-lam-quoc-te-lan-7-ve-dieu-khien-va-tu-dong-hoa-vcca-2024/)
 * 11/03/2024: [THÔNG BÁO LẦN 1 HỘI NGHỊ KHOA HỌC 2024 VIỆN PASTEUR THÀNH PHỐ HỒ CHÍ MINH](https://hcmus.edu.vn/thong-bao-lan-1-hoi-nghi-khoa-hoc-2024-vien-pasteur-thanh-pho-ho-chi-minh/)
 * 11/03/2024: [[Thông báo] Buổi Giới thiệu Học bổng Vingroup đến sinh viên Trường Đại học Khoa học Tự nhiên, ĐH Quốc gia TP Hồ Chí Minh](https://hcmus.edu.vn/thong-bao-buoi-gioi-thieu-hoc-bong-vingroup-den-sinh-vien-truong-dai-hoc-khoa-hoc-tu-nhien-dh-quoc-gia-tp-ho-chi-minh/)
-* 08/03/2024: [THÔNG BÁO ĐĂNG KÝ ĐỀ XUẤT ĐỀ TÀI KHCN CẤP BỘ NĂM 2025 CỦA CHƯƠNG TRÌNH TOÁN](https://hcmus.edu.vn/thong-bao-dang-ky-de-xuat-de-tai-khcn-cap-bo-nam-2025-cua-chuong-trinh-toan/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 05/04/2024: [Danh sach sinh viên tốt nghiệp đại học tháng 3/2024 – chương trình Liên thông đại học](https://hcmus.edu.vn/danh-sach-sinh-vien-tot-nghiep-dai-hoc-thang-3-2024-chuong-trinh-lien-thong-dai-hoc/)
 * 03/04/2024: [Danh sách sinh viên tốt nghiệp đại học – đợt tháng 3 năm 2024](https://hcmus.edu.vn/danh-sach-tot-nghiep-dai-hoc-dot-thang-3-2024/)
