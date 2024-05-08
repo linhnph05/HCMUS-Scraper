@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **21:14:13 08/05/2024**_
+_Last update: **22:15:19 08/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 06/05/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-sv-danh-gia-mon-hoc-giang-vien-hk2-2023-2024-dot-bo-sung/)
 * 03/05/2024: [[SHCD]_ Thông báo đăng ký bổ sung tham gia sinh hoạt công dân cuối khóa dành cho khóa 2020 trở về trước.](https://www.ctda.hcmus.edu.vn/vi/2024/05/shcd_-thong-bao-dang-ky-bo-sung-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-danh-cho-khoa-2020-tro-ve-truoc/)
@@ -23,16 +23,26 @@ No news in the last 1 month
 * 3/5/2024: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16168)
 * 3/5/2024: [Thông báo đăng ký phương thức đào tạo dành cho học viên cao học khoá 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16167)
 * 3/5/2024: [[Hỗ trợ truyền thông] Các chương trình học bổng đào tạo do Quỹ VinIF tài trợ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16165)
-## [FIT-Thong tin hoc bong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185)
+## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 07/05/2024: [Đăng ký tham quan công ty KMS Technology ngày 21/05](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16174)
+* 07/05/2024: [Danh sách sinh viên tham quan công ty VNG ngày 20/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16173)
+* 06/05/2024: [Chương trình New Southbound Policy Elite Study Program - Trường ĐH Quốc lập Chung Hsing](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16170)
+* 03/05/2024: [[Hỗ trợ truyền thông] Các chương trình học bổng đào tạo do Quỹ VinIF tài trợ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16165)
+* 03/05/2024: [[SHCD]_ Thông báo đăng ký bổ sung tham gia sinh hoạt công dân cuối khóa dành cho khóa 2020 trở về trước.](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16166)
+## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
-## [FIT-Thong tin tuyen dung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265)
-No news in the last 1 month
-## [FIT-Hoi thao/Hoi Nghi](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=493)
-No news in the last 1 month
-## [FIT-Hoat dong sinh vien](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1186)
-No news in the last 1 month
-## [FIT-Thong bao chung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=57)
-No news in the last 1 month
+## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 03/05/2024: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16168)
+* 10/04/2024: [Tổng kết Seminar về AI](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16126)
+* 08/04/2024: [Thông báo danh sách sinh viên đăng ký tham gia Seminar về AI ngày 09/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16118)
+## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 22/04/2024: [[Phỏng vấn thử - việc thật] V/v Nộp giấy xác nhận phỏng vấn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16150)
+## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 25/04/2024: [Cơ hội việc làm tại AIOZ VN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16159)
+* 25/04/2024: [[Q2,Q3] Golden Owl Solutions Tuyển dụng Thực Tập Sinh DevOps](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16157)
+* 24/04/2024: [Action Square tuyển dụng nhân sự](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16154)
+* 24/04/2024: [[FUJINET] Tuyển dụng FRESHER JAVA DEVELOPERS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16153)
+* 19/04/2024: [[Công ty Cổ phần IVS] Chương trình nghiên cứu mô hình Robot bầy đàn (Swarm Robotics) thực hiện các nhiệm vụ trong môi trường hạn chế một cách hiệu quả](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16148)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 08/05/2024: [Thông tin Học bổng Lương Văn Can dành cho Sinh viên Đại học, năm học 2024 – 2025](https://hcmus.edu.vn/thong-tin-hoc-bong-luong-van-can-danh-cho-sinh-vien-dai-hoc-nam-hoc-2024-2025/)
 * 08/05/2024: [Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2023-2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-cua-tap-doan-dien-luc-viet-nam-nam-hoc-2023-2024/)
