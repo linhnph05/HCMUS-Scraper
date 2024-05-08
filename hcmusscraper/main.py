@@ -39,49 +39,49 @@ sections = ["FIT-Thong tin hoc bong",
             "FIT-Hoat dong sinh vien",
             "FIT-Thong bao chung",]
 
-for url, section in zip(start_urls, sections):
-    driver.get(url)
-    print(url)
-    time.sleep(4)
-
-    print("Page 1")
-    dates = driver.find_elements(By.CSS_SELECTOR, "span.time")
-    urls = driver.find_elements(By.CSS_SELECTOR, "ul.list-posts a")
-    titles = driver.find_elements(By.CSS_SELECTOR, "ul.list-posts a > span")
-
-    for date, link, title in zip(dates, urls, titles):
-        year = datetime.strptime(date.text, "%d/%m/%Y").year
-        month = datetime.strptime(date.text, "%d/%m/%Y").month
-        day = datetime.strptime(date.text, "%d/%m/%Y").day
-        if ((datetime.now() - datetime(year, month, day)).days <= 30):
-            item = {
-                "tieuDe": title.text,
-                "url": link.get_attribute("href"),
-                "date": date.text,
-            }
-            dataList[section].append(item)
-
-    print("Page 2")
-    nextPage = driver.find_elements(By.CSS_SELECTOR, "ul.pagination span")
-    nextPage[2].click()
-    time.sleep(4)
-    dates = driver.find_elements(By.CSS_SELECTOR, "span.time")
-    urls = driver.find_elements(By.CSS_SELECTOR, "ul.list-posts a")
-    titles = driver.find_elements(By.CSS_SELECTOR, "ul.list-posts a > span")
-
-    for date, link, title in zip(dates, urls, titles):
-        year = datetime.strptime(date.text, "%d/%m/%Y").year
-        month = datetime.strptime(date.text, "%d/%m/%Y").month
-        day = datetime.strptime(date.text, "%d/%m/%Y").day
-        if ((datetime.now() - datetime(year, month, day)).days <= 30):
-            item = {
-                "tieuDe": title.text,
-                "url": link.get_attribute("href"),
-                "date": date.text,
-            }
-            dataList[section].append(item)
-
-driver.quit()
+# for url, section in zip(start_urls, sections):
+#     driver.get(url)
+#     print(url)
+#     time.sleep(4)
+#
+#     print("Page 1")
+#     dates = driver.find_elements(By.CSS_SELECTOR, "span.time")
+#     urls = driver.find_elements(By.CSS_SELECTOR, "ul.list-posts a")
+#     titles = driver.find_elements(By.CSS_SELECTOR, "ul.list-posts a > span")
+#
+#     for date, link, title in zip(dates, urls, titles):
+#         year = datetime.strptime(date.text, "%d/%m/%Y").year
+#         month = datetime.strptime(date.text, "%d/%m/%Y").month
+#         day = datetime.strptime(date.text, "%d/%m/%Y").day
+#         if ((datetime.now() - datetime(year, month, day)).days <= 30):
+#             item = {
+#                 "tieuDe": title.text,
+#                 "url": link.get_attribute("href"),
+#                 "date": date.text,
+#             }
+#             dataList[section].append(item)
+#
+#     print("Page 2")
+#     nextPage = driver.find_elements(By.CSS_SELECTOR, "ul.pagination span")
+#     nextPage[2].click()
+#     time.sleep(4)
+#     dates = driver.find_elements(By.CSS_SELECTOR, "span.time")
+#     urls = driver.find_elements(By.CSS_SELECTOR, "ul.list-posts a")
+#     titles = driver.find_elements(By.CSS_SELECTOR, "ul.list-posts a > span")
+#
+#     for date, link, title in zip(dates, urls, titles):
+#         year = datetime.strptime(date.text, "%d/%m/%Y").year
+#         month = datetime.strptime(date.text, "%d/%m/%Y").month
+#         day = datetime.strptime(date.text, "%d/%m/%Y").day
+#         if ((datetime.now() - datetime(year, month, day)).days <= 30):
+#             item = {
+#                 "tieuDe": title.text,
+#                 "url": link.get_attribute("href"),
+#                 "date": date.text,
+#             }
+#             dataList[section].append(item)
+#
+# driver.quit()
 
 
 
