@@ -19,6 +19,7 @@ class HcmusspiderSpider(scrapy.Spider):
         'https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/',
         'https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/',
         'https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36',
+        'https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53',
         'https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/',
         'https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/',
         'https://hcmus.edu.vn/category/tuyen-dung-viec-lam/',
@@ -33,11 +34,11 @@ class HcmusspiderSpider(scrapy.Spider):
         "Thong tin can biet": [],
         "Hoat dong sinh vien": [],
         "FIT-Tin tuc": [],
-        "FIT-Thong tin hoc bong": [],
-        "FIT-Thong tin tuyen dung": [],
-        "FIT-Hoi thao/Hoi Nghi": [],
-        "FIT-Hoat dong sinh vien": [],
-        "FIT-Thong bao chung": [],
+        "FIT-THÔNG TIN CHUNG": [],
+        "FIT-THÔNG TIN HỌC BỔNG": [],
+        "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [],
+        "FIT-HOẠT ĐỘNG SINH VIÊN": [],
+        "FIT-THÔNG TIN TUYỂN DỤNG": [],
         "HCMUS-Thong tin nguoi hoc": [],
         "HCMUS-Thong tin sinh vien": [],
         "HCMUS-Tuyen dung": [],
@@ -58,6 +59,8 @@ class HcmusspiderSpider(scrapy.Spider):
             yield from self.parsePage(response, "Hoat dong sinh vien")
         elif 'https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36' in response.url:
             self.parseFIT(response)
+        elif 'https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53' in response.url:
+            self.parseFIT2(response)
         elif 'https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/' in response.url:
             yield from self.parseHCMUS1(response, "HCMUS-Thong tin nguoi hoc")
         elif 'https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/' in response.url:
@@ -115,6 +118,47 @@ class HcmusspiderSpider(scrapy.Spider):
                     "date": date,
                 }
                 self.resultJson["FIT-Tin tuc"].append(item)
+
+    def parseFIT2(self, response):
+        posts = response.css("#dnn_ContentPane > .panel.panel-info")
+        for post in posts:
+            heading = post.css(".Head::text").get()
+            print(heading)
+            if(heading == "THÔNG BÁO CHƯƠNG TRÌNH CHÍNH QUY" or
+                heading == "THÔNG BÁO CHƯƠNG TRÌNH LIÊN THÔNG (HCĐH)" or
+                heading == "THÔNG BÁO BẬC CAO ĐẲNG" or
+                heading == "THÔNG BÁO SAU ĐẠI HỌC" or
+                heading == "TIN TỨC THỜI SỰ CNTT"):
+
+                continue
+            section = "FIT-" + heading
+            print(section)
+            rows = post.css("tr")
+            for row in rows:
+                dayDirt = row.css(".day_month::text").get()
+                print(dayDirt)
+                postTitleDirt = row.css(".post_title > a::text").get()
+                print(postTitleDirt)
+                date = cleanString(dayDirt)
+                print(date)
+                postTitle = cleanString(postTitleDirt)
+                print(postTitle)
+                link = row.css(".post_title > a::attr(href)").get()
+                print(link)
+
+                year = datetime.strptime(date, "%d/%m/%Y").year
+                month = datetime.strptime(date, "%d/%m/%Y").month
+                day = datetime.strptime(date, "%d/%m/%Y").day
+                if ((datetime.now() - datetime(year, month, day)).days <= 30):
+                    item = {
+                        "tieuDe": postTitle,
+                        "url": 'https://www.fit.hcmus.edu.vn/vn/' + link,
+                        "date": date,
+                    }
+                    print(item)
+                    self.resultJson[section].append(item)
+
+
 
     def parseHCMUS1(self, response, page):
         posts = response.css('.cmsmasters_post_cont_wrap')
