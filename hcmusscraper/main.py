@@ -27,17 +27,17 @@ with open('output.json', 'r') as json_file:
 
 dataList = data[0]
 
-start_urls = ["https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185",
-              "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265",
-              "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=493",
-              "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1186",
-              "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=57",]
-
-sections = ["FIT-Thong tin hoc bong",
-            "FIT-Thong tin tuyen dung",
-            "FIT-Hoi thao/Hoi Nghi",
-            "FIT-Hoat dong sinh vien",
-            "FIT-Thong bao chung",]
+# start_urls = ["https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185",
+#               "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265",
+#               "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=493",
+#               "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1186",
+#               "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=57",]
+#
+# sections = ["FIT-Thong tin hoc bong",
+#             "FIT-Thong tin tuyen dung",
+#             "FIT-Hoi thao/Hoi Nghi",
+#             "FIT-Hoat dong sinh vien",
+#             "FIT-Thong bao chung",]
 
 # for url, section in zip(start_urls, sections):
 #     driver.get(url)
@@ -101,11 +101,11 @@ with open('../announcements.md', 'w') as md_file:
         "Thong tin can biet": "https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/",
         "Hoat dong sinh vien": "https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/",
         "FIT-Tin tuc": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36",
-        "FIT-Thong tin hoc bong": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1185",
-        "FIT-Thong tin tuyen dung": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=265",
-        "FIT-Hoi thao/Hoi Nghi": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=493",
-        "FIT-Hoat dong sinh vien": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=1186",
-        "FIT-Thong bao chung": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=57",
+        "FIT-THÔNG TIN CHUNG": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53",
+        "FIT-THÔNG TIN HỌC BỔNG": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53",
+        "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53",
+        "FIT-HOẠT ĐỘNG SINH VIÊN": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53",
+        "FIT-THÔNG TIN TUYỂN DỤNG": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53",
         "HCMUS-Thong tin nguoi hoc": "https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/",
         "HCMUS-Thong tin sinh vien": "https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/",
         "HCMUS-Tuyen dung": "https://hcmus.edu.vn/category/tuyen-dung-viec-lam/",
