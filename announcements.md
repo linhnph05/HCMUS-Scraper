@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **16:15:11 09/05/2024**_
+_Last update: **17:16:16 09/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 06/05/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-sv-danh-gia-mon-hoc-giang-vien-hk2-2023-2024-dot-bo-sung/)
 * 03/05/2024: [[SHCD]_ Thông báo đăng ký bổ sung tham gia sinh hoạt công dân cuối khóa dành cho khóa 2020 trở về trước.](https://www.ctda.hcmus.edu.vn/vi/2024/05/shcd_-thong-bao-dang-ky-bo-sung-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-danh-cho-khoa-2020-tro-ve-truoc/)
@@ -43,6 +43,7 @@ No news in the last 1 month
 * 24/04/2024: [[FUJINET] Tuyển dụng FRESHER JAVA DEVELOPERS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16153)
 * 19/04/2024: [[Công ty Cổ phần IVS] Chương trình nghiên cứu mô hình Robot bầy đàn (Swarm Robotics) thực hiện các nhiệm vụ trong môi trường hạn chế một cách hiệu quả](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16148)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 09/05/2024: [ĐỀ CƯƠNG ÔN TẬP MÔN KIẾN THỨC CHUNG KỲ THI TUYỂN DỤNG VIÊN CHỨC NĂM 2024](https://hcmus.edu.vn/de-cuong-on-tap-mon-kien-thuc-chung-ky-thi-tuyen-dung-vien-chuc-nam-2024/)
 * 08/05/2024: [Thông tin Học bổng Lương Văn Can dành cho Sinh viên Đại học, năm học 2024 – 2025](https://hcmus.edu.vn/thong-tin-hoc-bong-luong-van-can-danh-cho-sinh-vien-dai-hoc-nam-hoc-2024-2025/)
 * 08/05/2024: [Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2023-2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-cua-tap-doan-dien-luc-viet-nam-nam-hoc-2023-2024/)
 * 06/05/2024: [THÔNG BÁO SỐ 2 HỘI THẢO QUỐC GIA NHỮNG TIẾN BỘ TRONG XÂY DỰNG, KIẾN TRÚC, KINH TẾ VÀ CÔNG NGHỆ 2024](https://hcmus.edu.vn/thong-bao-so-2-hoi-thao-quoc-gia-nhung-tien-bo-trong-xay-dung-kien-truc-kinh-te-va-cong-nghe-2024/)
@@ -93,6 +94,7 @@ No news in the last 1 month
 * 10/04/2024: [Danh sách sinh viên tốt nghiệp đại học – đợt tháng 3 năm 2024 Update](https://hcmus.edu.vn/danh-sach-sinh-vien-tot-nghiep-dai-hoc-dot-thang-3-nam-2024-update/)
 * 09/04/2024: [Thông báo học bổng dành cho Sinh viên có thành tích học tập xuất sắc, năng lực nghiên cứu tốt và giỏi ngoại ngữ đợt 2](https://hcmus.edu.vn/thong-bao-hoc-bong-danh-cho-sinh-vien-co-thanh-tich-hoc-tap-xuat-sac-nang-luc-nghien-cuu-tot-va-gioi-ngoai-ngu-dot-2/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
+* 09/05/2024: [ĐỀ CƯƠNG ÔN TẬP MÔN KIẾN THỨC CHUNG KỲ THI TUYỂN DỤNG VIÊN CHỨC NĂM 2024](https://hcmus.edu.vn/de-cuong-on-tap-mon-kien-thuc-chung-ky-thi-tuyen-dung-vien-chuc-nam-2024/)
 * 04/05/2024: [Tuyển dụng_Chuyên viên phụ trách Tâm lý sinh viên_P.Công tác Sinh viên](https://hcmus.edu.vn/tuyen-dung_chuyen-vien-phu-trach-tam-ly-sinh-vien_p-cong-tac-sinh-vien/)
 * 17/04/2024: [Thông báo tuyển dụng Khoa Vật lý – Vật lý Kỹ thuật](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-vat-ly-vat-ly-ky-thuat/)
 * 17/04/2024: [Thông báo tuyển dụng Nghiên cứu viên Phòng thí nghiệm Kỹ nghệ Mô và Vật liệu Y sinh](https://hcmus.edu.vn/thong-bao-tuyen-dung-nghien-cuu-vien-phong-thi-nghiem-ky-nghe-mo-va-vat-lieu-y-sinh/)
