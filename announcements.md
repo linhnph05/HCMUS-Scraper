@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **14:15:18 10/05/2024**_
+_Last update: **15:18:33 10/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 06/05/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-sv-danh-gia-mon-hoc-giang-vien-hk2-2023-2024-dot-bo-sung/)
 * 03/05/2024: [[SHCD]_ Thông báo đăng ký bổ sung tham gia sinh hoạt công dân cuối khóa dành cho khóa 2020 trở về trước.](https://www.ctda.hcmus.edu.vn/vi/2024/05/shcd_-thong-bao-dang-ky-bo-sung-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-danh-cho-khoa-2020-tro-ve-truoc/)
@@ -37,11 +37,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 22/04/2024: [[Phỏng vấn thử - việc thật] V/v Nộp giấy xác nhận phỏng vấn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16150)
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 10/05/2024: [Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Software Developer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14749)
+* 10/05/2024: [Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Embedded MBD Engineer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14748)
 * 25/04/2024: [Cơ hội việc làm tại AIOZ VN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16159)
 * 25/04/2024: [[Q2,Q3] Golden Owl Solutions Tuyển dụng Thực Tập Sinh DevOps](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16157)
 * 24/04/2024: [Action Square tuyển dụng nhân sự](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16154)
-* 24/04/2024: [[FUJINET] Tuyển dụng FRESHER JAVA DEVELOPERS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16153)
-* 19/04/2024: [[Công ty Cổ phần IVS] Chương trình nghiên cứu mô hình Robot bầy đàn (Swarm Robotics) thực hiện các nhiệm vụ trong môi trường hạn chế một cách hiệu quả](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16148)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 09/05/2024: [ĐỀ CƯƠNG ÔN TẬP MÔN KIẾN THỨC CHUNG KỲ THI TUYỂN DỤNG VIÊN CHỨC NĂM 2024](https://hcmus.edu.vn/de-cuong-on-tap-mon-kien-thuc-chung-ky-thi-tuyen-dung-vien-chuc-nam-2024/)
 * 08/05/2024: [Thông tin Học bổng Lương Văn Can dành cho Sinh viên Đại học, năm học 2024 – 2025](https://hcmus.edu.vn/thong-tin-hoc-bong-luong-van-can-danh-cho-sinh-vien-dai-hoc-nam-hoc-2024-2025/)
