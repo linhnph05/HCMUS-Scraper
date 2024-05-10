@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:14:23 10/05/2024**_
+_Last update: **07:33:08 10/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 06/05/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-sv-danh-gia-mon-hoc-giang-vien-hk2-2023-2024-dot-bo-sung/)
 * 03/05/2024: [[SHCD]_ Thông báo đăng ký bổ sung tham gia sinh hoạt công dân cuối khóa dành cho khóa 2020 trở về trước.](https://www.ctda.hcmus.edu.vn/vi/2024/05/shcd_-thong-bao-dang-ky-bo-sung-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-danh-cho-khoa-2020-tro-ve-truoc/)
@@ -71,8 +71,6 @@ No news in the last 1 month
 * 11/04/2024: [THÔNG BÁO VỀ VIỆC KIẾN NGHỊ SỬA ĐỔI VỀ QUY ĐỊNH TỔ CHỨC, QUẢN LÝ THỰC HIỆN ĐỀ TÀI NCKH TRONG ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH](https://hcmus.edu.vn/thong-bao-ve-viec-kien-nghi-sua-doi-ve-quy-dinh-to-chuc-quan-ly-thuc-hien-de-tai-nckh-trong-dai-hoc-quoc-gia-tp-ho-chi-minh/)
 * 11/04/2024: [Thông báo nghỉ Giỗ tổ Hùng Vương năm 2024](https://hcmus.edu.vn/thong-bao-nghi-gio-to-hung-vuong-nam-2024/)
 * 10/04/2024: [Danh sách sinh viên tốt nghiệp đại học – đợt tháng 3 năm 2024 Update](https://hcmus.edu.vn/danh-sach-sinh-vien-tot-nghiep-dai-hoc-dot-thang-3-nam-2024-update/)
-* 09/04/2024: [TƯ VẤN CHUYỂN GIAO CÔNG NGHỆ CỦA SỞ KHCN TP. HỒ CHÍ MINH](https://hcmus.edu.vn/tu-van-chuyen-giao-cong-nghe-cua-so-khcn-tp-ho-chi-minh/)
-* 09/04/2024: [Thông báo học bổng dành cho Sinh viên có thành tích học tập xuất sắc, năng lực nghiên cứu tốt và giỏi ngoại ngữ đợt 2](https://hcmus.edu.vn/thong-bao-hoc-bong-danh-cho-sinh-vien-co-thanh-tich-hoc-tap-xuat-sac-nang-luc-nghien-cuu-tot-va-gioi-ngoai-ngu-dot-2/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 08/05/2024: [Thông tin Học bổng Lương Văn Can dành cho Sinh viên Đại học, năm học 2024 – 2025](https://hcmus.edu.vn/thong-tin-hoc-bong-luong-van-can-danh-cho-sinh-vien-dai-hoc-nam-hoc-2024-2025/)
 * 08/05/2024: [Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2023-2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-cua-tap-doan-dien-luc-viet-nam-nam-hoc-2023-2024/)
@@ -92,7 +90,6 @@ No news in the last 1 month
 * 16/04/2024: [Thông báo Chương trình học bổng Maha năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024/)
 * 11/04/2024: [Thông báo nghỉ Giỗ tổ Hùng Vương năm 2024](https://hcmus.edu.vn/thong-bao-nghi-gio-to-hung-vuong-nam-2024/)
 * 10/04/2024: [Danh sách sinh viên tốt nghiệp đại học – đợt tháng 3 năm 2024 Update](https://hcmus.edu.vn/danh-sach-sinh-vien-tot-nghiep-dai-hoc-dot-thang-3-nam-2024-update/)
-* 09/04/2024: [Thông báo học bổng dành cho Sinh viên có thành tích học tập xuất sắc, năng lực nghiên cứu tốt và giỏi ngoại ngữ đợt 2](https://hcmus.edu.vn/thong-bao-hoc-bong-danh-cho-sinh-vien-co-thanh-tich-hoc-tap-xuat-sac-nang-luc-nghien-cuu-tot-va-gioi-ngoai-ngu-dot-2/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 09/05/2024: [ĐỀ CƯƠNG ÔN TẬP MÔN KIẾN THỨC CHUNG KỲ THI TUYỂN DỤNG VIÊN CHỨC NĂM 2024](https://hcmus.edu.vn/de-cuong-on-tap-mon-kien-thuc-chung-ky-thi-tuyen-dung-vien-chuc-nam-2024/)
 * 04/05/2024: [Tuyển dụng_Chuyên viên phụ trách Tâm lý sinh viên_P.Công tác Sinh viên](https://hcmus.edu.vn/tuyen-dung_chuyen-vien-phu-trach-tam-ly-sinh-vien_p-cong-tac-sinh-vien/)
@@ -113,4 +110,3 @@ No news in the last 1 month
 * 22/04/2024: [Chương trình học bổng của Ninety Eight](https://hcmus.edu.vn/chuong-trinh-hoc-bong-cua-ninety-eight/)
 * 22/04/2024: [Chương trình học bổng bậc Đại học Panasonic năm 2024](https://hcmus.edu.vn/chuong-trinh-hoc-bong-bac-dai-hoc-panasonic-nam-2024/)
 * 16/04/2024: [Thông báo Chương trình học bổng Maha năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024/)
-* 09/04/2024: [Thông báo học bổng dành cho Sinh viên có thành tích học tập xuất sắc, năng lực nghiên cứu tốt và giỏi ngoại ngữ đợt 2](https://hcmus.edu.vn/thong-bao-hoc-bong-danh-cho-sinh-vien-co-thanh-tich-hoc-tap-xuat-sac-nang-luc-nghien-cuu-tot-va-gioi-ngoai-ngu-dot-2/)
