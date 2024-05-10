@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:07:56 10/05/2024",
+  "Update time": "09:07:02 10/05/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)",
@@ -32,6 +32,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Thông báo thay đổi địa điểm tổ chức Seminar Bộ môn Công nghệ Tri thức năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16181",
+      "date": "10/5/2024"
+    },
     {
       "tieuDe": "Công bố đề án tuyển sinh trình độ đại học tại trường Đại học Khoa học tự nhiên, ĐHQG-HCM năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16177",
@@ -76,11 +81,6 @@
       "tieuDe": "Thông báo đăng ký phương thức đào tạo dành cho học viên cao học khoá 33/2023",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16167",
       "date": "3/5/2024"
-    },
-    {
-      "tieuDe": "[Hỗ trợ truyền thông] Các chương trình học bổng đào tạo do Quỹ VinIF tài trợ",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16165",
-      "date": "3/5/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -113,6 +113,11 @@
   "FIT-THÔNG TIN HỌC BỔNG": [],
   "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
     {
+      "tieuDe": "Thông báo thay đổi địa điểm tổ chức Seminar Bộ môn Công nghệ Tri thức năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16181",
+      "date": "10/05/2024"
+    },
+    {
       "tieuDe": "Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16168",
       "date": "03/05/2024"
@@ -132,13 +137,13 @@
   ],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
-      "tieuDe": "Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Software Developer",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14749",
+      "tieuDe": "Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Embedded MBD Engineer",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14748",
       "date": "10/05/2024"
     },
     {
-      "tieuDe": "Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Embedded MBD Engineer",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14748",
+      "tieuDe": "Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Software Developer",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14749",
       "date": "10/05/2024"
     },
     {
