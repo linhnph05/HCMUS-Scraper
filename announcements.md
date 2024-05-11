@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:14:25 11/05/2024**_
+_Last update: **07:29:12 11/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 06/05/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-sv-danh-gia-mon-hoc-giang-vien-hk2-2023-2024-dot-bo-sung/)
 * 03/05/2024: [[SHCD]_ Thông báo đăng ký bổ sung tham gia sinh hoạt công dân cuối khóa dành cho khóa 2020 trở về trước.](https://www.ctda.hcmus.edu.vn/vi/2024/05/shcd_-thong-bao-dang-ky-bo-sung-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-danh-cho-khoa-2020-tro-ve-truoc/)
@@ -34,7 +34,6 @@ No news in the last 1 month
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 10/05/2024: [Thông báo thay đổi địa điểm tổ chức Seminar Bộ môn Công nghệ Tri thức năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16181)
 * 03/05/2024: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16168)
-* 10/04/2024: [Tổng kết Seminar về AI](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16126)
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 22/04/2024: [[Phỏng vấn thử - việc thật] V/v Nộp giấy xác nhận phỏng vấn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16150)
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
@@ -71,7 +70,6 @@ No news in the last 1 month
 * 12/04/2024: [THÔNG BÁO VỀ VIỆC ƯU TIÊN XÉT DUYỆT ĐỀ TÀI ĐHQG A, B NĂM 2025 CÓ HỢP TÁC QUỐC TẾ](https://hcmus.edu.vn/thong-bao-ve-viec-uu-tien-xet-duyet-de-tai-dhqg-a-b-nam-2025-co-hop-tac-quoc-te/)
 * 11/04/2024: [THÔNG BÁO VỀ VIỆC KIẾN NGHỊ SỬA ĐỔI VỀ QUY ĐỊNH TỔ CHỨC, QUẢN LÝ THỰC HIỆN ĐỀ TÀI NCKH TRONG ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH](https://hcmus.edu.vn/thong-bao-ve-viec-kien-nghi-sua-doi-ve-quy-dinh-to-chuc-quan-ly-thuc-hien-de-tai-nckh-trong-dai-hoc-quoc-gia-tp-ho-chi-minh/)
 * 11/04/2024: [Thông báo nghỉ Giỗ tổ Hùng Vương năm 2024](https://hcmus.edu.vn/thong-bao-nghi-gio-to-hung-vuong-nam-2024/)
-* 10/04/2024: [Danh sách sinh viên tốt nghiệp đại học – đợt tháng 3 năm 2024 Update](https://hcmus.edu.vn/danh-sach-sinh-vien-tot-nghiep-dai-hoc-dot-thang-3-nam-2024-update/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 08/05/2024: [Thông tin Học bổng Lương Văn Can dành cho Sinh viên Đại học, năm học 2024 – 2025](https://hcmus.edu.vn/thong-tin-hoc-bong-luong-van-can-danh-cho-sinh-vien-dai-hoc-nam-hoc-2024-2025/)
 * 08/05/2024: [Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2023-2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-cua-tap-doan-dien-luc-viet-nam-nam-hoc-2023-2024/)
@@ -90,7 +88,6 @@ No news in the last 1 month
 * 16/04/2024: [TB V/v thực hiện bài kiểm tra và khảo sát đợt Sinh hoạt công dân cuối khóa năm học 2023-2024](https://hcmus.edu.vn/tb-v-v-thuc-hien-bai-kiem-tra-va-khao-sat-dot-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024/)
 * 16/04/2024: [Thông báo Chương trình học bổng Maha năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024/)
 * 11/04/2024: [Thông báo nghỉ Giỗ tổ Hùng Vương năm 2024](https://hcmus.edu.vn/thong-bao-nghi-gio-to-hung-vuong-nam-2024/)
-* 10/04/2024: [Danh sách sinh viên tốt nghiệp đại học – đợt tháng 3 năm 2024 Update](https://hcmus.edu.vn/danh-sach-sinh-vien-tot-nghiep-dai-hoc-dot-thang-3-nam-2024-update/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 09/05/2024: [ĐỀ CƯƠNG ÔN TẬP MÔN KIẾN THỨC CHUNG KỲ THI TUYỂN DỤNG VIÊN CHỨC NĂM 2024](https://hcmus.edu.vn/de-cuong-on-tap-mon-kien-thuc-chung-ky-thi-tuyen-dung-vien-chuc-nam-2024/)
 * 04/05/2024: [Tuyển dụng_Chuyên viên phụ trách Tâm lý sinh viên_P.Công tác Sinh viên](https://hcmus.edu.vn/tuyen-dung_chuyen-vien-phu-trach-tam-ly-sinh-vien_p-cong-tac-sinh-vien/)
