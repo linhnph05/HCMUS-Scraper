@@ -1,7 +1,12 @@
 [
 {
-  "Update time": "02:18:09 13/05/2024",
+  "Update time": "03:06:57 13/05/2024",
   "Thong Bao": [
+    {
+      "tieuDe": "Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-3-2023-2024/",
+      "date": "13/05/2024"
+    },
     {
       "tieuDe": "[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)",
       "url": "https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-sv-danh-gia-mon-hoc-giang-vien-hk2-2023-2024-dot-bo-sung/",
@@ -22,6 +27,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16186",
+      "date": "13/5/2024"
+    },
     {
       "tieuDe": "Thông báo thay đổi địa điểm tổ chức Seminar Bộ môn Công nghệ Tri thức năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16181",
@@ -66,14 +76,14 @@
       "tieuDe": "Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16168",
       "date": "3/5/2024"
-    },
-    {
-      "tieuDe": "Thông báo đăng ký phương thức đào tạo dành cho học viên cao học khoá 33/2023",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16167",
-      "date": "3/5/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16186",
+      "date": "13/05/2024"
+    },
     {
       "tieuDe": "Đăng ký tham quan công ty KMS Technology ngày 21/05",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16174",
@@ -92,11 +102,6 @@
     {
       "tieuDe": "[Hỗ trợ truyền thông] Các chương trình học bổng đào tạo do Quỹ VinIF tài trợ",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16165",
-      "date": "03/05/2024"
-    },
-    {
-      "tieuDe": "[SHCD]_ Thông báo đăng ký bổ sung tham gia sinh hoạt công dân cuối khóa dành cho khóa 2020 trở về trước.",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16166",
       "date": "03/05/2024"
     }
   ],
@@ -148,6 +153,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "TB Lịch đăng ký các lớp tập huấn “Kỹ năng nhận thức và chăm sóc sức khoẻ tinh thần cho bản thân trên môi trường Đại học”",
+      "url": "https://hcmus.edu.vn/tb-lich-dang-ky-cac-lop-tap-huan-ky%cc%83-nang-nha%cc%a3n-thuc-va-cham-soc-suc-khoe%cc%89-tinh-than-cho-ba%cc%89n-than-tren-moi-truong-da%cc%a3i-ho%cc%a3c/",
+      "date": "13/05/2024"
+    },
     {
       "tieuDe": "ĐỀ CƯƠNG ÔN TẬP MÔN KIẾN THỨC CHUNG KỲ THI TUYỂN DỤNG VIÊN CHỨC NĂM 2024",
       "url": "https://hcmus.edu.vn/de-cuong-on-tap-mon-kien-thuc-chung-ky-thi-tuyen-dung-vien-chuc-nam-2024/",
@@ -270,6 +280,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "TB Lịch đăng ký các lớp tập huấn “Kỹ năng nhận thức và chăm sóc sức khoẻ tinh thần cho bản thân trên môi trường Đại học”",
+      "url": "https://hcmus.edu.vn/tb-lich-dang-ky-cac-lop-tap-huan-ky%cc%83-nang-nha%cc%a3n-thuc-va-cham-soc-suc-khoe%cc%89-tinh-than-cho-ba%cc%89n-than-tren-moi-truong-da%cc%a3i-ho%cc%a3c/",
+      "date": "13/05/2024"
+    },
     {
       "tieuDe": "Thông tin Học bổng Lương Văn Can dành cho Sinh viên Đại học, năm học 2024 – 2025",
       "url": "https://hcmus.edu.vn/thong-tin-hoc-bong-luong-van-can-danh-cho-sinh-vien-dai-hoc-nam-hoc-2024-2025/",
