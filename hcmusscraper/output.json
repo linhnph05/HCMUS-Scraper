@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "14:06:54 13/05/2024",
+  "Update time": "15:07:27 13/05/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024",
@@ -27,6 +27,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Tổng kết Seminar Bộ môn Công nghệ Tri thức",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16187",
+      "date": "13/5/2024"
+    },
     {
       "tieuDe": "Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16186",
@@ -71,11 +76,6 @@
       "tieuDe": "[CQ] Kế hoạch giảng dạy ĐHCQ chương trình Chuẩn học kỳ 3, năm học 2023-2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16169",
       "date": "4/5/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức năm 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16168",
-      "date": "3/5/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -107,6 +107,11 @@
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [],
   "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
+    {
+      "tieuDe": "Tổng kết Seminar Bộ môn Công nghệ Tri thức",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16187",
+      "date": "13/05/2024"
+    },
     {
       "tieuDe": "Thông báo thay đổi địa điểm tổ chức Seminar Bộ môn Công nghệ Tri thức năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16181",
