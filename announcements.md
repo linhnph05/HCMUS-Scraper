@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **16:19:11 14/05/2024**_
+_Last update: **17:15:45 14/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/05/2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-3-2023-2024/)
 * 06/05/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-sv-danh-gia-mon-hoc-giang-vien-hk2-2023-2024-dot-bo-sung/)
@@ -12,6 +12,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 14/5/2024: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16191)
 * 14/5/2024: [Danh sách sinh viên tham quan công ty KMS Technology](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16189)
 * 13/5/2024: [Tổng kết Seminar Bộ môn Công nghệ Tri thức](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16187)
 * 13/5/2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16186)
@@ -21,13 +22,12 @@ No news in the last 1 month
 * 7/5/2024: [Đăng ký tham quan công ty KMS Technology ngày 21/05](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16174)
 * 7/5/2024: [Danh sách sinh viên tham quan công ty VNG ngày 20/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16173)
 * 7/5/2024: [GÓC SẺ CHIA - WE TALK 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16172)
-* 6/5/2024: [Các mốc thời gian đăng ký và thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16171)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 14/05/2024: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16191)
 * 14/05/2024: [Danh sách sinh viên tham quan công ty KMS Technology](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16189)
 * 13/05/2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16186)
 * 07/05/2024: [Đăng ký tham quan công ty KMS Technology ngày 21/05](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16174)
 * 07/05/2024: [Danh sách sinh viên tham quan công ty VNG ngày 20/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16173)
-* 06/05/2024: [Chương trình New Southbound Policy Elite Study Program - Trường ĐH Quốc lập Chung Hsing](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16170)
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)

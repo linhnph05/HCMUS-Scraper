@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:07:52 14/05/2024",
+  "Update time": "10:07:43 14/05/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024",
@@ -27,6 +27,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16191",
+      "date": "14/5/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên tham quan công ty KMS Technology",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16189",
@@ -71,14 +76,14 @@
       "tieuDe": "GÓC SẺ CHIA - WE TALK 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16172",
       "date": "7/5/2024"
-    },
-    {
-      "tieuDe": "Các mốc thời gian đăng ký và thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16171",
-      "date": "6/5/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16191",
+      "date": "14/05/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên tham quan công ty KMS Technology",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16189",
@@ -98,11 +103,6 @@
       "tieuDe": "Danh sách sinh viên tham quan công ty VNG ngày 20/5",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16173",
       "date": "07/05/2024"
-    },
-    {
-      "tieuDe": "Chương trình New Southbound Policy Elite Study Program - Trường ĐH Quốc lập Chung Hsing",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16170",
-      "date": "06/05/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [],
