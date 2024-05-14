@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **13:20:57 14/05/2024**_
+_Last update: **14:15:30 14/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/05/2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-3-2023-2024/)
 * 06/05/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-sv-danh-gia-mon-hoc-giang-vien-hk2-2023-2024-dot-bo-sung/)
@@ -43,6 +43,7 @@ No news in the last 1 month
 * 25/04/2024: [Cơ hội việc làm tại AIOZ VN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16159)
 * 25/04/2024: [[Q2,Q3] Golden Owl Solutions Tuyển dụng Thực Tập Sinh DevOps](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16157)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 14/05/2024: [Thông báo v/v phát thuốc tẩy giun và viên sắt Đợt 1 năm 2024](https://hcmus.edu.vn/thong-bao-v-v-phat-thuoc-tay-giun-va-vien-sat-dot-1-nam-2024/)
 * 14/05/2024: [Tuyển dụng Nghiên cứu viên – PTN kỹ thuật Hạt nhân](https://hcmus.edu.vn/tuyen-dung-nghien-cuu-vien-ptn-ky-thuat-hat-nhan/)
 * 13/05/2024: [Thông báo địa điểm học cho sinh viên đại học hệ chính quy chương trình đại trà từ khóa tuyển 2021 trở về sau](https://hcmus.edu.vn/thong-bao-dia-diem-hoc-cho-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra-tu-khoa-tuyen-2021-tro-ve-sau/)
 * 13/05/2024: [THÔNG BÁO CỦA HỘI ĐỒNG KIỂM TRA SÁT HẠCH ĐỐI VỚI TIẾP NHẬN VIÊN CHỨC 2024](https://hcmus.edu.vn/thong-bao-cua-hoi-dong-kiem-tra-sat-hach-doi-voi-tiep-nhan-vien-chuc-2024/)
@@ -73,6 +74,7 @@ No news in the last 1 month
 * 16/04/2024: [TB V/v thực hiện bài kiểm tra và khảo sát đợt Sinh hoạt công dân cuối khóa năm học 2023-2024](https://hcmus.edu.vn/tb-v-v-thuc-hien-bai-kiem-tra-va-khao-sat-dot-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024/)
 * 16/04/2024: [Thông báo Chương trình học bổng Maha năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 14/05/2024: [Thông báo v/v phát thuốc tẩy giun và viên sắt Đợt 1 năm 2024](https://hcmus.edu.vn/thong-bao-v-v-phat-thuoc-tay-giun-va-vien-sat-dot-1-nam-2024/)
 * 13/05/2024: [Thông báo địa điểm học cho sinh viên đại học hệ chính quy chương trình đại trà từ khóa tuyển 2021 trở về sau](https://hcmus.edu.vn/thong-bao-dia-diem-hoc-cho-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra-tu-khoa-tuyen-2021-tro-ve-sau/)
 * 13/05/2024: [TB Lịch đăng ký các lớp tập huấn “Kỹ năng nhận thức và chăm sóc sức khoẻ tinh thần cho bản thân trên môi trường Đại học”](https://hcmus.edu.vn/tb-lich-dang-ky-cac-lop-tap-huan-ky%cc%83-nang-nha%cc%a3n-thuc-va-cham-soc-suc-khoe%cc%89-tinh-than-cho-ba%cc%89n-than-tren-moi-truong-da%cc%a3i-ho%cc%a3c/)
 * 08/05/2024: [Thông tin Học bổng Lương Văn Can dành cho Sinh viên Đại học, năm học 2024 – 2025](https://hcmus.edu.vn/thong-tin-hoc-bong-luong-van-can-danh-cho-sinh-vien-dai-hoc-nam-hoc-2024-2025/)
