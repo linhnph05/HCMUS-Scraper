@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:16:41 14/05/2024**_
+_Last update: **16:19:11 14/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/05/2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-3-2023-2024/)
 * 06/05/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-sv-danh-gia-mon-hoc-giang-vien-hk2-2023-2024-dot-bo-sung/)
@@ -43,6 +43,7 @@ No news in the last 1 month
 * 25/04/2024: [Cơ hội việc làm tại AIOZ VN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16159)
 * 25/04/2024: [[Q2,Q3] Golden Owl Solutions Tuyển dụng Thực Tập Sinh DevOps](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16157)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 14/05/2024: [THÔNG TIN TUYỂN CHỌN TỔ CHỨC, CÁ NHÂN CHỦ TRÌ NHIỆM VỤ KHOA HỌC CÔNG NGHỆ TỈNH KHÁNH HÒA](https://hcmus.edu.vn/thong-tin-tuyen-chon-to-chuc-ca-nhan-chu-tri-nhiem-vu-khoa-hoc-cong-nghe-tinh-khanh-hoa/)
 * 14/05/2024: [Thông báo v/v phát thuốc tẩy giun và viên sắt Đợt 1 năm 2024](https://hcmus.edu.vn/thong-bao-v-v-phat-thuoc-tay-giun-va-vien-sat-dot-1-nam-2024/)
 * 14/05/2024: [Tuyển dụng Nghiên cứu viên – PTN kỹ thuật Hạt nhân](https://hcmus.edu.vn/tuyen-dung-nghien-cuu-vien-ptn-ky-thuat-hat-nhan/)
 * 13/05/2024: [Thông báo địa điểm học cho sinh viên đại học hệ chính quy chương trình đại trà từ khóa tuyển 2021 trở về sau](https://hcmus.edu.vn/thong-bao-dia-diem-hoc-cho-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra-tu-khoa-tuyen-2021-tro-ve-sau/)
@@ -50,11 +51,11 @@ No news in the last 1 month
 * 13/05/2024: [THÔNG BÁO SỐ 2 – HỘI ĐỒNG TUYỂN DỤNG VIÊN CHỨC 2024](https://hcmus.edu.vn/thong-bao-so-2-hoi-dong-tuyen-dung-vien-chuc-2024/)
 * 13/05/2024: [TB Lịch đăng ký các lớp tập huấn “Kỹ năng nhận thức và chăm sóc sức khoẻ tinh thần cho bản thân trên môi trường Đại học”](https://hcmus.edu.vn/tb-lich-dang-ky-cac-lop-tap-huan-ky%cc%83-nang-nha%cc%a3n-thuc-va-cham-soc-suc-khoe%cc%89-tinh-than-cho-ba%cc%89n-than-tren-moi-truong-da%cc%a3i-ho%cc%a3c/)
 * 09/05/2024: [ĐỀ CƯƠNG ÔN TẬP MÔN KIẾN THỨC CHUNG KỲ THI TUYỂN DỤNG VIÊN CHỨC NĂM 2024](https://hcmus.edu.vn/de-cuong-on-tap-mon-kien-thuc-chung-ky-thi-tuyen-dung-vien-chuc-nam-2024/)
+* 08/05/2024: [THÔNG BÁO ĐĂNG KÝ ĐỀ TÀI NCKH CẤP TRƯỜNG NĂM 2024 (ĐỢT 1 – THÁNG 5/2024)](https://hcmus.edu.vn/thong-bao-dang-ky-de-tai-nckh-cap-truong-nam-2024-dot-1-thang-5-2024/)
 * 08/05/2024: [Thông tin Học bổng Lương Văn Can dành cho Sinh viên Đại học, năm học 2024 – 2025](https://hcmus.edu.vn/thong-tin-hoc-bong-luong-van-can-danh-cho-sinh-vien-dai-hoc-nam-hoc-2024-2025/)
 * 08/05/2024: [Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2023-2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-cua-tap-doan-dien-luc-viet-nam-nam-hoc-2023-2024/)
 * 06/05/2024: [THÔNG BÁO SỐ 2 HỘI THẢO QUỐC GIA NHỮNG TIẾN BỘ TRONG XÂY DỰNG, KIẾN TRÚC, KINH TẾ VÀ CÔNG NGHỆ 2024](https://hcmus.edu.vn/thong-bao-so-2-hoi-thao-quoc-gia-nhung-tien-bo-trong-xay-dung-kien-truc-kinh-te-va-cong-nghe-2024/)
 * 06/05/2024: [TB Về phương án tổ chức đợt sinh hoạt Công dân – sinh viên đầu năm, năm học 2024-2025](https://hcmus.edu.vn/tb-ve-phuong-an-to%cc%89-chuc-do%cc%a3t-sinh-hoa%cc%a3t-cong-san-sinh-vien-dau-nam-nam-ho%cc%a3c-2024-2025/)
-* 05/05/2024: [THÔNG BÁO ĐĂNG KÝ ĐỀ TÀI NCKH CẤP TRƯỜNG NĂM 2024 (ĐỢT 1 – THÁNG 5/2024)](https://hcmus.edu.vn/thong-bao-dang-ky-de-tai-nckh-cap-truong-nam-2024-dot-1-thang-5-2024/)
 * 04/05/2024: [Thông báo Chương trình Talkshow “ Kỹ năng ứng dụng AI trong học tập hiệu quả”](https://hcmus.edu.vn/thong-bao-chuong-trinh-talkshow-ky-nang-ung-dung-ai-trong-hoc-tap-hieu-qua/)
 * 04/05/2024: [Tuyển dụng_Chuyên viên phụ trách Tâm lý sinh viên_P.Công tác Sinh viên](https://hcmus.edu.vn/tuyen-dung_chuyen-vien-phu-trach-tam-ly-sinh-vien_p-cong-tac-sinh-vien/)
 * 03/05/2024: [Thông báo kết quả học bổng chuyển tiếp sinh đợt 1, năm học 2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-hoc-bong-chuyen-tiep-sinh-dot-1-nam-hoc-2023-2024/)
