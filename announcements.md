@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **13:17:10 15/05/2024**_
+_Last update: **14:15:51 15/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/05/2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-3-2023-2024/)
 * 06/05/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-sv-danh-gia-mon-hoc-giang-vien-hk2-2023-2024-dot-bo-sung/)
@@ -43,6 +43,7 @@ No news in the last 1 month
 * 25/04/2024: [Cơ hội việc làm tại AIOZ VN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16159)
 * 25/04/2024: [[Q2,Q3] Golden Owl Solutions Tuyển dụng Thực Tập Sinh DevOps](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16157)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 15/05/2024: [Chuyển ngạch chức danh nghề nghiệp](https://hcmus.edu.vn/chuyen-ngach-chuc-danh-nghe-nghiep/)
 * 15/05/2024: [Thông báo tham gia Giải Taekwondo sinh viên HUTECH mở rộng lần 2 năm 2024](https://hcmus.edu.vn/thong-bao-tham-gia-giai-taekwondo-sinh-vien-hutech-mo-rong-lan-2-nam-2024/)
 * 14/05/2024: [THÔNG TIN TUYỂN CHỌN TỔ CHỨC, CÁ NHÂN CHỦ TRÌ NHIỆM VỤ KHOA HỌC CÔNG NGHỆ TỈNH KHÁNH HÒA](https://hcmus.edu.vn/thong-tin-tuyen-chon-to-chuc-ca-nhan-chu-tri-nhiem-vu-khoa-hoc-cong-nghe-tinh-khanh-hoa/)
 * 14/05/2024: [Thông báo v/v phát thuốc tẩy giun và viên sắt Đợt 1 năm 2024](https://hcmus.edu.vn/thong-bao-v-v-phat-thuoc-tay-giun-va-vien-sat-dot-1-nam-2024/)
@@ -98,6 +99,7 @@ No news in the last 1 month
 * 16/04/2024: [TB V/v thực hiện bài kiểm tra và khảo sát đợt Sinh hoạt công dân cuối khóa năm học 2023-2024](https://hcmus.edu.vn/tb-v-v-thuc-hien-bai-kiem-tra-va-khao-sat-dot-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024/)
 * 16/04/2024: [Thông báo Chương trình học bổng Maha năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
+* 15/05/2024: [Chuyển ngạch chức danh nghề nghiệp](https://hcmus.edu.vn/chuyen-ngach-chuc-danh-nghe-nghiep/)
 * 14/05/2024: [Tuyển dụng Nghiên cứu viên – PTN kỹ thuật Hạt nhân](https://hcmus.edu.vn/tuyen-dung-nghien-cuu-vien-ptn-ky-thuat-hat-nhan/)
 * 13/05/2024: [THÔNG BÁO CỦA HỘI ĐỒNG KIỂM TRA SÁT HẠCH ĐỐI VỚI TIẾP NHẬN VIÊN CHỨC 2024](https://hcmus.edu.vn/thong-bao-cua-hoi-dong-kiem-tra-sat-hach-doi-voi-tiep-nhan-vien-chuc-2024/)
 * 13/05/2024: [THÔNG BÁO SỐ 2 – HỘI ĐỒNG TUYỂN DỤNG VIÊN CHỨC 2024](https://hcmus.edu.vn/thong-bao-so-2-hoi-dong-tuyen-dung-vien-chuc-2024/)
