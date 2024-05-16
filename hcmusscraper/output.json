@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:06:51 16/05/2024",
+  "Update time": "10:06:48 16/05/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024",
@@ -22,6 +22,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Những lưu ý ở giai đoạn chuyên ngành - Dành cho khóa 2022 (ĐHCQ - Chương trình Chuẩn)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16195",
+      "date": "16/5/2024"
+    },
     {
       "tieuDe": "Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16191",
@@ -66,14 +71,19 @@
       "tieuDe": "Danh sách sinh viên tham quan công ty VNG ngày 20/5",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16173",
       "date": "7/5/2024"
-    },
-    {
-      "tieuDe": "GÓC SẺ CHIA - WE TALK 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16172",
-      "date": "7/5/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Hội thảo 'Ứng dụng AI/ML và Cloud trong lĩnh vực công nghệ du lịch và bài toán các tập đoàn toàn cầu đang gặp phải'",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16194",
+      "date": "16/05/2024"
+    },
+    {
+      "tieuDe": "Thông báo Chương trình Học bổng Đinh Thiện Lý – Năm học 2024-2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16193",
+      "date": "16/05/2024"
+    },
     {
       "tieuDe": "Chương trình học bổng của Ninety Eight",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16192",
@@ -88,16 +98,6 @@
       "tieuDe": "Danh sách sinh viên tham quan công ty KMS Technology",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16189",
       "date": "14/05/2024"
-    },
-    {
-      "tieuDe": "Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16186",
-      "date": "13/05/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham quan công ty KMS Technology ngày 21/05",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16174",
-      "date": "07/05/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [],
@@ -153,6 +153,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Danh sách sinh viên tốt nghiệp Đại học, Liên thông đại học và Cao đẳng – đợt tháng 5/2024 (tất cả chương trình)",
+      "url": "https://hcmus.edu.vn/danh-sach-sinh-vien-tot-nghiep-dai-hoc-lien-thong-dai-hoc-va-cao-dang-dot-thang-5-2024-tat-ca-chuong-trinh/",
+      "date": "16/05/2024"
+    },
     {
       "tieuDe": "THÔNG BÁO GIẢI THƯỞNG LÊ VĂN THỚI 2024",
       "url": "https://hcmus.edu.vn/thong-bao-giai-thuong-le-van-thoi-2024/",
@@ -340,6 +345,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Danh sách sinh viên tốt nghiệp Đại học, Liên thông đại học và Cao đẳng – đợt tháng 5/2024 (tất cả chương trình)",
+      "url": "https://hcmus.edu.vn/danh-sach-sinh-vien-tot-nghiep-dai-hoc-lien-thong-dai-hoc-va-cao-dang-dot-thang-5-2024-tat-ca-chuong-trinh/",
+      "date": "16/05/2024"
+    },
     {
       "tieuDe": "THÔNG BÁO GIẢI THƯỞNG LÊ VĂN THỚI 2024",
       "url": "https://hcmus.edu.vn/thong-bao-giai-thuong-le-van-thoi-2024/",
