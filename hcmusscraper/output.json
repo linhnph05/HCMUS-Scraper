@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:07:11 16/05/2024",
+  "Update time": "09:06:51 16/05/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024",
@@ -75,6 +75,11 @@
   ],
   "FIT-THÔNG TIN CHUNG": [
     {
+      "tieuDe": "Chương trình học bổng của Ninety Eight",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16192",
+      "date": "16/05/2024"
+    },
+    {
       "tieuDe": "Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16191",
       "date": "14/05/2024"
@@ -92,11 +97,6 @@
     {
       "tieuDe": "Đăng ký tham quan công ty KMS Technology ngày 21/05",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16174",
-      "date": "07/05/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên tham quan công ty VNG ngày 20/5",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16173",
       "date": "07/05/2024"
     }
   ],
@@ -153,6 +153,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "THÔNG BÁO GIẢI THƯỞNG LÊ VĂN THỚI 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-giai-thuong-le-van-thoi-2024/",
+      "date": "16/05/2024"
+    },
     {
       "tieuDe": "GIẢI THƯỞNG ĐỔI MỚI SÁNG TẠO VÀ KHỞI NGHIỆP ĐÔNG NAM Á 2024",
       "url": "https://hcmus.edu.vn/giai-thuong-doi-moi-sang-tao-va-khoi-nghiep-dong-nam-a-2024/",
@@ -335,6 +340,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "THÔNG BÁO GIẢI THƯỞNG LÊ VĂN THỚI 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-giai-thuong-le-van-thoi-2024/",
+      "date": "16/05/2024"
+    },
     {
       "tieuDe": "Thông báo tham gia Giải Taekwondo sinh viên HUTECH mở rộng lần 2 năm 2024",
       "url": "https://hcmus.edu.vn/thong-bao-tham-gia-giai-taekwondo-sinh-vien-hutech-mo-rong-lan-2-nam-2024/",
