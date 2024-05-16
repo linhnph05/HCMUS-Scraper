@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **07:29:52 16/05/2024**_
+_Last update: **08:39:24 16/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/05/2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-3-2023-2024/)
 * 06/05/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-sv-danh-gia-mon-hoc-giang-vien-hk2-2023-2024-dot-bo-sung/)
@@ -42,6 +42,7 @@ No news in the last 1 month
 * 25/04/2024: [Cơ hội việc làm tại AIOZ VN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16159)
 * 25/04/2024: [[Q2,Q3] Golden Owl Solutions Tuyển dụng Thực Tập Sinh DevOps](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16157)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 16/05/2024: [GIẢI THƯỞNG ĐỔI MỚI SÁNG TẠO VÀ KHỞI NGHIỆP ĐÔNG NAM Á 2024](https://hcmus.edu.vn/giai-thuong-doi-moi-sang-tao-va-khoi-nghiep-dong-nam-a-2024/)
 * 15/05/2024: [FUNDING RESEARCH CALL: ANTIFUNGAL RESISTANCE – ĐẠI SỨ QUÁN ANH](https://hcmus.edu.vn/funding-research-call-antifungal-resistance-dai-su-quan-anh/)
 * 15/05/2024: [Chuyển ngạch chức danh nghề nghiệp](https://hcmus.edu.vn/chuyen-ngach-chuc-danh-nghe-nghiep/)
 * 15/05/2024: [Thông báo tham gia Giải Taekwondo sinh viên HUTECH mở rộng lần 2 năm 2024](https://hcmus.edu.vn/thong-bao-tham-gia-giai-taekwondo-sinh-vien-hutech-mo-rong-lan-2-nam-2024/)
