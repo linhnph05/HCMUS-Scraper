@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:19:14 17/05/2024**_
+_Last update: **07:30:15 17/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/05/2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-3-2023-2024/)
 * 06/05/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-sv-danh-gia-mon-hoc-giang-vien-hk2-2023-2024-dot-bo-sung/)
@@ -78,8 +78,6 @@ No news in the last 1 month
 * 17/04/2024: [Thông báo tuyển dụng Nghiên cứu viên Phòng thí nghiệm Kỹ nghệ Mô và Vật liệu Y sinh](https://hcmus.edu.vn/thong-bao-tuyen-dung-nghien-cuu-vien-phong-thi-nghiem-ky-nghe-mo-va-vat-lieu-y-sinh/)
 * 17/04/2024: [Thông báo tuyển dụng Chuyên viên phòng Quản trị thiết bị](https://hcmus.edu.vn/thong-bao-tuyen-dung-chuyen-vien-phong-quan-tri-thiet-bi/)
 * 17/04/2024: [Thông báo nghỉ lễ ngày Chiến thắng 30/4 và ngày Quốc tế lao động 01/5 năm 2024](https://hcmus.edu.vn/42311-2/)
-* 16/04/2024: [TB V/v thực hiện bài kiểm tra và khảo sát đợt Sinh hoạt công dân cuối khóa năm học 2023-2024](https://hcmus.edu.vn/tb-v-v-thuc-hien-bai-kiem-tra-va-khao-sat-dot-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024/)
-* 16/04/2024: [Thông báo Chương trình học bổng Maha năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 16/05/2024: [Danh sách sinh viên tốt nghiệp Đại học, Liên thông đại học và Cao đẳng – đợt tháng 5/2024 (tất cả chương trình)](https://hcmus.edu.vn/danh-sach-sinh-vien-tot-nghiep-dai-hoc-lien-thong-dai-hoc-va-cao-dang-dot-thang-5-2024-tat-ca-chuong-trinh/)
 * 16/05/2024: [THÔNG BÁO GIẢI THƯỞNG LÊ VĂN THỚI 2024](https://hcmus.edu.vn/thong-bao-giai-thuong-le-van-thoi-2024/)
@@ -101,8 +99,6 @@ No news in the last 1 month
 * 22/04/2024: [Chương trình đào tạo Khóa 2021](https://hcmus.edu.vn/chuong-trinh-dao-tao-khoa-2021-chuong-trinh-dai-tra/)
 * 22/04/2024: [Chương trình học bổng bậc Đại học Panasonic năm 2024](https://hcmus.edu.vn/chuong-trinh-hoc-bong-bac-dai-hoc-panasonic-nam-2024/)
 * 17/04/2024: [Thông báo nghỉ lễ ngày Chiến thắng 30/4 và ngày Quốc tế lao động 01/5 năm 2024](https://hcmus.edu.vn/42311-2/)
-* 16/04/2024: [TB V/v thực hiện bài kiểm tra và khảo sát đợt Sinh hoạt công dân cuối khóa năm học 2023-2024](https://hcmus.edu.vn/tb-v-v-thuc-hien-bai-kiem-tra-va-khao-sat-dot-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2023-2024/)
-* 16/04/2024: [Thông báo Chương trình học bổng Maha năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 15/05/2024: [Chuyển ngạch chức danh nghề nghiệp](https://hcmus.edu.vn/chuyen-ngach-chuc-danh-nghe-nghiep/)
 * 14/05/2024: [Tuyển dụng Nghiên cứu viên – PTN kỹ thuật Hạt nhân](https://hcmus.edu.vn/tuyen-dung-nghien-cuu-vien-ptn-ky-thuat-hat-nhan/)
@@ -126,4 +122,3 @@ No news in the last 1 month
 * 24/04/2024: [Thông báo Chương trình Học bổng Đồng Hành kì 46 – Học kì 2 năm học 2023-2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ki-46-hoc-ki-2-nam-hoc-2023-2024/)
 * 22/04/2024: [Chương trình học bổng của Ninety Eight](https://hcmus.edu.vn/chuong-trinh-hoc-bong-cua-ninety-eight/)
 * 22/04/2024: [Chương trình học bổng bậc Đại học Panasonic năm 2024](https://hcmus.edu.vn/chuong-trinh-hoc-bong-bac-dai-hoc-panasonic-nam-2024/)
-* 16/04/2024: [Thông báo Chương trình học bổng Maha năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024/)
