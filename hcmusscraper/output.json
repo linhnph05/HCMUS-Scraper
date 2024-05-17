@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:08:16 17/05/2024",
+  "Update time": "10:07:08 17/05/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024",
@@ -153,6 +153,16 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "TB Chương trình Workshop tháng 5, chuyên đề “Ảnh hưởng của mạng xã hội đến sức khỏe tinh thần sinh viên”",
+      "url": "https://hcmus.edu.vn/tb-chuong-trinh-workshop-thang-5-chuyen-de-a%cc%89nh-huong-cua-mang-xa-hoi-den-suc-khoe-tinh-than-sinh-vien/",
+      "date": "17/05/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO KẾT QUẢ TRIỂN KHAI HOẠT ĐỘNG VỚI TỈNH TÂY NINH 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-ket-qua-trien-khai-hoat-dong-voi-tinh-tay-ninh-2024/",
+      "date": "17/05/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên tốt nghiệp Đại học, Liên thông đại học và Cao đẳng – đợt tháng 5/2024 (tất cả chương trình)",
       "url": "https://hcmus.edu.vn/danh-sach-sinh-vien-tot-nghiep-dai-hoc-lien-thong-dai-hoc-va-cao-dang-dot-thang-5-2024-tat-ca-chuong-trinh/",
@@ -335,6 +345,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "TB Chương trình Workshop tháng 5, chuyên đề “Ảnh hưởng của mạng xã hội đến sức khỏe tinh thần sinh viên”",
+      "url": "https://hcmus.edu.vn/tb-chuong-trinh-workshop-thang-5-chuyen-de-a%cc%89nh-huong-cua-mang-xa-hoi-den-suc-khoe-tinh-than-sinh-vien/",
+      "date": "17/05/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên tốt nghiệp Đại học, Liên thông đại học và Cao đẳng – đợt tháng 5/2024 (tất cả chương trình)",
       "url": "https://hcmus.edu.vn/danh-sach-sinh-vien-tot-nghiep-dai-hoc-lien-thong-dai-hoc-va-cao-dang-dot-thang-5-2024-tat-ca-chuong-trinh/",
