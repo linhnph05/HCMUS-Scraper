@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **09:29:52 17/05/2024**_
+_Last update: **10:15:29 17/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/05/2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-3-2023-2024/)
 * 06/05/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-sv-danh-gia-mon-hoc-giang-vien-hk2-2023-2024-dot-bo-sung/)
@@ -22,11 +22,11 @@ No news in the last 1 month
 * 7/5/2024: [Đăng ký tham quan công ty KMS Technology ngày 21/05](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16174)
 * 7/5/2024: [Danh sách sinh viên tham quan công ty VNG ngày 20/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16173)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 17/05/2024: [Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16196)
 * 16/05/2024: [Hội thảo 'Ứng dụng AI/ML và Cloud trong lĩnh vực công nghệ du lịch và bài toán các tập đoàn toàn cầu đang gặp phải'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16194)
 * 16/05/2024: [Thông báo Chương trình Học bổng Đinh Thiện Lý – Năm học 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16193)
 * 16/05/2024: [Chương trình học bổng của Ninety Eight](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16192)
 * 14/05/2024: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16191)
-* 14/05/2024: [Danh sách sinh viên tham quan công ty KMS Technology](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16189)
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)

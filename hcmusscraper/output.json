@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:16:41 17/05/2024",
+  "Update time": "03:06:29 17/05/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024",
@@ -75,6 +75,11 @@
   ],
   "FIT-THÔNG TIN CHUNG": [
     {
+      "tieuDe": "Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2023-2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16196",
+      "date": "17/05/2024"
+    },
+    {
       "tieuDe": "Hội thảo 'Ứng dụng AI/ML và Cloud trong lĩnh vực công nghệ du lịch và bài toán các tập đoàn toàn cầu đang gặp phải'",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16194",
       "date": "16/05/2024"
@@ -92,11 +97,6 @@
     {
       "tieuDe": "Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16191",
-      "date": "14/05/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên tham quan công ty KMS Technology",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16189",
       "date": "14/05/2024"
     }
   ],
