@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **14:16:29 20/05/2024**_
+_Last update: **15:16:41 20/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/05/2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-3-2023-2024/)
 * 06/05/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-sv-danh-gia-mon-hoc-giang-vien-hk2-2023-2024-dot-bo-sung/)
