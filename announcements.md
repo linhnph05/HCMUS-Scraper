@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **16:16:30 20/05/2024**_
+_Last update: **17:15:23 20/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/05/2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-3-2023-2024/)
 * 06/05/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-sv-danh-gia-mon-hoc-giang-vien-hk2-2023-2024-dot-bo-sung/)
@@ -42,6 +42,7 @@ No news in the last 1 month
 * 25/04/2024: [Cơ hội việc làm tại AIOZ VN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16159)
 * 25/04/2024: [[Q2,Q3] Golden Owl Solutions Tuyển dụng Thực Tập Sinh DevOps](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16157)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 20/05/2024: [Chương trình Chăm sóc sức khỏe tinh thần người học tại Trường Đại học Khoa học tự nhiên](https://hcmus.edu.vn/chuong-trinh-cham-soc-suc-khoe-tinh-than-nguoi-hoc-tai-truong-dai-hoc-khoa-hoc-tu-nhien/)
 * 17/05/2024: [TB Chương trình Workshop tháng 5, chuyên đề “Ảnh hưởng của mạng xã hội đến sức khỏe tinh thần sinh viên”](https://hcmus.edu.vn/tb-chuong-trinh-workshop-thang-5-chuyen-de-a%cc%89nh-huong-cua-mang-xa-hoi-den-suc-khoe-tinh-than-sinh-vien/)
 * 17/05/2024: [THÔNG BÁO KẾT QUẢ TRIỂN KHAI HOẠT ĐỘNG VỚI TỈNH TÂY NINH 2024](https://hcmus.edu.vn/thong-bao-ket-qua-trien-khai-hoat-dong-voi-tinh-tay-ninh-2024/)
 * 16/05/2024: [Danh sách sinh viên tốt nghiệp Đại học, Liên thông đại học và Cao đẳng – đợt tháng 5/2024 (tất cả chương trình)](https://hcmus.edu.vn/danh-sach-sinh-vien-tot-nghiep-dai-hoc-lien-thong-dai-hoc-va-cao-dang-dot-thang-5-2024-tat-ca-chuong-trinh/)
@@ -77,6 +78,7 @@ No news in the last 1 month
 * 22/04/2024: [Chương trình đào tạo Khóa 2021](https://hcmus.edu.vn/chuong-trinh-dao-tao-khoa-2021-chuong-trinh-dai-tra/)
 * 22/04/2024: [Chương trình học bổng bậc Đại học Panasonic năm 2024](https://hcmus.edu.vn/chuong-trinh-hoc-bong-bac-dai-hoc-panasonic-nam-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 20/05/2024: [Chương trình Chăm sóc sức khỏe tinh thần người học tại Trường Đại học Khoa học tự nhiên](https://hcmus.edu.vn/chuong-trinh-cham-soc-suc-khoe-tinh-than-nguoi-hoc-tai-truong-dai-hoc-khoa-hoc-tu-nhien/)
 * 17/05/2024: [TB Chương trình Workshop tháng 5, chuyên đề “Ảnh hưởng của mạng xã hội đến sức khỏe tinh thần sinh viên”](https://hcmus.edu.vn/tb-chuong-trinh-workshop-thang-5-chuyen-de-a%cc%89nh-huong-cua-mang-xa-hoi-den-suc-khoe-tinh-than-sinh-vien/)
 * 16/05/2024: [Danh sách sinh viên tốt nghiệp Đại học, Liên thông đại học và Cao đẳng – đợt tháng 5/2024 (tất cả chương trình)](https://hcmus.edu.vn/danh-sach-sinh-vien-tot-nghiep-dai-hoc-lien-thong-dai-hoc-va-cao-dang-dot-thang-5-2024-tat-ca-chuong-trinh/)
 * 16/05/2024: [THÔNG BÁO GIẢI THƯỞNG LÊ VĂN THỚI 2024](https://hcmus.edu.vn/thong-bao-giai-thuong-le-van-thoi-2024/)
