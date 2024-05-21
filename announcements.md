@@ -1,6 +1,7 @@
 # All news in the last 1 month 
-_Last update: **13:20:45 21/05/2024**_
+_Last update: **14:15:36 21/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
+* 21/05/2024: [Các chương trình chăm sóc sức khỏe tinh thần người học](https://www.ctda.hcmus.edu.vn/vi/2024/05/cac-chuong-trinh-cham-soc-suc-khoe-tinh-than-nguoi-hoc/)
 * 13/05/2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-3-2023-2024/)
 * 06/05/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-sv-danh-gia-mon-hoc-giang-vien-hk2-2023-2024-dot-bo-sung/)
 * 03/05/2024: [[SHCD]_ Thông báo đăng ký bổ sung tham gia sinh hoạt công dân cuối khóa dành cho khóa 2020 trở về trước.](https://www.ctda.hcmus.edu.vn/vi/2024/05/shcd_-thong-bao-dang-ky-bo-sung-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-danh-cho-khoa-2020-tro-ve-truoc/)
