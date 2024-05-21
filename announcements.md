@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **17:19:54 21/05/2024**_
+_Last update: **18:16:13 21/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 21/05/2024: [Các chương trình chăm sóc sức khỏe tinh thần người học](https://www.ctda.hcmus.edu.vn/vi/2024/05/cac-chuong-trinh-cham-soc-suc-khoe-tinh-than-nguoi-hoc/)
 * 13/05/2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-3-2023-2024/)
@@ -12,6 +12,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 21/5/2024: [Thông báo về việc tổ chức lễ tốt nghiệp thạc sĩ, tiến sĩ năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16198)
 * 21/5/2024: [Chương trình Chăm sóc sức khỏe tinh thần người học tại Trường Đại học Khoa học tự nhiên](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16197)
 * 16/5/2024: [Những lưu ý ở giai đoạn chuyên ngành - Dành cho khóa 2022 (ĐHCQ - Chương trình Chuẩn)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16195)
 * 14/5/2024: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16191)
@@ -21,7 +22,6 @@ No news in the last 1 month
 * 10/5/2024: [Thông báo thay đổi địa điểm tổ chức Seminar Bộ môn Công nghệ Tri thức năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16181)
 * 8/5/2024: [Công bố đề án tuyển sinh trình độ đại học tại trường Đại học Khoa học tự nhiên, ĐHQG-HCM năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16177)
 * 8/5/2024: [[CQ] Khảo sát nguyện vọng đăng ký đề tài KLTN/TTTN/TTDATN khóa tuyển 2021](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16175)
-* 7/5/2024: [Đăng ký tham quan công ty KMS Technology ngày 21/05](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16174)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 21/05/2024: [Chương trình Chăm sóc sức khỏe tinh thần người học tại Trường Đại học Khoa học tự nhiên](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16197)
 * 17/05/2024: [Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16196)
