@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:16:56 21/05/2024",
+  "Update time": "03:06:44 21/05/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024",
@@ -22,6 +22,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Chương trình Chăm sóc sức khỏe tinh thần người học tại Trường Đại học Khoa học tự nhiên",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16197",
+      "date": "21/5/2024"
+    },
     {
       "tieuDe": "Những lưu ý ở giai đoạn chuyên ngành - Dành cho khóa 2022 (ĐHCQ - Chương trình Chuẩn)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16195",
@@ -66,14 +71,14 @@
       "tieuDe": "Đăng ký tham quan công ty KMS Technology ngày 21/05",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16174",
       "date": "7/5/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên tham quan công ty VNG ngày 20/5",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16173",
-      "date": "7/5/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Chương trình Chăm sóc sức khỏe tinh thần người học tại Trường Đại học Khoa học tự nhiên",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16197",
+      "date": "21/05/2024"
+    },
     {
       "tieuDe": "Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2023-2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16196",
@@ -93,11 +98,6 @@
       "tieuDe": "Chương trình học bổng của Ninety Eight",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16192",
       "date": "16/05/2024"
-    },
-    {
-      "tieuDe": "Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16191",
-      "date": "14/05/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [],
@@ -153,6 +153,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "THÔNG BÁO V/v tra cứu kết quả tham gia hoạt động do phòng Công tác Sinh viên tổ chức",
+      "url": "https://hcmus.edu.vn/thong-bao-v-v-tra-cuu-ket-qua-tham-gia-hoat-dong-do-phong-cong-tac-sinh-vien-to-chuc/",
+      "date": "21/05/2024"
+    },
     {
       "tieuDe": "Chương trình Chăm sóc sức khỏe tinh thần người học tại Trường Đại học Khoa học tự nhiên",
       "url": "https://hcmus.edu.vn/chuong-trinh-cham-soc-suc-khoe-tinh-than-nguoi-hoc-tai-truong-dai-hoc-khoa-hoc-tu-nhien/",
@@ -331,6 +336,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "THÔNG BÁO V/v tra cứu kết quả tham gia hoạt động do phòng Công tác Sinh viên tổ chức",
+      "url": "https://hcmus.edu.vn/thong-bao-v-v-tra-cuu-ket-qua-tham-gia-hoat-dong-do-phong-cong-tac-sinh-vien-to-chuc/",
+      "date": "21/05/2024"
+    },
+    {
       "tieuDe": "Chương trình Chăm sóc sức khỏe tinh thần người học tại Trường Đại học Khoa học tự nhiên",
       "url": "https://hcmus.edu.vn/chuong-trinh-cham-soc-suc-khoe-tinh-than-nguoi-hoc-tai-truong-dai-hoc-khoa-hoc-tu-nhien/",
       "date": "20/05/2024"
@@ -469,6 +479,11 @@
     }
   ],
   "HCMUS-Nguoi hoc": [
+    {
+      "tieuDe": "THÔNG BÁO V/v tra cứu kết quả tham gia hoạt động do phòng Công tác Sinh viên tổ chức",
+      "url": "https://hcmus.edu.vn/thong-bao-v-v-tra-cuu-ket-qua-tham-gia-hoat-dong-do-phong-cong-tac-sinh-vien-to-chuc/",
+      "date": "21/05/2024"
+    },
     {
       "tieuDe": "Thông báo Chương trình Talkshow “ Kỹ năng ứng dụng AI trong học tập hiệu quả”",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-talkshow-ky-nang-ung-dung-ai-trong-hoc-tap-hieu-qua/",
