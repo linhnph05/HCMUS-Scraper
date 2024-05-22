@@ -1,6 +1,7 @@
 # All news in the last 1 month 
-_Last update: **14:19:57 22/05/2024**_
+_Last update: **15:17:49 22/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
+* 22/05/2024: [Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023](https://www.ctda.hcmus.edu.vn/vi/2024/05/quy-dinh-cac-loai-chung-chi-ngoai-ngu-dat-chuan-dau-ra-trinh-do-dai-hoc-chuong-trinh-tien-tien-va-chat-luong-cao-nhom-nganh-cong-nghe-thong-tin-khoa-2023/)
 * 21/05/2024: [Các chương trình chăm sóc sức khỏe tinh thần người học](https://www.ctda.hcmus.edu.vn/vi/2024/05/cac-chuong-trinh-cham-soc-suc-khoe-tinh-than-nguoi-hoc/)
 * 13/05/2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-3-2023-2024/)
 * 06/05/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-sv-danh-gia-mon-hoc-giang-vien-hk2-2023-2024-dot-bo-sung/)
@@ -8,7 +9,7 @@ _Last update: **14:19:57 22/05/2024**_
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
-No news in the last 1 month
+* 22/05/2024: [Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023](https://www.ctda.hcmus.edu.vn/vi/2024/05/quy-dinh-cac-loai-chung-chi-ngoai-ngu-dat-chuan-dau-ra-trinh-do-dai-hoc-chuong-trinh-tien-tien-va-chat-luong-cao-nhom-nganh-cong-nghe-thong-tin-khoa-2023/)
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
