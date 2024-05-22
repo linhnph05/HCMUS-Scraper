@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **09:26:36 22/05/2024**_
+_Last update: **10:16:44 22/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 21/05/2024: [Các chương trình chăm sóc sức khỏe tinh thần người học](https://www.ctda.hcmus.edu.vn/vi/2024/05/cac-chuong-trinh-cham-soc-suc-khoe-tinh-than-nguoi-hoc/)
 * 13/05/2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-3-2023-2024/)
@@ -23,11 +23,11 @@ No news in the last 1 month
 * 8/5/2024: [Công bố đề án tuyển sinh trình độ đại học tại trường Đại học Khoa học tự nhiên, ĐHQG-HCM năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16177)
 * 8/5/2024: [[CQ] Khảo sát nguyện vọng đăng ký đề tài KLTN/TTTN/TTDATN khóa tuyển 2021](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16175)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 22/05/2024: [Kỳ thi lập trình thi đấu VNOI CUP](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16199)
 * 21/05/2024: [Chương trình Chăm sóc sức khỏe tinh thần người học tại Trường Đại học Khoa học tự nhiên](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16197)
 * 17/05/2024: [Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16196)
 * 16/05/2024: [Hội thảo 'Ứng dụng AI/ML và Cloud trong lĩnh vực công nghệ du lịch và bài toán các tập đoàn toàn cầu đang gặp phải'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16194)
 * 16/05/2024: [Thông báo Chương trình Học bổng Đinh Thiện Lý – Năm học 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16193)
-* 16/05/2024: [Chương trình học bổng của Ninety Eight](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16192)
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)

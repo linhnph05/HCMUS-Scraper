@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:17:50 22/05/2024",
+  "Update time": "03:07:46 22/05/2024",
   "Thong Bao": [
     {
       "tieuDe": "Các chương trình chăm sóc sức khỏe tinh thần người học",
@@ -80,6 +80,11 @@
   ],
   "FIT-THÔNG TIN CHUNG": [
     {
+      "tieuDe": "Kỳ thi lập trình thi đấu VNOI CUP",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16199",
+      "date": "22/05/2024"
+    },
+    {
       "tieuDe": "Chương trình Chăm sóc sức khỏe tinh thần người học tại Trường Đại học Khoa học tự nhiên",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16197",
       "date": "21/05/2024"
@@ -97,11 +102,6 @@
     {
       "tieuDe": "Thông báo Chương trình Học bổng Đinh Thiện Lý – Năm học 2024-2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16193",
-      "date": "16/05/2024"
-    },
-    {
-      "tieuDe": "Chương trình học bổng của Ninety Eight",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16192",
       "date": "16/05/2024"
     }
   ],
