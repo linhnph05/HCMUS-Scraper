@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:06:57 23/05/2024",
+  "Update time": "08:09:04 23/05/2024",
   "Thong Bao": [
     {
       "tieuDe": "Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023",
@@ -38,6 +38,11 @@
   ],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "ĐHCQ - Thông báo về việc đăng ký nguyện vọng học lớp Khởi nghiệp học kỳ 3 NH 2023-2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16206",
+      "date": "23/5/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên đã hoàn thành chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16205",
@@ -82,11 +87,6 @@
       "tieuDe": "Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16186",
       "date": "13/5/2024"
-    },
-    {
-      "tieuDe": "Thông báo thay đổi địa điểm tổ chức Seminar Bộ môn Công nghệ Tri thức năm 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16181",
-      "date": "10/5/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -163,6 +163,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "THÔNG BÁO TUYỂN DỤNG CHUYÊN VIÊN PHÒNG KHOA HỌC CÔNG NGHỆ",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-chuyen-vien-phong-khoa-hoc-cong-nghe/",
+      "date": "23/05/2024"
+    },
     {
       "tieuDe": "Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/",
@@ -442,6 +447,11 @@
     }
   ],
   "HCMUS-Tuyen dung": [
+    {
+      "tieuDe": "THÔNG BÁO TUYỂN DỤNG CHUYÊN VIÊN PHÒNG KHOA HỌC CÔNG NGHỆ",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-chuyen-vien-phong-khoa-hoc-cong-nghe/",
+      "date": "23/05/2024"
+    },
     {
       "tieuDe": "Chuyển ngạch chức danh nghề nghiệp",
       "url": "https://hcmus.edu.vn/chuyen-ngach-chuc-danh-nghe-nghiep/",
