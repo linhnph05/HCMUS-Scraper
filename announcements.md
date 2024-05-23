@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:16:31 23/05/2024**_
+_Last update: **07:30:26 23/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 22/05/2024: [Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023](https://www.ctda.hcmus.edu.vn/vi/2024/05/quy-dinh-cac-loai-chung-chi-ngoai-ngu-dat-chuan-dau-ra-trinh-do-dai-hoc-chuong-trinh-tien-tien-va-chat-luong-cao-nhom-nganh-cong-nghe-thong-tin-khoa-2023/)
 * 21/05/2024: [Các chương trình chăm sóc sức khỏe tinh thần người học](https://www.ctda.hcmus.edu.vn/vi/2024/05/cac-chuong-trinh-cham-soc-suc-khoe-tinh-than-nguoi-hoc/)
@@ -36,7 +36,7 @@ No news in the last 1 month
 * 10/05/2024: [Thông báo thay đổi địa điểm tổ chức Seminar Bộ môn Công nghệ Tri thức năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16181)
 * 03/05/2024: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16168)
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 22/04/2024: [[Phỏng vấn thử - việc thật] V/v Nộp giấy xác nhận phỏng vấn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16150)
+No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 22/05/2024: [CODE TOUR 2024 TRỞ LẠI 💥 GIẢI ĐẤU LẬP TRÌNH ONLINE MỞ RỘNG CHO CÁC “CHIẾN BINH” IT TRÊN TOÀN QUỐC](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16202)
 * 14/05/2024: [[AHAMOVE HCM] Chương trình Tuyển Dụng năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16190)
@@ -78,9 +78,6 @@ No news in the last 1 month
 * 25/04/2024: [Thông báo nộp hồ sơ xét hoàn tất chương trình đào tạo hệ chính quy các chương trình – Đợt tháng 5 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-he-chinh-quy-cac-chuong-trinh-dot-thang-5-nam-2024/)
 * 24/04/2024: [THÔNG BÁO Triển khai Cuộc thi Sinh viên Công Thương với ý tưởng khởi nghiệp lần 5 – Năm 2024](https://hcmus.edu.vn/thong-bao-trien-khai-cuoc-thi-sinh-vien-cong-thuong-voi-y-tuong-khoi-nghiep-lan-5-nam-2024/)
 * 24/04/2024: [Thông báo Chương trình Học bổng Đồng Hành kì 46 – Học kì 2 năm học 2023-2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ki-46-hoc-ki-2-nam-hoc-2023-2024/)
-* 22/04/2024: [Chương trình học bổng của Ninety Eight](https://hcmus.edu.vn/chuong-trinh-hoc-bong-cua-ninety-eight/)
-* 22/04/2024: [Chương trình đào tạo Khóa 2021](https://hcmus.edu.vn/chuong-trinh-dao-tao-khoa-2021-chuong-trinh-dai-tra/)
-* 22/04/2024: [Chương trình học bổng bậc Đại học Panasonic năm 2024](https://hcmus.edu.vn/chuong-trinh-hoc-bong-bac-dai-hoc-panasonic-nam-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 21/05/2024: [THÔNG BÁO V/v tra cứu kết quả tham gia hoạt động do phòng Công tác Sinh viên tổ chức](https://hcmus.edu.vn/thong-bao-v-v-tra-cuu-ket-qua-tham-gia-hoat-dong-do-phong-cong-tac-sinh-vien-to-chuc/)
 * 20/05/2024: [Chương trình Chăm sóc sức khỏe tinh thần người học tại Trường Đại học Khoa học tự nhiên](https://hcmus.edu.vn/chuong-trinh-cham-soc-suc-khoe-tinh-than-nguoi-hoc-tai-truong-dai-hoc-khoa-hoc-tu-nhien/)
@@ -101,9 +98,6 @@ No news in the last 1 month
 * 25/04/2024: [Thông báo nộp hồ sơ xét hoàn tất chương trình đào tạo hệ chính quy các chương trình – Đợt tháng 5 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-he-chinh-quy-cac-chuong-trinh-dot-thang-5-nam-2024/)
 * 24/04/2024: [THÔNG BÁO Triển khai Cuộc thi Sinh viên Công Thương với ý tưởng khởi nghiệp lần 5 – Năm 2024](https://hcmus.edu.vn/thong-bao-trien-khai-cuoc-thi-sinh-vien-cong-thuong-voi-y-tuong-khoi-nghiep-lan-5-nam-2024/)
 * 24/04/2024: [Thông báo Chương trình Học bổng Đồng Hành kì 46 – Học kì 2 năm học 2023-2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ki-46-hoc-ki-2-nam-hoc-2023-2024/)
-* 22/04/2024: [Chương trình học bổng của Ninety Eight](https://hcmus.edu.vn/chuong-trinh-hoc-bong-cua-ninety-eight/)
-* 22/04/2024: [Chương trình đào tạo Khóa 2021](https://hcmus.edu.vn/chuong-trinh-dao-tao-khoa-2021-chuong-trinh-dai-tra/)
-* 22/04/2024: [Chương trình học bổng bậc Đại học Panasonic năm 2024](https://hcmus.edu.vn/chuong-trinh-hoc-bong-bac-dai-hoc-panasonic-nam-2024/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 15/05/2024: [Chuyển ngạch chức danh nghề nghiệp](https://hcmus.edu.vn/chuyen-ngach-chuc-danh-nghe-nghiep/)
 * 14/05/2024: [Tuyển dụng Nghiên cứu viên – PTN kỹ thuật Hạt nhân](https://hcmus.edu.vn/tuyen-dung-nghien-cuu-vien-ptn-ky-thuat-hat-nhan/)
@@ -123,5 +117,3 @@ No news in the last 1 month
 * 02/05/2024: [Thông báo học bổng Cao Minh Thì](https://hcmus.edu.vn/thong-bao-hoc-bong-cao-minh-thi/)
 * 02/05/2024: [Chương trình học bổng của nhà tài trợ CNCF 2024](https://hcmus.edu.vn/chuong-trinh-hoc-bong-cua-nha-tai-tro-cncf-2024/)
 * 24/04/2024: [Thông báo Chương trình Học bổng Đồng Hành kì 46 – Học kì 2 năm học 2023-2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ki-46-hoc-ki-2-nam-hoc-2023-2024/)
-* 22/04/2024: [Chương trình học bổng của Ninety Eight](https://hcmus.edu.vn/chuong-trinh-hoc-bong-cua-ninety-eight/)
-* 22/04/2024: [Chương trình học bổng bậc Đại học Panasonic năm 2024](https://hcmus.edu.vn/chuong-trinh-hoc-bong-bac-dai-hoc-panasonic-nam-2024/)
