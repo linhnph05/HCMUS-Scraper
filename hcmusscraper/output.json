@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:07:00 23/05/2024",
+  "Update time": "04:08:22 23/05/2024",
   "Thong Bao": [
     {
       "tieuDe": "Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023",
@@ -29,15 +29,14 @@
     }
   ],
   "Tin tuc": [],
-  "Thong tin can biet": [
-    {
-      "tieuDe": "Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/05/quy-dinh-cac-loai-chung-chi-ngoai-ngu-dat-chuan-dau-ra-trinh-do-dai-hoc-chuong-trinh-tien-tien-va-chat-luong-cao-nhom-nganh-cong-nghe-thong-tin-khoa-2023/",
-      "date": "22/05/2024"
-    }
-  ],
+  "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Danh sách sinh viên đã hoàn thành chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16205",
+      "date": "23/5/2024"
+    },
     {
       "tieuDe": "⚡️Đội bóng Khoa Công nghệ thông tin gặt hái nhiều giải thưởng tại Giải bóng đá Cựu sinh viên HCMUS Alumni League 2024.⚡️",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16204",
@@ -82,17 +81,12 @@
       "tieuDe": "Thông báo thay đổi địa điểm tổ chức Seminar Bộ môn Công nghệ Tri thức năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16181",
       "date": "10/5/2024"
-    },
-    {
-      "tieuDe": "Công bố đề án tuyển sinh trình độ đại học tại trường Đại học Khoa học tự nhiên, ĐHQG-HCM năm 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16177",
-      "date": "8/5/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
     {
-      "tieuDe": "⚡️Đội bóng Khoa Công nghệ thông tin gặt hái nhiều giải thưởng tại Giải bóng đá Cựu sinh viên HCMUS Alumni League 2024.⚡️",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16204",
+      "tieuDe": "Danh sách sinh viên đã hoàn thành chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16205",
       "date": "23/05/2024"
     },
     {
@@ -163,6 +157,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024",
+      "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/",
+      "date": "23/05/2024"
+    },
     {
       "tieuDe": "[THÔNG BÁO] Chương trình BUU Summer Cultural Camp 2024, Thái Lan",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-buu-summer-cultural-camp-2024-thai-lan/",
@@ -336,6 +335,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024",
+      "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/",
+      "date": "23/05/2024"
+    },
+    {
       "tieuDe": "THÔNG BÁO V/v tra cứu kết quả tham gia hoạt động do phòng Công tác Sinh viên tổ chức",
       "url": "https://hcmus.edu.vn/thong-bao-v-v-tra-cuu-ket-qua-tham-gia-hoat-dong-do-phong-cong-tac-sinh-vien-to-chuc/",
       "date": "21/05/2024"
@@ -465,6 +469,11 @@
   ],
   "HCMUS-Nguoi hoc": [
     {
+      "tieuDe": "Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024",
+      "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/",
+      "date": "23/05/2024"
+    },
+    {
       "tieuDe": "THÔNG BÁO V/v tra cứu kết quả tham gia hoạt động do phòng Công tác Sinh viên tổ chức",
       "url": "https://hcmus.edu.vn/thong-bao-v-v-tra-cuu-ket-qua-tham-gia-hoat-dong-do-phong-cong-tac-sinh-vien-to-chuc/",
       "date": "21/05/2024"
@@ -486,6 +495,11 @@
     }
   ],
   "HCMUS-Hoc bong dai hoc": [
+    {
+      "tieuDe": "Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024",
+      "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/",
+      "date": "23/05/2024"
+    },
     {
       "tieuDe": "Thông tin Học bổng Lương Văn Can dành cho Sinh viên Đại học, năm học 2024 – 2025",
       "url": "https://hcmus.edu.vn/thong-tin-hoc-bong-luong-van-can-danh-cho-sinh-vien-dai-hoc-nam-hoc-2024-2025/",
