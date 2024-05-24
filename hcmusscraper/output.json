@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:08:26 24/05/2024",
+  "Update time": "10:06:51 24/05/2024",
   "Thong Bao": [
     {
       "tieuDe": "Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023",
@@ -163,6 +163,16 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo phát bằng tốt nghiệp – đợt tháng 3/2024",
+      "url": "https://hcmus.edu.vn/thong-bao-phat-bang-tot-nghiep-dot-thang-3-2024-2/",
+      "date": "24/05/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO TUYỂN DỤNG – PTN VẬT LIỆU KỸ THUẬT CAO",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-ptn-vat-lieu-ky-thuat-cao/",
+      "date": "24/05/2024"
+    },
     {
       "tieuDe": "THÔNG BÁO TUYỂN CHỌN THỰC HIỆN CHƯƠNG TRÌNH PHÁT TRIỂN TÀI SẢN TRÍ TUỆ AN GIANG 2030 THỰC HIỆN 2024",
       "url": "https://hcmus.edu.vn/thong-bao-tuyen-chon-thuc-hien-chuong-trinh-phat-trien-tai-san-tri-tue-an-giang-2030-thuc-hien-2024/",
@@ -356,6 +366,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "Thông báo phát bằng tốt nghiệp – đợt tháng 3/2024",
+      "url": "https://hcmus.edu.vn/thong-bao-phat-bang-tot-nghiep-dot-thang-3-2024-2/",
+      "date": "24/05/2024"
+    },
+    {
       "tieuDe": "THÔNG BÁO V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024",
       "url": "https://hcmus.edu.vn/thong-bao-v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/",
       "date": "23/05/2024"
@@ -462,6 +477,11 @@
     }
   ],
   "HCMUS-Tuyen dung": [
+    {
+      "tieuDe": "THÔNG BÁO TUYỂN DỤNG – PTN VẬT LIỆU KỸ THUẬT CAO",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-ptn-vat-lieu-ky-thuat-cao/",
+      "date": "24/05/2024"
+    },
     {
       "tieuDe": "THÔNG BÁO TUYỂN DỤNG CHUYÊN VIÊN PHÒNG KHOA HỌC CÔNG NGHỆ",
       "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-chuyen-vien-phong-khoa-hoc-cong-nghe/",

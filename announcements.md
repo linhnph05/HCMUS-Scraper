@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:16:56 24/05/2024**_
+_Last update: **17:15:33 24/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 22/05/2024: [Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023](https://www.ctda.hcmus.edu.vn/vi/2024/05/quy-dinh-cac-loai-chung-chi-ngoai-ngu-dat-chuan-dau-ra-trinh-do-dai-hoc-chuong-trinh-tien-tien-va-chat-luong-cao-nhom-nganh-cong-nghe-thong-tin-khoa-2023/)
 * 21/05/2024: [Các chương trình chăm sóc sức khỏe tinh thần người học](https://www.ctda.hcmus.edu.vn/vi/2024/05/cac-chuong-trinh-cham-soc-suc-khoe-tinh-than-nguoi-hoc/)
@@ -44,6 +44,8 @@ No news in the last 1 month
 * 14/05/2024: [[AHAMOVE HCM] Chương trình Tuyển Dụng năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16190)
 * 10/05/2024: [Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Embedded MBD Engineer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14748)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 24/05/2024: [Thông báo phát bằng tốt nghiệp – đợt tháng 3/2024](https://hcmus.edu.vn/thong-bao-phat-bang-tot-nghiep-dot-thang-3-2024-2/)
+* 24/05/2024: [THÔNG BÁO TUYỂN DỤNG – PTN VẬT LIỆU KỸ THUẬT CAO](https://hcmus.edu.vn/thong-bao-tuyen-dung-ptn-vat-lieu-ky-thuat-cao/)
 * 24/05/2024: [THÔNG BÁO TUYỂN CHỌN THỰC HIỆN CHƯƠNG TRÌNH PHÁT TRIỂN TÀI SẢN TRÍ TUỆ AN GIANG 2030 THỰC HIỆN 2024](https://hcmus.edu.vn/thong-bao-tuyen-chon-thuc-hien-chuong-trinh-phat-trien-tai-san-tri-tue-an-giang-2030-thuc-hien-2024/)
 * 23/05/2024: [THÔNG BÁO V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024](https://hcmus.edu.vn/thong-bao-v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/)
 * 23/05/2024: [THÔNG BÁO TUYỂN DỤNG CHUYÊN VIÊN PHÒNG KHOA HỌC CÔNG NGHỆ](https://hcmus.edu.vn/thong-bao-tuyen-dung-chuyen-vien-phong-khoa-hoc-cong-nghe/)
@@ -83,6 +85,7 @@ No news in the last 1 month
 * 24/04/2024: [THÔNG BÁO Triển khai Cuộc thi Sinh viên Công Thương với ý tưởng khởi nghiệp lần 5 – Năm 2024](https://hcmus.edu.vn/thong-bao-trien-khai-cuoc-thi-sinh-vien-cong-thuong-voi-y-tuong-khoi-nghiep-lan-5-nam-2024/)
 * 24/04/2024: [Thông báo Chương trình Học bổng Đồng Hành kì 46 – Học kì 2 năm học 2023-2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ki-46-hoc-ki-2-nam-hoc-2023-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 24/05/2024: [Thông báo phát bằng tốt nghiệp – đợt tháng 3/2024](https://hcmus.edu.vn/thong-bao-phat-bang-tot-nghiep-dot-thang-3-2024-2/)
 * 23/05/2024: [THÔNG BÁO V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024](https://hcmus.edu.vn/thong-bao-v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/)
 * 23/05/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/)
 * 21/05/2024: [THÔNG BÁO V/v tra cứu kết quả tham gia hoạt động do phòng Công tác Sinh viên tổ chức](https://hcmus.edu.vn/thong-bao-v-v-tra-cuu-ket-qua-tham-gia-hoat-dong-do-phong-cong-tac-sinh-vien-to-chuc/)
@@ -105,6 +108,7 @@ No news in the last 1 month
 * 24/04/2024: [THÔNG BÁO Triển khai Cuộc thi Sinh viên Công Thương với ý tưởng khởi nghiệp lần 5 – Năm 2024](https://hcmus.edu.vn/thong-bao-trien-khai-cuoc-thi-sinh-vien-cong-thuong-voi-y-tuong-khoi-nghiep-lan-5-nam-2024/)
 * 24/04/2024: [Thông báo Chương trình Học bổng Đồng Hành kì 46 – Học kì 2 năm học 2023-2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ki-46-hoc-ki-2-nam-hoc-2023-2024/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
+* 24/05/2024: [THÔNG BÁO TUYỂN DỤNG – PTN VẬT LIỆU KỸ THUẬT CAO](https://hcmus.edu.vn/thong-bao-tuyen-dung-ptn-vat-lieu-ky-thuat-cao/)
 * 23/05/2024: [THÔNG BÁO TUYỂN DỤNG CHUYÊN VIÊN PHÒNG KHOA HỌC CÔNG NGHỆ](https://hcmus.edu.vn/thong-bao-tuyen-dung-chuyen-vien-phong-khoa-hoc-cong-nghe/)
 * 15/05/2024: [Chuyển ngạch chức danh nghề nghiệp](https://hcmus.edu.vn/chuyen-ngach-chuc-danh-nghe-nghiep/)
 * 14/05/2024: [Tuyển dụng Nghiên cứu viên – PTN kỹ thuật Hạt nhân](https://hcmus.edu.vn/tuyen-dung-nghien-cuu-vien-ptn-ky-thuat-hat-nhan/)
