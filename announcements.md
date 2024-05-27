@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:18:02 27/05/2024**_
+_Last update: **16:16:06 27/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 22/05/2024: [Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023](https://www.ctda.hcmus.edu.vn/vi/2024/05/quy-dinh-cac-loai-chung-chi-ngoai-ngu-dat-chuan-dau-ra-trinh-do-dai-hoc-chuong-trinh-tien-tien-va-chat-luong-cao-nhom-nganh-cong-nghe-thong-tin-khoa-2023/)
 * 21/05/2024: [Các chương trình chăm sóc sức khỏe tinh thần người học](https://www.ctda.hcmus.edu.vn/vi/2024/05/cac-chuong-trinh-cham-soc-suc-khoe-tinh-than-nguoi-hoc/)
@@ -13,6 +13,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 27/5/2024: [Thông báo đăng ký nguyện vọng chuyên ngành Khóa 2022, chương trình Chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16207)
 * 23/5/2024: [ĐHCQ - Thông báo về việc đăng ký nguyện vọng học lớp Khởi nghiệp học kỳ 3 NH 2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16206)
 * 23/5/2024: [Danh sách sinh viên đã hoàn thành chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16205)
 * 23/5/2024: [⚡️Đội bóng Khoa Công nghệ thông tin gặt hái nhiều giải thưởng tại Giải bóng đá Cựu sinh viên HCMUS Alumni League 2024.⚡️](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16204)
@@ -22,7 +23,6 @@ No news in the last 1 month
 * 14/5/2024: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16191)
 * 14/5/2024: [Danh sách sinh viên tham quan công ty KMS Technology](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16189)
 * 13/5/2024: [Tổng kết Seminar Bộ môn Công nghệ Tri thức](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16187)
-* 13/5/2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16186)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 23/05/2024: [Danh sách sinh viên đã hoàn thành chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16205)
 * 22/05/2024: [Kỳ thi lập trình thi đấu VNOI CUP](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16199)
