@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:06:52 27/05/2024",
+  "Update time": "10:06:40 27/05/2024",
   "Thong Bao": [
     {
       "tieuDe": "Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023",
@@ -163,6 +163,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "TB Chương trình Học bổng Vừ A Dính năm học 2023-2024",
+      "url": "https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-vu-a-dinh-nam-hoc-2023-2024/",
+      "date": "27/05/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên Hoàn tất chương trình đào tạo đại học – Đợt tháng 5/2024",
       "url": "https://hcmus.edu.vn/danh-sach-sinh-vien-hoan-tat-chuong-trinh-dao-tao-dai-hoc-dot-thang-5-2024/",
@@ -351,6 +356,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "TB Chương trình Học bổng Vừ A Dính năm học 2023-2024",
+      "url": "https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-vu-a-dinh-nam-hoc-2023-2024/",
+      "date": "27/05/2024"
+    },
+    {
       "tieuDe": "Danh sách sinh viên Hoàn tất chương trình đào tạo đại học – Đợt tháng 5/2024",
       "url": "https://hcmus.edu.vn/danh-sach-sinh-vien-hoan-tat-chuong-trinh-dao-tao-dai-hoc-dot-thang-5-2024/",
       "date": "25/05/2024"
@@ -521,6 +531,11 @@
     }
   ],
   "HCMUS-Hoc bong dai hoc": [
+    {
+      "tieuDe": "TB Chương trình Học bổng Vừ A Dính năm học 2023-2024",
+      "url": "https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-vu-a-dinh-nam-hoc-2023-2024/",
+      "date": "27/05/2024"
+    },
     {
       "tieuDe": "Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/",
