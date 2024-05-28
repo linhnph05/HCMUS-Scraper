@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "01:31:26 28/05/2024",
+  "Update time": "02:18:32 28/05/2024",
   "Thong Bao": [
     {
       "tieuDe": "Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023",
@@ -163,6 +163,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "THÔNG BÁO HỌC BỔNG VALLET 2024 (Dành cho sinh viên Đại học)",
+      "url": "https://hcmus.edu.vn/thong-bao-hoc-bong-vallet-2024-danh-cho-sinh-vien-dai-hoc/",
+      "date": "28/05/2024"
+    },
     {
       "tieuDe": "TB Chương trình Học bổng Vừ A Dính năm học 2023-2024",
       "url": "https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-vu-a-dinh-nam-hoc-2023-2024/",
@@ -356,6 +361,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "THÔNG BÁO HỌC BỔNG VALLET 2024 (Dành cho sinh viên Đại học)",
+      "url": "https://hcmus.edu.vn/thong-bao-hoc-bong-vallet-2024-danh-cho-sinh-vien-dai-hoc/",
+      "date": "28/05/2024"
+    },
+    {
       "tieuDe": "TB Chương trình Học bổng Vừ A Dính năm học 2023-2024",
       "url": "https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-vu-a-dinh-nam-hoc-2023-2024/",
       "date": "27/05/2024"
@@ -531,6 +541,11 @@
     }
   ],
   "HCMUS-Hoc bong dai hoc": [
+    {
+      "tieuDe": "THÔNG BÁO HỌC BỔNG VALLET 2024 (Dành cho sinh viên Đại học)",
+      "url": "https://hcmus.edu.vn/thong-bao-hoc-bong-vallet-2024-danh-cho-sinh-vien-dai-hoc/",
+      "date": "28/05/2024"
+    },
     {
       "tieuDe": "TB Chương trình Học bổng Vừ A Dính năm học 2023-2024",
       "url": "https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-vu-a-dinh-nam-hoc-2023-2024/",
