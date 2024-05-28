@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:08:04 28/05/2024",
+  "Update time": "09:06:40 28/05/2024",
   "Thong Bao": [
     {
       "tieuDe": "Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023",
@@ -38,6 +38,11 @@
   ],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Thông báo v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16208",
+      "date": "28/5/2024"
+    },
     {
       "tieuDe": "Thông báo đăng ký nguyện vọng chuyên ngành Khóa 2022, chương trình Chuẩn ĐHCQ",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16207",
@@ -82,14 +87,14 @@
       "tieuDe": "Danh sách sinh viên tham quan công ty KMS Technology",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16189",
       "date": "14/5/2024"
-    },
-    {
-      "tieuDe": "Tổng kết Seminar Bộ môn Công nghệ Tri thức",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16187",
-      "date": "13/5/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Thông báo v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16208",
+      "date": "28/05/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên đã hoàn thành chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16205",
@@ -109,11 +114,6 @@
       "tieuDe": "Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2023-2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16196",
       "date": "17/05/2024"
-    },
-    {
-      "tieuDe": "Hội thảo 'Ứng dụng AI/ML và Cloud trong lĩnh vực công nghệ du lịch và bài toán các tập đoàn toàn cầu đang gặp phải'",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16194",
-      "date": "16/05/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [],
