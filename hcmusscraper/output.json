@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:06:40 29/05/2024",
+  "Update time": "08:08:58 29/05/2024",
   "Thong Bao": [
     {
       "tieuDe": "Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023",
@@ -91,6 +91,11 @@
   ],
   "FIT-THÔNG TIN CHUNG": [
     {
+      "tieuDe": "Tuyển chọn sinh viên tham dự Chương trình AUN Summer Program 2024 tại Đại học Quốc gia Thành phố Hồ Chí Minh",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16212",
+      "date": "29/05/2024"
+    },
+    {
       "tieuDe": "Thông báo v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16208",
       "date": "28/05/2024"
@@ -109,14 +114,15 @@
       "tieuDe": "Chương trình Chăm sóc sức khỏe tinh thần người học tại Trường Đại học Khoa học tự nhiên",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16197",
       "date": "21/05/2024"
-    },
-    {
-      "tieuDe": "Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2023-2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16196",
-      "date": "17/05/2024"
     }
   ],
-  "FIT-THÔNG TIN HỌC BỔNG": [],
+  "FIT-THÔNG TIN HỌC BỔNG": [
+    {
+      "tieuDe": "Danh sách dự kiến cấp xét học bổng đột xuất HK1 năm học 2023-2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16211",
+      "date": "29/05/2024"
+    }
+  ],
   "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
     {
       "tieuDe": "Tổng kết Seminar Bộ môn Công nghệ Tri thức",
