@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:19:38 29/05/2024",
+  "Update time": "04:09:18 29/05/2024",
   "Thong Bao": [
     {
       "tieuDe": "Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023",
@@ -137,6 +137,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "[HCM] VNG tuyển dụng Application Security Intern & QC Intern",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16210",
+      "date": "29/05/2024"
+    },
+    {
       "tieuDe": "[WEBINAR] XÂY DỰNG HỒ SƠ CÁ NHÂN CHUYÊN NGHIỆP CÙNG VNG 📝",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16200",
       "date": "23/05/2024"
@@ -155,11 +160,6 @@
       "tieuDe": "[AHAMOVE HCM] Chương trình Tuyển Dụng năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16190",
       "date": "14/05/2024"
-    },
-    {
-      "tieuDe": "Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Embedded MBD Engineer",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14748",
-      "date": "10/05/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
