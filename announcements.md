@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **10:17:39 31/05/2024**_
+_Last update: **11:18:21 31/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 31/05/2024: [Thông báo về quy định đóng học phí học kỳ 3 năm học: 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-3-nam-hoc-2023-2024/)
 * 30/05/2024: [[CTĐA] – Thông báo phúc khảo HK2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-phuc-khao-hk2-2023-2024/)
@@ -46,6 +46,7 @@ No news in the last 1 month
 * 23/05/2024: [Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Software Developer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14749)
 * 22/05/2024: [CODE TOUR 2024 TRỞ LẠI 💥 GIẢI ĐẤU LẬP TRÌNH ONLINE MỞ RỘNG CHO CÁC “CHIẾN BINH” IT TRÊN TOÀN QUỐC](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16202)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 31/05/2024: [THÔNG BÁO Triển khai Cuộc thi Ý tưởng Khởi nghiệp sinh viên – UNIV.STAR 2024](https://hcmus.edu.vn/thong-bao-trien-khai-cuoc-thi-y-tuong-khoi-nghiep-sinh-vien-univ-star-2024/)
 * 31/05/2024: [TUYỂN DỤNG GIẢNG VIÊN – BỘ MÔN HÓA PHÂN TÍCH](https://hcmus.edu.vn/tuyen-dung-giang-vien-bo-mon-hoa-phan-tich/)
 * 30/05/2024: [Thông báo nộp học phí HK3/23-24 đối với sinh viên học chương trình Tiên tiến, Chất lượng cao và Việt-Pháp](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk3-23-24-doi-voi-sinh-vien-hoc-chuong-trinh-tien-tien-chat-luong-cao-va-viet-phap/)
 * 28/05/2024: [Thông báo kết quả dự kiến HBKK HK1/2023-2024 Khoa Công nghệ Thông tin, Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk1-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
@@ -89,6 +90,7 @@ No news in the last 1 month
 * 02/05/2024: [Thông báo học bổng Cao Minh Thì](https://hcmus.edu.vn/thong-bao-hoc-bong-cao-minh-thi/)
 * 02/05/2024: [Chương trình học bổng của nhà tài trợ CNCF 2024](https://hcmus.edu.vn/chuong-trinh-hoc-bong-cua-nha-tai-tro-cncf-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 31/05/2024: [THÔNG BÁO Triển khai Cuộc thi Ý tưởng Khởi nghiệp sinh viên – UNIV.STAR 2024](https://hcmus.edu.vn/thong-bao-trien-khai-cuoc-thi-y-tuong-khoi-nghiep-sinh-vien-univ-star-2024/)
 * 30/05/2024: [Thông báo nộp học phí HK3/23-24 đối với sinh viên học chương trình Tiên tiến, Chất lượng cao và Việt-Pháp](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk3-23-24-doi-voi-sinh-vien-hoc-chuong-trinh-tien-tien-chat-luong-cao-va-viet-phap/)
 * 28/05/2024: [Thông báo kết quả dự kiến HBKK HK1/2023-2024 Khoa Công nghệ Thông tin, Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk1-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
 * 28/05/2024: [THÔNG BÁO HỌC BỔNG VALLET 2024 (Dành cho sinh viên Đại học)](https://hcmus.edu.vn/thong-bao-hoc-bong-vallet-2024-danh-cho-sinh-vien-dai-hoc/)
@@ -124,6 +126,7 @@ No news in the last 1 month
 * 09/05/2024: [ĐỀ CƯƠNG ÔN TẬP MÔN KIẾN THỨC CHUNG KỲ THI TUYỂN DỤNG VIÊN CHỨC NĂM 2024](https://hcmus.edu.vn/de-cuong-on-tap-mon-kien-thuc-chung-ky-thi-tuyen-dung-vien-chuc-nam-2024/)
 * 04/05/2024: [Tuyển dụng_Chuyên viên phụ trách Tâm lý sinh viên_P.Công tác Sinh viên](https://hcmus.edu.vn/tuyen-dung_chuyen-vien-phu-trach-tam-ly-sinh-vien_p-cong-tac-sinh-vien/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
+* 31/05/2024: [THÔNG BÁO Triển khai Cuộc thi Ý tưởng Khởi nghiệp sinh viên – UNIV.STAR 2024](https://hcmus.edu.vn/thong-bao-trien-khai-cuoc-thi-y-tuong-khoi-nghiep-sinh-vien-univ-star-2024/)
 * 23/05/2024: [THÔNG BÁO V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024](https://hcmus.edu.vn/thong-bao-v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/)
 * 23/05/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/)
 * 21/05/2024: [THÔNG BÁO V/v tra cứu kết quả tham gia hoạt động do phòng Công tác Sinh viên tổ chức](https://hcmus.edu.vn/thong-bao-v-v-tra-cuu-ket-qua-tham-gia-hoat-dong-do-phong-cong-tac-sinh-vien-to-chuc/)
