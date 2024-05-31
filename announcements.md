@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:24:11 31/05/2024**_
+_Last update: **16:18:28 31/05/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 31/05/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/)
 * 31/05/2024: [Thông báo về quy định đóng học phí học kỳ 3 năm học: 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-3-nam-hoc-2023-2024/)
@@ -41,11 +41,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 31/05/2024: [CODE TOUR 2024 TRỞ LẠI 💥 GIẢI ĐẤU LẬP TRÌNH ONLINE MỞ RỘNG CHO CÁC “CHIẾN BINH” IT TRÊN TOÀN QUỐC](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16201)
 * 30/05/2024: [[Q2,Q3] Golden Owl Solutions tuyển dụng nhiều vị trí (IT, Non-IT)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16215)
 * 29/05/2024: [[HCM] VNG tuyển dụng Application Security Intern & QC Intern](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16210)
 * 23/05/2024: [[WEBINAR] XÂY DỰNG HỒ SƠ CÁ NHÂN CHUYÊN NGHIỆP CÙNG VNG 📝](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16200)
 * 23/05/2024: [Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Software Developer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14749)
-* 22/05/2024: [CODE TOUR 2024 TRỞ LẠI 💥 GIẢI ĐẤU LẬP TRÌNH ONLINE MỞ RỘNG CHO CÁC “CHIẾN BINH” IT TRÊN TOÀN QUỐC](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16202)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 31/05/2024: [THÔNG BÁO Triển khai Cuộc thi Ý tưởng Khởi nghiệp sinh viên – UNIV.STAR 2024](https://hcmus.edu.vn/thong-bao-trien-khai-cuoc-thi-y-tuong-khoi-nghiep-sinh-vien-univ-star-2024/)
 * 31/05/2024: [TUYỂN DỤNG GIẢNG VIÊN – BỘ MÔN HÓA PHÂN TÍCH](https://hcmus.edu.vn/tuyen-dung-giang-vien-bo-mon-hoa-phan-tich/)
