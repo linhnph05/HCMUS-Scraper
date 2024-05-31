@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "10:07:44 31/05/2024",
+  "Update time": "11:06:56 31/05/2024",
   "Thong Bao": [
     {
       "tieuDe": "V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024",
@@ -59,6 +59,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Đăng ký tham dự Tech-Talk và Information day",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16218",
+      "date": "31/5/2024"
+    },
+    {
       "tieuDe": "Thông báo nộp đơn xin xét chuyên ngành đối với sinh viên chưa có chuyên ngành Khóa 2021 trở về trước",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16214",
       "date": "29/5/2024"
@@ -102,14 +107,14 @@
       "tieuDe": "Những lưu ý ở giai đoạn chuyên ngành - Dành cho khóa 2022 (ĐHCQ - Chương trình Chuẩn)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16195",
       "date": "16/5/2024"
-    },
-    {
-      "tieuDe": "Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16191",
-      "date": "14/5/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Đăng ký tham dự Tech-Talk và Information day",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16218",
+      "date": "31/05/2024"
+    },
     {
       "tieuDe": "Tuyển chọn sinh viên tham dự Chương trình AUN Summer Program 2024 tại Đại học Quốc gia Thành phố Hồ Chí Minh",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16212",
@@ -129,11 +134,6 @@
       "tieuDe": "Kỳ thi lập trình thi đấu VNOI CUP",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16199",
       "date": "22/05/2024"
-    },
-    {
-      "tieuDe": "Chương trình Chăm sóc sức khỏe tinh thần người học tại Trường Đại học Khoa học tự nhiên",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16197",
-      "date": "21/05/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
@@ -212,6 +212,11 @@
     {
       "tieuDe": "Thông báo PHƯƠNG THỨC XÉT TUYỂN 1: Xét tuyển thẳng và ưu tiên xét tuyển vào đại học hệ chính quy năm 2024 theo quy định của Bộ Giáo dục và Đào tạo",
       "url": "https://hcmus.edu.vn/thong-bao-phuong-thuc-xet-tuyen-1-xet-tuyen-thang-va-uu-tien-xet-tuyen-vao-dai-hoc-he-chinh-quy-nam-2024-theo-quy-dinh-cua-bo-giao-duc-va-dao-tao/",
+      "date": "31/05/2024"
+    },
+    {
+      "tieuDe": "PHƯƠNG THỨC TUYỂN SINH ĐẠI HỌC NĂM 2024",
+      "url": "https://hcmus.edu.vn/phuong-thuc-tuyen-sinh/",
       "date": "31/05/2024"
     },
     {
