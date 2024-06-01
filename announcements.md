@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **19:18:19 01/06/2024**_
+_Last update: **20:20:14 01/06/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 31/05/2024: [V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/)
 * 31/05/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/)
@@ -13,7 +13,7 @@ _Last update: **19:18:19 01/06/2024**_
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
-* 22/05/2024: [Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023](https://www.ctda.hcmus.edu.vn/vi/2024/05/quy-dinh-cac-loai-chung-chi-ngoai-ngu-dat-chuan-dau-ra-trinh-do-dai-hoc-chuong-trinh-tien-tien-va-chat-luong-cao-nhom-nganh-cong-nghe-thong-tin-khoa-2023/)
+No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
