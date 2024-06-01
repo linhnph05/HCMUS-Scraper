@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "20:06:54 01/06/2024",
+  "Update time": "21:06:51 01/06/2024",
   "Thong Bao": [
     {
       "tieuDe": "V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024",
@@ -49,7 +49,13 @@
     }
   ],
   "Tin tuc": [],
-  "Thong tin can biet": [],
+  "Thong tin can biet": [
+    {
+      "tieuDe": "Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/05/quy-dinh-cac-loai-chung-chi-ngoai-ngu-dat-chuan-dau-ra-trinh-do-dai-hoc-chuong-trinh-tien-tien-va-chat-luong-cao-nhom-nganh-cong-nghe-thong-tin-khoa-2023/",
+      "date": "22/05/2024"
+    }
+  ],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
