@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "06:08:07 03/06/2024",
+  "Update time": "07:06:46 03/06/2024",
   "Thong Bao": [
     {
       "tieuDe": "V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024",
@@ -52,12 +52,132 @@
     }
   ],
   "Hoat dong sinh vien": [],
-  "FIT-Tin tuc": [],
-  "FIT-THÔNG TIN CHUNG": [],
-  "FIT-THÔNG TIN HỌC BỔNG": [],
-  "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [],
+  "FIT-Tin tuc": [
+    {
+      "tieuDe": "Đăng ký tham dự Tech-Talk và Information day",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16218",
+      "date": "31/5/2024"
+    },
+    {
+      "tieuDe": "Thông báo nộp đơn xin xét chuyên ngành đối với sinh viên chưa có chuyên ngành Khóa 2021 trở về trước",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16214",
+      "date": "29/5/2024"
+    },
+    {
+      "tieuDe": "Thông báo v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16208",
+      "date": "28/5/2024"
+    },
+    {
+      "tieuDe": "Thông báo đăng ký nguyện vọng chuyên ngành Khóa 2022, chương trình Chuẩn ĐHCQ",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16207",
+      "date": "27/5/2024"
+    },
+    {
+      "tieuDe": "ĐHCQ - Thông báo về việc đăng ký nguyện vọng học lớp Khởi nghiệp học kỳ 3 NH 2023-2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16206",
+      "date": "23/5/2024"
+    },
+    {
+      "tieuDe": "Danh sách sinh viên đã hoàn thành chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16205",
+      "date": "23/5/2024"
+    },
+    {
+      "tieuDe": "⚡️Đội bóng Khoa Công nghệ thông tin gặt hái nhiều giải thưởng tại Giải bóng đá Cựu sinh viên HCMUS Alumni League 2024.⚡️",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16204",
+      "date": "23/5/2024"
+    },
+    {
+      "tieuDe": "Thông báo về việc tổ chức lễ tốt nghiệp thạc sĩ, tiến sĩ năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16198",
+      "date": "21/5/2024"
+    },
+    {
+      "tieuDe": "Chương trình Chăm sóc sức khỏe tinh thần người học tại Trường Đại học Khoa học tự nhiên",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16197",
+      "date": "21/5/2024"
+    },
+    {
+      "tieuDe": "Những lưu ý ở giai đoạn chuyên ngành - Dành cho khóa 2022 (ĐHCQ - Chương trình Chuẩn)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16195",
+      "date": "16/5/2024"
+    }
+  ],
+  "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Đăng ký tham dự Tech-Talk và Information day",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16218",
+      "date": "31/05/2024"
+    },
+    {
+      "tieuDe": "Tuyển chọn sinh viên tham dự Chương trình AUN Summer Program 2024 tại Đại học Quốc gia Thành phố Hồ Chí Minh",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16212",
+      "date": "29/05/2024"
+    },
+    {
+      "tieuDe": "Thông báo v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16208",
+      "date": "28/05/2024"
+    },
+    {
+      "tieuDe": "Danh sách sinh viên đã hoàn thành chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16205",
+      "date": "23/05/2024"
+    },
+    {
+      "tieuDe": "Kỳ thi lập trình thi đấu VNOI CUP",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16199",
+      "date": "22/05/2024"
+    }
+  ],
+  "FIT-THÔNG TIN HỌC BỔNG": [
+    {
+      "tieuDe": "Danh sách dự kiến cấp xét học bổng đột xuất HK1 năm học 2023-2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16211",
+      "date": "29/05/2024"
+    }
+  ],
+  "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
+    {
+      "tieuDe": "Tổng kết Seminar Bộ môn Công nghệ Tri thức",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16187",
+      "date": "13/05/2024"
+    },
+    {
+      "tieuDe": "Thông báo thay đổi địa điểm tổ chức Seminar Bộ môn Công nghệ Tri thức năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16181",
+      "date": "10/05/2024"
+    }
+  ],
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
-  "FIT-THÔNG TIN TUYỂN DỤNG": [],
+  "FIT-THÔNG TIN TUYỂN DỤNG": [
+    {
+      "tieuDe": "CODE TOUR 2024 TRỞ LẠI 💥 GIẢI ĐẤU LẬP TRÌNH ONLINE MỞ RỘNG CHO CÁC “CHIẾN BINH” IT TRÊN TOÀN QUỐC",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16201",
+      "date": "31/05/2024"
+    },
+    {
+      "tieuDe": "[Q2,Q3] Golden Owl Solutions tuyển dụng nhiều vị trí (IT, Non-IT)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16215",
+      "date": "30/05/2024"
+    },
+    {
+      "tieuDe": "[HCM] VNG tuyển dụng Application Security Intern & QC Intern",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16210",
+      "date": "29/05/2024"
+    },
+    {
+      "tieuDe": "[WEBINAR] XÂY DỰNG HỒ SƠ CÁ NHÂN CHUYÊN NGHIỆP CÙNG VNG 📝",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16200",
+      "date": "23/05/2024"
+    },
+    {
+      "tieuDe": "Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Software Developer",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14749",
+      "date": "23/05/2024"
+    }
+  ],
   "HCMUS-Thong tin nguoi hoc": [
     {
       "tieuDe": "Thông báo PHƯƠNG THỨC XÉT TUYỂN 6: Xét tuyển vào đại học hệ chính quy năm 2024 đối với chương trình tiên tiến và chương trình đạt chuẩn kiểm định bằng phương thức dựa trên kết quả các chứng chỉ ngoại ngữ quốc tế kết hợp với kết quả học tập THPT",

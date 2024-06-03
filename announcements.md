@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **13:17:41 03/06/2024**_
+_Last update: **14:20:09 03/06/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 31/05/2024: [V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/)
 * 31/05/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/)
@@ -16,17 +16,35 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
-No news in the last 1 month
+* 31/5/2024: [Đăng ký tham dự Tech-Talk và Information day](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16218)
+* 29/5/2024: [Thông báo nộp đơn xin xét chuyên ngành đối với sinh viên chưa có chuyên ngành Khóa 2021 trở về trước](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16214)
+* 28/5/2024: [Thông báo v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16208)
+* 27/5/2024: [Thông báo đăng ký nguyện vọng chuyên ngành Khóa 2022, chương trình Chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16207)
+* 23/5/2024: [ĐHCQ - Thông báo về việc đăng ký nguyện vọng học lớp Khởi nghiệp học kỳ 3 NH 2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16206)
+* 23/5/2024: [Danh sách sinh viên đã hoàn thành chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16205)
+* 23/5/2024: [⚡️Đội bóng Khoa Công nghệ thông tin gặt hái nhiều giải thưởng tại Giải bóng đá Cựu sinh viên HCMUS Alumni League 2024.⚡️](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16204)
+* 21/5/2024: [Thông báo về việc tổ chức lễ tốt nghiệp thạc sĩ, tiến sĩ năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16198)
+* 21/5/2024: [Chương trình Chăm sóc sức khỏe tinh thần người học tại Trường Đại học Khoa học tự nhiên](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16197)
+* 16/5/2024: [Những lưu ý ở giai đoạn chuyên ngành - Dành cho khóa 2022 (ĐHCQ - Chương trình Chuẩn)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16195)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-No news in the last 1 month
+* 31/05/2024: [Đăng ký tham dự Tech-Talk và Information day](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16218)
+* 29/05/2024: [Tuyển chọn sinh viên tham dự Chương trình AUN Summer Program 2024 tại Đại học Quốc gia Thành phố Hồ Chí Minh](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16212)
+* 28/05/2024: [Thông báo v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16208)
+* 23/05/2024: [Danh sách sinh viên đã hoàn thành chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16205)
+* 22/05/2024: [Kỳ thi lập trình thi đấu VNOI CUP](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16199)
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-No news in the last 1 month
+* 29/05/2024: [Danh sách dự kiến cấp xét học bổng đột xuất HK1 năm học 2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16211)
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-No news in the last 1 month
+* 13/05/2024: [Tổng kết Seminar Bộ môn Công nghệ Tri thức](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16187)
+* 10/05/2024: [Thông báo thay đổi địa điểm tổ chức Seminar Bộ môn Công nghệ Tri thức năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16181)
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-No news in the last 1 month
+* 31/05/2024: [CODE TOUR 2024 TRỞ LẠI 💥 GIẢI ĐẤU LẬP TRÌNH ONLINE MỞ RỘNG CHO CÁC “CHIẾN BINH” IT TRÊN TOÀN QUỐC](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16201)
+* 30/05/2024: [[Q2,Q3] Golden Owl Solutions tuyển dụng nhiều vị trí (IT, Non-IT)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16215)
+* 29/05/2024: [[HCM] VNG tuyển dụng Application Security Intern & QC Intern](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16210)
+* 23/05/2024: [[WEBINAR] XÂY DỰNG HỒ SƠ CÁ NHÂN CHUYÊN NGHIỆP CÙNG VNG 📝](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16200)
+* 23/05/2024: [Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Software Developer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14749)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 31/05/2024: [Thông báo PHƯƠNG THỨC XÉT TUYỂN 6: Xét tuyển vào đại học hệ chính quy năm 2024 đối với chương trình tiên tiến và chương trình đạt chuẩn kiểm định bằng phương thức dựa trên kết quả các chứng chỉ ngoại ngữ quốc tế kết hợp với kết quả học tập THPT](https://hcmus.edu.vn/thong-bao-phuong-thuc-xet-tuyen-6-xet-tuyen-vao-dai-hoc-he-chinh-quy-nam-2024-doi-voi-chuong-trinh-tien-tien-va-chuong-trinh-dat-chuan-kiem-dinh-bang-phuong-thuc-dua-tren-ket-qua-cac-chung-chi-ngoai/)
 * 31/05/2024: [Thông báo PHƯƠNG THỨC XÉT TUYỂN 5: Xét tuyển vào đại học hệ chính quy năm 2024 bằng phương thức dựa trên kết quả học tập của chương trình THPT quốc tế đối với thí sinh người nước ngoài và thí sinh người Việt Nam học Trường nước ngoài](https://hcmus.edu.vn/thong-bao-phuong-thuc-xet-tuyen-5-xet-tuyen-vao-dai-hoc-he-chinh-quy-nam-2024-bang-phuong-thuc-dua-tren-ket-qua-hoc-tap-cua-chuong-trinh-thpt-quoc-te-doi-voi-thi-sinh-nguoi-nuoc-ngoai-va-thi-sinh-ngu/)
