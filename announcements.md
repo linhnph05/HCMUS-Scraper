@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **17:18:36 03/06/2024**_
+_Last update: **18:16:19 03/06/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 31/05/2024: [V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/)
 * 31/05/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/)
@@ -40,11 +40,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 03/06/2024: [[Lihuhu] Unity_Mobile Game Developer (Vietnamese) - ver May2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16220)
+* 03/06/2024: [[Lihuhu] Quality Assurance (Vietnamese) - ver May2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16219)
 * 31/05/2024: [CODE TOUR 2024 TRỞ LẠI 💥 GIẢI ĐẤU LẬP TRÌNH ONLINE MỞ RỘNG CHO CÁC “CHIẾN BINH” IT TRÊN TOÀN QUỐC](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16201)
 * 30/05/2024: [[Q2,Q3] Golden Owl Solutions tuyển dụng nhiều vị trí (IT, Non-IT)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16215)
 * 29/05/2024: [[HCM] VNG tuyển dụng Application Security Intern & QC Intern](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16210)
-* 23/05/2024: [[WEBINAR] XÂY DỰNG HỒ SƠ CÁ NHÂN CHUYÊN NGHIỆP CÙNG VNG 📝](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16200)
-* 23/05/2024: [Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Software Developer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14749)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 31/05/2024: [Thông báo PHƯƠNG THỨC XÉT TUYỂN 6: Xét tuyển vào đại học hệ chính quy năm 2024 đối với chương trình tiên tiến và chương trình đạt chuẩn kiểm định bằng phương thức dựa trên kết quả các chứng chỉ ngoại ngữ quốc tế kết hợp với kết quả học tập THPT](https://hcmus.edu.vn/thong-bao-phuong-thuc-xet-tuyen-6-xet-tuyen-vao-dai-hoc-he-chinh-quy-nam-2024-doi-voi-chuong-trinh-tien-tien-va-chuong-trinh-dat-chuan-kiem-dinh-bang-phuong-thuc-dua-tren-ket-qua-cac-chung-chi-ngoai/)
 * 31/05/2024: [Thông báo PHƯƠNG THỨC XÉT TUYỂN 5: Xét tuyển vào đại học hệ chính quy năm 2024 bằng phương thức dựa trên kết quả học tập của chương trình THPT quốc tế đối với thí sinh người nước ngoài và thí sinh người Việt Nam học Trường nước ngoài](https://hcmus.edu.vn/thong-bao-phuong-thuc-xet-tuyen-5-xet-tuyen-vao-dai-hoc-he-chinh-quy-nam-2024-bang-phuong-thuc-dua-tren-ket-qua-hoc-tap-cua-chuong-trinh-thpt-quoc-te-doi-voi-thi-sinh-nguoi-nuoc-ngoai-va-thi-sinh-ngu/)
