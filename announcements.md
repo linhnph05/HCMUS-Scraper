@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:18:01 04/06/2024**_
+_Last update: **16:15:04 04/06/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 31/05/2024: [V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/)
 * 31/05/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/)
@@ -27,11 +27,11 @@ No news in the last 1 month
 * 21/5/2024: [Chương trình Chăm sóc sức khỏe tinh thần người học tại Trường Đại học Khoa học tự nhiên](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16197)
 * 16/5/2024: [Những lưu ý ở giai đoạn chuyên ngành - Dành cho khóa 2022 (ĐHCQ - Chương trình Chuẩn)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16195)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 04/06/2024: [Học bổng Chính phủ Italia Maeci năm học 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16222)
 * 31/05/2024: [Đăng ký tham dự Tech-Talk và Information day](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16218)
 * 29/05/2024: [Tuyển chọn sinh viên tham dự Chương trình AUN Summer Program 2024 tại Đại học Quốc gia Thành phố Hồ Chí Minh](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16212)
 * 28/05/2024: [Thông báo v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16208)
 * 23/05/2024: [Danh sách sinh viên đã hoàn thành chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16205)
-* 22/05/2024: [Kỳ thi lập trình thi đấu VNOI CUP](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16199)
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 29/05/2024: [Danh sách dự kiến cấp xét học bổng đột xuất HK1 năm học 2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16211)
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
