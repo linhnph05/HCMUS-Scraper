@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **11:15:15 04/06/2024**_
+_Last update: **12:15:43 04/06/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 31/05/2024: [V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/)
 * 31/05/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/)
@@ -51,7 +51,7 @@ No news in the last 1 month
 * 31/05/2024: [Thông báo PHƯƠNG THỨC XÉT TUYỂN 4: Xét tuyển đại học hệ chính quy dựa trên kết quả kỳ thi đánh giá năng lực do Đại học Quốc gia Thành phố Hồ Chí Minh tổ chức năm 2024](https://hcmus.edu.vn/thong-bao-phuong-thuc-xet-tuyen-4-xet-tuyen-dai-hoc-he-chinh-quy-dua-tren-ket-qua-ky-thi-danh-gia-nang-luc-do-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh-to-chuc-nam-2024/)
 * 31/05/2024: [Thông báo PHƯƠNG THỨC XÉT TUYỂN 2: Ưu tiên xét tuyển thẳng và ưu tiên xét tuyển vào đại học hệ chính quy năm 2024 theo quy định của Đại học Quốc gia Thành phố Hồ Chí Minh](https://hcmus.edu.vn/thong-bao-phuong-thuc-xet-tuyen-2-uu-tien-xet-tuyen-thang-va-uu-tien-xet-tuyen-vao-dai-hoc-he-chinh-quy-nam-2024-theo-quy-dinh-cua-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh/)
 * 31/05/2024: [Thông báo PHƯƠNG THỨC XÉT TUYỂN 1: Xét tuyển thẳng và ưu tiên xét tuyển vào đại học hệ chính quy năm 2024 theo quy định của Bộ Giáo dục và Đào tạo](https://hcmus.edu.vn/thong-bao-phuong-thuc-xet-tuyen-1-xet-tuyen-thang-va-uu-tien-xet-tuyen-vao-dai-hoc-he-chinh-quy-nam-2024-theo-quy-dinh-cua-bo-giao-duc-va-dao-tao/)
-* 31/05/2024: [PHƯƠNG THỨC TUYỂN SINH ĐẠI HỌC NĂM 2024](https://hcmus.edu.vn/phuong-thuc-tuyen-sinh/)
+* 31/05/2024: [PHƯƠNG THỨC TUYỂN SINH ĐẠI HỌC NĂM 2024](https://hcmus.edu.vn/phuong-thuc-tuyen-sinh-nam-2024/)
 * 31/05/2024: [ĐỀ ÁN TUYỂN SINH TRÌNH ĐỘ ĐẠI HỌC NĂM 2024](https://hcmus.edu.vn/de-an-tuyen-sinh-trinh-do-dai-hoc-nam-2024/)
 * 31/05/2024: [THÔNG BÁO Triển khai Cuộc thi Ý tưởng Khởi nghiệp sinh viên – UNIV.STAR 2024](https://hcmus.edu.vn/thong-bao-trien-khai-cuoc-thi-y-tuong-khoi-nghiep-sinh-vien-univ-star-2024/)
 * 31/05/2024: [TUYỂN DỤNG GIẢNG VIÊN – BỘ MÔN HÓA PHÂN TÍCH](https://hcmus.edu.vn/tuyen-dung-giang-vien-bo-mon-hoa-phan-tich/)
