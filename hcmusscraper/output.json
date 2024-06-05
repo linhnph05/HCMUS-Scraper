@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "06:08:05 05/06/2024",
+  "Update time": "07:06:53 05/06/2024",
   "Thong Bao": [
     {
       "tieuDe": "V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024",
@@ -153,6 +153,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "THI ĐẤU CODE TOUR - CƠ HỘI “NÂNG CẤP” TOÀN DIỆN KỸ NĂNG LẬP TRÌNH DÀNH CHO BẠN 👨‍💻",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16224",
+      "date": "05/06/2024"
+    },
+    {
       "tieuDe": "[Lihuhu] Unity_Mobile Game Developer (Vietnamese) - ver May2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16220",
       "date": "03/06/2024"
@@ -171,11 +176,6 @@
       "tieuDe": "[Q2,Q3] Golden Owl Solutions tuyển dụng nhiều vị trí (IT, Non-IT)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16215",
       "date": "30/05/2024"
-    },
-    {
-      "tieuDe": "[HCM] VNG tuyển dụng Application Security Intern & QC Intern",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16210",
-      "date": "29/05/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
