@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:19:17 05/06/2024**_
+_Last update: **16:15:59 05/06/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 31/05/2024: [V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/)
 * 31/05/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/)
@@ -46,6 +46,7 @@ No news in the last 1 month
 * 31/05/2024: [CODE TOUR 2024 TRỞ LẠI 💥 GIẢI ĐẤU LẬP TRÌNH ONLINE MỞ RỘNG CHO CÁC “CHIẾN BINH” IT TRÊN TOÀN QUỐC](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16201)
 * 30/05/2024: [[Q2,Q3] Golden Owl Solutions tuyển dụng nhiều vị trí (IT, Non-IT)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16215)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 05/06/2024: [Thông báo kết quả chính thức học bổng khuyến khích học tập học kỳ 1, năm học 2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-1-nam-hoc-2023-2024/)
 * 31/05/2024: [Thông báo PHƯƠNG THỨC XÉT TUYỂN 6: Xét tuyển vào đại học hệ chính quy năm 2024 đối với chương trình tiên tiến và chương trình đạt chuẩn kiểm định bằng phương thức dựa trên kết quả các chứng chỉ ngoại ngữ quốc tế kết hợp với kết quả học tập THPT](https://hcmus.edu.vn/thong-bao-phuong-thuc-xet-tuyen-6-xet-tuyen-vao-dai-hoc-he-chinh-quy-nam-2024-doi-voi-chuong-trinh-tien-tien-va-chuong-trinh-dat-chuan-kiem-dinh-bang-phuong-thuc-dua-tren-ket-qua-cac-chung-chi-ngoai/)
 * 31/05/2024: [Thông báo PHƯƠNG THỨC XÉT TUYỂN 5: Xét tuyển vào đại học hệ chính quy năm 2024 bằng phương thức dựa trên kết quả học tập của chương trình THPT quốc tế đối với thí sinh người nước ngoài và thí sinh người Việt Nam học Trường nước ngoài](https://hcmus.edu.vn/thong-bao-phuong-thuc-xet-tuyen-5-xet-tuyen-vao-dai-hoc-he-chinh-quy-nam-2024-bang-phuong-thuc-dua-tren-ket-qua-hoc-tap-cua-chuong-trinh-thpt-quoc-te-doi-voi-thi-sinh-nguoi-nuoc-ngoai-va-thi-sinh-ngu/)
 * 31/05/2024: [Thông báo PHƯƠNG THỨC XÉT TUYỂN 4: Xét tuyển đại học hệ chính quy dựa trên kết quả kỳ thi đánh giá năng lực do Đại học Quốc gia Thành phố Hồ Chí Minh tổ chức năm 2024](https://hcmus.edu.vn/thong-bao-phuong-thuc-xet-tuyen-4-xet-tuyen-dai-hoc-he-chinh-quy-dua-tren-ket-qua-ky-thi-danh-gia-nang-luc-do-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh-to-chuc-nam-2024/)
@@ -91,6 +92,7 @@ No news in the last 1 month
 * 06/05/2024: [THÔNG BÁO SỐ 2 HỘI THẢO QUỐC GIA NHỮNG TIẾN BỘ TRONG XÂY DỰNG, KIẾN TRÚC, KINH TẾ VÀ CÔNG NGHỆ 2024](https://hcmus.edu.vn/thong-bao-so-2-hoi-thao-quoc-gia-nhung-tien-bo-trong-xay-dung-kien-truc-kinh-te-va-cong-nghe-2024/)
 * 06/05/2024: [TB Về phương án tổ chức đợt sinh hoạt Công dân – sinh viên đầu năm, năm học 2024-2025](https://hcmus.edu.vn/tb-ve-phuong-an-to%cc%89-chuc-do%cc%a3t-sinh-hoa%cc%a3t-cong-san-sinh-vien-dau-nam-nam-ho%cc%a3c-2024-2025/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 05/06/2024: [Thông báo kết quả chính thức học bổng khuyến khích học tập học kỳ 1, năm học 2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-1-nam-hoc-2023-2024/)
 * 31/05/2024: [THÔNG BÁO Triển khai Cuộc thi Ý tưởng Khởi nghiệp sinh viên – UNIV.STAR 2024](https://hcmus.edu.vn/thong-bao-trien-khai-cuoc-thi-y-tuong-khoi-nghiep-sinh-vien-univ-star-2024/)
 * 30/05/2024: [Thông báo nộp học phí HK3/23-24 đối với sinh viên học chương trình Tiên tiến, Chất lượng cao và Việt-Pháp](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk3-23-24-doi-voi-sinh-vien-hoc-chuong-trinh-tien-tien-chat-luong-cao-va-viet-phap/)
 * 28/05/2024: [Thông báo kết quả dự kiến HBKK HK1/2023-2024 Khoa Công nghệ Thông tin, Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk1-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
@@ -127,6 +129,7 @@ No news in the last 1 month
 * 23/05/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/)
 * 21/05/2024: [THÔNG BÁO V/v tra cứu kết quả tham gia hoạt động do phòng Công tác Sinh viên tổ chức](https://hcmus.edu.vn/thong-bao-v-v-tra-cuu-ket-qua-tham-gia-hoat-dong-do-phong-cong-tac-sinh-vien-to-chuc/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
+* 05/06/2024: [Thông báo kết quả chính thức học bổng khuyến khích học tập học kỳ 1, năm học 2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-1-nam-hoc-2023-2024/)
 * 28/05/2024: [Thông báo kết quả dự kiến HBKK HK1/2023-2024 Khoa Công nghệ Thông tin, Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk1-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
 * 28/05/2024: [THÔNG BÁO HỌC BỔNG VALLET 2024 (Dành cho sinh viên Đại học)](https://hcmus.edu.vn/thong-bao-hoc-bong-vallet-2024-danh-cho-sinh-vien-dai-hoc/)
 * 27/05/2024: [TB Chương trình Học bổng Vừ A Dính năm học 2023-2024](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-vu-a-dinh-nam-hoc-2023-2024/)
