@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:07:41 06/06/2024",
+  "Update time": "08:08:40 06/06/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo quy đổi thang điểm 4",
@@ -54,6 +54,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Danh sách sinh viên tham dự chương trình Tech-Talk và Information day",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16229",
+      "date": "6/6/2024"
+    },
+    {
       "tieuDe": "Thông báo về việc đăng ký đề tài luận văn thạc sĩ khoá 32/2022 - đợt 2",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16228",
       "date": "6/6/2024"
@@ -97,14 +102,14 @@
       "tieuDe": "Thông báo đăng ký nguyện vọng chuyên ngành Khóa 2022, chương trình Chuẩn ĐHCQ",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16207",
       "date": "27/5/2024"
-    },
-    {
-      "tieuDe": "ĐHCQ - Thông báo về việc đăng ký nguyện vọng học lớp Khởi nghiệp học kỳ 3 NH 2023-2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16206",
-      "date": "23/5/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Danh sách sinh viên tham dự chương trình Tech-Talk và Information day",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16229",
+      "date": "06/06/2024"
+    },
     {
       "tieuDe": "Học bổng Chính phủ Italia Maeci năm học 2024-2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16222",
@@ -124,11 +129,6 @@
       "tieuDe": "Thông báo v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16208",
       "date": "28/05/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên đã hoàn thành chương trình Sinh hoạt công dân cuối khóa năm học 2023 - 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16205",
-      "date": "23/05/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
