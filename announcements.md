@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:17:25 06/06/2024**_
+_Last update: **07:29:12 06/06/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 31/05/2024: [V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/)
 * 31/05/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/)
@@ -8,7 +8,6 @@ _Last update: **06:17:25 06/06/2024**_
 * 22/05/2024: [Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023](https://www.ctda.hcmus.edu.vn/vi/2024/05/quy-dinh-cac-loai-chung-chi-ngoai-ngu-dat-chuan-dau-ra-trinh-do-dai-hoc-chuong-trinh-tien-tien-va-chat-luong-cao-nhom-nganh-cong-nghe-thong-tin-khoa-2023/)
 * 21/05/2024: [Các chương trình chăm sóc sức khỏe tinh thần người học](https://www.ctda.hcmus.edu.vn/vi/2024/05/cac-chuong-trinh-cham-soc-suc-khoe-tinh-than-nguoi-hoc/)
 * 13/05/2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-3-2023-2024/)
-* 06/05/2024: [[CTĐA] Thông báo Sinh viên đánh giá môn học – Giảng viên HK2/2023-2024 (đợt bổ sung)](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-sv-danh-gia-mon-hoc-giang-vien-hk2-2023-2024-dot-bo-sung/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
@@ -89,8 +88,6 @@ No news in the last 1 month
 * 08/05/2024: [THÔNG BÁO ĐĂNG KÝ ĐỀ TÀI NCKH CẤP TRƯỜNG NĂM 2024 (ĐỢT 1 – THÁNG 5/2024)](https://hcmus.edu.vn/thong-bao-dang-ky-de-tai-nckh-cap-truong-nam-2024-dot-1-thang-5-2024/)
 * 08/05/2024: [Thông tin Học bổng Lương Văn Can dành cho Sinh viên Đại học, năm học 2024 – 2025](https://hcmus.edu.vn/thong-tin-hoc-bong-luong-van-can-danh-cho-sinh-vien-dai-hoc-nam-hoc-2024-2025/)
 * 08/05/2024: [Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2023-2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-cua-tap-doan-dien-luc-viet-nam-nam-hoc-2023-2024/)
-* 06/05/2024: [THÔNG BÁO SỐ 2 HỘI THẢO QUỐC GIA NHỮNG TIẾN BỘ TRONG XÂY DỰNG, KIẾN TRÚC, KINH TẾ VÀ CÔNG NGHỆ 2024](https://hcmus.edu.vn/thong-bao-so-2-hoi-thao-quoc-gia-nhung-tien-bo-trong-xay-dung-kien-truc-kinh-te-va-cong-nghe-2024/)
-* 06/05/2024: [TB Về phương án tổ chức đợt sinh hoạt Công dân – sinh viên đầu năm, năm học 2024-2025](https://hcmus.edu.vn/tb-ve-phuong-an-to%cc%89-chuc-do%cc%a3t-sinh-hoa%cc%a3t-cong-san-sinh-vien-dau-nam-nam-ho%cc%a3c-2024-2025/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 05/06/2024: [Thông báo kết quả chính thức học bổng khuyến khích học tập học kỳ 1, năm học 2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-1-nam-hoc-2023-2024/)
 * 31/05/2024: [THÔNG BÁO Triển khai Cuộc thi Ý tưởng Khởi nghiệp sinh viên – UNIV.STAR 2024](https://hcmus.edu.vn/thong-bao-trien-khai-cuoc-thi-y-tuong-khoi-nghiep-sinh-vien-univ-star-2024/)
@@ -113,7 +110,6 @@ No news in the last 1 month
 * 13/05/2024: [TB Lịch đăng ký các lớp tập huấn “Kỹ năng nhận thức và chăm sóc sức khoẻ tinh thần cho bản thân trên môi trường Đại học”](https://hcmus.edu.vn/tb-lich-dang-ky-cac-lop-tap-huan-ky%cc%83-nang-nha%cc%a3n-thuc-va-cham-soc-suc-khoe%cc%89-tinh-than-cho-ba%cc%89n-than-tren-moi-truong-da%cc%a3i-ho%cc%a3c/)
 * 08/05/2024: [Thông tin Học bổng Lương Văn Can dành cho Sinh viên Đại học, năm học 2024 – 2025](https://hcmus.edu.vn/thong-tin-hoc-bong-luong-van-can-danh-cho-sinh-vien-dai-hoc-nam-hoc-2024-2025/)
 * 08/05/2024: [Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2023-2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-cua-tap-doan-dien-luc-viet-nam-nam-hoc-2023-2024/)
-* 06/05/2024: [TB Về phương án tổ chức đợt sinh hoạt Công dân – sinh viên đầu năm, năm học 2024-2025](https://hcmus.edu.vn/tb-ve-phuong-an-to%cc%89-chuc-do%cc%a3t-sinh-hoa%cc%a3t-cong-san-sinh-vien-dau-nam-nam-ho%cc%a3c-2024-2025/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 31/05/2024: [TUYỂN DỤNG GIẢNG VIÊN – BỘ MÔN HÓA PHÂN TÍCH](https://hcmus.edu.vn/tuyen-dung-giang-vien-bo-mon-hoa-phan-tich/)
 * 24/05/2024: [THÔNG BÁO TUYỂN DỤNG – PTN VẬT LIỆU KỸ THUẬT CAO](https://hcmus.edu.vn/thong-bao-tuyen-dung-ptn-vat-lieu-ky-thuat-cao/)
