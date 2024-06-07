@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "04:08:28 07/06/2024",
+  "Update time": "05:07:05 07/06/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo quy đổi thang điểm 4",
@@ -54,6 +54,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ Chương trình Chuẩn HK3/2023-2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16230",
+      "date": "7/6/2024"
+    },
+    {
       "tieuDe": "Danh sách sinh viên tham dự chương trình Tech-Talk và Information day",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16229",
       "date": "6/6/2024"
@@ -97,11 +102,6 @@
       "tieuDe": "Thông báo v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16208",
       "date": "28/5/2024"
-    },
-    {
-      "tieuDe": "Thông báo đăng ký nguyện vọng chuyên ngành Khóa 2022, chương trình Chuẩn ĐHCQ",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16207",
-      "date": "27/5/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
