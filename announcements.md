@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **14:15:45 07/06/2024**_
+_Last update: **15:16:19 07/06/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 06/06/2024: [Thông báo quy đổi thang điểm 4](https://www.ctda.hcmus.edu.vn/vi/2024/06/thong-bao-quy-doi-thang-diem-4/)
 * 31/05/2024: [V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/)
@@ -40,11 +40,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 07/06/2024: [[Q2,Q3] GOLDEN OWL SOLUTIONS TUYỂN DỤNG TTS FLUTTER, TTS RUBY ON RAILS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16231)
 * 05/06/2024: [THI ĐẤU CODE TOUR - CƠ HỘI “NÂNG CẤP” TOÀN DIỆN KỸ NĂNG LẬP TRÌNH DÀNH CHO BẠN 👨‍💻](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16224)
 * 03/06/2024: [[Lihuhu] Unity_Mobile Game Developer (Vietnamese) - ver May2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16220)
 * 03/06/2024: [[Lihuhu] Quality Assurance (Vietnamese) - ver May2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16219)
 * 31/05/2024: [CODE TOUR 2024 TRỞ LẠI 💥 GIẢI ĐẤU LẬP TRÌNH ONLINE MỞ RỘNG CHO CÁC “CHIẾN BINH” IT TRÊN TOÀN QUỐC](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16201)
-* 30/05/2024: [[Q2,Q3] Golden Owl Solutions tuyển dụng nhiều vị trí (IT, Non-IT)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16215)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 07/06/2024: [Thông báo Đăng ký học phần Học kỳ 3/2023-2024, hệ chính quy chương trình đại trà](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-3-2023-2024-he-chinh-quy-chuong-trinh-dai-tra/)
 * 06/06/2024: [Kế hoạch mở học phần giai đoạn đại cương trong học kỳ 3/2023-2024 – cơ sở Linh Trung](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-giai-doan-dai-cuong-trong-hoc-ky-3-2023-2024-co-so-linh-trung/)

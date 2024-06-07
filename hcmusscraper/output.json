@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:07:06 07/06/2024",
+  "Update time": "08:08:17 07/06/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo quy đổi thang điểm 4",
@@ -153,6 +153,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "[Q2,Q3] GOLDEN OWL SOLUTIONS TUYỂN DỤNG TTS FLUTTER, TTS RUBY ON RAILS",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16231",
+      "date": "07/06/2024"
+    },
+    {
       "tieuDe": "THI ĐẤU CODE TOUR - CƠ HỘI “NÂNG CẤP” TOÀN DIỆN KỸ NĂNG LẬP TRÌNH DÀNH CHO BẠN 👨‍💻",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16224",
       "date": "05/06/2024"
@@ -171,11 +176,6 @@
       "tieuDe": "CODE TOUR 2024 TRỞ LẠI 💥 GIẢI ĐẤU LẬP TRÌNH ONLINE MỞ RỘNG CHO CÁC “CHIẾN BINH” IT TRÊN TOÀN QUỐC",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16201",
       "date": "31/05/2024"
-    },
-    {
-      "tieuDe": "[Q2,Q3] Golden Owl Solutions tuyển dụng nhiều vị trí (IT, Non-IT)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16215",
-      "date": "30/05/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
