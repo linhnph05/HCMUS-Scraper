@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:17:28 08/06/2024**_
+_Last update: **07:31:30 08/06/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 06/06/2024: [Thông báo quy đổi thang điểm 4](https://www.ctda.hcmus.edu.vn/vi/2024/06/thong-bao-quy-doi-thang-diem-4/)
 * 31/05/2024: [V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/)
@@ -91,9 +91,6 @@ No news in the last 1 month
 * 13/05/2024: [THÔNG BÁO SỐ 2 – HỘI ĐỒNG TUYỂN DỤNG VIÊN CHỨC 2024](https://hcmus.edu.vn/thong-bao-so-2-hoi-dong-tuyen-dung-vien-chuc-2024/)
 * 13/05/2024: [TB Lịch đăng ký các lớp tập huấn “Kỹ năng nhận thức và chăm sóc sức khoẻ tinh thần cho bản thân trên môi trường Đại học”](https://hcmus.edu.vn/tb-lich-dang-ky-cac-lop-tap-huan-ky%cc%83-nang-nha%cc%a3n-thuc-va-cham-soc-suc-khoe%cc%89-tinh-than-cho-ba%cc%89n-than-tren-moi-truong-da%cc%a3i-ho%cc%a3c/)
 * 09/05/2024: [ĐỀ CƯƠNG ÔN TẬP MÔN KIẾN THỨC CHUNG KỲ THI TUYỂN DỤNG VIÊN CHỨC NĂM 2024](https://hcmus.edu.vn/de-cuong-on-tap-mon-kien-thuc-chung-ky-thi-tuyen-dung-vien-chuc-nam-2024/)
-* 08/05/2024: [THÔNG BÁO ĐĂNG KÝ ĐỀ TÀI NCKH CẤP TRƯỜNG NĂM 2024 (ĐỢT 1 – THÁNG 5/2024)](https://hcmus.edu.vn/thong-bao-dang-ky-de-tai-nckh-cap-truong-nam-2024-dot-1-thang-5-2024/)
-* 08/05/2024: [Thông tin Học bổng Lương Văn Can dành cho Sinh viên Đại học, năm học 2024 – 2025](https://hcmus.edu.vn/thong-tin-hoc-bong-luong-van-can-danh-cho-sinh-vien-dai-hoc-nam-hoc-2024-2025/)
-* 08/05/2024: [Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2023-2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-cua-tap-doan-dien-luc-viet-nam-nam-hoc-2023-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 07/06/2024: [Thông báo Đăng ký học phần Học kỳ 3/2023-2024, hệ chính quy chương trình đại trà](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-3-2023-2024-he-chinh-quy-chuong-trinh-dai-tra/)
 * 06/06/2024: [Kế hoạch mở học phần giai đoạn đại cương trong học kỳ 3/2023-2024 – cơ sở Linh Trung](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-giai-doan-dai-cuong-trong-hoc-ky-3-2023-2024-co-so-linh-trung/)
@@ -116,8 +113,6 @@ No news in the last 1 month
 * 14/05/2024: [Thông báo v/v phát thuốc tẩy giun và viên sắt Đợt 1 năm 2024](https://hcmus.edu.vn/thong-bao-v-v-phat-thuoc-tay-giun-va-vien-sat-dot-1-nam-2024/)
 * 13/05/2024: [Thông báo địa điểm học cho sinh viên đại học hệ chính quy chương trình đại trà từ khóa tuyển 2021 trở về sau](https://hcmus.edu.vn/thong-bao-dia-diem-hoc-cho-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra-tu-khoa-tuyen-2021-tro-ve-sau/)
 * 13/05/2024: [TB Lịch đăng ký các lớp tập huấn “Kỹ năng nhận thức và chăm sóc sức khoẻ tinh thần cho bản thân trên môi trường Đại học”](https://hcmus.edu.vn/tb-lich-dang-ky-cac-lop-tap-huan-ky%cc%83-nang-nha%cc%a3n-thuc-va-cham-soc-suc-khoe%cc%89-tinh-than-cho-ba%cc%89n-than-tren-moi-truong-da%cc%a3i-ho%cc%a3c/)
-* 08/05/2024: [Thông tin Học bổng Lương Văn Can dành cho Sinh viên Đại học, năm học 2024 – 2025](https://hcmus.edu.vn/thong-tin-hoc-bong-luong-van-can-danh-cho-sinh-vien-dai-hoc-nam-hoc-2024-2025/)
-* 08/05/2024: [Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2023-2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-cua-tap-doan-dien-luc-viet-nam-nam-hoc-2023-2024/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 06/06/2024: [Thông báo tuyển dụng Giảng viên Khoa Điện tử-Viễn thông](https://hcmus.edu.vn/thong-bao-tuyen-dung-giang-vien-k-dien-tu-vien-thong-pdf/)
 * 06/06/2024: [Thông báo tuyển dụng – PTN Vật liệu kỹ thuật cao](https://hcmus.edu.vn/thong-bao-tuyen-dung-ptn-vat-lieu-ky-thuat-cao-2/)
@@ -140,5 +135,3 @@ No news in the last 1 month
 * 28/05/2024: [THÔNG BÁO HỌC BỔNG VALLET 2024 (Dành cho sinh viên Đại học)](https://hcmus.edu.vn/thong-bao-hoc-bong-vallet-2024-danh-cho-sinh-vien-dai-hoc/)
 * 27/05/2024: [TB Chương trình Học bổng Vừ A Dính năm học 2023-2024](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-vu-a-dinh-nam-hoc-2023-2024/)
 * 23/05/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/)
-* 08/05/2024: [Thông tin Học bổng Lương Văn Can dành cho Sinh viên Đại học, năm học 2024 – 2025](https://hcmus.edu.vn/thong-tin-hoc-bong-luong-van-can-danh-cho-sinh-vien-dai-hoc-nam-hoc-2024-2025/)
-* 08/05/2024: [Thông báo chương trình học bổng của Tập đoàn Điện lực Việt Nam năm học 2023-2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-cua-tap-doan-dien-luc-viet-nam-nam-hoc-2023-2024/)
