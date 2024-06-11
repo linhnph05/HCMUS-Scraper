@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **08:40:46 11/06/2024**_
+_Last update: **09:26:09 11/06/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 06/06/2024: [Thông báo quy đổi thang điểm 4](https://www.ctda.hcmus.edu.vn/vi/2024/06/thong-bao-quy-doi-thang-diem-4/)
 * 31/05/2024: [V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/)
@@ -39,11 +39,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 11/06/2024: [BOOSTation: BỆ PHÓNG VỮNG CHẮC CHO DỰ ÁN KỸ THUẬT SỐ CỦA BẠN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16234)
 * 11/06/2024: [THI ĐẤU CODE TOUR HÀNG TUẦN - CHỚP NGAY GIẢI THƯỞNG HẤP DẪN LÊN ĐẾN 20 TRIỆU ĐỒNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16233)
 * 07/06/2024: [[Q2,Q3] GOLDEN OWL SOLUTIONS TUYỂN DỤNG TTS FLUTTER, TTS RUBY ON RAILS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16231)
 * 05/06/2024: [THI ĐẤU CODE TOUR - CƠ HỘI “NÂNG CẤP” TOÀN DIỆN KỸ NĂNG LẬP TRÌNH DÀNH CHO BẠN 👨‍💻](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16224)
 * 03/06/2024: [[Lihuhu] Unity_Mobile Game Developer (Vietnamese) - ver May2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16220)
-* 03/06/2024: [[Lihuhu] Quality Assurance (Vietnamese) - ver May2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16219)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 10/06/2024: [Thông báo kết quả chính thức HBKK HK1/23-24 Khoa Hóa học, Môi trường, Điện tử-Viễn thông, Sinh học-CNSH (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk1-23-24-khoa-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-ctda/)
 * 07/06/2024: [THÔNG TIN GIẢI THƯỞNG L’Oréal](https://hcmus.edu.vn/thong-bao-dang-ky-de-tai-nckh-cap-truong-nam-2024-dot-1-thang-5-2024-2/)
