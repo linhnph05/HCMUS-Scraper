@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "00:22:21 12/06/2024",
+  "Update time": "01:32:58 12/06/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo quy đổi thang điểm 4",
@@ -148,6 +148,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "Junior / Intern Software Engineer",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16239",
+      "date": "12/06/2024"
+    },
+    {
       "tieuDe": "BOOSTation: BỆ PHÓNG VỮNG CHẮC CHO DỰ ÁN KỸ THUẬT SỐ CỦA BẠN",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16234",
       "date": "11/06/2024"
@@ -166,11 +171,6 @@
       "tieuDe": "THI ĐẤU CODE TOUR - CƠ HỘI “NÂNG CẤP” TOÀN DIỆN KỸ NĂNG LẬP TRÌNH DÀNH CHO BẠN 👨‍💻",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16224",
       "date": "05/06/2024"
-    },
-    {
-      "tieuDe": "[Lihuhu] Unity_Mobile Game Developer (Vietnamese) - ver May2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16220",
-      "date": "03/06/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
