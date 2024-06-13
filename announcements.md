@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:14:58 13/06/2024**_
+_Last update: **07:30:57 13/06/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 06/06/2024: [Thông báo quy đổi thang điểm 4](https://www.ctda.hcmus.edu.vn/vi/2024/06/thong-bao-quy-doi-thang-diem-4/)
 * 31/05/2024: [V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/)
@@ -8,7 +8,6 @@ _Last update: **06:14:58 13/06/2024**_
 * 30/05/2024: [[CTĐA] – Thông báo phúc khảo HK2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-phuc-khao-hk2-2023-2024/)
 * 22/05/2024: [Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023](https://www.ctda.hcmus.edu.vn/vi/2024/05/quy-dinh-cac-loai-chung-chi-ngoai-ngu-dat-chuan-dau-ra-trinh-do-dai-hoc-chuong-trinh-tien-tien-va-chat-luong-cao-nhom-nganh-cong-nghe-thong-tin-khoa-2023/)
 * 21/05/2024: [Các chương trình chăm sóc sức khỏe tinh thần người học](https://www.ctda.hcmus.edu.vn/vi/2024/05/cac-chuong-trinh-cham-soc-suc-khoe-tinh-than-nguoi-hoc/)
-* 13/05/2024: [Thông báo lịch trực Cố vấn học tập học kỳ 3/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-lich-truc-co-van-hoc-tap-hoc-ky-3-2023-2024/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
@@ -35,7 +34,7 @@ No news in the last 1 month
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 29/05/2024: [Danh sách dự kiến cấp xét học bổng đột xuất HK1 năm học 2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16211)
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 13/05/2024: [Tổng kết Seminar Bộ môn Công nghệ Tri thức](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16187)
+No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
@@ -88,10 +87,6 @@ No news in the last 1 month
 * 14/05/2024: [THÔNG TIN TUYỂN CHỌN TỔ CHỨC, CÁ NHÂN CHỦ TRÌ NHIỆM VỤ KHOA HỌC CÔNG NGHỆ TỈNH KHÁNH HÒA](https://hcmus.edu.vn/thong-tin-tuyen-chon-to-chuc-ca-nhan-chu-tri-nhiem-vu-khoa-hoc-cong-nghe-tinh-khanh-hoa/)
 * 14/05/2024: [Thông báo v/v phát thuốc tẩy giun và viên sắt Đợt 1 năm 2024](https://hcmus.edu.vn/thong-bao-v-v-phat-thuoc-tay-giun-va-vien-sat-dot-1-nam-2024/)
 * 14/05/2024: [Tuyển dụng Nghiên cứu viên – PTN kỹ thuật Hạt nhân](https://hcmus.edu.vn/tuyen-dung-nghien-cuu-vien-ptn-ky-thuat-hat-nhan/)
-* 13/05/2024: [Thông báo địa điểm học cho sinh viên đại học hệ chính quy chương trình đại trà từ khóa tuyển 2021 trở về sau](https://hcmus.edu.vn/thong-bao-dia-diem-hoc-cho-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra-tu-khoa-tuyen-2021-tro-ve-sau/)
-* 13/05/2024: [THÔNG BÁO CỦA HỘI ĐỒNG KIỂM TRA SÁT HẠCH ĐỐI VỚI TIẾP NHẬN VIÊN CHỨC 2024](https://hcmus.edu.vn/thong-bao-cua-hoi-dong-kiem-tra-sat-hach-doi-voi-tiep-nhan-vien-chuc-2024/)
-* 13/05/2024: [THÔNG BÁO SỐ 2 – HỘI ĐỒNG TUYỂN DỤNG VIÊN CHỨC 2024](https://hcmus.edu.vn/thong-bao-so-2-hoi-dong-tuyen-dung-vien-chuc-2024/)
-* 13/05/2024: [TB Lịch đăng ký các lớp tập huấn “Kỹ năng nhận thức và chăm sóc sức khoẻ tinh thần cho bản thân trên môi trường Đại học”](https://hcmus.edu.vn/tb-lich-dang-ky-cac-lop-tap-huan-ky%cc%83-nang-nha%cc%a3n-thuc-va-cham-soc-suc-khoe%cc%89-tinh-than-cho-ba%cc%89n-than-tren-moi-truong-da%cc%a3i-ho%cc%a3c/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 10/06/2024: [Thông báo kết quả chính thức HBKK HK1/23-24 Khoa Hóa học, Công nghệ Thông tin, Điện tử-Viễn thông, Sinh học-CNSH (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk1-23-24-khoa-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-ctda/)
 * 07/06/2024: [Thông báo Đăng ký học phần Học kỳ 3/2023-2024, hệ chính quy chương trình đại trà](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-3-2023-2024-he-chinh-quy-chuong-trinh-dai-tra/)
@@ -113,8 +108,6 @@ No news in the last 1 month
 * 16/05/2024: [THÔNG BÁO GIẢI THƯỞNG LÊ VĂN THỚI 2024](https://hcmus.edu.vn/thong-bao-giai-thuong-le-van-thoi-2024/)
 * 15/05/2024: [Thông báo tham gia Giải Taekwondo sinh viên HUTECH mở rộng lần 2 năm 2024](https://hcmus.edu.vn/thong-bao-tham-gia-giai-taekwondo-sinh-vien-hutech-mo-rong-lan-2-nam-2024/)
 * 14/05/2024: [Thông báo v/v phát thuốc tẩy giun và viên sắt Đợt 1 năm 2024](https://hcmus.edu.vn/thong-bao-v-v-phat-thuoc-tay-giun-va-vien-sat-dot-1-nam-2024/)
-* 13/05/2024: [Thông báo địa điểm học cho sinh viên đại học hệ chính quy chương trình đại trà từ khóa tuyển 2021 trở về sau](https://hcmus.edu.vn/thong-bao-dia-diem-hoc-cho-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra-tu-khoa-tuyen-2021-tro-ve-sau/)
-* 13/05/2024: [TB Lịch đăng ký các lớp tập huấn “Kỹ năng nhận thức và chăm sóc sức khoẻ tinh thần cho bản thân trên môi trường Đại học”](https://hcmus.edu.vn/tb-lich-dang-ky-cac-lop-tap-huan-ky%cc%83-nang-nha%cc%a3n-thuc-va-cham-soc-suc-khoe%cc%89-tinh-than-cho-ba%cc%89n-than-tren-moi-truong-da%cc%a3i-ho%cc%a3c/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 12/06/2024: [Thông báo kết quả Vòng 1 – Kỳ tuyển dụng viên chức năm 2024](https://hcmus.edu.vn/thong-bao-ket-qua-vong-1-ky-tuyen-dung-vien-chuc-nam-2024/)
 * 06/06/2024: [Thông báo tuyển dụng Giảng viên Khoa Điện tử-Viễn thông](https://hcmus.edu.vn/thong-bao-tuyen-dung-giang-vien-k-dien-tu-vien-thong-pdf/)
@@ -124,8 +117,6 @@ No news in the last 1 month
 * 23/05/2024: [THÔNG BÁO TUYỂN DỤNG CHUYÊN VIÊN PHÒNG KHOA HỌC CÔNG NGHỆ](https://hcmus.edu.vn/thong-bao-tuyen-dung-chuyen-vien-phong-khoa-hoc-cong-nghe/)
 * 15/05/2024: [Chuyển ngạch chức danh nghề nghiệp](https://hcmus.edu.vn/chuyen-ngach-chuc-danh-nghe-nghiep/)
 * 14/05/2024: [Tuyển dụng Nghiên cứu viên – PTN kỹ thuật Hạt nhân](https://hcmus.edu.vn/tuyen-dung-nghien-cuu-vien-ptn-ky-thuat-hat-nhan/)
-* 13/05/2024: [THÔNG BÁO CỦA HỘI ĐỒNG KIỂM TRA SÁT HẠCH ĐỐI VỚI TIẾP NHẬN VIÊN CHỨC 2024](https://hcmus.edu.vn/thong-bao-cua-hoi-dong-kiem-tra-sat-hach-doi-voi-tiep-nhan-vien-chuc-2024/)
-* 13/05/2024: [THÔNG BÁO SỐ 2 – HỘI ĐỒNG TUYỂN DỤNG VIÊN CHỨC 2024](https://hcmus.edu.vn/thong-bao-so-2-hoi-dong-tuyen-dung-vien-chuc-2024/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
 * 10/06/2024: [Thông báo kết quả chính thức HBKK HK1/23-24 Khoa Hóa học, Công nghệ Thông tin, Điện tử-Viễn thông, Sinh học-CNSH (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk1-23-24-khoa-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-ctda/)
 * 31/05/2024: [THÔNG BÁO Triển khai Cuộc thi Ý tưởng Khởi nghiệp sinh viên – UNIV.STAR 2024](https://hcmus.edu.vn/thong-bao-trien-khai-cuoc-thi-y-tuong-khoi-nghiep-sinh-vien-univ-star-2024/)
