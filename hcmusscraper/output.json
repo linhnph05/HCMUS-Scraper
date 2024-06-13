@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "06:08:12 13/06/2024",
+  "Update time": "07:06:37 13/06/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo quy đổi thang điểm 4",
@@ -49,6 +49,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Thông báo SV đánh giá môn học - Giảng viên HK2/2023-2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16244",
+      "date": "13/6/2024"
+    },
+    {
       "tieuDe": "[Hỗ trợ truyền thông] Mở đăng ký TikTok TechJam 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16236",
       "date": "11/6/2024"
@@ -92,11 +97,6 @@
       "tieuDe": "Đăng ký tham dự Tech-Talk và Information day",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16218",
       "date": "31/5/2024"
-    },
-    {
-      "tieuDe": "Thông báo nộp đơn xin xét chuyên ngành đối với sinh viên chưa có chuyên ngành Khóa 2021 trở về trước",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16214",
-      "date": "29/5/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [

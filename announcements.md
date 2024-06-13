@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **13:20:07 13/06/2024**_
+_Last update: **14:16:23 13/06/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 06/06/2024: [Thông báo quy đổi thang điểm 4](https://www.ctda.hcmus.edu.vn/vi/2024/06/thong-bao-quy-doi-thang-diem-4/)
 * 31/05/2024: [V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/)
@@ -15,6 +15,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 13/6/2024: [Thông báo SV đánh giá môn học - Giảng viên HK2/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16244)
 * 11/6/2024: [[Hỗ trợ truyền thông] Mở đăng ký TikTok TechJam 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16236)
 * 7/6/2024: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ Chương trình Chuẩn HK3/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16230)
 * 6/6/2024: [Danh sách sinh viên tham dự chương trình Tech-Talk và Information day](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16229)
@@ -24,7 +25,6 @@ No news in the last 1 month
 * 4/6/2024: [Mời tham dự buổi bảo vệ LATS cấp cơ sở đào tạo của NCS Lê Ngọc Thành (6/6/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16223)
 * 4/6/2024: [[CQ] Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ KLTN/TTDATN khóa 2020, đợt 2 (T7, T8/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16221)
 * 31/5/2024: [Đăng ký tham dự Tech-Talk và Information day](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16218)
-* 29/5/2024: [Thông báo nộp đơn xin xét chuyên ngành đối với sinh viên chưa có chuyên ngành Khóa 2021 trở về trước](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16214)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 11/06/2024: [[Hỗ trợ truyền thông] Mở đăng ký TikTok TechJam 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16236)
 * 06/06/2024: [Danh sách sinh viên tham dự chương trình Tech-Talk và Information day](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16229)
