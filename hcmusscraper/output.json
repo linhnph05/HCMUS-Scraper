@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "13:08:13 14/06/2024",
+  "Update time": "14:06:52 14/06/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo quy đổi thang điểm 4",
@@ -137,6 +137,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "ĐĂNG KÝ THAM GIA & “REVIEW” CUỘC THI - NHẬN QUÀ MAY MẮN TỪ CODE TOUR",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16245",
+      "date": "14/06/2024"
+    },
+    {
       "tieuDe": "Junior / Intern Software Engineer",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16239",
       "date": "12/06/2024"
@@ -155,11 +160,6 @@
       "tieuDe": "[Q2,Q3] GOLDEN OWL SOLUTIONS TUYỂN DỤNG TTS FLUTTER, TTS RUBY ON RAILS",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16231",
       "date": "07/06/2024"
-    },
-    {
-      "tieuDe": "THI ĐẤU CODE TOUR - CƠ HỘI “NÂNG CẤP” TOÀN DIỆN KỸ NĂNG LẬP TRÌNH DÀNH CHO BẠN 👨‍💻",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16224",
-      "date": "05/06/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [

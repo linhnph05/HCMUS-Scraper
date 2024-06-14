@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **20:17:04 14/06/2024**_
+_Last update: **21:18:08 14/06/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 06/06/2024: [Thông báo quy đổi thang điểm 4](https://www.ctda.hcmus.edu.vn/vi/2024/06/thong-bao-quy-doi-thang-diem-4/)
 * 31/05/2024: [V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/)
@@ -38,11 +38,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 14/06/2024: [ĐĂNG KÝ THAM GIA & “REVIEW” CUỘC THI - NHẬN QUÀ MAY MẮN TỪ CODE TOUR](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16245)
 * 12/06/2024: [Junior / Intern Software Engineer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16239)
 * 11/06/2024: [BOOSTation: BỆ PHÓNG VỮNG CHẮC CHO DỰ ÁN KỸ THUẬT SỐ CỦA BẠN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16234)
 * 11/06/2024: [THI ĐẤU CODE TOUR HÀNG TUẦN - CHỚP NGAY GIẢI THƯỞNG HẤP DẪN LÊN ĐẾN 20 TRIỆU ĐỒNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16233)
 * 07/06/2024: [[Q2,Q3] GOLDEN OWL SOLUTIONS TUYỂN DỤNG TTS FLUTTER, TTS RUBY ON RAILS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16231)
-* 05/06/2024: [THI ĐẤU CODE TOUR - CƠ HỘI “NÂNG CẤP” TOÀN DIỆN KỸ NĂNG LẬP TRÌNH DÀNH CHO BẠN 👨‍💻](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16224)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 12/06/2024: [Thông báo kết quả Vòng 1 – Kỳ tuyển dụng viên chức năm 2024](https://hcmus.edu.vn/thong-bao-ket-qua-vong-1-ky-tuyen-dung-vien-chuc-nam-2024/)
 * 11/06/2024: [THÔNG BÁO GIA HẠN ĐỀ XUẤT NHIỆM VỤ KHOA HỌC CÔNG NGHỆ TỈNH SÓC TRĂNG 2025](https://hcmus.edu.vn/thong-bao-gia-han-de-xuat-nhiem-vu-khoa-hoc-cong-nghe-tinh-soc-trang-2025/)
