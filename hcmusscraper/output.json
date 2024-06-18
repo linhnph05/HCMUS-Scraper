@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:07:06 18/06/2024",
+  "Update time": "04:07:41 18/06/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2024-2025",
@@ -41,6 +41,11 @@
       "tieuDe": "Các chương trình chăm sóc sức khỏe tinh thần người học",
       "url": "https://www.ctda.hcmus.edu.vn/vi/2024/05/cac-chuong-trinh-cham-soc-suc-khoe-tinh-than-nguoi-hoc/",
       "date": "21/05/2024"
+    },
+    {
+      "tieuDe": "[CTĐA] Thời khóa biểu HK3/2324",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thoi-khoa-bieu-hk3-2324/",
+      "date": "20/05/2024"
     }
   ],
   "Tin tuc": [],
@@ -53,6 +58,11 @@
   ],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "V/v thực hiện khảo sát các môn mở trong Học phần 3 lớp cao học K33/2023",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16250",
+      "date": "18/6/2024"
+    },
     {
       "tieuDe": "Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 32/2022",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16248",
@@ -97,11 +107,6 @@
       "tieuDe": "Đổi phòng lớp Mã hóa ứng dụng 21TN từ ngày 11/6/2024 đến kết thúc HK2/23-24",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16226",
       "date": "6/6/2024"
-    },
-    {
-      "tieuDe": "Mời tham dự buổi bảo vệ LATS cấp cơ sở đào tạo của NCS Lê Ngọc Thành (6/6/2024)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16223",
-      "date": "4/6/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -132,6 +137,11 @@
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
+    {
+      "tieuDe": "Thông báo chuyển khoản học bổng đột xuất HK1 NH: 2023-2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16251",
+      "date": "18/06/2024"
+    },
     {
       "tieuDe": "Thông báo chuyển khoản học bổng Tân sinh viên HK1 NH: 2023-2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16249",

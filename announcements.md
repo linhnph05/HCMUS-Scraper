@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **10:19:33 18/06/2024**_
+_Last update: **11:15:47 18/06/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 17/06/2024: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2024-2025/)
 * 06/06/2024: [Thông báo quy đổi thang điểm 4](https://www.ctda.hcmus.edu.vn/vi/2024/06/thong-bao-quy-doi-thang-diem-4/)
@@ -9,6 +9,7 @@ _Last update: **10:19:33 18/06/2024**_
 * 30/05/2024: [[CTĐA] – Thông báo phúc khảo HK2/2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-phuc-khao-hk2-2023-2024/)
 * 22/05/2024: [Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023](https://www.ctda.hcmus.edu.vn/vi/2024/05/quy-dinh-cac-loai-chung-chi-ngoai-ngu-dat-chuan-dau-ra-trinh-do-dai-hoc-chuong-trinh-tien-tien-va-chat-luong-cao-nhom-nganh-cong-nghe-thong-tin-khoa-2023/)
 * 21/05/2024: [Các chương trình chăm sóc sức khỏe tinh thần người học](https://www.ctda.hcmus.edu.vn/vi/2024/05/cac-chuong-trinh-cham-soc-suc-khoe-tinh-than-nguoi-hoc/)
+* 20/05/2024: [[CTĐA] Thời khóa biểu HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thoi-khoa-bieu-hk3-2324/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
@@ -16,6 +17,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 18/6/2024: [V/v thực hiện khảo sát các môn mở trong Học phần 3 lớp cao học K33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16250)
 * 17/6/2024: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 32/2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16248)
 * 14/6/2024: [Thông báo v/v nộp đề cương luận án và báo cáo tổng quan của NCS khóa năm 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16246)
 * 13/6/2024: [Thông báo SV đánh giá môn học - Giảng viên HK2/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16244)
@@ -25,7 +27,6 @@ No news in the last 1 month
 * 6/6/2024: [Thông báo về việc đăng ký đề tài luận văn thạc sĩ khoá 32/2022 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16228)
 * 6/6/2024: [Buổi bảo vệ luận án tiến sĩ cấp cơ sở đào tạo NCS Lê Ngọc Thành ngày 06/6/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16227)
 * 6/6/2024: [Đổi phòng lớp Mã hóa ứng dụng 21TN từ ngày 11/6/2024 đến kết thúc HK2/23-24](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16226)
-* 4/6/2024: [Mời tham dự buổi bảo vệ LATS cấp cơ sở đào tạo của NCS Lê Ngọc Thành (6/6/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16223)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 11/06/2024: [[Hỗ trợ truyền thông] Mở đăng ký TikTok TechJam 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16236)
 * 06/06/2024: [Danh sách sinh viên tham dự chương trình Tech-Talk và Information day](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16229)
@@ -33,6 +34,7 @@ No news in the last 1 month
 * 31/05/2024: [Đăng ký tham dự Tech-Talk và Information day](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16218)
 * 29/05/2024: [Tuyển chọn sinh viên tham dự Chương trình AUN Summer Program 2024 tại Đại học Quốc gia Thành phố Hồ Chí Minh](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16212)
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 18/06/2024: [Thông báo chuyển khoản học bổng đột xuất HK1 NH: 2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16251)
 * 18/06/2024: [Thông báo chuyển khoản học bổng Tân sinh viên HK1 NH: 2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16249)
 * 29/05/2024: [Danh sách dự kiến cấp xét học bổng đột xuất HK1 năm học 2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16211)
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
