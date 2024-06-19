@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:07:05 19/06/2024",
+  "Update time": "04:07:45 19/06/2024",
   "Thong Bao": [
     {
       "tieuDe": "[APCS] Thông báo khảo sát giữa kỳ HK3- 2324",
@@ -167,6 +167,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "[WEBINAR] NÂNG CAO KỸ NĂNG “CHINH PHỤC” VÒNG PHỎNG VẤN CÙNG VNG 📝",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16253",
+      "date": "19/06/2024"
+    },
+    {
       "tieuDe": "ĐĂNG KÝ THAM GIA & “REVIEW” CUỘC THI - NHẬN QUÀ MAY MẮN TỪ CODE TOUR",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16245",
       "date": "14/06/2024"
@@ -185,11 +190,6 @@
       "tieuDe": "THI ĐẤU CODE TOUR HÀNG TUẦN - CHỚP NGAY GIẢI THƯỞNG HẤP DẪN LÊN ĐẾN 20 TRIỆU ĐỒNG",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16233",
       "date": "11/06/2024"
-    },
-    {
-      "tieuDe": "[Q2,Q3] GOLDEN OWL SOLUTIONS TUYỂN DỤNG TTS FLUTTER, TTS RUBY ON RAILS",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16231",
-      "date": "07/06/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
