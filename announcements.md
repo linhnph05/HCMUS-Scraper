@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:16:57 19/06/2024**_
+_Last update: **16:16:37 19/06/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 18/06/2024: [[APCS] Thông báo khảo sát giữa kỳ HK3- 2324](https://www.ctda.hcmus.edu.vn/vi/2024/06/apcs-thong-bao-khao-sat-giua-ky-hk3-2324-2/)
 * 18/06/2024: [[CLC] Thông báo khảo sát giữa kỳ HK3- 2324](https://www.ctda.hcmus.edu.vn/vi/2024/06/apcs-thong-bao-khao-sat-giua-ky-hk3-2324/)
