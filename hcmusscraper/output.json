@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "04:07:29 21/06/2024",
+  "Update time": "05:08:00 21/06/2024",
   "Thong Bao": [
     {
       "tieuDe": "Mời tham gia sinh hoạt v/v hoàn thành Khối kiến thức tốt nghiệp – online vào lúc 15h ngày 23/06/2024 (Chủ nhật)",
@@ -26,6 +26,31 @@
       "tieuDe": "Thông báo quy đổi thang điểm 4",
       "url": "https://www.ctda.hcmus.edu.vn/vi/2024/06/thong-bao-quy-doi-thang-diem-4/",
       "date": "06/06/2024"
+    },
+    {
+      "tieuDe": "V/v tuyển chọn nam sinh viên tốt nghiệp đại học đi đào tạo sĩ quan dự bị năm 2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/05/v-v-tuyen-chon-nam-sinh-vien-tot-nghiep-dai-hoc-di-dao-tao-si-quan-du-bi-nam-2024/",
+      "date": "31/05/2024"
+    },
+    {
+      "tieuDe": "Thông báo kết quả dự kiến học bổng khuyến khích HK1/2023-2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2023-2024/",
+      "date": "31/05/2024"
+    },
+    {
+      "tieuDe": "Thông báo về quy định đóng học phí học kỳ 3 năm học: 2023-2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-3-nam-hoc-2023-2024/",
+      "date": "31/05/2024"
+    },
+    {
+      "tieuDe": "[CTĐA] – Thông báo phúc khảo HK2/2023-2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/05/ctda-thong-bao-phuc-khao-hk2-2023-2024/",
+      "date": "30/05/2024"
+    },
+    {
+      "tieuDe": "Quy định các loại chứng chỉ ngoại ngữ đạt chuẩn đầu ra trình độ đại học chương trình Tiên Tiến và Chất lượng cao nhóm ngành Công nghệ thông tin khóa 2023",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/05/quy-dinh-cac-loai-chung-chi-ngoai-ngu-dat-chuan-dau-ra-trinh-do-dai-hoc-chuong-trinh-tien-tien-va-chat-luong-cao-nhom-nganh-cong-nghe-thong-tin-khoa-2023/",
+      "date": "22/05/2024"
     }
   ],
   "Tin tuc": [],
@@ -38,6 +63,11 @@
   ],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện KLTN - TTDATN khóa 2020, đợt 2 (T7, 8/2024)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16257",
+      "date": "21/6/2024"
+    },
     {
       "tieuDe": "Thông báo V/v Cập nhật thành tích sinh viên HK2, năm học 2023 - 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16255",
@@ -82,11 +112,6 @@
       "tieuDe": "[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ Chương trình Chuẩn HK3/2023-2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16230",
       "date": "7/6/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên tham dự chương trình Tech-Talk và Information day",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16229",
-      "date": "6/6/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
