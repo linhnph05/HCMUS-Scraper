@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **22:22:43 22/06/2024**_
+_Last update: **23:18:12 22/06/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 21/06/2024: [Mời họp online phổ biến các quy định về việc xét chuyên ngành cho sinh viên chương trình Chất lượng cao năm học 2023-2024 vào lúc 8:30 ngày 25/06/2024 (sáng thứ 3)](https://www.ctda.hcmus.edu.vn/vi/2024/06/moi-hop-online-pho-bien-cac-quy-dinh-ve-viec-xet-chuyen-nganh-cho-sinh-vien-chuong-trinh-chat-luong-cao-nam-hoc-2023-2024-vao-luc-830-ngay-25-06-2024-sang-thu-3/)
 * 20/06/2024: [Mời tham gia sinh hoạt v/v hoàn thành Khối kiến thức tốt nghiệp – online vào lúc 15h ngày 23/06/2024 (Chủ nhật)](https://www.ctda.hcmus.edu.vn/vi/2024/06/moi-tham-gia-sinh-hoat-v-v-hoan-thanh-khoi-kien-thuc-tot-nghiep-online-vao-luc-15h-ngay-23-06-2024-chu-nhat/)
