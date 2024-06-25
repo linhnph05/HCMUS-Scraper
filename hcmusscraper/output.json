@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "01:33:59 25/06/2024",
+  "Update time": "02:19:25 25/06/2024",
   "Thong Bao": [
     {
       "tieuDe": "Mời họp online phổ biến các quy định về việc xét chuyên ngành cho sinh viên chương trình Chất lượng cao năm học 2023-2024 vào lúc 8:30 ngày 25/06/2024 (sáng thứ 3)",
@@ -162,6 +162,16 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "Software Engineer (Back End)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16260",
+      "date": "25/06/2024"
+    },
+    {
+      "tieuDe": "Junior DevOps Engineer (Golang)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16259",
+      "date": "25/06/2024"
+    },
+    {
       "tieuDe": "[WEBINAR] NÂNG CAO KỸ NĂNG “CHINH PHỤC” VÒNG PHỎNG VẤN CÙNG VNG 📝",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16253",
       "date": "19/06/2024"
@@ -175,16 +185,6 @@
       "tieuDe": "Junior / Intern Software Engineer",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16239",
       "date": "12/06/2024"
-    },
-    {
-      "tieuDe": "BOOSTation: BỆ PHÓNG VỮNG CHẮC CHO DỰ ÁN KỸ THUẬT SỐ CỦA BẠN",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16234",
-      "date": "11/06/2024"
-    },
-    {
-      "tieuDe": "THI ĐẤU CODE TOUR HÀNG TUẦN - CHỚP NGAY GIẢI THƯỞNG HẤP DẪN LÊN ĐẾN 20 TRIỆU ĐỒNG",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16233",
-      "date": "11/06/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [

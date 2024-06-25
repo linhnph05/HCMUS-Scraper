@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **08:44:49 25/06/2024**_
+_Last update: **09:34:06 25/06/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 21/06/2024: [Mời họp online phổ biến các quy định về việc xét chuyên ngành cho sinh viên chương trình Chất lượng cao năm học 2023-2024 vào lúc 8:30 ngày 25/06/2024 (sáng thứ 3)](https://www.ctda.hcmus.edu.vn/vi/2024/06/moi-hop-online-pho-bien-cac-quy-dinh-ve-viec-xet-chuyen-nganh-cho-sinh-vien-chuong-trinh-chat-luong-cao-nam-hoc-2023-2024-vao-luc-830-ngay-25-06-2024-sang-thu-3/)
 * 20/06/2024: [Mời tham gia sinh hoạt v/v hoàn thành Khối kiến thức tốt nghiệp – online vào lúc 15h ngày 23/06/2024 (Chủ nhật)](https://www.ctda.hcmus.edu.vn/vi/2024/06/moi-tham-gia-sinh-hoat-v-v-hoan-thanh-khoi-kien-thuc-tot-nghiep-online-vao-luc-15h-ngay-23-06-2024-chu-nhat/)
@@ -43,11 +43,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 25/06/2024: [Software Engineer (Back End)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16260)
+* 25/06/2024: [Junior DevOps Engineer (Golang)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16259)
 * 19/06/2024: [[WEBINAR] NÂNG CAO KỸ NĂNG “CHINH PHỤC” VÒNG PHỎNG VẤN CÙNG VNG 📝](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16253)
 * 14/06/2024: [ĐĂNG KÝ THAM GIA & “REVIEW” CUỘC THI - NHẬN QUÀ MAY MẮN TỪ CODE TOUR](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16245)
 * 12/06/2024: [Junior / Intern Software Engineer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16239)
-* 11/06/2024: [BOOSTation: BỆ PHÓNG VỮNG CHẮC CHO DỰ ÁN KỸ THUẬT SỐ CỦA BẠN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16234)
-* 11/06/2024: [THI ĐẤU CODE TOUR HÀNG TUẦN - CHỚP NGAY GIẢI THƯỞNG HẤP DẪN LÊN ĐẾN 20 TRIỆU ĐỒNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16233)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 24/06/2024: [THÔNG BÁO TUYỂN DỤNG TRỢ LÝ GIÁO VỤ KHOA HÓA HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-tro-ly-giao-vu-khoa-hoa-hoc/)
 * 24/06/2024: [Kế hoạch học tập năm học 2024-2025](https://hcmus.edu.vn/ke-hoahjc-hoc-tap-nam-hoc-2024-2025/)
