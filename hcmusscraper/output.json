@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:07:27 01/07/2024",
+  "Update time": "08:08:35 01/07/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2",
@@ -142,6 +142,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "TMA Tech Group tuyển dụng Fresher Tester/Developer Quý 3/2024 - Không yêu cầu kinh nghiệm",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16264",
+      "date": "01/07/2024"
+    },
+    {
       "tieuDe": "Software Engineer (Back End)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16260",
       "date": "25/06/2024"
@@ -160,11 +165,6 @@
       "tieuDe": "ĐĂNG KÝ THAM GIA & “REVIEW” CUỘC THI - NHẬN QUÀ MAY MẮN TỪ CODE TOUR",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16245",
       "date": "14/06/2024"
-    },
-    {
-      "tieuDe": "Junior / Intern Software Engineer",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16239",
-      "date": "12/06/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
