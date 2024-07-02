@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:18:24 02/07/2024**_
+_Last update: **16:16:47 02/07/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/06/2024: [[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2020-dot-2/)
 * 21/06/2024: [Mời họp online phổ biến các quy định về việc xét chuyên ngành cho sinh viên chương trình Chất lượng cao năm học 2023-2024 vào lúc 8:30 ngày 25/06/2024 (sáng thứ 3)](https://www.ctda.hcmus.edu.vn/vi/2024/06/moi-hop-online-pho-bien-cac-quy-dinh-ve-viec-xet-chuyen-nganh-cho-sinh-vien-chuong-trinh-chat-luong-cao-nam-hoc-2023-2024-vao-luc-830-ngay-25-06-2024-sang-thu-3/)
@@ -45,6 +45,7 @@ No news in the last 1 month
 * 19/06/2024: [[WEBINAR] NÂNG CAO KỸ NĂNG “CHINH PHỤC” VÒNG PHỎNG VẤN CÙNG VNG 📝](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16253)
 * 14/06/2024: [ĐĂNG KÝ THAM GIA & “REVIEW” CUỘC THI - NHẬN QUÀ MAY MẮN TỪ CODE TOUR](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16245)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 02/07/2024: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 3/2024](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-3-2024/)
 * 02/07/2024: [Thông báo số 174/TB-KHTN thay thế Thông báo số 168/TB-KHTN về Kỳ thi Đánh giá năng lực tiếng Anh](https://hcmus.edu.vn/thong-bao-so-174-tb-khtn-v-v-thay-the-thong-bao-so-168-tb-khtn-ve-ky-thi-danh-gia-nang-luc-tieng-anh/)
 * 02/07/2024: [THÔNG BÁO: ĐIỂM CHUẨN TRÚNG TUYỂN PHƯƠNG THỨC XÉT TUYỂN 2 NĂM 2024](https://hcmus.edu.vn/thong-bao-diem-chuan-trung-tuyen-phuong-thuc-xet-tuyen-2-nam-2024/)
 * 02/07/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk2-2023-2024-chuong-trinh-de-an/)
@@ -88,6 +89,7 @@ No news in the last 1 month
 * 06/06/2024: [Thông báo tuyển dụng Giảng viên Khoa Điện tử-Viễn thông](https://hcmus.edu.vn/thong-bao-tuyen-dung-giang-vien-k-dien-tu-vien-thong-pdf/)
 * 06/06/2024: [Thông báo tuyển dụng – PTN Vật liệu kỹ thuật cao](https://hcmus.edu.vn/thong-bao-tuyen-dung-ptn-vat-lieu-ky-thuat-cao-2/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
+* 02/07/2024: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 3/2024](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-3-2024/)
 * 02/07/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk2-2023-2024-chuong-trinh-de-an/)
 * 02/07/2024: [Thông báo chuyển tiền học bổng khuyến khích HK1/2023-2024 dành cho sinh viên các chương trình Đề án](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2023-2024-danh-cho-sinh-vien-cac-chuong-trinh-de-an/)
 * 24/06/2024: [HỘI THẢO: “DATA VÀ AI: CƠ HỘI VÀ THÁCH THỨC. HỌC TẬP, NGHIÊN CỨU VÀ LÀM VIỆC TẠI CHÂU ÂU”](https://hcmus.edu.vn/hoi-thao-data-ai-co-hoi-thach-thuc-hoc-tap-nghien-cuu-va-lam-viec-tai-chau-au/)
