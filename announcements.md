@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **17:22:52 02/07/2024**_
+_Last update: **18:16:18 02/07/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/06/2024: [[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2020-dot-2/)
 * 21/06/2024: [Mời họp online phổ biến các quy định về việc xét chuyên ngành cho sinh viên chương trình Chất lượng cao năm học 2023-2024 vào lúc 8:30 ngày 25/06/2024 (sáng thứ 3)](https://www.ctda.hcmus.edu.vn/vi/2024/06/moi-hop-online-pho-bien-cac-quy-dinh-ve-viec-xet-chuyen-nganh-cho-sinh-vien-chuong-trinh-chat-luong-cao-nam-hoc-2023-2024-vao-luc-830-ngay-25-06-2024-sang-thu-3/)
@@ -15,6 +15,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 2/7/2024: [Thông báo điểm chuẩn trúng tuyển theo phương thức 4 (kết quả thi Đánh giá năng lực ĐHQG-HCM) năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16267)
 * 2/7/2024: [Sinh viên Khoa Công nghệ thông tin tham gia diễn đàn văn hoá thanh niên ASEAN lần thứ 19 và ASEAN+3 lần thứ 9 tại Brunei](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16266)
 * 1/7/2024: [Thông báo điểm chuẩn trúng tuyển theo phương thức 2 năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16265)
 * 28/6/2024: [Thông báo nhập học trình độ thạc sĩ khóa 34/2024 – đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16263)
@@ -24,7 +25,6 @@ No news in the last 1 month
 * 20/6/2024: [Thông báo V/v Cập nhật thành tích sinh viên HK2, năm học 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16255)
 * 20/6/2024: [[Communication support] Bach Khoa Innovation 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16254)
 * 18/6/2024: [[CQ] Thông báo hình thức nộp cuốn TRƯỚC bảo vệ KLTN/TTDATN Khóa 2020, đợt 2 (tháng 7/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16252)
-* 18/6/2024: [V/v thực hiện khảo sát các môn mở trong Học phần 3 lớp cao học K33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16250)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 02/07/2024: [Sinh viên Khoa Công nghệ thông tin tham gia diễn đàn văn hoá thanh niên ASEAN lần thứ 19 và ASEAN+3 lần thứ 9 tại Brunei](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16266)
 * 26/06/2024: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16261)

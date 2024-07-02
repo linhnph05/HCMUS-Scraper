@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "10:07:15 02/07/2024",
+  "Update time": "11:07:03 02/07/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2",
@@ -42,6 +42,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Thông báo điểm chuẩn trúng tuyển theo phương thức 4 (kết quả thi Đánh giá năng lực ĐHQG-HCM) năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16267",
+      "date": "2/7/2024"
+    },
     {
       "tieuDe": "Sinh viên Khoa Công nghệ thông tin tham gia diễn đàn văn hoá thanh niên ASEAN lần thứ 19 và ASEAN+3 lần thứ 9 tại Brunei",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16266",
@@ -85,11 +90,6 @@
     {
       "tieuDe": "[CQ] Thông báo hình thức nộp cuốn TRƯỚC bảo vệ KLTN/TTDATN Khóa 2020, đợt 2 (tháng 7/2024)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16252",
-      "date": "18/6/2024"
-    },
-    {
-      "tieuDe": "V/v thực hiện khảo sát các môn mở trong Học phần 3 lớp cao học K33/2023",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16250",
       "date": "18/6/2024"
     }
   ],
