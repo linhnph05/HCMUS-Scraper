@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **10:17:56 02/07/2024**_
+_Last update: **11:18:16 02/07/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/06/2024: [[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2020-dot-2/)
 * 21/06/2024: [Mời họp online phổ biến các quy định về việc xét chuyên ngành cho sinh viên chương trình Chất lượng cao năm học 2023-2024 vào lúc 8:30 ngày 25/06/2024 (sáng thứ 3)](https://www.ctda.hcmus.edu.vn/vi/2024/06/moi-hop-online-pho-bien-cac-quy-dinh-ve-viec-xet-chuyen-nganh-cho-sinh-vien-chuong-trinh-chat-luong-cao-nam-hoc-2023-2024-vao-luc-830-ngay-25-06-2024-sang-thu-3/)
@@ -15,17 +15,35 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
-No news in the last 1 month
+* 2/7/2024: [Sinh viên Khoa Công nghệ thông tin tham gia diễn đàn văn hoá thanh niên ASEAN lần thứ 19 và ASEAN+3 lần thứ 9 tại Brunei](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16266)
+* 1/7/2024: [Thông báo điểm chuẩn trúng tuyển theo phương thức 2 năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16265)
+* 28/6/2024: [Thông báo nhập học trình độ thạc sĩ khóa 34/2024 – đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16263)
+* 27/6/2024: [Kết quả tuyển sinh Sau Đại học năm 2024 – đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16262)
+* 26/6/2024: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16261)
+* 21/6/2024: [[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện KLTN - TTDATN khóa 2020, đợt 2 (T7, 8/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16257)
+* 20/6/2024: [Thông báo V/v Cập nhật thành tích sinh viên HK2, năm học 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16255)
+* 20/6/2024: [[Communication support] Bach Khoa Innovation 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16254)
+* 18/6/2024: [[CQ] Thông báo hình thức nộp cuốn TRƯỚC bảo vệ KLTN/TTDATN Khóa 2020, đợt 2 (tháng 7/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16252)
+* 18/6/2024: [V/v thực hiện khảo sát các môn mở trong Học phần 3 lớp cao học K33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16250)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-No news in the last 1 month
+* 02/07/2024: [Sinh viên Khoa Công nghệ thông tin tham gia diễn đàn văn hoá thanh niên ASEAN lần thứ 19 và ASEAN+3 lần thứ 9 tại Brunei](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16266)
+* 26/06/2024: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16261)
+* 20/06/2024: [Thông báo V/v Cập nhật thành tích sinh viên HK2, năm học 2023 - 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16255)
+* 20/06/2024: [[Communication support] Bach Khoa Innovation 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16254)
+* 11/06/2024: [[Hỗ trợ truyền thông] Mở đăng ký TikTok TechJam 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16236)
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-No news in the last 1 month
+* 18/06/2024: [Thông báo chuyển khoản học bổng đột xuất HK1 NH: 2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16251)
+* 18/06/2024: [Thông báo chuyển khoản học bổng Tân sinh viên HK1 NH: 2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16249)
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-No news in the last 1 month
+* 24/06/2024: [Hội nghị quốc tế Integrated Uncertainty in Knowledge Modelling and Decision Making (IUKM) năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16258)
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-No news in the last 1 month
+* 01/07/2024: [TMA Tech Group tuyển dụng Fresher Tester/Developer Quý 3/2024 - Không yêu cầu kinh nghiệm](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16264)
+* 25/06/2024: [Software Engineer (Back End)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16260)
+* 25/06/2024: [Junior DevOps Engineer (Golang)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16259)
+* 19/06/2024: [[WEBINAR] NÂNG CAO KỸ NĂNG “CHINH PHỤC” VÒNG PHỎNG VẤN CÙNG VNG 📝](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16253)
+* 14/06/2024: [ĐĂNG KÝ THAM GIA & “REVIEW” CUỘC THI - NHẬN QUÀ MAY MẮN TỪ CODE TOUR](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16245)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 02/07/2024: [THÔNG BÁO: ĐIỂM CHUẨN TRÚNG TUYỂN PHƯƠNG THỨC XÉT TUYỂN 2 NĂM 2024](https://hcmus.edu.vn/thong-bao-diem-chuan-trung-tuyen-phuong-thuc-xet-tuyen-2-nam-2024/)
 * 02/07/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk2-2023-2024-chuong-trinh-de-an/)
