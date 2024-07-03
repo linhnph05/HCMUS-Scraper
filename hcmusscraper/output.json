@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:08:43 03/07/2024",
+  "Update time": "09:07:13 03/07/2024",
   "Thong Bao": [
     {
       "tieuDe": "Buổi sinh hoạt giải đáp thắc mắc về chuyên ngành",
@@ -48,6 +48,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Thông báo triển khai tra cứu điểm trên hệ thống quản lý người học Student@VNUHCM-US",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16268",
+      "date": "3/7/2024"
+    },
+    {
       "tieuDe": "Thông báo điểm chuẩn trúng tuyển theo phương thức 4 (kết quả thi Đánh giá năng lực ĐHQG-HCM) năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16267",
       "date": "2/7/2024"
@@ -91,11 +96,6 @@
       "tieuDe": "[Communication support] Bach Khoa Innovation 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16254",
       "date": "20/6/2024"
-    },
-    {
-      "tieuDe": "[CQ] Thông báo hình thức nộp cuốn TRƯỚC bảo vệ KLTN/TTDATN Khóa 2020, đợt 2 (tháng 7/2024)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16252",
-      "date": "18/6/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
