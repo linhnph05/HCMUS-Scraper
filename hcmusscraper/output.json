@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "11:07:41 04/07/2024",
+  "Update time": "12:09:45 04/07/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN/TTTN/TTDATN khóa 2020, đợt 1 (bảo vệ tháng 8/2024)",
@@ -26,12 +26,47 @@
       "tieuDe": "Mời họp online phổ biến các quy định về việc xét chuyên ngành cho sinh viên chương trình Chất lượng cao năm học 2023-2024 vào lúc 8:30 ngày 25/06/2024 (sáng thứ 3)",
       "url": "https://www.ctda.hcmus.edu.vn/vi/2024/06/moi-hop-online-pho-bien-cac-quy-dinh-ve-viec-xet-chuyen-nganh-cho-sinh-vien-chuong-trinh-chat-luong-cao-nam-hoc-2023-2024-vao-luc-830-ngay-25-06-2024-sang-thu-3/",
       "date": "21/06/2024"
+    },
+    {
+      "tieuDe": "Mời tham gia sinh hoạt v/v hoàn thành Khối kiến thức tốt nghiệp – online vào lúc 15h ngày 23/06/2024 (Chủ nhật)",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/06/moi-tham-gia-sinh-hoat-v-v-hoan-thanh-khoi-kien-thuc-tot-nghiep-online-vao-luc-15h-ngay-23-06-2024-chu-nhat/",
+      "date": "20/06/2024"
+    },
+    {
+      "tieuDe": "[APCS] Thông báo khảo sát giữa kỳ HK3- 2324",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/06/apcs-thong-bao-khao-sat-giua-ky-hk3-2324-2/",
+      "date": "18/06/2024"
+    },
+    {
+      "tieuDe": "[CLC] Thông báo khảo sát giữa kỳ HK3- 2324",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/06/apcs-thong-bao-khao-sat-giua-ky-hk3-2324/",
+      "date": "18/06/2024"
+    },
+    {
+      "tieuDe": "[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2024-2025",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2024-2025/",
+      "date": "17/06/2024"
+    },
+    {
+      "tieuDe": "Thông báo quy đổi thang điểm 4",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/06/thong-bao-quy-doi-thang-diem-4/",
+      "date": "06/06/2024"
     }
   ],
   "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "KẾT QUẢ ĐỦ ĐIỀU KIỆN TRÚNG TUYỂN PHƯƠNG THỨC XÉT TUYỂN 1 NĂM 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16273",
+      "date": "4/7/2024"
+    },
+    {
+      "tieuDe": "Điểm chuẩn trúng tuyển theo phương thức xét tuyển 6",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16272",
+      "date": "4/7/2024"
+    },
     {
       "tieuDe": "Danh sách môn mở trong Học phần 3 lớp cao học khóa 33/2023",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16270",
@@ -71,19 +106,14 @@
       "tieuDe": "Kết quả tuyển sinh Sau Đại học năm 2024 – đợt 1",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16262",
       "date": "27/6/2024"
-    },
-    {
-      "tieuDe": "Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16261",
-      "date": "26/6/2024"
-    },
-    {
-      "tieuDe": "[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện KLTN - TTDATN khóa 2020, đợt 2 (T7, 8/2024)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16257",
-      "date": "21/6/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "KẾT QUẢ ĐỦ ĐIỀU KIỆN TRÚNG TUYỂN PHƯƠNG THỨC XÉT TUYỂN 1 NĂM 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16273",
+      "date": "04/07/2024"
+    },
     {
       "tieuDe": "Đăng ký tham dự Trường hè 'FIT@HCMUS Summer School on Generative AI and LLM' năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16269",
@@ -102,11 +132,6 @@
     {
       "tieuDe": "Thông báo V/v Cập nhật thành tích sinh viên HK2, năm học 2023 - 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16255",
-      "date": "20/06/2024"
-    },
-    {
-      "tieuDe": "[Communication support] Bach Khoa Innovation 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16254",
       "date": "20/06/2024"
     }
   ],
@@ -158,6 +183,16 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "THÔNG BÁO: ĐIỂM CHUẨN TRÚNG TUYỂN PHƯƠNG THỨC XÉT TUYỂN 6 NĂM 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-diem-chuan-trung-tuyen-phuong-thuc-xet-tuyen-6-nam-2024/",
+      "date": "04/07/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO: KẾT QUẢ ĐỦ ĐIỀU KIỆN TRÚNG TUYỂN PHƯƠNG THỨC XÉT TUYỂN 1 NĂM 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-dieu-kien-trung-tuyen-phuong-thuc-xet-tuyen-1-nam-2024/",
+      "date": "04/07/2024"
+    },
     {
       "tieuDe": "Thông báo nhận bằng tốt nghiệp bậc Đại học hệ chính quy, bậc Cao đẳng ngành Công nghệ thông tin, hệ đào tạo từ xa và Liên thông đại học cho đợt xét tốt nghiệp tháng 5/2024)",
       "url": "https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-dot-xet-tot-nghiep-thang-5-2024/",
