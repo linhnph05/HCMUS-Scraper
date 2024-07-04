@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **12:16:27 04/07/2024**_
+_Last update: **13:17:49 04/07/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 04/07/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình Đề án)](https://www.ctda.hcmus.edu.vn/vi/2024/07/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk2-2023-2024-chuong-trinh-de-an/)
 * 03/07/2024: [Buổi sinh hoạt giải đáp thắc mắc về chuyên ngành](https://www.ctda.hcmus.edu.vn/vi/2024/07/buoi-sinh-hoat-giai-dap-thac-mac-ve-chuyen-nganh/)
