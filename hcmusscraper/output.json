@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:07:10 05/07/2024",
+  "Update time": "08:08:20 05/07/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN/TTTN/TTDATN khóa 2020, đợt 1 (bảo vệ tháng 8/2024)",
@@ -58,6 +58,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Phát động Cuộc thi thiết kế biểu trưng kỷ niệm 30 năm thành lập Khoa CNTT",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16275",
+      "date": "5/7/2024"
+    },
+    {
       "tieuDe": "KẾT QUẢ ĐỦ ĐIỀU KIỆN TRÚNG TUYỂN PHƯƠNG THỨC XÉT TUYỂN 1 NĂM 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16273",
       "date": "4/7/2024"
@@ -101,14 +106,14 @@
       "tieuDe": "Thông báo nhập học trình độ thạc sĩ khóa 34/2024 – đợt 1",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16263",
       "date": "28/6/2024"
-    },
-    {
-      "tieuDe": "Kết quả tuyển sinh Sau Đại học năm 2024 – đợt 1",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16262",
-      "date": "27/6/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Phát động Cuộc thi thiết kế biểu trưng kỷ niệm 30 năm thành lập Khoa CNTT",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16275",
+      "date": "05/07/2024"
+    },
     {
       "tieuDe": "KẾT QUẢ ĐỦ ĐIỀU KIỆN TRÚNG TUYỂN PHƯƠNG THỨC XÉT TUYỂN 1 NĂM 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16273",
@@ -128,11 +133,6 @@
       "tieuDe": "Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16261",
       "date": "26/06/2024"
-    },
-    {
-      "tieuDe": "Thông báo V/v Cập nhật thành tích sinh viên HK2, năm học 2023 - 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16255",
-      "date": "20/06/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
