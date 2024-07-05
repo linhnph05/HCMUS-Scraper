@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "10:07:41 05/07/2024",
+  "Update time": "11:06:56 05/07/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN/TTTN/TTDATN khóa 2020, đợt 1 (bảo vệ tháng 8/2024)",
@@ -157,6 +157,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "FRONTEND DEVELOPER - REACTJS ( FRESHER)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16277",
+      "date": "05/07/2024"
+    },
+    {
       "tieuDe": "K-Tech Job Fair 2024: Code your future in Korea - Ngày hội việc làm do Chính phủ Hàn Quốc tổ chức",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16274",
       "date": "05/07/2024"
@@ -174,11 +179,6 @@
     {
       "tieuDe": "Software Engineer (Back End)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16260",
-      "date": "25/06/2024"
-    },
-    {
-      "tieuDe": "Junior DevOps Engineer (Golang)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16259",
       "date": "25/06/2024"
     }
   ],
