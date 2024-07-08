@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **16:17:09 08/07/2024**_
+_Last update: **17:20:44 08/07/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 04/07/2024: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN/TTTN/TTDATN khóa 2020, đợt 1 (bảo vệ tháng 8/2024)](https://www.ctda.hcmus.edu.vn/vi/2024/07/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-tttn-ttdatn-khoa-2020-dot-1-bao-ve-thang-8-2024/)
 * 04/07/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình Đề án)](https://www.ctda.hcmus.edu.vn/vi/2024/07/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk2-2023-2024-chuong-trinh-de-an/)
