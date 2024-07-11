@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **13:18:43 11/07/2024**_
+_Last update: **15:18:52 11/07/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 04/07/2024: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN/TTTN/TTDATN khóa 2020, đợt 1 (bảo vệ tháng 8/2024)](https://www.ctda.hcmus.edu.vn/vi/2024/07/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-tttn-ttdatn-khoa-2020-dot-1-bao-ve-thang-8-2024/)
 * 04/07/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình Đề án)](https://www.ctda.hcmus.edu.vn/vi/2024/07/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk2-2023-2024-chuong-trinh-de-an/)
@@ -17,6 +17,8 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 11/7/2024: [Thông báo đăng ký tín chỉ học phần 3 chương trình cao học khoá 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16284)
+* 11/7/2024: [Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 4/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16283)
 * 10/7/2024: [[CQ] Thông báo về việc Hủy lớp Khởi nghiệp, HK3/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16281)
 * 5/7/2024: [Đăng ký tham gia Cuộc thi ý tưởng giải pháp Tiên phong công nghệ mới (HCMUS AI Innovation)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16276)
 * 5/7/2024: [Phát động Cuộc thi thiết kế biểu trưng kỷ niệm 30 năm thành lập Khoa CNTT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16275)
@@ -25,8 +27,6 @@ No news in the last 1 month
 * 3/7/2024: [Danh sách môn mở trong Học phần 3 lớp cao học khóa 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16270)
 * 3/7/2024: [Đăng ký tham dự Trường hè 'FIT@HCMUS Summer School on Generative AI and LLM' năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16269)
 * 3/7/2024: [Thông báo triển khai tra cứu điểm trên hệ thống quản lý người học Student@VNUHCM-US](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16268)
-* 2/7/2024: [Thông báo điểm chuẩn trúng tuyển theo phương thức 4 (kết quả thi Đánh giá năng lực ĐHQG-HCM) năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16267)
-* 2/7/2024: [Sinh viên Khoa Công nghệ thông tin tham gia diễn đàn văn hoá thanh niên ASEAN lần thứ 19 và ASEAN+3 lần thứ 9 tại Brunei](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16266)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 05/07/2024: [Đăng ký tham gia Cuộc thi ý tưởng giải pháp Tiên phong công nghệ mới (HCMUS AI Innovation)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16276)
 * 05/07/2024: [Phát động Cuộc thi thiết kế biểu trưng kỷ niệm 30 năm thành lập Khoa CNTT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16275)
