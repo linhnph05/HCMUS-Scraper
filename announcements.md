@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **17:16:48 12/07/2024**_
+_Last update: **18:21:46 12/07/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 04/07/2024: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN/TTTN/TTDATN khóa 2020, đợt 1 (bảo vệ tháng 8/2024)](https://www.ctda.hcmus.edu.vn/vi/2024/07/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-tttn-ttdatn-khoa-2020-dot-1-bao-ve-thang-8-2024/)
 * 04/07/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình Đề án)](https://www.ctda.hcmus.edu.vn/vi/2024/07/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk2-2023-2024-chuong-trinh-de-an/)
@@ -47,6 +47,7 @@ No news in the last 1 month
 * 05/07/2024: [K-Tech Job Fair 2024: Code your future in Korea - Ngày hội việc làm do Chính phủ Hàn Quốc tổ chức](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16274)
 * 04/07/2024: [CHINH PHỤC ĐỀ THI VÒNG CHUNG KẾT CÙNG ĐỘI NGŨ BAN RA ĐỀ CODE TOUR 2024 👨‍💻](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16271)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 12/07/2024: [THÔNG BÁO TUYỂN CHỌN TỔ CHỨC CÁ NHÂN THỰC HIỆN DỰ ÁN CT PHÁT TRIỂN TÀI SẢN TRÍ TUỆ KONTUM 2021-2023](https://hcmus.edu.vn/thong-bao-tuyen-chon-to-chuc-ca-nhan-thuc-hien-du-an-ct-phat-trien-tai-san-tri-tue-kontum-2021-2023/)
 * 12/07/2024: [Thông báo Về việc cấp học bổng cho sinh viên Bình Định vượt khó, học giỏi năm 2024](https://hcmus.edu.vn/thong-bao-ve-viec-cap-hoc-bong-cho-sinh-vien-binh-dinh-vuot-kho-hoc-gioi-nam-2024/)
 * 10/07/2024: [HỘI NGHỊ QUỐC TẾ “RESONANCES IN THE MATHEMATICAL WORLD”](https://hcmus.edu.vn/hoi-nghi-quoc-te-resonances-in-the-mathematical-world/)
 * 09/07/2024: [CHƯƠNG TRÌNH AUN-VNUHCM SUMMER PROGRAMME 2024](https://hcmus.edu.vn/chuong-trinh-aun-vnuhcm-summer-programme-2024/)
