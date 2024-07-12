@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:07:35 12/07/2024",
+  "Update time": "08:08:59 12/07/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN/TTTN/TTDATN khóa 2020, đợt 1 (bảo vệ tháng 8/2024)",
@@ -53,6 +53,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "[CQ] Thời khóa biểu học kỳ 3 năm học 2023-2024 (có phòng)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16285",
+      "date": "12/7/2024"
+    },
+    {
       "tieuDe": "Thông báo đăng ký tín chỉ học phần 3 chương trình cao học khoá 33/2023",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16284",
       "date": "11/7/2024"
@@ -95,11 +100,6 @@
     {
       "tieuDe": "Đăng ký tham dự Trường hè 'FIT@HCMUS Summer School on Generative AI and LLM' năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16269",
-      "date": "3/7/2024"
-    },
-    {
-      "tieuDe": "Thông báo triển khai tra cứu điểm trên hệ thống quản lý người học Student@VNUHCM-US",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16268",
       "date": "3/7/2024"
     }
   ],
