@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **12:18:21 18/07/2024**_
+_Last update: **13:20:23 18/07/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 16/07/2024: [Hướng dẫn chuẩn bị poster bảo vệ đề tài tốt nghiệp](https://www.ctda.hcmus.edu.vn/vi/2024/07/huong-dan-chuan-bi-poster-bao-ve-de-tai-tot-nghiep/)
 * 04/07/2024: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN/TTTN/TTDATN khóa 2020, đợt 1 (bảo vệ tháng 8/2024)](https://www.ctda.hcmus.edu.vn/vi/2024/07/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-tttn-ttdatn-khoa-2020-dot-1-bao-ve-thang-8-2024/)
@@ -47,6 +47,7 @@ No news in the last 1 month
 * 05/07/2024: [FRONTEND DEVELOPER - REACTJS ( FRESHER)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16277)
 * 05/07/2024: [K-Tech Job Fair 2024: Code your future in Korea - Ngày hội việc làm do Chính phủ Hàn Quốc tổ chức](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16274)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 17/07/2024: [LỄ TIẾP NHẬN THIẾT BỊ TÀI TRỢ GIỮA CÔNG TY CỔ PHẦN TƯ VẤN VÀ DỊCH VỤ CÔNG NGHỆ ASIC VÀ TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/le-tiep-nhan-thiet-bi-tai-tro-giua-cong-ty-co-phan-tu-van-va-dich-vu-cong-nghe-asic-va-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 16/07/2024: [THÔNG TIN GIẢI THƯỞNG KHOA HỌC CÔNG NGHỆ QUẢ CẦU VÀNG 2024](https://hcmus.edu.vn/thong-tin-giai-thuong-khoa-hoc-cong-nghe-qua-cau-vang-2024/)
 * 15/07/2024: [THÔNG BÁO Đăng ký tham gia Giải thưởng VietFuture 2024](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-giai-thuong-vietfuture-2024/)
 * 12/07/2024: [THÔNG BÁO TUYỂN CHỌN TỔ CHỨC CÁ NHÂN THỰC HIỆN DỰ ÁN CT PHÁT TRIỂN TÀI SẢN TRÍ TUỆ KONTUM 2021-2023](https://hcmus.edu.vn/thong-bao-tuyen-chon-to-chuc-ca-nhan-thuc-hien-du-an-ct-phat-trien-tai-san-tri-tue-kontum-2021-2023/)
