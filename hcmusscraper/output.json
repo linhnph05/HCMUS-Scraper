@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:08:26 18/07/2024",
+  "Update time": "09:06:51 18/07/2024",
   "Thong Bao": [
     {
       "tieuDe": "Hướng dẫn chuẩn bị poster bảo vệ đề tài tốt nghiệp",
@@ -53,6 +53,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Thông báo lịch trình bày chương trình Trường hè 'FIT@HCMUS Summer School on Generative AI and LLM' năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16288",
+      "date": "18/7/2024"
+    },
+    {
       "tieuDe": "Talkshow “Với dân công nghệ, EQ không thấp như bạn nghĩ!”",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16287",
       "date": "17/7/2024"
@@ -96,14 +101,14 @@
       "tieuDe": "Điểm chuẩn trúng tuyển theo phương thức xét tuyển 6",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16272",
       "date": "4/7/2024"
-    },
-    {
-      "tieuDe": "Danh sách môn mở trong Học phần 3 lớp cao học khóa 33/2023",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16270",
-      "date": "3/7/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Thông báo lịch trình bày chương trình Trường hè 'FIT@HCMUS Summer School on Generative AI and LLM' năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16288",
+      "date": "18/07/2024"
+    },
     {
       "tieuDe": "Talkshow “Với dân công nghệ, EQ không thấp như bạn nghĩ!”",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16287",
@@ -123,11 +128,6 @@
       "tieuDe": "KẾT QUẢ ĐỦ ĐIỀU KIỆN TRÚNG TUYỂN PHƯƠNG THỨC XÉT TUYỂN 1 NĂM 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16273",
       "date": "04/07/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham dự Trường hè 'FIT@HCMUS Summer School on Generative AI and LLM' năm 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16269",
-      "date": "03/07/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
