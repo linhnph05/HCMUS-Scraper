@@ -1,15 +1,11 @@
 # All news in the last 1 month 
-_Last update: **06:23:34 19/07/2024**_
+_Last update: **07:39:56 19/07/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 16/07/2024: [Hướng dẫn chuẩn bị poster bảo vệ đề tài tốt nghiệp](https://www.ctda.hcmus.edu.vn/vi/2024/07/huong-dan-chuan-bi-poster-bao-ve-de-tai-tot-nghiep/)
 * 04/07/2024: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN/TTTN/TTDATN khóa 2020, đợt 1 (bảo vệ tháng 8/2024)](https://www.ctda.hcmus.edu.vn/vi/2024/07/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-tttn-ttdatn-khoa-2020-dot-1-bao-ve-thang-8-2024/)
 * 04/07/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình Đề án)](https://www.ctda.hcmus.edu.vn/vi/2024/07/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk2-2023-2024-chuong-trinh-de-an/)
 * 03/07/2024: [Buổi sinh hoạt giải đáp thắc mắc về chuyên ngành](https://www.ctda.hcmus.edu.vn/vi/2024/07/buoi-sinh-hoat-giai-dap-thac-mac-ve-chuyen-nganh/)
 * 26/06/2024: [[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2](https://www.ctda.hcmus.edu.vn/vi/2024/06/ctda-thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2020-dot-2/)
-* 21/06/2024: [Mời họp online phổ biến các quy định về việc xét chuyên ngành cho sinh viên chương trình Chất lượng cao năm học 2023-2024 vào lúc 8:30 ngày 25/06/2024 (sáng thứ 3)](https://www.ctda.hcmus.edu.vn/vi/2024/06/moi-hop-online-pho-bien-cac-quy-dinh-ve-viec-xet-chuyen-nganh-cho-sinh-vien-chuong-trinh-chat-luong-cao-nam-hoc-2023-2024-vao-luc-830-ngay-25-06-2024-sang-thu-3/)
-* 20/06/2024: [Mời tham gia sinh hoạt v/v hoàn thành Khối kiến thức tốt nghiệp – online vào lúc 15h ngày 23/06/2024 (Chủ nhật)](https://www.ctda.hcmus.edu.vn/vi/2024/06/moi-tham-gia-sinh-hoat-v-v-hoan-thanh-khoi-kien-thuc-tot-nghiep-online-vao-luc-15h-ngay-23-06-2024-chu-nhat/)
-* 18/06/2024: [[APCS] Thông báo khảo sát giữa kỳ HK3- 2324](https://www.ctda.hcmus.edu.vn/vi/2024/06/apcs-thong-bao-khao-sat-giua-ky-hk3-2324-2/)
-* 18/06/2024: [[CLC] Thông báo khảo sát giữa kỳ HK3- 2324](https://www.ctda.hcmus.edu.vn/vi/2024/06/apcs-thong-bao-khao-sat-giua-ky-hk3-2324/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
@@ -34,8 +30,7 @@ No news in the last 1 month
 * 05/07/2024: [Phát động Cuộc thi thiết kế biểu trưng kỷ niệm 30 năm thành lập Khoa CNTT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16275)
 * 04/07/2024: [KẾT QUẢ ĐỦ ĐIỀU KIỆN TRÚNG TUYỂN PHƯƠNG THỨC XÉT TUYỂN 1 NĂM 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16273)
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 18/06/2024: [Thông báo chuyển khoản học bổng đột xuất HK1 NH: 2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16251)
-* 18/06/2024: [Thông báo chuyển khoản học bổng Tân sinh viên HK1 NH: 2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16249)
+No news in the last 1 month
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 24/06/2024: [Hội nghị quốc tế Integrated Uncertainty in Knowledge Modelling and Decision Making (IUKM) năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16258)
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
@@ -73,7 +68,6 @@ No news in the last 1 month
 * 24/06/2024: [Kế hoạch học tập năm học 2024-2025](https://hcmus.edu.vn/ke-hoahjc-hoc-tap-nam-hoc-2024-2025/)
 * 24/06/2024: [HỘI THẢO: “DATA VÀ AI: CƠ HỘI VÀ THÁCH THỨC. HỌC TẬP, NGHIÊN CỨU VÀ LÀM VIỆC TẠI CHÂU ÂU”](https://hcmus.edu.vn/hoi-thao-data-ai-co-hoi-thach-thuc-hoc-tap-nghien-cuu-va-lam-viec-tai-chau-au/)
 * 20/06/2024: [Thông báo chuyển tiền học bổng khuyến khích HK1/2023-2024 dành cho sinh viên Đại học Chính quy](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2023-2024-danh-cho-sinh-vien-dai-hoc-chinh-quy/)
-* 18/06/2024: [CHUYÊN ĐỀ ‘GEMS – GENERAL ELECTRONICS MEASUREMENT SOLUTION’](https://hcmus.edu.vn/chuyen-de-gems-general-electronics-measurement-solution/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 18/07/2024: [Thông báo nhận hình Lễ Trao bằng tốt nghiệp Cử nhân Khoa học Đợt 1 năm 2024 do Trường tổ chức ngày 11/7 và 13/7/2024](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-nam-dot-1-nam-2024-do-truong-to-chuc-ngay-11-7-va-13-7-2024/)
 * 15/07/2024: [THÔNG BÁO Đăng ký tham gia Giải thưởng VietFuture 2024](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-giai-thuong-vietfuture-2024/)
@@ -101,7 +95,6 @@ No news in the last 1 month
 * 02/07/2024: [Thông báo chuyển tiền học bổng khuyến khích HK1/2023-2024 dành cho sinh viên các chương trình Đề án](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2023-2024-danh-cho-sinh-vien-cac-chuong-trinh-de-an/)
 * 24/06/2024: [HỘI THẢO: “DATA VÀ AI: CƠ HỘI VÀ THÁCH THỨC. HỌC TẬP, NGHIÊN CỨU VÀ LÀM VIỆC TẠI CHÂU ÂU”](https://hcmus.edu.vn/hoi-thao-data-ai-co-hoi-thach-thuc-hoc-tap-nghien-cuu-va-lam-viec-tai-chau-au/)
 * 20/06/2024: [Thông báo chuyển tiền học bổng khuyến khích HK1/2023-2024 dành cho sinh viên Đại học Chính quy](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2023-2024-danh-cho-sinh-vien-dai-hoc-chinh-quy/)
-* 18/06/2024: [CHUYÊN ĐỀ ‘GEMS – GENERAL ELECTRONICS MEASUREMENT SOLUTION’](https://hcmus.edu.vn/chuyen-de-gems-general-electronics-measurement-solution/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
 * 12/07/2024: [Thông báo Về việc cấp học bổng cho sinh viên Bình Định vượt khó, học giỏi năm 2024](https://hcmus.edu.vn/thong-bao-ve-viec-cap-hoc-bong-cho-sinh-vien-binh-dinh-vuot-kho-hoc-gioi-nam-2024/)
 * 02/07/2024: [Thông báo chuyển tiền học bổng khuyến khích HK1/2023-2024 dành cho sinh viên các chương trình Đề án](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2023-2024-danh-cho-sinh-vien-cac-chuong-trinh-de-an/)
