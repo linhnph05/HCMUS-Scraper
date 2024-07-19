@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **17:19:37 19/07/2024**_
+_Last update: **18:19:37 19/07/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 16/07/2024: [Hướng dẫn chuẩn bị poster bảo vệ đề tài tốt nghiệp](https://www.ctda.hcmus.edu.vn/vi/2024/07/huong-dan-chuan-bi-poster-bao-ve-de-tai-tot-nghiep/)
 * 04/07/2024: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN/TTTN/TTDATN khóa 2020, đợt 1 (bảo vệ tháng 8/2024)](https://www.ctda.hcmus.edu.vn/vi/2024/07/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-tttn-ttdatn-khoa-2020-dot-1-bao-ve-thang-8-2024/)
@@ -38,12 +38,13 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 19/07/2024: [[FUJINET] Tuyển dụng FRESHER DEVELOPERS (JAVA/.NET) (Web/ Winform)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16292)
 * 19/07/2024: [QA Tester (AI Model & Functional Focus)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16290)
 * 18/07/2024: [GIHOT STUDIO - VIỆC LÀM NGÀNH SẢN XUẤT GAME](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16286)
 * 10/07/2024: [K-TECH JOB FAIR 2024: CODE YOUR FUTURE IN KOREA](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16280)
 * 10/07/2024: [Hiring interns to work on Digital Transformation Solution](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16279)
-* 05/07/2024: [FRONTEND DEVELOPER - REACTJS ( FRESHER)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16277)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 19/07/2024: [Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023, đại học chính quy](https://hcmus.edu.vn/thong-bao-to-chuc-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023-dai-hoc-chinh-quy/)
 * 18/07/2024: [Các ngành đào tạo bậc Đại học (cập nhật tháng 5/2024)](https://hcmus.edu.vn/cac-nganh-dao-tao-bac-dai-hoc/)
 * 18/07/2024: [Thông báo nhận hình Lễ Trao bằng tốt nghiệp Cử nhân Khoa học Đợt 1 năm 2024 do Trường tổ chức ngày 11/7 và 13/7/2024](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-nam-dot-1-nam-2024-do-truong-to-chuc-ngay-11-7-va-13-7-2024/)
 * 17/07/2024: [LỄ TIẾP NHẬN THIẾT BỊ TÀI TRỢ GIỮA CÔNG TY CỔ PHẦN TƯ VẤN VÀ DỊCH VỤ CÔNG NGHỆ ASIC VÀ TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/le-tiep-nhan-thiet-bi-tai-tro-giua-cong-ty-co-phan-tu-van-va-dich-vu-cong-nghe-asic-va-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
@@ -71,6 +72,7 @@ No news in the last 1 month
 * 24/06/2024: [HỘI THẢO: “DATA VÀ AI: CƠ HỘI VÀ THÁCH THỨC. HỌC TẬP, NGHIÊN CỨU VÀ LÀM VIỆC TẠI CHÂU ÂU”](https://hcmus.edu.vn/hoi-thao-data-ai-co-hoi-thach-thuc-hoc-tap-nghien-cuu-va-lam-viec-tai-chau-au/)
 * 20/06/2024: [Thông báo chuyển tiền học bổng khuyến khích HK1/2023-2024 dành cho sinh viên Đại học Chính quy](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2023-2024-danh-cho-sinh-vien-dai-hoc-chinh-quy/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 19/07/2024: [Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023, đại học chính quy](https://hcmus.edu.vn/thong-bao-to-chuc-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023-dai-hoc-chinh-quy/)
 * 18/07/2024: [Thông báo nhận hình Lễ Trao bằng tốt nghiệp Cử nhân Khoa học Đợt 1 năm 2024 do Trường tổ chức ngày 11/7 và 13/7/2024](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-nam-dot-1-nam-2024-do-truong-to-chuc-ngay-11-7-va-13-7-2024/)
 * 15/07/2024: [THÔNG BÁO Đăng ký tham gia Giải thưởng VietFuture 2024](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-giai-thuong-vietfuture-2024/)
 * 12/07/2024: [Thông báo Về việc cấp học bổng cho sinh viên Bình Định vượt khó, học giỏi năm 2024](https://hcmus.edu.vn/thong-bao-ve-viec-cap-hoc-bong-cho-sinh-vien-binh-dinh-vuot-kho-hoc-gioi-nam-2024/)

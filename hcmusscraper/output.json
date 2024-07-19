@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "10:07:07 19/07/2024",
+  "Update time": "11:06:50 19/07/2024",
   "Thong Bao": [
     {
       "tieuDe": "Hướng dẫn chuẩn bị poster bảo vệ đề tài tốt nghiệp",
@@ -131,6 +131,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "[FUJINET] Tuyển dụng FRESHER DEVELOPERS (JAVA/.NET) (Web/ Winform)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16292",
+      "date": "19/07/2024"
+    },
+    {
       "tieuDe": "QA Tester (AI Model & Functional Focus)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16290",
       "date": "19/07/2024"
@@ -149,14 +154,14 @@
       "tieuDe": "Hiring interns to work on Digital Transformation Solution",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16279",
       "date": "10/07/2024"
-    },
-    {
-      "tieuDe": "FRONTEND DEVELOPER - REACTJS ( FRESHER)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16277",
-      "date": "05/07/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023, đại học chính quy",
+      "url": "https://hcmus.edu.vn/thong-bao-to-chuc-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023-dai-hoc-chinh-quy/",
+      "date": "19/07/2024"
+    },
     {
       "tieuDe": "Các ngành đào tạo bậc Đại học (cập nhật tháng 5/2024)",
       "url": "https://hcmus.edu.vn/cac-nganh-dao-tao-bac-dai-hoc/",
@@ -289,6 +294,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023, đại học chính quy",
+      "url": "https://hcmus.edu.vn/thong-bao-to-chuc-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023-dai-hoc-chinh-quy/",
+      "date": "19/07/2024"
+    },
     {
       "tieuDe": "Thông báo nhận hình Lễ Trao bằng tốt nghiệp Cử nhân Khoa học Đợt 1 năm 2024 do Trường tổ chức ngày 11/7 và 13/7/2024",
       "url": "https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-nam-dot-1-nam-2024-do-truong-to-chuc-ngay-11-7-va-13-7-2024/",
