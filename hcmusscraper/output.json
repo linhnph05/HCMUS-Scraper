@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:19:56 19/07/2024",
+  "Update time": "03:07:29 19/07/2024",
   "Thong Bao": [
     {
       "tieuDe": "Hướng dẫn chuẩn bị poster bảo vệ đề tài tốt nghiệp",
@@ -131,6 +131,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "QA Tester (AI Model & Functional Focus)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16290",
+      "date": "19/07/2024"
+    },
+    {
       "tieuDe": "GIHOT STUDIO - VIỆC LÀM NGÀNH SẢN XUẤT GAME",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16286",
       "date": "18/07/2024"
@@ -148,11 +153,6 @@
     {
       "tieuDe": "FRONTEND DEVELOPER - REACTJS ( FRESHER)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16277",
-      "date": "05/07/2024"
-    },
-    {
-      "tieuDe": "K-Tech Job Fair 2024: Code your future in Korea - Ngày hội việc làm do Chính phủ Hàn Quốc tổ chức",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16274",
       "date": "05/07/2024"
     }
   ],
