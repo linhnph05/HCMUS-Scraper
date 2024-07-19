@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **11:18:13 19/07/2024**_
+_Last update: **12:21:31 19/07/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 16/07/2024: [Hướng dẫn chuẩn bị poster bảo vệ đề tài tốt nghiệp](https://www.ctda.hcmus.edu.vn/vi/2024/07/huong-dan-chuan-bi-poster-bao-ve-de-tai-tot-nghiep/)
 * 04/07/2024: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN/TTTN/TTDATN khóa 2020, đợt 1 (bảo vệ tháng 8/2024)](https://www.ctda.hcmus.edu.vn/vi/2024/07/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-tttn-ttdatn-khoa-2020-dot-1-bao-ve-thang-8-2024/)
@@ -15,6 +15,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 19/7/2024: [[Summer School 2024] AlphaGeometry: Solving IMO Geometry without Human Demonstrations](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16291)
 * 18/7/2024: [Thông báo lịch trình bày chương trình Trường hè 'FIT@HCMUS Summer School on Generative AI and LLM' năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16288)
 * 17/7/2024: [Talkshow “Với dân công nghệ, EQ không thấp như bạn nghĩ!”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16287)
 * 12/7/2024: [[CQ] Thời khóa biểu học kỳ 3 năm học 2023-2024 (có phòng)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16285)
@@ -24,13 +25,12 @@ No news in the last 1 month
 * 5/7/2024: [Đăng ký tham gia Cuộc thi ý tưởng giải pháp Tiên phong công nghệ mới (HCMUS AI Innovation)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16276)
 * 5/7/2024: [Phát động Cuộc thi thiết kế biểu trưng kỷ niệm 30 năm thành lập Khoa CNTT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16275)
 * 4/7/2024: [KẾT QUẢ ĐỦ ĐIỀU KIỆN TRÚNG TUYỂN PHƯƠNG THỨC XÉT TUYỂN 1 NĂM 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16273)
-* 4/7/2024: [Điểm chuẩn trúng tuyển theo phương thức xét tuyển 6](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16272)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 19/07/2024: [[Summer School 2024] AlphaGeometry: Solving IMO Geometry without Human Demonstrations](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16291)
 * 18/07/2024: [Thông báo lịch trình bày chương trình Trường hè 'FIT@HCMUS Summer School on Generative AI and LLM' năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16288)
 * 17/07/2024: [Talkshow “Với dân công nghệ, EQ không thấp như bạn nghĩ!”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16287)
 * 05/07/2024: [Đăng ký tham gia Cuộc thi ý tưởng giải pháp Tiên phong công nghệ mới (HCMUS AI Innovation)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16276)
 * 05/07/2024: [Phát động Cuộc thi thiết kế biểu trưng kỷ niệm 30 năm thành lập Khoa CNTT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16275)
-* 04/07/2024: [KẾT QUẢ ĐỦ ĐIỀU KIỆN TRÚNG TUYỂN PHƯƠNG THỨC XÉT TUYỂN 1 NĂM 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16273)
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
