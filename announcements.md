@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:22:52 21/07/2024**_
+_Last update: **07:43:10 21/07/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 16/07/2024: [Hướng dẫn chuẩn bị poster bảo vệ đề tài tốt nghiệp](https://www.ctda.hcmus.edu.vn/vi/2024/07/huong-dan-chuan-bi-poster-bao-ve-de-tai-tot-nghiep/)
 * 04/07/2024: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN/TTTN/TTDATN khóa 2020, đợt 1 (bảo vệ tháng 8/2024)](https://www.ctda.hcmus.edu.vn/vi/2024/07/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-tttn-ttdatn-khoa-2020-dot-1-bao-ve-thang-8-2024/)
@@ -68,7 +68,6 @@ No news in the last 1 month
 * 24/06/2024: [THÔNG BÁO TUYỂN DỤNG TRỢ LÝ GIÁO VỤ KHOA HÓA HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-tro-ly-giao-vu-khoa-hoa-hoc/)
 * 24/06/2024: [Kế hoạch học tập năm học 2024-2025](https://hcmus.edu.vn/ke-hoahjc-hoc-tap-nam-hoc-2024-2025/)
 * 24/06/2024: [HỘI THẢO: “DATA VÀ AI: CƠ HỘI VÀ THÁCH THỨC. HỌC TẬP, NGHIÊN CỨU VÀ LÀM VIỆC TẠI CHÂU ÂU”](https://hcmus.edu.vn/hoi-thao-data-ai-co-hoi-thach-thuc-hoc-tap-nghien-cuu-va-lam-viec-tai-chau-au/)
-* 20/06/2024: [Thông báo chuyển tiền học bổng khuyến khích HK1/2023-2024 dành cho sinh viên Đại học Chính quy](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2023-2024-danh-cho-sinh-vien-dai-hoc-chinh-quy/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 19/07/2024: [Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023, đại học chính quy](https://hcmus.edu.vn/thong-bao-to-chuc-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023-dai-hoc-chinh-quy/)
 * 18/07/2024: [Thông báo nhận hình Lễ Trao bằng tốt nghiệp Cử nhân Khoa học Đợt 1 năm 2024 do Trường tổ chức ngày 11/7 và 13/7/2024](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-nam-dot-1-nam-2024-do-truong-to-chuc-ngay-11-7-va-13-7-2024/)
@@ -82,7 +81,6 @@ No news in the last 1 month
 * 01/07/2024: [[Tổng hợp] Điểm lại 10 Luật có hiệu lực ngày 01/7/2024](https://hcmus.edu.vn/tong-hop-diem-lai-10-luat-co-hieu-luc-ngay-01-7-2024/)
 * 26/06/2024: [Thông báo kỳ thi đánh giá năng lực tiếng Anh (dùng để xét cho sinh viên đăng ký các học phần chuyên ngành từ khóa tuyển 2022 trở về sau)](https://hcmus.edu.vn/thong-bao-ky-thi-danh-gia-nang-luc-tieng-anh-dung-de-xet-cho-sinh-vien-dang-ky-cac-hoc-phan-chuyen-nganh-tu-khoa-tuyen-2022-tro-ve-sau/)
 * 24/06/2024: [Kế hoạch học tập năm học 2024-2025](https://hcmus.edu.vn/ke-hoahjc-hoc-tap-nam-hoc-2024-2025/)
-* 20/06/2024: [Thông báo chuyển tiền học bổng khuyến khích HK1/2023-2024 dành cho sinh viên Đại học Chính quy](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2023-2024-danh-cho-sinh-vien-dai-hoc-chinh-quy/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 24/06/2024: [THÔNG BÁO TUYỂN DỤNG TRỢ LÝ GIÁO VỤ KHOA HÓA HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-tro-ly-giao-vu-khoa-hoa-hoc/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
@@ -96,8 +94,6 @@ No news in the last 1 month
 * 02/07/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk2-2023-2024-chuong-trinh-de-an/)
 * 02/07/2024: [Thông báo chuyển tiền học bổng khuyến khích HK1/2023-2024 dành cho sinh viên các chương trình Đề án](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2023-2024-danh-cho-sinh-vien-cac-chuong-trinh-de-an/)
 * 24/06/2024: [HỘI THẢO: “DATA VÀ AI: CƠ HỘI VÀ THÁCH THỨC. HỌC TẬP, NGHIÊN CỨU VÀ LÀM VIỆC TẠI CHÂU ÂU”](https://hcmus.edu.vn/hoi-thao-data-ai-co-hoi-thach-thuc-hoc-tap-nghien-cuu-va-lam-viec-tai-chau-au/)
-* 20/06/2024: [Thông báo chuyển tiền học bổng khuyến khích HK1/2023-2024 dành cho sinh viên Đại học Chính quy](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2023-2024-danh-cho-sinh-vien-dai-hoc-chinh-quy/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
 * 12/07/2024: [Thông báo Về việc cấp học bổng cho sinh viên Bình Định vượt khó, học giỏi năm 2024](https://hcmus.edu.vn/thong-bao-ve-viec-cap-hoc-bong-cho-sinh-vien-binh-dinh-vuot-kho-hoc-gioi-nam-2024/)
 * 02/07/2024: [Thông báo chuyển tiền học bổng khuyến khích HK1/2023-2024 dành cho sinh viên các chương trình Đề án](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2023-2024-danh-cho-sinh-vien-cac-chuong-trinh-de-an/)
-* 20/06/2024: [Thông báo chuyển tiền học bổng khuyến khích HK1/2023-2024 dành cho sinh viên Đại học Chính quy](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2023-2024-danh-cho-sinh-vien-dai-hoc-chinh-quy/)
