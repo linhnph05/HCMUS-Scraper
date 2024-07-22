@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "18:07:20 22/07/2024",
+  "Update time": "19:06:34 22/07/2024",
   "Thong Bao": [
     {
       "tieuDe": "Hướng dẫn chuẩn bị poster bảo vệ đề tài tốt nghiệp",
@@ -31,12 +31,121 @@
   "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
-  "FIT-Tin tuc": [],
-  "FIT-THÔNG TIN CHUNG": [],
+  "FIT-Tin tuc": [
+    {
+      "tieuDe": "Thời khóa biểu có phòng các lớp Học phần 3 Khóa 33/2023 - bắt đầu học 22/7/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16293",
+      "date": "22/7/2024"
+    },
+    {
+      "tieuDe": "[Summer School 2024] AlphaGeometry: Solving IMO Geometry without Human Demonstrations",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16291",
+      "date": "19/7/2024"
+    },
+    {
+      "tieuDe": "Thông báo lịch trình bày chương trình Trường hè 'FIT@HCMUS Summer School on Generative AI and LLM' năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16288",
+      "date": "18/7/2024"
+    },
+    {
+      "tieuDe": "Talkshow “Với dân công nghệ, EQ không thấp như bạn nghĩ!”",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16287",
+      "date": "17/7/2024"
+    },
+    {
+      "tieuDe": "[CQ] Thời khóa biểu học kỳ 3 năm học 2023-2024 (có phòng)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16285",
+      "date": "12/7/2024"
+    },
+    {
+      "tieuDe": "Thông báo đăng ký tín chỉ học phần 3 chương trình cao học khoá 33/2023",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16284",
+      "date": "11/7/2024"
+    },
+    {
+      "tieuDe": "Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 4/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16283",
+      "date": "11/7/2024"
+    },
+    {
+      "tieuDe": "[CQ] Thông báo về việc Hủy lớp Khởi nghiệp, HK3/2023-2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16281",
+      "date": "10/7/2024"
+    },
+    {
+      "tieuDe": "Đăng ký tham gia Cuộc thi ý tưởng giải pháp Tiên phong công nghệ mới (HCMUS AI Innovation)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16276",
+      "date": "5/7/2024"
+    },
+    {
+      "tieuDe": "Phát động Cuộc thi thiết kế biểu trưng kỷ niệm 30 năm thành lập Khoa CNTT",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16275",
+      "date": "5/7/2024"
+    }
+  ],
+  "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "[Summer School 2024] AlphaGeometry: Solving IMO Geometry without Human Demonstrations",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16291",
+      "date": "19/07/2024"
+    },
+    {
+      "tieuDe": "Thông báo lịch trình bày chương trình Trường hè 'FIT@HCMUS Summer School on Generative AI and LLM' năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16288",
+      "date": "18/07/2024"
+    },
+    {
+      "tieuDe": "Talkshow “Với dân công nghệ, EQ không thấp như bạn nghĩ!”",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16287",
+      "date": "17/07/2024"
+    },
+    {
+      "tieuDe": "Đăng ký tham gia Cuộc thi ý tưởng giải pháp Tiên phong công nghệ mới (HCMUS AI Innovation)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16276",
+      "date": "05/07/2024"
+    },
+    {
+      "tieuDe": "Phát động Cuộc thi thiết kế biểu trưng kỷ niệm 30 năm thành lập Khoa CNTT",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16275",
+      "date": "05/07/2024"
+    }
+  ],
   "FIT-THÔNG TIN HỌC BỔNG": [],
-  "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [],
+  "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
+    {
+      "tieuDe": "Hội nghị quốc tế Integrated Uncertainty in Knowledge Modelling and Decision Making (IUKM) năm 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16258",
+      "date": "24/06/2024"
+    }
+  ],
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
-  "FIT-THÔNG TIN TUYỂN DỤNG": [],
+  "FIT-THÔNG TIN TUYỂN DỤNG": [
+    {
+      "tieuDe": "[FUJINET] Tuyển dụng FRESHER DEVELOPERS (JAVA/.NET) (Web/ Winform)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16292",
+      "date": "19/07/2024"
+    },
+    {
+      "tieuDe": "QA Tester (AI Model & Functional Focus)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16290",
+      "date": "19/07/2024"
+    },
+    {
+      "tieuDe": "GIHOT STUDIO - VIỆC LÀM NGÀNH SẢN XUẤT GAME",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16286",
+      "date": "18/07/2024"
+    },
+    {
+      "tieuDe": "K-TECH JOB FAIR 2024: CODE YOUR FUTURE IN KOREA",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16280",
+      "date": "10/07/2024"
+    },
+    {
+      "tieuDe": "Hiring interns to work on Digital Transformation Solution",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16279",
+      "date": "10/07/2024"
+    }
+  ],
   "HCMUS-Thong tin nguoi hoc": [
     {
       "tieuDe": "THÔNG BÁO TUYỂN DỤNG VỊ TRÍ CHUYÊN VIÊN PHÒNG KHẢO THÍ VÀ ĐẢM BẢO CHẤT LƯỢNG",
