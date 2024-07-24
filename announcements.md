@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **07:35:16 24/07/2024**_
+_Last update: **08:44:32 24/07/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 23/07/2024: [[CLC] – Thông báo đăng ký nguyện vọng về chuyên ngành năm học 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/07/clc-thong-bao-dang-ky-nguyen-vong-ve-chuyen-nganh-nam-hoc-2023-2024/)
 * 16/07/2024: [Hướng dẫn chuẩn bị poster bảo vệ đề tài tốt nghiệp](https://www.ctda.hcmus.edu.vn/vi/2024/07/huong-dan-chuan-bi-poster-bao-ve-de-tai-tot-nghiep/)
