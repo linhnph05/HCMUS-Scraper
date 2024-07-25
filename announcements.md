@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **10:18:31 25/07/2024**_
+_Last update: **11:18:32 25/07/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 24/07/2024: [[CTDA] Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023](https://www.ctda.hcmus.edu.vn/vi/2024/07/thong-bao-to-chuc-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023/)
 * 23/07/2024: [[CLC] – Thông báo đăng ký nguyện vọng về chuyên ngành năm học 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/07/clc-thong-bao-dang-ky-nguyen-vong-ve-chuyen-nganh-nam-hoc-2023-2024/)
@@ -44,6 +44,7 @@ No news in the last 1 month
 * 10/07/2024: [K-TECH JOB FAIR 2024: CODE YOUR FUTURE IN KOREA](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16280)
 * 10/07/2024: [Hiring interns to work on Digital Transformation Solution](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16279)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 25/07/2024: [[THÔNG BÁO] Các chương trình học bổng 2025-2026 của DAAD](https://hcmus.edu.vn/thong-bao-cac-chuong-trinh-hoc-bong-2025-2026-cua-daad/)
 * 22/07/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ CHUYÊN VIÊN PHÒNG KHẢO THÍ VÀ ĐẢM BẢO CHẤT LƯỢNG](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-chuyen-vien-phong-khao-thi-va-dam-bao-chat-luong/)
 * 19/07/2024: [Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023, đại học chính quy](https://hcmus.edu.vn/thong-bao-to-chuc-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023-dai-hoc-chinh-quy/)
 * 18/07/2024: [Các ngành đào tạo bậc Đại học (cập nhật tháng 5/2024)](https://hcmus.edu.vn/cac-nganh-dao-tao-bac-dai-hoc/)
