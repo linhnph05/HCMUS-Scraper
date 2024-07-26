@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **09:31:24 26/07/2024**_
+_Last update: **10:19:30 26/07/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 24/07/2024: [[CTDA] Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023](https://www.ctda.hcmus.edu.vn/vi/2024/07/thong-bao-to-chuc-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023/)
 * 23/07/2024: [[CLC] – Thông báo đăng ký nguyện vọng về chuyên ngành năm học 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/07/clc-thong-bao-dang-ky-nguyen-vong-ve-chuyen-nganh-nam-hoc-2023-2024/)
@@ -44,6 +44,7 @@ No news in the last 1 month
 * 18/07/2024: [GIHOT STUDIO - VIỆC LÀM NGÀNH SẢN XUẤT GAME](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16286)
 * 10/07/2024: [K-TECH JOB FAIR 2024: CODE YOUR FUTURE IN KOREA](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16280)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 26/07/2024: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ctda/)
 * 25/07/2024: [THÔNG BÁO TUYỂN DỤNG KHOA TOÁN – TIN HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-toan-tin-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 25/07/2024: [[THÔNG BÁO] Các chương trình học bổng 2025-2026 của DAAD](https://hcmus.edu.vn/thong-bao-cac-chuong-trinh-hoc-bong-2025-2026-cua-daad/)
 * 22/07/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ CHUYÊN VIÊN PHÒNG KHẢO THÍ VÀ ĐẢM BẢO CHẤT LƯỢNG](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-chuyen-vien-phong-khao-thi-va-dam-bao-chat-luong/)
@@ -71,6 +72,7 @@ No news in the last 1 month
 * 26/06/2024: [THÔNG BÁO TUYỂN CHỌN TỔ CHỨC CÁ NHÂN CHỦ TRÌ NV KHCN TỈNH TÂY NINH 2024 LẦN 2](https://hcmus.edu.vn/thong-bao-tuyen-chon-to-chuc-ca-nhan-chu-tri-nv-khcn-tinh-tay-ninh-2024-lan-2/)
 * 26/06/2024: [Thông báo kỳ thi đánh giá năng lực tiếng Anh (dùng để xét cho sinh viên đăng ký các học phần chuyên ngành từ khóa tuyển 2022 trở về sau)](https://hcmus.edu.vn/thong-bao-ky-thi-danh-gia-nang-luc-tieng-anh-dung-de-xet-cho-sinh-vien-dang-ky-cac-hoc-phan-chuyen-nganh-tu-khoa-tuyen-2022-tro-ve-sau/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 26/07/2024: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ctda/)
 * 19/07/2024: [Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023, đại học chính quy](https://hcmus.edu.vn/thong-bao-to-chuc-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023-dai-hoc-chinh-quy/)
 * 18/07/2024: [Thông báo nhận hình Lễ Trao bằng tốt nghiệp Cử nhân Khoa học Đợt 1 năm 2024 do Trường tổ chức ngày 11/7 và 13/7/2024](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-nam-dot-1-nam-2024-do-truong-to-chuc-ngay-11-7-va-13-7-2024/)
 * 15/07/2024: [THÔNG BÁO Đăng ký tham gia Giải thưởng VietFuture 2024](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-giai-thuong-vietfuture-2024/)
@@ -86,6 +88,7 @@ No news in the last 1 month
 * 25/07/2024: [THÔNG BÁO TUYỂN DỤNG KHOA TOÁN – TIN HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-toan-tin-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 22/07/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ CHUYÊN VIÊN PHÒNG KHẢO THÍ VÀ ĐẢM BẢO CHẤT LƯỢNG](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-chuyen-vien-phong-khao-thi-va-dam-bao-chat-luong/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
+* 26/07/2024: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ctda/)
 * 18/07/2024: [Thông báo nhận hình Lễ Trao bằng tốt nghiệp Cử nhân Khoa học Đợt 1 năm 2024 do Trường tổ chức ngày 11/7 và 13/7/2024](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-nam-dot-1-nam-2024-do-truong-to-chuc-ngay-11-7-va-13-7-2024/)
 * 16/07/2024: [THÔNG TIN GIẢI THƯỞNG KHOA HỌC CÔNG NGHỆ QUẢ CẦU VÀNG 2024](https://hcmus.edu.vn/thong-tin-giai-thuong-khoa-hoc-cong-nghe-qua-cau-vang-2024/)
 * 15/07/2024: [THÔNG BÁO Đăng ký tham gia Giải thưởng VietFuture 2024](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-giai-thuong-vietfuture-2024/)
