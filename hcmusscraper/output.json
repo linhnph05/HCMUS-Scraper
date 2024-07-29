@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:21:24 29/07/2024",
+  "Update time": "03:07:12 29/07/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023",
@@ -120,6 +120,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "Chương trình 'Hạt giống cho Tương lai - Seeds for The Future 2024'",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16300",
+      "date": "29/07/2024"
+    },
+    {
       "tieuDe": "Golden Owl Solutions Tuyển dụng Thực tập sinh Full-stack JS T8/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16297",
       "date": "25/07/2024"
@@ -138,11 +143,6 @@
       "tieuDe": "GIHOT STUDIO - VIỆC LÀM NGÀNH SẢN XUẤT GAME",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16286",
       "date": "18/07/2024"
-    },
-    {
-      "tieuDe": "K-TECH JOB FAIR 2024: CODE YOUR FUTURE IN KOREA",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16280",
-      "date": "10/07/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
