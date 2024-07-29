@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **14:19:56 29/07/2024**_
+_Last update: **15:21:52 29/07/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 24/07/2024: [[CTDA] Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023](https://www.ctda.hcmus.edu.vn/vi/2024/07/thong-bao-to-chuc-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023/)
 * 23/07/2024: [[CLC] – Thông báo đăng ký nguyện vọng về chuyên ngành năm học 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/07/clc-thong-bao-dang-ky-nguyen-vong-ve-chuyen-nganh-nam-hoc-2023-2024/)
@@ -14,6 +14,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 29/7/2024: [Thông báo nộp hồ sơ học bổng dành cho HVCH ngành Trí tuệ nhân tạo Khóa 33/2023 được tài trợ bởi VINIF](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16301)
 * 27/7/2024: [Tổng kết Trường hè “FIT@HCMUS Summer School on Generative AI and LLM” năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16299)
 * 25/7/2024: [[CQ] Mời tham dự buổi bảo vệ KLTN-TTDATN Khóa 2020- đợt 2 (27/7 - 08/8/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16296)
 * 22/7/2024: [Thời khóa biểu có phòng các lớp Học phần 3 Khóa 33/2023 - bắt đầu học 22/7/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16293)
@@ -23,7 +24,6 @@ No news in the last 1 month
 * 12/7/2024: [[CQ] Thời khóa biểu học kỳ 3 năm học 2023-2024 (có phòng)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16285)
 * 11/7/2024: [Thông báo đăng ký tín chỉ học phần 3 chương trình cao học khoá 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16284)
 * 11/7/2024: [Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 4/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16283)
-* 10/7/2024: [[CQ] Thông báo về việc Hủy lớp Khởi nghiệp, HK3/2023-2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16281)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 27/07/2024: [Tổng kết Trường hè “FIT@HCMUS Summer School on Generative AI and LLM” năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16299)
 * 19/07/2024: [[Summer School 2024] AlphaGeometry: Solving IMO Geometry without Human Demonstrations](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16291)
