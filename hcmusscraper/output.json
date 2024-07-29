@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:08:38 29/07/2024",
+  "Update time": "09:07:04 29/07/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023",
@@ -37,6 +37,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Đăng ký áo quà tặng Khoa Công nghệ thông tin (fit@hcmus) dành cho lớp cao học khóa 33/2023",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16302",
+      "date": "29/7/2024"
+    },
     {
       "tieuDe": "Thông báo nộp hồ sơ học bổng dành cho HVCH ngành Trí tuệ nhân tạo Khóa 33/2023 được tài trợ bởi VINIF",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16301",
@@ -80,11 +85,6 @@
     {
       "tieuDe": "Thông báo đăng ký tín chỉ học phần 3 chương trình cao học khoá 33/2023",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16284",
-      "date": "11/7/2024"
-    },
-    {
-      "tieuDe": "Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 4/2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16283",
       "date": "11/7/2024"
     }
   ],
