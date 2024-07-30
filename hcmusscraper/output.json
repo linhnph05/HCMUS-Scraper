@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:08:50 30/07/2024",
+  "Update time": "09:07:02 30/07/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023",
@@ -147,6 +147,11 @@
   ],
   "HCMUS-Thong tin nguoi hoc": [
     {
+      "tieuDe": "Thông báo Chương trình học bổng Maha năm 2024 (đợt 2)",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024-dot-2/",
+      "date": "30/07/2024"
+    },
+    {
       "tieuDe": "THÔNG BÁO ĐỀ XUẤT, ĐẶT HÀNG NHIỆM VỤ KHOA HỌC CÔNG NGHỆ TỈNH HẬU GIANG 2025-2030",
       "url": "https://hcmus.edu.vn/thong-bao-de-xuat-dat-hang-nhiem-vu-khoa-hoc-cong-nghe-tinh-hau-giang-2025-2030/",
       "date": "29/07/2024"
@@ -284,6 +289,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "Thông báo Chương trình học bổng Maha năm 2024 (đợt 2)",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024-dot-2/",
+      "date": "30/07/2024"
+    },
+    {
       "tieuDe": "Thông báo cập nhật thông tin chuyên ngành cho sinh viên đại học hệ chính quy các chương trình Khóa tuyển 2021 trở về trước",
       "url": "https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-chuyen-nganh-cho-sinh-vien-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2021-tro-ve-truoc/",
       "date": "26/07/2024"
@@ -409,6 +419,11 @@
     }
   ],
   "HCMUS-Hoc bong dai hoc": [
+    {
+      "tieuDe": "Thông báo Chương trình học bổng Maha năm 2024 (đợt 2)",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024-dot-2/",
+      "date": "30/07/2024"
+    },
     {
       "tieuDe": "Thông báo Về việc cấp học bổng cho sinh viên Bình Định vượt khó, học giỏi năm 2024",
       "url": "https://hcmus.edu.vn/thong-bao-ve-viec-cap-hoc-bong-cho-sinh-vien-binh-dinh-vuot-kho-hoc-gioi-nam-2024/",
