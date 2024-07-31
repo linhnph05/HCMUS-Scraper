@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:09:14 31/07/2024",
+  "Update time": "09:07:19 31/07/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023",
@@ -90,6 +90,11 @@
   ],
   "FIT-THÔNG TIN CHUNG": [
     {
+      "tieuDe": "Chương trình học bổng Toshiba năm học 2024-2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16304",
+      "date": "31/07/2024"
+    },
+    {
       "tieuDe": "Vodcast giới thiệu ngành/ chuyên ngành Khoa Công nghệ thông tin",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16303",
       "date": "31/07/2024"
@@ -108,11 +113,6 @@
       "tieuDe": "Thông báo lịch trình bày chương trình Trường hè 'FIT@HCMUS Summer School on Generative AI and LLM' năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16288",
       "date": "18/07/2024"
-    },
-    {
-      "tieuDe": "Talkshow “Với dân công nghệ, EQ không thấp như bạn nghĩ!”",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16287",
-      "date": "17/07/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [],
@@ -146,6 +146,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy các chương trình, cho đợt công bố danh sách tốt nghiệp vào tháng 9 và tháng 10 năm 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-cac-chuong-trinh-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-9-va-thang-10-nam-2024/",
+      "date": "31/07/2024"
+    },
     {
       "tieuDe": "Thông báo Chương trình học bổng Maha năm 2024 (đợt 2)",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024-dot-2/",
@@ -288,6 +293,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy các chương trình, cho đợt công bố danh sách tốt nghiệp vào tháng 9 và tháng 10 năm 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-cac-chuong-trinh-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-9-va-thang-10-nam-2024/",
+      "date": "31/07/2024"
+    },
     {
       "tieuDe": "Thông báo Chương trình học bổng Maha năm 2024 (đợt 2)",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024-dot-2/",
