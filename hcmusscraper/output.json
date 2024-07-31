@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:06:31 31/07/2024",
+  "Update time": "08:09:14 31/07/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023",
@@ -37,6 +37,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Vodcast giới thiệu ngành/ chuyên ngành Khoa Công nghệ thông tin",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16303",
+      "date": "31/7/2024"
+    },
     {
       "tieuDe": "Đăng ký áo quà tặng Khoa Công nghệ thông tin (fit@hcmus) dành cho lớp cao học khóa 33/2023",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16302",
@@ -81,14 +86,14 @@
       "tieuDe": "[CQ] Thời khóa biểu học kỳ 3 năm học 2023-2024 (có phòng)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16285",
       "date": "12/7/2024"
-    },
-    {
-      "tieuDe": "Thông báo đăng ký tín chỉ học phần 3 chương trình cao học khoá 33/2023",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16284",
-      "date": "11/7/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Vodcast giới thiệu ngành/ chuyên ngành Khoa Công nghệ thông tin",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16303",
+      "date": "31/07/2024"
+    },
     {
       "tieuDe": "Tổng kết Trường hè “FIT@HCMUS Summer School on Generative AI and LLM” năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16299",
@@ -108,11 +113,6 @@
       "tieuDe": "Talkshow “Với dân công nghệ, EQ không thấp như bạn nghĩ!”",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16287",
       "date": "17/07/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham gia Cuộc thi ý tưởng giải pháp Tiên phong công nghệ mới (HCMUS AI Innovation)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16276",
-      "date": "05/07/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [],
