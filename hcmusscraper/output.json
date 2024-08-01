@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:07:08 01/08/2024",
+  "Update time": "08:08:24 01/08/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023",
@@ -37,6 +37,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Chương trình hỗ trợ kinh phí đăng bài báo khoa học dành cho học viên cao học",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16305",
+      "date": "1/8/2024"
+    },
     {
       "tieuDe": "Vodcast giới thiệu ngành/ chuyên ngành Khoa Công nghệ thông tin",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16303",
@@ -81,11 +86,6 @@
       "tieuDe": "Talkshow “Với dân công nghệ, EQ không thấp như bạn nghĩ!”",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16287",
       "date": "17/7/2024"
-    },
-    {
-      "tieuDe": "[CQ] Thời khóa biểu học kỳ 3 năm học 2023-2024 (có phòng)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16285",
-      "date": "12/7/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -146,6 +146,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "THÔNG TIN GIẢI THƯỞNG BẢO SƠN 2024",
+      "url": "https://hcmus.edu.vn/thong-tin-giai-thuong-bao-son-2024/",
+      "date": "01/08/2024"
+    },
     {
       "tieuDe": "[THÔNG BÁO] Chương trình học bổng Toshiba năm học 2024-2025",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-toshiba-nam-hoc-2024-2025/",
@@ -372,6 +377,11 @@
     }
   ],
   "HCMUS-Nguoi hoc": [
+    {
+      "tieuDe": "THÔNG TIN GIẢI THƯỞNG BẢO SƠN 2024",
+      "url": "https://hcmus.edu.vn/thong-tin-giai-thuong-bao-son-2024/",
+      "date": "01/08/2024"
+    },
     {
       "tieuDe": "Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình đề án)",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ctda/",
