@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "10:07:23 02/08/2024",
+  "Update time": "11:06:39 02/08/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023",
@@ -37,6 +37,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "[CNTN] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện khóa luận tốt nghiệp lớp CNTN2020 (T8/2024)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16308",
+      "date": "2/8/2024"
+    },
     {
       "tieuDe": "Quy trình bảo vệ luận văn thạc sĩ đợt cuối tháng 9/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16307",
@@ -81,11 +86,6 @@
       "tieuDe": "Thời khóa biểu có phòng các lớp Học phần 3 Khóa 33/2023 - bắt đầu học 22/7/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16293",
       "date": "22/7/2024"
-    },
-    {
-      "tieuDe": "[Summer School 2024] AlphaGeometry: Solving IMO Geometry without Human Demonstrations",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16291",
-      "date": "19/7/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
