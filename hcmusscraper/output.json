@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:20:34 02/08/2024",
+  "Update time": "03:07:18 02/08/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023",
@@ -37,6 +37,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Về việc cập nhật thông tin chuyên ngành cho sinh viên Khóa tuyển 2021 trở về trước",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16306",
+      "date": "2/8/2024"
+    },
     {
       "tieuDe": "Chương trình hỗ trợ kinh phí đăng bài báo khoa học dành cho học viên cao học",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16305",
@@ -81,11 +86,6 @@
       "tieuDe": "Thông báo lịch trình bày chương trình Trường hè 'FIT@HCMUS Summer School on Generative AI and LLM' năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16288",
       "date": "18/7/2024"
-    },
-    {
-      "tieuDe": "Talkshow “Với dân công nghệ, EQ không thấp như bạn nghĩ!”",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16287",
-      "date": "17/7/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
