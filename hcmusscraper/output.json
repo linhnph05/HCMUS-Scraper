@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:07:40 02/08/2024",
+  "Update time": "10:07:23 02/08/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023",
@@ -26,12 +26,22 @@
       "tieuDe": "Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình Đề án)",
       "url": "https://www.ctda.hcmus.edu.vn/vi/2024/07/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk2-2023-2024-chuong-trinh-de-an/",
       "date": "04/07/2024"
+    },
+    {
+      "tieuDe": "Buổi sinh hoạt giải đáp thắc mắc về chuyên ngành",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/07/buoi-sinh-hoat-giai-dap-thac-mac-ve-chuyen-nganh/",
+      "date": "03/07/2024"
     }
   ],
   "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Quy trình bảo vệ luận văn thạc sĩ đợt cuối tháng 9/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16307",
+      "date": "2/8/2024"
+    },
     {
       "tieuDe": "Về việc cập nhật thông tin chuyên ngành cho sinh viên Khóa tuyển 2021 trở về trước",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16306",
@@ -76,11 +86,6 @@
       "tieuDe": "[Summer School 2024] AlphaGeometry: Solving IMO Geometry without Human Demonstrations",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16291",
       "date": "19/7/2024"
-    },
-    {
-      "tieuDe": "Thông báo lịch trình bày chương trình Trường hè 'FIT@HCMUS Summer School on Generative AI and LLM' năm 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16288",
-      "date": "18/7/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -141,6 +146,16 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "THÔNG BÁO VỀ CHƯƠNG TRÌNH TÀI TRỢ NGHIÊN CỨU CƠ BẢN TRONG KHOA HỌC TỰ NHIÊN VÀ KỸ THUẬT 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-ve-chuong-trinh-tai-tro-nghien-cuu-co-ban-trong-khoa-hoc-tu-nhien-va-ky-thuat-2024/",
+      "date": "02/08/2024"
+    },
+    {
+      "tieuDe": "Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/",
+      "date": "02/08/2024"
+    },
     {
       "tieuDe": "THÔNG BÁO TUYỂN CHỌN TỔ CHỨC CÁ NHÂN CHỦ TRÌ NV KHCN CT PHÁT TRIỂN TÀI SẢN TRÍ TUỆ AN GIANG ĐẾN 2030 THỰC HIỆN 2024 LẦN 2",
       "url": "https://hcmus.edu.vn/thong-bao-tuyen-chon-to-chuc-ca-nhan-chu-tri-nv-khcn-ct-phat-trien-tai-san-tri-tue-an-giang-den-2030-thuc-hien-2024-lan-2/",
@@ -269,6 +284,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/",
+      "date": "02/08/2024"
+    },
+    {
       "tieuDe": "[THÔNG BÁO] Chương trình học bổng Toshiba năm học 2024-2025",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-toshiba-nam-hoc-2024-2025/",
       "date": "01/08/2024"
@@ -333,6 +353,11 @@
   ],
   "HCMUS-Nguoi hoc": [
     {
+      "tieuDe": "Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/",
+      "date": "02/08/2024"
+    },
+    {
       "tieuDe": "THÔNG TIN GIẢI THƯỞNG BẢO SƠN 2024",
       "url": "https://hcmus.edu.vn/thong-tin-giai-thuong-bao-son-2024/",
       "date": "01/08/2024"
@@ -374,6 +399,11 @@
     }
   ],
   "HCMUS-Hoc bong dai hoc": [
+    {
+      "tieuDe": "Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/",
+      "date": "02/08/2024"
+    },
     {
       "tieuDe": "[THÔNG BÁO] Chương trình học bổng Toshiba năm học 2024-2025",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-toshiba-nam-hoc-2024-2025/",

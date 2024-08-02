@@ -1,11 +1,12 @@
 # All news in the last 1 month 
-_Last update: **16:26:20 02/08/2024**_
+_Last update: **17:25:34 02/08/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 24/07/2024: [[CTDA] Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023](https://www.ctda.hcmus.edu.vn/vi/2024/07/thong-bao-to-chuc-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023/)
 * 23/07/2024: [[CLC] – Thông báo đăng ký nguyện vọng về chuyên ngành năm học 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/07/clc-thong-bao-dang-ky-nguyen-vong-ve-chuyen-nganh-nam-hoc-2023-2024/)
 * 16/07/2024: [Hướng dẫn chuẩn bị poster bảo vệ đề tài tốt nghiệp](https://www.ctda.hcmus.edu.vn/vi/2024/07/huong-dan-chuan-bi-poster-bao-ve-de-tai-tot-nghiep/)
 * 04/07/2024: [[CTĐA] Quy trình nộp đơn và 2 quyển bìa mềm bảo vệ KLTN/TTTN/TTDATN khóa 2020, đợt 1 (bảo vệ tháng 8/2024)](https://www.ctda.hcmus.edu.vn/vi/2024/07/ctda-quy-trinh-nop-don-va-2-quyen-bia-mem-bao-ve-kltn-tttn-ttdatn-khoa-2020-dot-1-bao-ve-thang-8-2024/)
 * 04/07/2024: [Thông báo kết quả dự kiến Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình Đề án)](https://www.ctda.hcmus.edu.vn/vi/2024/07/thong-bao-ket-qua-du-kien-diem-ren-luyen-sinh-vien-hk2-2023-2024-chuong-trinh-de-an/)
+* 03/07/2024: [Buổi sinh hoạt giải đáp thắc mắc về chuyên ngành](https://www.ctda.hcmus.edu.vn/vi/2024/07/buoi-sinh-hoat-giai-dap-thac-mac-ve-chuyen-nganh/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
@@ -13,6 +14,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 2/8/2024: [Quy trình bảo vệ luận văn thạc sĩ đợt cuối tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16307)
 * 2/8/2024: [Về việc cập nhật thông tin chuyên ngành cho sinh viên Khóa tuyển 2021 trở về trước](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16306)
 * 1/8/2024: [Chương trình hỗ trợ kinh phí đăng bài báo khoa học dành cho học viên cao học](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16305)
 * 31/7/2024: [Vodcast giới thiệu ngành/ chuyên ngành Khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16303)
@@ -22,7 +24,6 @@ No news in the last 1 month
 * 25/7/2024: [[CQ] Mời tham dự buổi bảo vệ KLTN-TTDATN Khóa 2020- đợt 2 (27/7 - 08/8/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16296)
 * 22/7/2024: [Thời khóa biểu có phòng các lớp Học phần 3 Khóa 33/2023 - bắt đầu học 22/7/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16293)
 * 19/7/2024: [[Summer School 2024] AlphaGeometry: Solving IMO Geometry without Human Demonstrations](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16291)
-* 18/7/2024: [Thông báo lịch trình bày chương trình Trường hè 'FIT@HCMUS Summer School on Generative AI and LLM' năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16288)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 31/07/2024: [Chương trình học bổng Toshiba năm học 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16304)
 * 31/07/2024: [Vodcast giới thiệu ngành/ chuyên ngành Khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16303)
@@ -42,6 +43,8 @@ No news in the last 1 month
 * 19/07/2024: [QA Tester (AI Model & Functional Focus)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16290)
 * 18/07/2024: [GIHOT STUDIO - VIỆC LÀM NGÀNH SẢN XUẤT GAME](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16286)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 02/08/2024: [THÔNG BÁO VỀ CHƯƠNG TRÌNH TÀI TRỢ NGHIÊN CỨU CƠ BẢN TRONG KHOA HỌC TỰ NHIÊN VÀ KỸ THUẬT 2024](https://hcmus.edu.vn/thong-bao-ve-chuong-trinh-tai-tro-nghien-cuu-co-ban-trong-khoa-hoc-tu-nhien-va-ky-thuat-2024/)
+* 02/08/2024: [Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025](https://hcmus.edu.vn/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/)
 * 02/08/2024: [THÔNG BÁO TUYỂN CHỌN TỔ CHỨC CÁ NHÂN CHỦ TRÌ NV KHCN CT PHÁT TRIỂN TÀI SẢN TRÍ TUỆ AN GIANG ĐẾN 2030 THỰC HIỆN 2024 LẦN 2](https://hcmus.edu.vn/thong-bao-tuyen-chon-to-chuc-ca-nhan-chu-tri-nv-khcn-ct-phat-trien-tai-san-tri-tue-an-giang-den-2030-thuc-hien-2024-lan-2/)
 * 01/08/2024: [THÔNG TIN GIẢI THƯỞNG BẢO SƠN 2024](https://hcmus.edu.vn/thong-tin-giai-thuong-bao-son-2024/)
 * 01/08/2024: [[THÔNG BÁO] Chương trình học bổng Toshiba năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-toshiba-nam-hoc-2024-2025/)
@@ -68,6 +71,7 @@ No news in the last 1 month
 * 04/07/2024: [THÔNG BÁO: KẾT QUẢ ĐỦ ĐIỀU KIỆN TRÚNG TUYỂN PHƯƠNG THỨC XÉT TUYỂN 1 NĂM 2024](https://hcmus.edu.vn/thong-bao-ket-qua-du-dieu-kien-trung-tuyen-phuong-thuc-xet-tuyen-1-nam-2024/)
 * 04/07/2024: [Thông báo nhận bằng tốt nghiệp bậc Đại học hệ chính quy, bậc Cao đẳng ngành Công nghệ thông tin, hệ đào tạo từ xa và Liên thông đại học cho đợt xét tốt nghiệp tháng 5/2024)](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-dot-xet-tot-nghiep-thang-5-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 02/08/2024: [Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025](https://hcmus.edu.vn/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/)
 * 01/08/2024: [[THÔNG BÁO] Chương trình học bổng Toshiba năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-toshiba-nam-hoc-2024-2025/)
 * 31/07/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy các chương trình, cho đợt công bố danh sách tốt nghiệp vào tháng 9 và tháng 10 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-cac-chuong-trinh-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-9-va-thang-10-nam-2024/)
 * 30/07/2024: [Thông báo Chương trình học bổng Maha năm 2024 (đợt 2)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024-dot-2/)
@@ -82,6 +86,7 @@ No news in the last 1 month
 * 25/07/2024: [THÔNG BÁO TUYỂN DỤNG KHOA TOÁN – TIN HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-toan-tin-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 22/07/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ CHUYÊN VIÊN PHÒNG KHẢO THÍ VÀ ĐẢM BẢO CHẤT LƯỢNG](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-chuyen-vien-phong-khao-thi-va-dam-bao-chat-luong/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
+* 02/08/2024: [Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025](https://hcmus.edu.vn/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/)
 * 01/08/2024: [THÔNG TIN GIẢI THƯỞNG BẢO SƠN 2024](https://hcmus.edu.vn/thong-tin-giai-thuong-bao-son-2024/)
 * 26/07/2024: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ctda/)
 * 18/07/2024: [Thông báo nhận hình Lễ Trao bằng tốt nghiệp Cử nhân Khoa học Đợt 1 năm 2024 do Trường tổ chức ngày 11/7 và 13/7/2024](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-nam-dot-1-nam-2024-do-truong-to-chuc-ngay-11-7-va-13-7-2024/)
@@ -91,6 +96,7 @@ No news in the last 1 month
 * 10/07/2024: [HỘI NGHỊ QUỐC TẾ “RESONANCES IN THE MATHEMATICAL WORLD”](https://hcmus.edu.vn/hoi-nghi-quoc-te-resonances-in-the-mathematical-world/)
 * 09/07/2024: [CHƯƠNG TRÌNH AUN-VNUHCM SUMMER PROGRAMME 2024](https://hcmus.edu.vn/chuong-trinh-aun-vnuhcm-summer-programme-2024/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
+* 02/08/2024: [Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025](https://hcmus.edu.vn/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/)
 * 01/08/2024: [[THÔNG BÁO] Chương trình học bổng Toshiba năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-toshiba-nam-hoc-2024-2025/)
 * 30/07/2024: [Thông báo Chương trình học bổng Maha năm 2024 (đợt 2)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024-dot-2/)
 * 12/07/2024: [Thông báo Về việc cấp học bổng cho sinh viên Bình Định vượt khó, học giỏi năm 2024](https://hcmus.edu.vn/thong-bao-ve-viec-cap-hoc-bong-cho-sinh-vien-binh-dinh-vuot-kho-hoc-gioi-nam-2024/)
