@@ -1,6 +1,7 @@
 # All news in the last 1 month 
-_Last update: **09:31:46 05/08/2024**_
+_Last update: **10:23:05 05/08/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
+* 05/08/2024: [Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/)
 * 24/07/2024: [[CTDA] Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023](https://www.ctda.hcmus.edu.vn/vi/2024/07/thong-bao-to-chuc-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023/)
 * 23/07/2024: [[CLC] – Thông báo đăng ký nguyện vọng về chuyên ngành năm học 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/07/clc-thong-bao-dang-ky-nguyen-vong-ve-chuyen-nganh-nam-hoc-2023-2024/)
 * 16/07/2024: [Hướng dẫn chuẩn bị poster bảo vệ đề tài tốt nghiệp](https://www.ctda.hcmus.edu.vn/vi/2024/07/huong-dan-chuan-bi-poster-bao-ve-de-tai-tot-nghiep/)
