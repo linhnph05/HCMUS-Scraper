@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:18:49 05/08/2024**_
+_Last update: **16:17:31 05/08/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 05/08/2024: [Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/)
 * 24/07/2024: [[CTDA] Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023](https://www.ctda.hcmus.edu.vn/vi/2024/07/thong-bao-to-chuc-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023/)
@@ -41,6 +41,7 @@ No news in the last 1 month
 * 19/07/2024: [QA Tester (AI Model & Functional Focus)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16290)
 * 18/07/2024: [GIHOT STUDIO - VIỆC LÀM NGÀNH SẢN XUẤT GAME](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16286)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 05/08/2024: [THÔNG BÁO TUYỂN CHỌN TỔ CHỨC CÁ NHÂN THỰC HIỆN NHIỆM VỤ KHOA HỌC CÔNG NGHỆ AN GIANG 2023-2024 LẦN 3](https://hcmus.edu.vn/thong-bao-tuyen-chon-to-chuc-ca-nhan-thuc-hien-nhiem-vu-khoa-hoc-cong-nghe-an-giang-2023-2024-lan-3/)
 * 02/08/2024: [THÔNG BÁO VỀ CHƯƠNG TRÌNH TÀI TRỢ NGHIÊN CỨU CƠ BẢN TRONG KHOA HỌC TỰ NHIÊN VÀ KỸ THUẬT 2024](https://hcmus.edu.vn/thong-bao-ve-chuong-trinh-tai-tro-nghien-cuu-co-ban-trong-khoa-hoc-tu-nhien-va-ky-thuat-2024/)
 * 02/08/2024: [Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025](https://hcmus.edu.vn/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/)
 * 02/08/2024: [THÔNG BÁO TUYỂN CHỌN TỔ CHỨC CÁ NHÂN CHỦ TRÌ NV KHCN CT PHÁT TRIỂN TÀI SẢN TRÍ TUỆ AN GIANG ĐẾN 2030 THỰC HIỆN 2024 LẦN 2](https://hcmus.edu.vn/thong-bao-tuyen-chon-to-chuc-ca-nhan-chu-tri-nv-khcn-ct-phat-trien-tai-san-tri-tue-an-giang-den-2030-thuc-hien-2024-lan-2/)
