@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **05:16:26 06/08/2024**_
+_Last update: **06:21:50 06/08/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 05/08/2024: [[CTĐA] Lịch thi chi tiết cuối kỳ HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda_lich-thi-chi-tiet-cuoi-ky-hk3-2324/)
 * 05/08/2024: [Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/)
