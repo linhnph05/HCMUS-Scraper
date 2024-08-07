@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:19:20 07/08/2024**_
+_Last update: **16:18:40 07/08/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 06/08/2024: [[CTĐA][K20_Đ1] Mời tham dự buổi bảo vệ đề tài tốt nghiệp các Hội đồng bảo vệ từ ngày 12/08/2024 – 24/08/2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/9221/)
 * 05/08/2024: [[CTĐA] Lịch thi chi tiết cuối kỳ HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda_lich-thi-chi-tiet-cuoi-ky-hk3-2324/)
@@ -47,6 +47,7 @@ No news in the last 1 month
 * 07/08/2024: [Thông báo về việc đăng ký nội trú tại Ký túc xá Trường, Học kỳ 1, năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-ve-viec-dang-ky-noi-tru-tai-ky-tuc-xa-truong-hoc-ky-1-nam-hoc-2024-2025/)
 * 06/08/2024: [[THÔNG BÁO] Chương trình Thạc sĩ/Tiến sĩ về Robotics và Bioengineering – ĐH Osaka, Nhật Bản](https://hcmus.edu.vn/thong-bao-chuong-trinh-thac-si-tien-si-ve-robotics-va-bioengineering-dh-osaka-nhat-ban/)
 * 05/08/2024: [THÔNG BÁO TUYỂN CHỌN TỔ CHỨC CÁ NHÂN THỰC HIỆN NHIỆM VỤ KHOA HỌC CÔNG NGHỆ AN GIANG 2023-2024 LẦN 3](https://hcmus.edu.vn/thong-bao-tuyen-chon-to-chuc-ca-nhan-thuc-hien-nhiem-vu-khoa-hoc-cong-nghe-an-giang-2023-2024-lan-3/)
+* 05/08/2024: [CUỘC THI ROBOCUS 2024: THÀNH CÔNG VÀ ẤN TƯỢNG](https://hcmus.edu.vn/cuoc-thi-robocus-2024-thanh-cong-va-an-tuong/)
 * 02/08/2024: [THÔNG BÁO VỀ CHƯƠNG TRÌNH TÀI TRỢ NGHIÊN CỨU CƠ BẢN TRONG KHOA HỌC TỰ NHIÊN VÀ KỸ THUẬT 2024](https://hcmus.edu.vn/thong-bao-ve-chuong-trinh-tai-tro-nghien-cuu-co-ban-trong-khoa-hoc-tu-nhien-va-ky-thuat-2024/)
 * 02/08/2024: [Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025](https://hcmus.edu.vn/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/)
 * 02/08/2024: [THÔNG BÁO TUYỂN CHỌN TỔ CHỨC CÁ NHÂN CHỦ TRÌ NV KHCN CT PHÁT TRIỂN TÀI SẢN TRÍ TUỆ AN GIANG ĐẾN 2030 THỰC HIỆN 2024 LẦN 2](https://hcmus.edu.vn/thong-bao-tuyen-chon-to-chuc-ca-nhan-chu-tri-nv-khcn-ct-phat-trien-tai-san-tri-tue-an-giang-den-2030-thuc-hien-2024-lan-2/)
@@ -89,6 +90,7 @@ No news in the last 1 month
 * 22/07/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ CHUYÊN VIÊN PHÒNG KHẢO THÍ VÀ ĐẢM BẢO CHẤT LƯỢNG](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-chuyen-vien-phong-khao-thi-va-dam-bao-chat-luong/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
 * 07/08/2024: [Thông báo về việc đăng ký nội trú tại Ký túc xá Trường, Học kỳ 1, năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-ve-viec-dang-ky-noi-tru-tai-ky-tuc-xa-truong-hoc-ky-1-nam-hoc-2024-2025/)
+* 05/08/2024: [CUỘC THI ROBOCUS 2024: THÀNH CÔNG VÀ ẤN TƯỢNG](https://hcmus.edu.vn/cuoc-thi-robocus-2024-thanh-cong-va-an-tuong/)
 * 02/08/2024: [Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025](https://hcmus.edu.vn/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/)
 * 01/08/2024: [THÔNG TIN GIẢI THƯỞNG BẢO SƠN 2024](https://hcmus.edu.vn/thong-tin-giai-thuong-bao-son-2024/)
 * 26/07/2024: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ctda/)
