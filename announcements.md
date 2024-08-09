@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **08:54:59 09/08/2024**_
+_Last update: **09:33:59 09/08/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 06/08/2024: [[CTĐA][K20_Đ1] Mời tham dự buổi bảo vệ đề tài tốt nghiệp các Hội đồng bảo vệ từ ngày 12/08/2024 – 24/08/2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/9221/)
 * 05/08/2024: [[CTĐA] Lịch thi chi tiết cuối kỳ HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda_lich-thi-chi-tiet-cuoi-ky-hk3-2324/)
@@ -14,6 +14,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 8/8/2024: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK1/2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16312)
 * 7/8/2024: [Đăng ký tham gia Seminar Autonomous systems for humanity](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16310)
 * 2/8/2024: [[CNTN] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện khóa luận tốt nghiệp lớp CNTN2020 (T8/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16308)
 * 2/8/2024: [Quy trình bảo vệ luận văn thạc sĩ đợt cuối tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16307)
@@ -23,7 +24,6 @@ No news in the last 1 month
 * 29/7/2024: [Đăng ký áo quà tặng Khoa Công nghệ thông tin (fit@hcmus) dành cho lớp cao học khóa 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16302)
 * 29/7/2024: [Thông báo nộp hồ sơ học bổng dành cho HVCH ngành Trí tuệ nhân tạo Khóa 33/2023 được tài trợ bởi VINIF](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16301)
 * 27/7/2024: [Tổng kết Trường hè “FIT@HCMUS Summer School on Generative AI and LLM” năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16299)
-* 25/7/2024: [[CQ] Mời tham dự buổi bảo vệ KLTN-TTDATN Khóa 2020- đợt 2 (27/7 - 08/8/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16296)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 31/07/2024: [Chương trình học bổng Toshiba năm học 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16304)
 * 31/07/2024: [Vodcast giới thiệu ngành/ chuyên ngành Khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16303)
