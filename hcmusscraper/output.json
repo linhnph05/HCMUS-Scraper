@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "06:09:09 13/08/2024",
+  "Update time": "07:07:53 13/08/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Thông báo thay đổi phòng thi cuối kỳ HK3/2324",
@@ -26,6 +26,16 @@
       "tieuDe": "[CTDA] Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023",
       "url": "https://www.ctda.hcmus.edu.vn/vi/2024/07/thong-bao-to-chuc-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023/",
       "date": "24/07/2024"
+    },
+    {
+      "tieuDe": "[CLC] – Thông báo đăng ký nguyện vọng về chuyên ngành năm học 2023-2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/07/clc-thong-bao-dang-ky-nguyen-vong-ve-chuyen-nganh-nam-hoc-2023-2024/",
+      "date": "23/07/2024"
+    },
+    {
+      "tieuDe": "Hướng dẫn chuẩn bị poster bảo vệ đề tài tốt nghiệp",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/07/huong-dan-chuan-bi-poster-bao-ve-de-tai-tot-nghiep/",
+      "date": "16/07/2024"
     }
   ],
   "Tin tuc": [],
@@ -121,6 +131,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "BOUYGUES CONSTRUCTION IT VIETNAM - Hiring Network/ System Interns for IT Supervision Level 1",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16320",
+      "date": "13/08/2024"
+    },
+    {
       "tieuDe": "[CÔNG TY CỔ PHẦN IVS] CHƯƠNG TRÌNH NGHIÊN CỨU MÔ HÌNH ROBOT BẦY ĐÀN (SWARM ROBOTICS) (Giai đoạn 1: 2024 -2027)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16319",
       "date": "13/08/2024"
@@ -139,11 +154,6 @@
       "tieuDe": "Golden Owl Solutions Tuyển dụng Thực tập sinh Full-stack JS T8/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16297",
       "date": "25/07/2024"
-    },
-    {
-      "tieuDe": "[FUJINET] Tuyển dụng FRESHER DEVELOPERS (JAVA/.NET) (Web/ Winform)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16292",
-      "date": "19/07/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
