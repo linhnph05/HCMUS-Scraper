@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:07:14 13/08/2024",
+  "Update time": "04:07:54 13/08/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Thông báo thay đổi phòng thi cuối kỳ HK3/2324",
@@ -26,6 +26,16 @@
       "tieuDe": "[CTDA] Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023",
       "url": "https://www.ctda.hcmus.edu.vn/vi/2024/07/thong-bao-to-chuc-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023/",
       "date": "24/07/2024"
+    },
+    {
+      "tieuDe": "[CLC] – Thông báo đăng ký nguyện vọng về chuyên ngành năm học 2023-2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/07/clc-thong-bao-dang-ky-nguyen-vong-ve-chuyen-nganh-nam-hoc-2023-2024/",
+      "date": "23/07/2024"
+    },
+    {
+      "tieuDe": "Hướng dẫn chuẩn bị poster bảo vệ đề tài tốt nghiệp",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/07/huong-dan-chuan-bi-poster-bao-ve-de-tai-tot-nghiep/",
+      "date": "16/07/2024"
     }
   ],
   "Tin tuc": [],
@@ -147,6 +157,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "[THÔNG BÁO] Chương trình tài trợ trong khuôn khổ quan hệ đối tác VQ Anh – Việt Nam từ Bristish Council tháng 8/2024",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-tai-tro-trong-khuon-kho-quan-he-doi-tac-vq-anh-viet-nam-tu-bristish-council-thang-8-2024/",
+      "date": "13/08/2024"
+    },
     {
       "tieuDe": "Thông báo nộp hồ sơ xét tốt nghiệp trình độ đại học (CT Liên thông) và trình độ cao đẳng, hệ chính quy cho đợt công bố danh sách tốt nghiệp vào tháng 9 và tháng 10 năm 2024",
       "url": "https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-trinh-do-dai-hoc-ct-lien-thong-va-trinh-do-cao-dang-he-chinh-quy-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-9-va-thang-10-nam-2024/",
@@ -284,6 +299,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "[THÔNG BÁO] Chương trình tài trợ trong khuôn khổ quan hệ đối tác VQ Anh – Việt Nam từ Bristish Council tháng 8/2024",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-tai-tro-trong-khuon-kho-quan-he-doi-tac-vq-anh-viet-nam-tu-bristish-council-thang-8-2024/",
+      "date": "13/08/2024"
+    },
     {
       "tieuDe": "Thông báo nộp hồ sơ xét tốt nghiệp trình độ đại học (CT Liên thông) và trình độ cao đẳng, hệ chính quy cho đợt công bố danh sách tốt nghiệp vào tháng 9 và tháng 10 năm 2024",
       "url": "https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-trinh-do-dai-hoc-ct-lien-thong-va-trinh-do-cao-dang-he-chinh-quy-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-9-va-thang-10-nam-2024/",
