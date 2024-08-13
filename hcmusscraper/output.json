@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "01:33:41 13/08/2024",
+  "Update time": "02:21:44 13/08/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Thông báo thay đổi phòng thi cuối kỳ HK3/2324",
@@ -131,6 +131,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "[CÔNG TY CỔ PHẦN IVS] CHƯƠNG TRÌNH NGHIÊN CỨU MÔ HÌNH ROBOT BẦY ĐÀN (SWARM ROBOTICS) (Giai đoạn 1: 2024 -2027)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16319",
+      "date": "13/08/2024"
+    },
+    {
       "tieuDe": "🔥 DÂN CHƠI AI SỢ MƯA RƠI, LẠI ĐÂY ĐĂNG KÝ ONE DAY BOSCHLER 🔥",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16315",
       "date": "12/08/2024"
@@ -148,11 +153,6 @@
     {
       "tieuDe": "[FUJINET] Tuyển dụng FRESHER DEVELOPERS (JAVA/.NET) (Web/ Winform)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16292",
-      "date": "19/07/2024"
-    },
-    {
-      "tieuDe": "QA Tester (AI Model & Functional Focus)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16290",
       "date": "19/07/2024"
     }
   ],
