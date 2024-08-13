@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "10:07:13 13/08/2024",
+  "Update time": "11:07:05 13/08/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Thông báo thay đổi phòng thi cuối kỳ HK3/2324",
@@ -42,6 +42,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Thông báo tuyển sinh Sau Đại học năm 2024 - đợt 2",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16324",
+      "date": "13/8/2024"
+    },
     {
       "tieuDe": "Thông báo mở lớp bổ túc kiến thức ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 9/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16321",
@@ -86,11 +91,6 @@
       "tieuDe": "Về việc cập nhật thông tin chuyên ngành cho sinh viên Khóa tuyển 2021 trở về trước",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16306",
       "date": "2/8/2024"
-    },
-    {
-      "tieuDe": "Chương trình hỗ trợ kinh phí đăng bài báo khoa học dành cho học viên cao học",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16305",
-      "date": "1/8/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
