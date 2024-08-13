@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:07:53 13/08/2024",
+  "Update time": "08:08:24 13/08/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Thông báo thay đổi phòng thi cuối kỳ HK3/2324",
@@ -42,6 +42,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Thông báo mở lớp bổ túc kiến thức ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 9/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16321",
+      "date": "13/8/2024"
+    },
     {
       "tieuDe": "[CNTN] Mời tham dự buổi bảo vệ Khóa luận tốt nghiệp lớp CNTN2020 (15/8 - 25/8/2024)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16317",
@@ -86,11 +91,6 @@
       "tieuDe": "Chương trình hỗ trợ kinh phí đăng bài báo khoa học dành cho học viên cao học",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16305",
       "date": "1/8/2024"
-    },
-    {
-      "tieuDe": "Vodcast giới thiệu ngành/ chuyên ngành Khoa Công nghệ thông tin",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16303",
-      "date": "31/7/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
