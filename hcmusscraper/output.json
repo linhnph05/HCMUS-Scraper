@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:08:32 14/08/2024",
+  "Update time": "04:07:50 14/08/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Thông báo thay đổi phòng thi cuối kỳ HK3/2324",
@@ -42,6 +42,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 2 năm 2024]",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16325",
+      "date": "14/8/2024"
+    },
     {
       "tieuDe": "Thông báo tuyển sinh Sau Đại học năm 2024 - đợt 2",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16324",
@@ -86,11 +91,6 @@
       "tieuDe": "Quy trình bảo vệ luận văn thạc sĩ đợt cuối tháng 9/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16307",
       "date": "2/8/2024"
-    },
-    {
-      "tieuDe": "Về việc cập nhật thông tin chuyên ngành cho sinh viên Khóa tuyển 2021 trở về trước",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16306",
-      "date": "2/8/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -122,6 +122,11 @@
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [],
   "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
+    {
+      "tieuDe": "Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 2 năm 2024]",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16325",
+      "date": "14/08/2024"
+    },
     {
       "tieuDe": "Đăng ký tham gia Seminar Autonomous systems for humanity",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16310",
