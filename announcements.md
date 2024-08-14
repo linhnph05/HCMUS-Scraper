@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **14:17:01 14/08/2024**_
+_Last update: **15:19:02 14/08/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 12/08/2024: [CTĐA_Thông báo thay đổi phòng thi cuối kỳ HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda_thong-bao-thay-doi-phong-thi-hk3-2324/)
 * 06/08/2024: [[CTĐA][K20_Đ1] Mời tham dự buổi bảo vệ đề tài tốt nghiệp các Hội đồng bảo vệ từ ngày 12/08/2024 – 24/08/2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/9221/)
@@ -37,6 +37,7 @@ No news in the last 1 month
 * 14/08/2024: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 2 năm 2024]](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16325)
 * 07/08/2024: [Đăng ký tham gia Seminar Autonomous systems for humanity](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16310)
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 14/08/2024: [Chương trình DiscoverNUS của Đại học Quốc gia Singapore (NUS)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16327)
 * 13/08/2024: [V/v tuyển sinh viên tham dự Diễn đàn Thủ lĩnh sinh viên Đông Nam Á tại Malaysia](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16322)
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 13/08/2024: [BOUYGUES CONSTRUCTION IT VIETNAM - Hiring Network/ System Interns for IT Supervision Level 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16320)
@@ -45,6 +46,7 @@ No news in the last 1 month
 * 29/07/2024: [Chương trình 'Hạt giống cho Tương lai - Seeds for The Future 2024'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16300)
 * 25/07/2024: [Golden Owl Solutions Tuyển dụng Thực tập sinh Full-stack JS T8/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16297)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 14/08/2024: [[THÔNG BÁO] Chương trình DiscoverNUS của Đại học Quốc gia Singapore (NUS) – Deadline 16/8/2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-discovernus-cua-dai-hoc-quoc-gia-singapore-nus-deadline-16-8-2024/)
 * 14/08/2024: [Thông báo Đăng ký học phần HK1/2024-2025 đối với sinh viên chương trình Chất lượng cao, Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2024-2025-doi-voi-sinh-vien-chuong-trinh-chat-luong-cao-viet-phap/)
 * 13/08/2024: [Về việc điều chỉnh bổ sung quy định tiếp công dân](https://hcmus.edu.vn/ve-viec-bo-sung-quy-dinh-tiep-cong-dan/)
 * 13/08/2024: [Thông tin tuyển sinh viên tham dự Diễn đàn Thủ lĩnh sinh viên Đông Nam Á tại Malaysia](https://hcmus.edu.vn/thong-tin-tuyen-sinh-vien-tham-du-dien-dan-thu-linh-sinh-vien-dong-nam-a-tai-malaysia/)
@@ -111,6 +113,7 @@ No news in the last 1 month
 * 16/07/2024: [THÔNG TIN GIẢI THƯỞNG KHOA HỌC CÔNG NGHỆ QUẢ CẦU VÀNG 2024](https://hcmus.edu.vn/thong-tin-giai-thuong-khoa-hoc-cong-nghe-qua-cau-vang-2024/)
 * 15/07/2024: [THÔNG BÁO Đăng ký tham gia Giải thưởng VietFuture 2024](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-giai-thuong-vietfuture-2024/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
+* 14/08/2024: [[THÔNG BÁO] Chương trình DiscoverNUS của Đại học Quốc gia Singapore (NUS) – Deadline 16/8/2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-discovernus-cua-dai-hoc-quoc-gia-singapore-nus-deadline-16-8-2024/)
 * 02/08/2024: [Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025](https://hcmus.edu.vn/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/)
 * 01/08/2024: [[THÔNG BÁO] Chương trình học bổng Toshiba năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-toshiba-nam-hoc-2024-2025/)
 * 30/07/2024: [Thông báo Chương trình học bổng Maha năm 2024 (đợt 2)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024-dot-2/)
