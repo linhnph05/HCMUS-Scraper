@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **08:45:15 14/08/2024**_
+_Last update: **10:19:00 14/08/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 12/08/2024: [CTĐA_Thông báo thay đổi phòng thi cuối kỳ HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda_thong-bao-thay-doi-phong-thi-hk3-2324/)
 * 06/08/2024: [[CTĐA][K20_Đ1] Mời tham dự buổi bảo vệ đề tài tốt nghiệp các Hội đồng bảo vệ từ ngày 12/08/2024 – 24/08/2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/9221/)
@@ -44,6 +44,7 @@ No news in the last 1 month
 * 29/07/2024: [Chương trình 'Hạt giống cho Tương lai - Seeds for The Future 2024'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16300)
 * 25/07/2024: [Golden Owl Solutions Tuyển dụng Thực tập sinh Full-stack JS T8/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16297)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 14/08/2024: [Thông báo Đăng ký học phần HK1/2024-2025 đối với sinh viên chương trình Chất lượng cao, Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2024-2025-doi-voi-sinh-vien-chuong-trinh-chat-luong-cao-viet-phap/)
 * 13/08/2024: [Về việc điều chỉnh bổ sung quy định tiếp công dân](https://hcmus.edu.vn/ve-viec-bo-sung-quy-dinh-tiep-cong-dan/)
 * 13/08/2024: [Thông tin tuyển sinh viên tham dự Diễn đàn Thủ lĩnh sinh viên Đông Nam Á tại Malaysia](https://hcmus.edu.vn/thong-tin-tuyen-sinh-vien-tham-du-dien-dan-thu-linh-sinh-vien-dong-nam-a-tai-malaysia/)
 * 13/08/2024: [Thông báo nộp hồ sơ xét Hoàn tất chương trình đào tạo trình độ đại học hệ chính quy các chương trình – Đợt tháng 11 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-dot-thang-11-nam-2024/)
@@ -77,6 +78,7 @@ No news in the last 1 month
 * 16/07/2024: [THÔNG TIN GIẢI THƯỞNG KHOA HỌC CÔNG NGHỆ QUẢ CẦU VÀNG 2024](https://hcmus.edu.vn/thong-tin-giai-thuong-khoa-hoc-cong-nghe-qua-cau-vang-2024/)
 * 15/07/2024: [THÔNG BÁO Đăng ký tham gia Giải thưởng VietFuture 2024](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-giai-thuong-vietfuture-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 14/08/2024: [Thông báo Đăng ký học phần HK1/2024-2025 đối với sinh viên chương trình Chất lượng cao, Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2024-2025-doi-voi-sinh-vien-chuong-trinh-chat-luong-cao-viet-phap/)
 * 13/08/2024: [Về việc điều chỉnh bổ sung quy định tiếp công dân](https://hcmus.edu.vn/ve-viec-bo-sung-quy-dinh-tiep-cong-dan/)
 * 13/08/2024: [Thông tin tuyển sinh viên tham dự Diễn đàn Thủ lĩnh sinh viên Đông Nam Á tại Malaysia](https://hcmus.edu.vn/thong-tin-tuyen-sinh-vien-tham-du-dien-dan-thu-linh-sinh-vien-dong-nam-a-tai-malaysia/)
 * 13/08/2024: [Thông báo nộp hồ sơ xét Hoàn tất chương trình đào tạo trình độ đại học hệ chính quy các chương trình – Đợt tháng 11 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-dot-thang-11-nam-2024/)
