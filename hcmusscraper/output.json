@@ -1,7 +1,12 @@
 [
 {
-  "Update time": "04:07:32 15/08/2024",
+  "Update time": "05:07:20 15/08/2024",
   "Thong Bao": [
+    {
+      "tieuDe": "CTĐA_ Thông báo thực hiện khảo sát đánh giá môn học – Giảng viên HK3/2324",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/08/bpgv-thong-bao-thuc-hien-khao-sat-danh-gia-mon-hoc-giang-vien-hk3-2324/",
+      "date": "15/08/2024"
+    },
     {
       "tieuDe": "CTĐA_Thông báo thay đổi phòng thi cuối kỳ HK3/2324",
       "url": "https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda_thong-bao-thay-doi-phong-thi-hk3-2324/",
@@ -42,6 +47,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Học bổng thực tập ngắn hạn tại Kyoto Institute of Technology, Nhật Bản năm 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16329",
+      "date": "15/8/2024"
+    },
     {
       "tieuDe": "Tổng kết Seminar Autonomous systems for humanity",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16328",
@@ -86,14 +96,14 @@
       "tieuDe": "Đăng ký tham gia Seminar Autonomous systems for humanity",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16310",
       "date": "7/8/2024"
-    },
-    {
-      "tieuDe": "[CNTN] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện khóa luận tốt nghiệp lớp CNTN2020 (T8/2024)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16308",
-      "date": "2/8/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Học bổng thực tập ngắn hạn tại Kyoto Institute of Technology, Nhật Bản năm 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16329",
+      "date": "15/08/2024"
+    },
     {
       "tieuDe": "Chương trình học bổng Toshiba năm học 2024-2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16304",
@@ -113,11 +123,6 @@
       "tieuDe": "[Summer School 2024] AlphaGeometry: Solving IMO Geometry without Human Demonstrations",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16291",
       "date": "19/07/2024"
-    },
-    {
-      "tieuDe": "Thông báo lịch trình bày chương trình Trường hè 'FIT@HCMUS Summer School on Generative AI and LLM' năm 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16288",
-      "date": "18/07/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [],
