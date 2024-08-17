@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **18:22:41 17/08/2024**_
+_Last update: **19:20:13 17/08/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 16/08/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2020 – Đợt 2](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2020-dot-2/)
 * 15/08/2024: [CTĐA_ Thông báo thực hiện khảo sát đánh giá môn học – Giảng viên HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/bpgv-thong-bao-thuc-hien-khao-sat-danh-gia-mon-hoc-giang-vien-hk3-2324/)
@@ -48,6 +48,7 @@ No news in the last 1 month
 * 12/08/2024: [🔥 DÂN CHƠI AI SỢ MƯA RƠI, LẠI ĐÂY ĐĂNG KÝ ONE DAY BOSCHLER 🔥](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16315)
 * 29/07/2024: [Chương trình 'Hạt giống cho Tương lai - Seeds for The Future 2024'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16300)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 17/08/2024: [ĐIỂM CHUẨN PHƯƠNG THỨC XÉT TUYỂN DỰA TRÊN KẾT QUẢ KỲ THI TỐT NGHIỆP THPT 2024](https://hcmus.edu.vn/diem-chuan-phuong-thuc-xet-tuyen-dua-tren-ket-qua-ky-thi-tot-nghiep-thpt-2024/)
 * 16/08/2024: [Thông báo đăng ký học phần HK1/2023-2024 Đối với sinh viên lớp Liên thông đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2023-2024-doi-voi-sinh-vien-lop-lien-thong-dai-hoc-he-chinh-quy/)
 * 14/08/2024: [HỘI THẢO GIẢI PHÁP HỖ TRỢ CHUYỂN ĐỔI SỐ VỀ KHOA HỌC VÀ CÔNG NGHỆ CHO TRƯỜNG ĐẠI HỌC TỪ ELSEVIER](https://hcmus.edu.vn/hoi-thao-giai-phap-ho-tro-chuyen-doi-so-ve-khoa-hoc-va-cong-nghe-cho-truong-dai-hoc-tu-elsevier/)
 * 14/08/2024: [[THÔNG BÁO] Chương trình DiscoverNUS của Đại học Quốc gia Singapore (NUS) – Deadline 16/8/2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-discovernus-cua-dai-hoc-quoc-gia-singapore-nus-deadline-16-8-2024/)
@@ -106,7 +107,6 @@ No news in the last 1 month
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
 * 13/08/2024: [Thông tin tuyển sinh viên tham dự Diễn đàn Thủ lĩnh sinh viên Đông Nam Á tại Malaysia](https://hcmus.edu.vn/thong-tin-tuyen-sinh-vien-tham-du-dien-dan-thu-linh-sinh-vien-dong-nam-a-tai-malaysia/)
 * 07/08/2024: [Thông báo về việc đăng ký nội trú tại Ký túc xá Trường, Học kỳ 1, năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-ve-viec-dang-ky-noi-tru-tai-ky-tuc-xa-truong-hoc-ky-1-nam-hoc-2024-2025/)
-* 05/08/2024: [CUỘC THI ROBOCUS 2024: THÀNH CÔNG VÀ ẤN TƯỢNG](https://hcmus.edu.vn/cuoc-thi-robocus-2024-thanh-cong-va-an-tuong/)
 * 02/08/2024: [Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025](https://hcmus.edu.vn/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/)
 * 01/08/2024: [THÔNG TIN GIẢI THƯỞNG BẢO SƠN 2024](https://hcmus.edu.vn/thong-tin-giai-thuong-bao-son-2024/)
 * 26/07/2024: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ctda/)
