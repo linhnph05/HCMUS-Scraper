@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **18:24:19 18/08/2024**_
+_Last update: **19:22:54 18/08/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 16/08/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2020 – Đợt 2](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2020-dot-2/)
 * 15/08/2024: [CTĐA_ Thông báo thực hiện khảo sát đánh giá môn học – Giảng viên HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/bpgv-thong-bao-thuc-hien-khao-sat-danh-gia-mon-hoc-giang-vien-hk3-2324/)
@@ -16,37 +16,17 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
-* 15/8/2024: [Học bổng thực tập ngắn hạn tại Kyoto Institute of Technology, Nhật Bản năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16329)
-* 15/8/2024: [Tổng kết Seminar Autonomous systems for humanity](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16328)
-* 14/8/2024: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 2 năm 2024]](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16325)
-* 13/8/2024: [Thông báo tuyển sinh Sau Đại học năm 2024 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16324)
-* 13/8/2024: [Thông báo mở lớp bổ túc kiến thức ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16321)
-* 12/8/2024: [[CNTN] Mời tham dự buổi bảo vệ Khóa luận tốt nghiệp lớp CNTN2020 (15/8 - 25/8/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16317)
-* 12/8/2024: [[CQ] Điểm bảo vệ đề tài tốt nghiệp đợt tháng 7, 8/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16316)
-* 9/8/2024: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2020, đợt 2 (bảo vệ tháng 7, 8/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16314)
-* 8/8/2024: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK1/2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16312)
-* 7/8/2024: [Đăng ký tham gia Seminar Autonomous systems for humanity](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16310)
+No news in the last 1 month
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 15/08/2024: [Học bổng thực tập ngắn hạn tại Kyoto Institute of Technology, Nhật Bản năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16329)
-* 31/07/2024: [Chương trình học bổng Toshiba năm học 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16304)
-* 31/07/2024: [Vodcast giới thiệu ngành/ chuyên ngành Khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16303)
-* 27/07/2024: [Tổng kết Trường hè “FIT@HCMUS Summer School on Generative AI and LLM” năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16299)
-* 19/07/2024: [[Summer School 2024] AlphaGeometry: Solving IMO Geometry without Human Demonstrations](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16291)
+No news in the last 1 month
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 15/08/2024: [Tổng kết Seminar Autonomous systems for humanity](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16328)
-* 14/08/2024: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 2 năm 2024]](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16325)
-* 07/08/2024: [Đăng ký tham gia Seminar Autonomous systems for humanity](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16310)
+No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 14/08/2024: [Chương trình DiscoverNUS của Đại học Quốc gia Singapore (NUS)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16327)
-* 13/08/2024: [V/v tuyển sinh viên tham dự Diễn đàn Thủ lĩnh sinh viên Đông Nam Á tại Malaysia](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16322)
+No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 14/08/2024: [[Q2, Q.Bình Thạnh] Golden Owl Solutions Tuyển dụng Thực Tập Sinh IT T8/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16326)
-* 13/08/2024: [BOUYGUES CONSTRUCTION IT VIETNAM - Hiring Network/ System Interns for IT Supervision Level 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16320)
-* 13/08/2024: [[CÔNG TY CỔ PHẦN IVS] CHƯƠNG TRÌNH NGHIÊN CỨU MÔ HÌNH ROBOT BẦY ĐÀN (SWARM ROBOTICS) (Giai đoạn 1: 2024 -2027)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16319)
-* 12/08/2024: [🔥 DÂN CHƠI AI SỢ MƯA RƠI, LẠI ĐÂY ĐĂNG KÝ ONE DAY BOSCHLER 🔥](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16315)
-* 29/07/2024: [Chương trình 'Hạt giống cho Tương lai - Seeds for The Future 2024'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16300)
+No news in the last 1 month
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 17/08/2024: [ĐIỂM CHUẨN PHƯƠNG THỨC XÉT TUYỂN DỰA TRÊN KẾT QUẢ KỲ THI TỐT NGHIỆP THPT 2024](https://hcmus.edu.vn/diem-chuan-phuong-thuc-xet-tuyen-dua-tren-ket-qua-ky-thi-tot-nghiep-thpt-2024/)
 * 16/08/2024: [Thông báo đăng ký học phần HK1/2023-2024 Đối với sinh viên lớp Liên thông đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2023-2024-doi-voi-sinh-vien-lop-lien-thong-dai-hoc-he-chinh-quy/)
