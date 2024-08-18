@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "12:10:50 18/08/2024",
+  "Update time": "13:08:11 18/08/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2020 – Đợt 2",
@@ -46,12 +46,142 @@
   "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
-  "FIT-Tin tuc": [],
-  "FIT-THÔNG TIN CHUNG": [],
+  "FIT-Tin tuc": [
+    {
+      "tieuDe": "Học bổng thực tập ngắn hạn tại Kyoto Institute of Technology, Nhật Bản năm 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16329",
+      "date": "15/8/2024"
+    },
+    {
+      "tieuDe": "Tổng kết Seminar Autonomous systems for humanity",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16328",
+      "date": "15/8/2024"
+    },
+    {
+      "tieuDe": "Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 2 năm 2024]",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16325",
+      "date": "14/8/2024"
+    },
+    {
+      "tieuDe": "Thông báo tuyển sinh Sau Đại học năm 2024 - đợt 2",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16324",
+      "date": "13/8/2024"
+    },
+    {
+      "tieuDe": "Thông báo mở lớp bổ túc kiến thức ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 9/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16321",
+      "date": "13/8/2024"
+    },
+    {
+      "tieuDe": "[CNTN] Mời tham dự buổi bảo vệ Khóa luận tốt nghiệp lớp CNTN2020 (15/8 - 25/8/2024)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16317",
+      "date": "12/8/2024"
+    },
+    {
+      "tieuDe": "[CQ] Điểm bảo vệ đề tài tốt nghiệp đợt tháng 7, 8/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16316",
+      "date": "12/8/2024"
+    },
+    {
+      "tieuDe": "[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2020, đợt 2 (bảo vệ tháng 7, 8/2024)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16314",
+      "date": "9/8/2024"
+    },
+    {
+      "tieuDe": "[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK1/2024-2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16312",
+      "date": "8/8/2024"
+    },
+    {
+      "tieuDe": "Đăng ký tham gia Seminar Autonomous systems for humanity",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16310",
+      "date": "7/8/2024"
+    }
+  ],
+  "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Học bổng thực tập ngắn hạn tại Kyoto Institute of Technology, Nhật Bản năm 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16329",
+      "date": "15/08/2024"
+    },
+    {
+      "tieuDe": "Chương trình học bổng Toshiba năm học 2024-2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16304",
+      "date": "31/07/2024"
+    },
+    {
+      "tieuDe": "Vodcast giới thiệu ngành/ chuyên ngành Khoa Công nghệ thông tin",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16303",
+      "date": "31/07/2024"
+    },
+    {
+      "tieuDe": "Tổng kết Trường hè “FIT@HCMUS Summer School on Generative AI and LLM” năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16299",
+      "date": "27/07/2024"
+    },
+    {
+      "tieuDe": "[Summer School 2024] AlphaGeometry: Solving IMO Geometry without Human Demonstrations",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16291",
+      "date": "19/07/2024"
+    }
+  ],
   "FIT-THÔNG TIN HỌC BỔNG": [],
-  "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [],
-  "FIT-HOẠT ĐỘNG SINH VIÊN": [],
-  "FIT-THÔNG TIN TUYỂN DỤNG": [],
+  "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
+    {
+      "tieuDe": "Tổng kết Seminar Autonomous systems for humanity",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16328",
+      "date": "15/08/2024"
+    },
+    {
+      "tieuDe": "Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 2 năm 2024]",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16325",
+      "date": "14/08/2024"
+    },
+    {
+      "tieuDe": "Đăng ký tham gia Seminar Autonomous systems for humanity",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16310",
+      "date": "07/08/2024"
+    }
+  ],
+  "FIT-HOẠT ĐỘNG SINH VIÊN": [
+    {
+      "tieuDe": "Chương trình DiscoverNUS của Đại học Quốc gia Singapore (NUS)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16327",
+      "date": "14/08/2024"
+    },
+    {
+      "tieuDe": "V/v tuyển sinh viên tham dự Diễn đàn Thủ lĩnh sinh viên Đông Nam Á tại Malaysia",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16322",
+      "date": "13/08/2024"
+    }
+  ],
+  "FIT-THÔNG TIN TUYỂN DỤNG": [
+    {
+      "tieuDe": "[Q2, Q.Bình Thạnh] Golden Owl Solutions Tuyển dụng Thực Tập Sinh IT T8/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16326",
+      "date": "14/08/2024"
+    },
+    {
+      "tieuDe": "BOUYGUES CONSTRUCTION IT VIETNAM - Hiring Network/ System Interns for IT Supervision Level 1",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16320",
+      "date": "13/08/2024"
+    },
+    {
+      "tieuDe": "[CÔNG TY CỔ PHẦN IVS] CHƯƠNG TRÌNH NGHIÊN CỨU MÔ HÌNH ROBOT BẦY ĐÀN (SWARM ROBOTICS) (Giai đoạn 1: 2024 -2027)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16319",
+      "date": "13/08/2024"
+    },
+    {
+      "tieuDe": "🔥 DÂN CHƠI AI SỢ MƯA RƠI, LẠI ĐÂY ĐĂNG KÝ ONE DAY BOSCHLER 🔥",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16315",
+      "date": "12/08/2024"
+    },
+    {
+      "tieuDe": "Chương trình 'Hạt giống cho Tương lai - Seeds for The Future 2024'",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16300",
+      "date": "29/07/2024"
+    }
+  ],
   "HCMUS-Thong tin nguoi hoc": [
     {
       "tieuDe": "ĐIỂM CHUẨN PHƯƠNG THỨC XÉT TUYỂN DỰA TRÊN KẾT QUẢ KỲ THI TỐT NGHIỆP THPT 2024",
