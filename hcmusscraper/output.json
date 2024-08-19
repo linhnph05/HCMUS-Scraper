@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:08:55 19/08/2024",
+  "Update time": "09:07:26 19/08/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Thông báo thay đổi phòng thi cuối kỳ HK3/2324",
@@ -48,6 +48,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Thông báo chỉ tiêu xét chuyên ngành Khóa 2022, chương trình Chuẩn ĐHCQ",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16330",
+      "date": "19/8/2024"
+    },
+    {
       "tieuDe": "Học bổng thực tập ngắn hạn tại Kyoto Institute of Technology, Nhật Bản năm 2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16329",
       "date": "15/8/2024"
@@ -91,11 +96,6 @@
       "tieuDe": "[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK1/2024-2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16312",
       "date": "8/8/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham gia Seminar Autonomous systems for humanity",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16310",
-      "date": "7/8/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
