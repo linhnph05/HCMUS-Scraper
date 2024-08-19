@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:17:59 19/08/2024**_
+_Last update: **07:36:02 19/08/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 16/08/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2020 – Đợt 2](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2020-dot-2/)
 * 15/08/2024: [CTĐA_ Thông báo thực hiện khảo sát đánh giá môn học – Giảng viên HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/bpgv-thong-bao-thuc-hien-khao-sat-danh-gia-mon-hoc-giang-vien-hk3-2324/)
@@ -31,7 +31,6 @@ No news in the last 1 month
 * 31/07/2024: [Chương trình học bổng Toshiba năm học 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16304)
 * 31/07/2024: [Vodcast giới thiệu ngành/ chuyên ngành Khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16303)
 * 27/07/2024: [Tổng kết Trường hè “FIT@HCMUS Summer School on Generative AI and LLM” năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16299)
-* 19/07/2024: [[Summer School 2024] AlphaGeometry: Solving IMO Geometry without Human Demonstrations](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16291)
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
@@ -79,7 +78,6 @@ No news in the last 1 month
 * 25/07/2024: [THÔNG BÁO TUYỂN DỤNG KHOA TOÁN – TIN HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-toan-tin-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 25/07/2024: [[THÔNG BÁO] Các chương trình học bổng 2025-2026 của DAAD](https://hcmus.edu.vn/thong-bao-cac-chuong-trinh-hoc-bong-2025-2026-cua-daad/)
 * 22/07/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ CHUYÊN VIÊN PHÒNG KHẢO THÍ VÀ ĐẢM BẢO CHẤT LƯỢNG](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-chuyen-vien-phong-khao-thi-va-dam-bao-chat-luong/)
-* 19/07/2024: [Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023, đại học chính quy](https://hcmus.edu.vn/thong-bao-to-chuc-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023-dai-hoc-chinh-quy/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 16/08/2024: [Thông báo đăng ký học phần HK1/2023-2024 Đối với sinh viên lớp Liên thông đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2023-2024-doi-voi-sinh-vien-lop-lien-thong-dai-hoc-he-chinh-quy/)
 * 14/08/2024: [Thông báo Đăng ký học phần HK1/2024-2025 đối với sinh viên chương trình Chất lượng cao, Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2024-2025-doi-voi-sinh-vien-chuong-trinh-chat-luong-cao-viet-phap/)
@@ -97,7 +95,6 @@ No news in the last 1 month
 * 30/07/2024: [Thông báo Chương trình học bổng Maha năm 2024 (đợt 2)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024-dot-2/)
 * 26/07/2024: [Thông báo cập nhật thông tin chuyên ngành cho sinh viên đại học hệ chính quy các chương trình Khóa tuyển 2021 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-chuyen-nganh-cho-sinh-vien-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2021-tro-ve-truoc/)
 * 26/07/2024: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ctda/)
-* 19/07/2024: [Thông báo tổ chức học Giáo dục Quốc phòng – An ninh cho sinh viên khóa 2023, đại học chính quy](https://hcmus.edu.vn/thong-bao-to-chuc-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023-dai-hoc-chinh-quy/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 25/07/2024: [THÔNG BÁO TUYỂN DỤNG KHOA TOÁN – TIN HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-toan-tin-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 22/07/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ CHUYÊN VIÊN PHÒNG KHẢO THÍ VÀ ĐẢM BẢO CHẤT LƯỢNG](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-chuyen-vien-phong-khao-thi-va-dam-bao-chat-luong/)
