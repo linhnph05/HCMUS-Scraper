@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **19:22:17 19/08/2024**_
+_Last update: **20:28:02 19/08/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 19/08/2024: [CTĐA_Thông báo thay đổi phòng thi cuối kỳ HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda_thong-bao-thay-doi-phong-thi-hk3-2324/)
 * 16/08/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2020 – Đợt 2](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2020-dot-2/)
@@ -41,11 +41,11 @@ No news in the last 1 month
 * 14/08/2024: [Chương trình DiscoverNUS của Đại học Quốc gia Singapore (NUS)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16327)
 * 13/08/2024: [V/v tuyển sinh viên tham dự Diễn đàn Thủ lĩnh sinh viên Đông Nam Á tại Malaysia](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16322)
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 19/08/2024: [VNPT ĐẮK LẮK TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16331)
 * 14/08/2024: [[Q2, Q.Bình Thạnh] Golden Owl Solutions Tuyển dụng Thực Tập Sinh IT T8/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16326)
 * 13/08/2024: [BOUYGUES CONSTRUCTION IT VIETNAM - Hiring Network/ System Interns for IT Supervision Level 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16320)
 * 13/08/2024: [[CÔNG TY CỔ PHẦN IVS] CHƯƠNG TRÌNH NGHIÊN CỨU MÔ HÌNH ROBOT BẦY ĐÀN (SWARM ROBOTICS) (Giai đoạn 1: 2024 -2027)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16319)
 * 12/08/2024: [🔥 DÂN CHƠI AI SỢ MƯA RƠI, LẠI ĐÂY ĐĂNG KÝ ONE DAY BOSCHLER 🔥](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16315)
-* 29/07/2024: [Chương trình 'Hạt giống cho Tương lai - Seeds for The Future 2024'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16300)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 17/08/2024: [ĐIỂM CHUẨN PHƯƠNG THỨC XÉT TUYỂN DỰA TRÊN KẾT QUẢ KỲ THI TỐT NGHIỆP THPT 2024](https://hcmus.edu.vn/diem-chuan-phuong-thuc-xet-tuyen-dua-tren-ket-qua-ky-thi-tot-nghiep-thpt-2024/)
 * 16/08/2024: [Thông báo đăng ký học phần HK1/2023-2024 Đối với sinh viên lớp Liên thông đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2023-2024-doi-voi-sinh-vien-lop-lien-thong-dai-hoc-he-chinh-quy/)
