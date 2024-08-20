@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:21:12 20/08/2024",
+  "Update time": "03:08:02 20/08/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Thông báo thay đổi phòng thi cuối kỳ HK3/2324",
@@ -184,6 +184,11 @@
   ],
   "HCMUS-Thong tin nguoi hoc": [
     {
+      "tieuDe": "Thông báo kiểm tra Anh văn đầu khóa dành cho Tân sinh viên khóa 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-kiem-tra-anh-van-dau-danh-cho-tan-sinh-vien-khoa-2024/",
+      "date": "20/08/2024"
+    },
+    {
       "tieuDe": "ĐIỂM CHUẨN PHƯƠNG THỨC XÉT TUYỂN DỰA TRÊN KẾT QUẢ KỲ THI TỐT NGHIỆP THPT 2024",
       "url": "https://hcmus.edu.vn/diem-chuan-phuong-thuc-xet-tuyen-dua-tren-ket-qua-ky-thi-tot-nghiep-thpt-2024/",
       "date": "17/08/2024"
@@ -340,6 +345,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Thông báo kiểm tra Anh văn đầu khóa dành cho Tân sinh viên khóa 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-kiem-tra-anh-van-dau-danh-cho-tan-sinh-vien-khoa-2024/",
+      "date": "20/08/2024"
+    },
     {
       "tieuDe": "Thông báo đăng ký học phần HK1/2023-2024 Đối với sinh viên lớp Liên thông đại học hệ chính quy",
       "url": "https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2023-2024-doi-voi-sinh-vien-lop-lien-thong-dai-hoc-he-chinh-quy/",
