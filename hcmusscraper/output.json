@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "01:33:17 20/08/2024",
+  "Update time": "02:21:12 20/08/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Thông báo thay đổi phòng thi cuối kỳ HK3/2324",
@@ -48,6 +48,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 3 năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16332",
+      "date": "20/8/2024"
+    },
+    {
       "tieuDe": "Thông báo chỉ tiêu xét chuyên ngành Khóa 2022, chương trình Chuẩn ĐHCQ",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16330",
       "date": "19/8/2024"
@@ -91,11 +96,6 @@
       "tieuDe": "[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2020, đợt 2 (bảo vệ tháng 7, 8/2024)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16314",
       "date": "9/8/2024"
-    },
-    {
-      "tieuDe": "[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK1/2024-2025",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16312",
-      "date": "8/8/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -122,6 +122,11 @@
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [],
   "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
+    {
+      "tieuDe": "Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 3 năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16332",
+      "date": "20/08/2024"
+    },
     {
       "tieuDe": "Tổng kết Seminar Autonomous systems for humanity",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16328",
@@ -152,6 +157,11 @@
   ],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "[Uniquify Việt Nam] AI Basics to ChatGPT Training Program",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16333",
+      "date": "20/08/2024"
+    },
+    {
       "tieuDe": "VNPT ĐẮK LẮK TUYỂN DỤNG",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16331",
       "date": "19/08/2024"
@@ -170,11 +180,6 @@
       "tieuDe": "[CÔNG TY CỔ PHẦN IVS] CHƯƠNG TRÌNH NGHIÊN CỨU MÔ HÌNH ROBOT BẦY ĐÀN (SWARM ROBOTICS) (Giai đoạn 1: 2024 -2027)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16319",
       "date": "13/08/2024"
-    },
-    {
-      "tieuDe": "🔥 DÂN CHƠI AI SỢ MƯA RƠI, LẠI ĐÂY ĐĂNG KÝ ONE DAY BOSCHLER 🔥",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16315",
-      "date": "12/08/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
