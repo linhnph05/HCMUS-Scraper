@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "10:07:54 22/08/2024",
+  "Update time": "11:06:39 22/08/2024",
   "Thong Bao": [
     {
       "tieuDe": "https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-dot-thang-11-nam-2024/",
@@ -58,6 +58,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Chào mừng tân sinh viên khóa tuyển 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16335",
+      "date": "22/8/2024"
+    },
+    {
       "tieuDe": "[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp (KLTN/TTTN/TTDATN) Khóa 2021- Đợt 1",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16334",
       "date": "20/8/2024"
@@ -101,14 +106,14 @@
       "tieuDe": "[CNTN] Mời tham dự buổi bảo vệ Khóa luận tốt nghiệp lớp CNTN2020 (15/8 - 25/8/2024)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16317",
       "date": "12/8/2024"
-    },
-    {
-      "tieuDe": "[CQ] Điểm bảo vệ đề tài tốt nghiệp đợt tháng 7, 8/2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16316",
-      "date": "12/8/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Chào mừng tân sinh viên khóa tuyển 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16335",
+      "date": "22/08/2024"
+    },
     {
       "tieuDe": "Học bổng thực tập ngắn hạn tại Kyoto Institute of Technology, Nhật Bản năm 2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16329",
