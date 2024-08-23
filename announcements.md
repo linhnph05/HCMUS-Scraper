@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **10:22:15 23/08/2024**_
+_Last update: **11:32:21 23/08/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 22/08/2024: [https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-dot-thang-11-nam-2024/](https://www.ctda.hcmus.edu.vn/vi/2024/08/https-hcmus-edu-vn-thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-dot-thang-11-nam-2024/)
 * 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
@@ -50,6 +50,7 @@ No news in the last 1 month
 * 13/08/2024: [BOUYGUES CONSTRUCTION IT VIETNAM - Hiring Network/ System Interns for IT Supervision Level 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16320)
 * 13/08/2024: [[CÔNG TY CỔ PHẦN IVS] CHƯƠNG TRÌNH NGHIÊN CỨU MÔ HÌNH ROBOT BẦY ĐÀN (SWARM ROBOTICS) (Giai đoạn 1: 2024 -2027)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16319)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 23/08/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN PHÒNG THÍ NGHIỆM HÓA LÝ ỨNG DỤNG](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-phong-thi-nghiem-hoa-ly-ung-dung/)
 * 22/08/2024: [Quy định chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://hcmus.edu.vn/quy-dinh-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
 * 21/08/2024: [Thông báo tạm dừng Moodle để bảo trì](https://hcmus.edu.vn/thong-bao-tam-dung-moodle-de-bao-tri/)
 * 21/08/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại học ngành Khoa học môi trường, chương trình CLC – đợt tháng 10/2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-nganh-khoa-hoc-moi-truong-chuong-trinh-clc-dot-thang-10-2024/)
@@ -113,6 +114,7 @@ No news in the last 1 month
 * 26/07/2024: [Thông báo cập nhật thông tin chuyên ngành cho sinh viên đại học hệ chính quy các chương trình Khóa tuyển 2021 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-chuyen-nganh-cho-sinh-vien-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2021-tro-ve-truoc/)
 * 26/07/2024: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ctda/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
+* 23/08/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN PHÒNG THÍ NGHIỆM HÓA LÝ ỨNG DỤNG](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-phong-thi-nghiem-hoa-ly-ung-dung/)
 * 21/08/2024: [THÔNG BÁO KẾT QUẢ TRÚNG TUYỂN VÀ NHẬN GIẤY BÁO TRÚNG TUYỂN, HOÀN TẤT HỒ SƠ TUYỂN DỤNG](https://hcmus.edu.vn/thong-bao-ket-qua-trung-tuyen-va-nhan-giay-bao-trung-tuyen-hoan-tat-ho-so-tuyen-dung/)
 * 21/08/2024: [THÔNG BÁO KẾT QUẢ THI VÒNG 2 VÀ VÒNG KIỂM TRA SÁT HẠCH, KỲ TUYỂN DỤNG VIÊN CHỨC NĂM 2024](https://hcmus.edu.vn/thong-bao-ket-qua-thi-vong-2-va-vong-kiem-tra-sat-hach-ky-tuyen-dung-vien-chuc-nam-2024/)
 * 25/07/2024: [THÔNG BÁO TUYỂN DỤNG KHOA TOÁN – TIN HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-toan-tin-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
