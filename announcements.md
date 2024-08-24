@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **16:21:00 24/08/2024**_
+_Last update: **17:20:49 24/08/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 22/08/2024: [https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-dot-thang-11-nam-2024/](https://www.ctda.hcmus.edu.vn/vi/2024/08/https-hcmus-edu-vn-thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-dot-thang-11-nam-2024/)
 * 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
@@ -16,6 +16,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 24/8/2024: [v/v xét tuyển Chương trình Cử nhân tài năng nhóm ngành Máy tính và Công nghệ thông tin khóa tuyển 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16313)
 * 22/8/2024: [Chào mừng tân sinh viên khóa tuyển 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16335)
 * 20/8/2024: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp (KLTN/TTTN/TTDATN) Khóa 2021- Đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16334)
 * 20/8/2024: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 3 năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16332)
@@ -25,7 +26,6 @@ No news in the last 1 month
 * 14/8/2024: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 2 năm 2024]](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16325)
 * 13/8/2024: [Thông báo tuyển sinh Sau Đại học năm 2024 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16324)
 * 13/8/2024: [Thông báo mở lớp bổ túc kiến thức ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16321)
-* 12/8/2024: [[CNTN] Mời tham dự buổi bảo vệ Khóa luận tốt nghiệp lớp CNTN2020 (15/8 - 25/8/2024)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16317)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 22/08/2024: [Chào mừng tân sinh viên khóa tuyển 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16335)
 * 15/08/2024: [Học bổng thực tập ngắn hạn tại Kyoto Institute of Technology, Nhật Bản năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16329)
