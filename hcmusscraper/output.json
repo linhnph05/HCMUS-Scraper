@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "10:07:35 26/08/2024",
+  "Update time": "11:07:01 26/08/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo về việc khảo sát năng lực Anh văn đầu khóa đối với sinh viên chương trình Đề án Khoa Công nghệ thông tin khóa tuyển 2024",
@@ -172,6 +172,11 @@
   ],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "[RENESAS] Seeking support the Promotion of the Renesas Internship Program for Women in Semiconductor 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16340",
+      "date": "26/08/2024"
+    },
+    {
       "tieuDe": "FPT Software HCM tuyển dụng vị trí Thực tập sinh Angular",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16338",
       "date": "26/08/2024"
@@ -190,11 +195,6 @@
       "tieuDe": "[Q2, Q.Bình Thạnh] Golden Owl Solutions Tuyển dụng Thực Tập Sinh IT T8/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16326",
       "date": "14/08/2024"
-    },
-    {
-      "tieuDe": "BOUYGUES CONSTRUCTION IT VIETNAM - Hiring Network/ System Interns for IT Supervision Level 1",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16320",
-      "date": "13/08/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
