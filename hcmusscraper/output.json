@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:07:40 26/08/2024",
+  "Update time": "10:07:35 26/08/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo về việc khảo sát năng lực Anh văn đầu khóa đối với sinh viên chương trình Đề án Khoa Công nghệ thông tin khóa tuyển 2024",
@@ -172,6 +172,11 @@
   ],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "FPT Software HCM tuyển dụng vị trí Thực tập sinh Angular",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16338",
+      "date": "26/08/2024"
+    },
+    {
       "tieuDe": "[Uniquify Việt Nam] AI Basics to ChatGPT Training Program",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16333",
       "date": "20/08/2024"
@@ -190,14 +195,19 @@
       "tieuDe": "BOUYGUES CONSTRUCTION IT VIETNAM - Hiring Network/ System Interns for IT Supervision Level 1",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16320",
       "date": "13/08/2024"
-    },
-    {
-      "tieuDe": "[CÔNG TY CỔ PHẦN IVS] CHƯƠNG TRÌNH NGHIÊN CỨU MÔ HÌNH ROBOT BẦY ĐÀN (SWARM ROBOTICS) (Giai đoạn 1: 2024 -2027)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16319",
-      "date": "13/08/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "HỘI NGHỊ KHOA HỌC QUỐC TẾ GSETS 2025 [HUTECH]",
+      "url": "https://hcmus.edu.vn/hoi-nghi-khoa-hoc-quoc-te-gsets-2025-hutech/",
+      "date": "26/08/2024"
+    },
+    {
+      "tieuDe": "THÔNG TIN GIẢI THƯỞNG KHUÊ VĂN CÁC LẦN 1 NĂM 2024",
+      "url": "https://hcmus.edu.vn/thong-tin-giai-thuong-khue-van-cac-lan-1-nam-2024/",
+      "date": "26/08/2024"
+    },
     {
       "tieuDe": "Kế hoạch mở học phần học kỳ 1 / 2023-2024 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)",
       "url": "https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh-2/",
