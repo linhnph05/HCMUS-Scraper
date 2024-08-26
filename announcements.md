@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:21:30 26/08/2024**_
+_Last update: **07:38:27 26/08/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 22/08/2024: [https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-dot-thang-11-nam-2024/](https://www.ctda.hcmus.edu.vn/vi/2024/08/https-hcmus-edu-vn-thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-dot-thang-11-nam-2024/)
 * 21/08/2024: [[CTĐA] Kế hoạch năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/)
@@ -86,8 +86,6 @@ No news in the last 1 month
 * 31/07/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy các chương trình, cho đợt công bố danh sách tốt nghiệp vào tháng 9 và tháng 10 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-cac-chuong-trinh-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-9-va-thang-10-nam-2024/)
 * 30/07/2024: [Thông báo Chương trình học bổng Maha năm 2024 (đợt 2)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024-dot-2/)
 * 29/07/2024: [THÔNG BÁO ĐỀ XUẤT, ĐẶT HÀNG NHIỆM VỤ KHOA HỌC CÔNG NGHỆ TỈNH HẬU GIANG 2025-2030](https://hcmus.edu.vn/thong-bao-de-xuat-dat-hang-nhiem-vu-khoa-hoc-cong-nghe-tinh-hau-giang-2025-2030/)
-* 26/07/2024: [Thông báo cập nhật thông tin chuyên ngành cho sinh viên đại học hệ chính quy các chương trình Khóa tuyển 2021 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-chuyen-nganh-cho-sinh-vien-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2021-tro-ve-truoc/)
-* 26/07/2024: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ctda/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 23/08/2024: [THÔNG BÁO V/v tổ chức Tuần lễ Sinh hoạt Công dân – Sinh viên đối với Tân sinh viên khóa tuyển 2024](https://hcmus.edu.vn/thong-bao-v-v-to-chuc-tuan-le-sinh-hoat-cong-dan-sinh-vien-doi-voi-tan-sinh-vien-khoa-tuyen-2024/)
 * 22/08/2024: [Quy định chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://hcmus.edu.vn/quy-dinh-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
@@ -110,8 +108,6 @@ No news in the last 1 month
 * 01/08/2024: [[THÔNG BÁO] Chương trình học bổng Toshiba năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-toshiba-nam-hoc-2024-2025/)
 * 31/07/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy các chương trình, cho đợt công bố danh sách tốt nghiệp vào tháng 9 và tháng 10 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-cac-chuong-trinh-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-9-va-thang-10-nam-2024/)
 * 30/07/2024: [Thông báo Chương trình học bổng Maha năm 2024 (đợt 2)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024-dot-2/)
-* 26/07/2024: [Thông báo cập nhật thông tin chuyên ngành cho sinh viên đại học hệ chính quy các chương trình Khóa tuyển 2021 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-chuyen-nganh-cho-sinh-vien-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2021-tro-ve-truoc/)
-* 26/07/2024: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ctda/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 23/08/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN PHÒNG THÍ NGHIỆM HÓA LÝ ỨNG DỤNG](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-phong-thi-nghiem-hoa-ly-ung-dung/)
 * 21/08/2024: [THÔNG BÁO KẾT QUẢ TRÚNG TUYỂN VÀ NHẬN GIẤY BÁO TRÚNG TUYỂN, HOÀN TẤT HỒ SƠ TUYỂN DỤNG](https://hcmus.edu.vn/thong-bao-ket-qua-trung-tuyen-va-nhan-giay-bao-trung-tuyen-hoan-tat-ho-so-tuyen-dung/)
@@ -124,7 +120,6 @@ No news in the last 1 month
 * 07/08/2024: [Thông báo về việc đăng ký nội trú tại Ký túc xá Trường, Học kỳ 1, năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-ve-viec-dang-ky-noi-tru-tai-ky-tuc-xa-truong-hoc-ky-1-nam-hoc-2024-2025/)
 * 02/08/2024: [Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025](https://hcmus.edu.vn/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/)
 * 01/08/2024: [THÔNG TIN GIẢI THƯỞNG BẢO SƠN 2024](https://hcmus.edu.vn/thong-tin-giai-thuong-bao-son-2024/)
-* 26/07/2024: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (Chương trình đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ctda/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
 * 19/08/2024: [Kết quả học bổng Vallet năm 2024](https://hcmus.edu.vn/ket-qua-hoc-bong-vallet-nam-2024/)
 * 14/08/2024: [[THÔNG BÁO] Chương trình DiscoverNUS của Đại học Quốc gia Singapore (NUS) – Deadline 16/8/2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-discovernus-cua-dai-hoc-quoc-gia-singapore-nus-deadline-16-8-2024/)
