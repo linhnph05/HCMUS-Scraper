@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:06:38 27/08/2024",
+  "Update time": "08:08:34 27/08/2024",
   "Thong Bao": [
     {
       "tieuDe": "Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024",
@@ -64,6 +64,16 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Thông báo về việc khảo sát năng lực lập trình đầu khóa cho sinh viên khóa tuyển 2024 chương trình Tăng cường tiếng Anh ngành Công nghệ thông tin",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16342",
+      "date": "27/8/2024"
+    },
+    {
+      "tieuDe": "Thông báo về việc khảo sát năng lực Anh văn đầu khóa đối với sinh viên chương trình Đề án Khoa Công nghệ thông tin khóa tuyển 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16341",
+      "date": "27/8/2024"
+    },
+    {
       "tieuDe": "[CNTN] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ lớp CNTN2020 (bảo vệ tháng 8/2024)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16339",
       "date": "26/8/2024"
@@ -102,19 +112,19 @@
       "tieuDe": "Tổng kết Seminar Autonomous systems for humanity",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16328",
       "date": "15/8/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 2 năm 2024]",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16325",
-      "date": "14/8/2024"
-    },
-    {
-      "tieuDe": "Thông báo tuyển sinh Sau Đại học năm 2024 - đợt 2",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16324",
-      "date": "13/8/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Thông báo về việc khảo sát năng lực lập trình đầu khóa cho sinh viên khóa tuyển 2024 chương trình Tăng cường tiếng Anh ngành Công nghệ thông tin",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16342",
+      "date": "27/08/2024"
+    },
+    {
+      "tieuDe": "Thông báo về việc khảo sát năng lực Anh văn đầu khóa đối với sinh viên chương trình Đề án Khoa Công nghệ thông tin khóa tuyển 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16341",
+      "date": "27/08/2024"
+    },
     {
       "tieuDe": "Chào mừng tân sinh viên khóa tuyển 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16335",
@@ -128,11 +138,6 @@
     {
       "tieuDe": "Chương trình học bổng Toshiba năm học 2024-2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16304",
-      "date": "31/07/2024"
-    },
-    {
-      "tieuDe": "Vodcast giới thiệu ngành/ chuyên ngành Khoa Công nghệ thông tin",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16303",
       "date": "31/07/2024"
     }
   ],
@@ -199,6 +204,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "THÔNG BÁO TUYỂN DỤNG TRỢ GIẢNG KHOA TOÁN – TIN HỌC",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-tro-giang-khoa-toan-tin-hoc/",
+      "date": "27/08/2024"
+    },
     {
       "tieuDe": "HỘI NGHỊ KHOA HỌC QUỐC TẾ GSETS 2025 [HUTECH]",
       "url": "https://hcmus.edu.vn/hoi-nghi-khoa-hoc-quoc-te-gsets-2025-hutech/",
@@ -523,6 +533,11 @@
     }
   ],
   "HCMUS-Tuyen dung": [
+    {
+      "tieuDe": "THÔNG BÁO TUYỂN DỤNG TRỢ GIẢNG KHOA TOÁN – TIN HỌC",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-tro-giang-khoa-toan-tin-hoc/",
+      "date": "27/08/2024"
+    },
     {
       "tieuDe": "THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN PHÒNG THÍ NGHIỆM HÓA LÝ ỨNG DỤNG",
       "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-phong-thi-nghiem-hoa-ly-ung-dung/",
