@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **21:29:16 28/08/2024**_
+_Last update: **22:20:36 28/08/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 28/08/2024: [Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/thong-bao-thay-doi-phong-thi-nm-cong-nghe-phan-mem_hk3-2324/)
 * 27/08/2024: [Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
@@ -14,7 +14,7 @@ _Last update: **21:29:16 28/08/2024**_
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
-No news in the last 1 month
+* 27/08/2024: [Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
@@ -42,6 +42,7 @@ No news in the last 1 month
 * 14/08/2024: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 2 năm 2024]](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16325)
 * 07/08/2024: [Đăng ký tham gia Seminar Autonomous systems for humanity](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16310)
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 28/08/2024: [Chương trình Sudo Code 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16344)
 * 14/08/2024: [Chương trình DiscoverNUS của Đại học Quốc gia Singapore (NUS)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16327)
 * 13/08/2024: [V/v tuyển sinh viên tham dự Diễn đàn Thủ lĩnh sinh viên Đông Nam Á tại Malaysia](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16322)
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
