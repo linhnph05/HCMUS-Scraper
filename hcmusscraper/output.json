@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "23:06:46 28/08/2024",
+  "Update time": "00:24:57 29/08/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324",
@@ -54,7 +54,13 @@
     }
   ],
   "Tin tuc": [],
-  "Thong tin can biet": [],
+  "Thong tin can biet": [
+    {
+      "tieuDe": "Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/",
+      "date": "27/08/2024"
+    }
+  ],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
@@ -422,11 +428,6 @@
       "tieuDe": "Thông báo Chương trình học bổng Maha năm 2024 (đợt 2)",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024-dot-2/",
       "date": "30/07/2024"
-    },
-    {
-      "tieuDe": "THÔNG BÁO ĐỀ XUẤT, ĐẶT HÀNG NHIỆM VỤ KHOA HỌC CÔNG NGHỆ TỈNH HẬU GIANG 2025-2030",
-      "url": "https://hcmus.edu.vn/thong-bao-de-xuat-dat-hang-nhiem-vu-khoa-hoc-cong-nghe-tinh-hau-giang-2025-2030/",
-      "date": "29/07/2024"
     }
   ],
   "HCMUS-Thong tin sinh vien": [
