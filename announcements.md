@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **14:22:31 29/08/2024**_
+_Last update: **15:24:23 29/08/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 28/08/2024: [Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/thong-bao-thay-doi-phong-thi-nm-cong-nghe-phan-mem_hk3-2324/)
 * 27/08/2024: [Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
@@ -52,6 +52,8 @@ No news in the last 1 month
 * 19/08/2024: [VNPT ĐẮK LẮK TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16331)
 * 14/08/2024: [[Q2, Q.Bình Thạnh] Golden Owl Solutions Tuyển dụng Thực Tập Sinh IT T8/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16326)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 29/08/2024: [Quyết định Về việc công nhận kết quả tuyển dụng viên chức năm 2024](https://hcmus.edu.vn/quyet-dinh-ve-viec-cong-nhan-ket-qua-tuyen-dung-vien-chuc-nam-2024/)
+* 29/08/2024: [Chương trình học bổng do Tổ chức Christina Noble Children’s Foundation tài trợ dành cho sinh viên năm cuối (năm học 2024-2025)](https://hcmus.edu.vn/chuong-trinh-hoc-bong-do-to-chuc-christina-noble-childrens-foundation-tai-tro-danh-cho-sinh-vien-nam-cuoi-nam-hoc-2024-2025/)
 * 27/08/2024: [Thông báo Kế hoạch tổ chức tiếp nhận, quản lý, rèn luyện trong việc học tập Giáo dục Quốc phòng – An ninh năm 2024](https://hcmus.edu.vn/thong-bao-ke-hoach-to-chuc-tiep-nhan-quan-ly-ren-luyen-giao-duc-quoc-phong-an-ninh-nam-2024/)
 * 27/08/2024: [THÔNG TIN GIẢI THƯỞNG SÁNG TẠO TƯƠNG LAI VIETFUTURE AWARDS 2024](https://hcmus.edu.vn/thong-tin-giai-thuong-sang-tao-tuong-lai-vietfuture-awards-2024-2/)
 * 27/08/2024: [THƯ MỜI THAM GIA VIẾT BÀI TỌA ĐÀM HÓA HỌC VỚI CUỘC SỐNG – HỘI HÓA HỌC TP HCM](https://hcmus.edu.vn/thu-moi-viet-bai-toa-dam-hoa-hoc-voi-cuoc-song/)
@@ -97,6 +99,7 @@ No news in the last 1 month
 * 31/07/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy các chương trình, cho đợt công bố danh sách tốt nghiệp vào tháng 9 và tháng 10 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-cac-chuong-trinh-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-9-va-thang-10-nam-2024/)
 * 30/07/2024: [Thông báo Chương trình học bổng Maha năm 2024 (đợt 2)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024-dot-2/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 29/08/2024: [Chương trình học bổng do Tổ chức Christina Noble Children’s Foundation tài trợ dành cho sinh viên năm cuối (năm học 2024-2025)](https://hcmus.edu.vn/chuong-trinh-hoc-bong-do-to-chuc-christina-noble-childrens-foundation-tai-tro-danh-cho-sinh-vien-nam-cuoi-nam-hoc-2024-2025/)
 * 27/08/2024: [Thông báo Kế hoạch tổ chức tiếp nhận, quản lý, rèn luyện trong việc học tập Giáo dục Quốc phòng – An ninh năm 2024](https://hcmus.edu.vn/thong-bao-ke-hoach-to-chuc-tiep-nhan-quan-ly-ren-luyen-giao-duc-quoc-phong-an-ninh-nam-2024/)
 * 26/08/2024: [Kế hoạch mở học phần học kỳ 1 / 2023-2024 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh-2/)
 * 26/08/2024: [Kế hoạch mở học phần học kỳ 1 / 2023-2024 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh/)
@@ -122,6 +125,7 @@ No news in the last 1 month
 * 31/07/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại học hệ chính quy các chương trình, cho đợt công bố danh sách tốt nghiệp vào tháng 9 và tháng 10 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-he-chinh-quy-cac-chuong-trinh-cho-dot-cong-bo-danh-sach-tot-nghiep-vao-thang-9-va-thang-10-nam-2024/)
 * 30/07/2024: [Thông báo Chương trình học bổng Maha năm 2024 (đợt 2)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-maha-nam-2024-dot-2/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
+* 29/08/2024: [Quyết định Về việc công nhận kết quả tuyển dụng viên chức năm 2024](https://hcmus.edu.vn/quyet-dinh-ve-viec-cong-nhan-ket-qua-tuyen-dung-vien-chuc-nam-2024/)
 * 27/08/2024: [THÔNG BÁO TUYỂN DỤNG TRỢ GIẢNG KHOA TOÁN – TIN HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-tro-giang-khoa-toan-tin-hoc/)
 * 23/08/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN PHÒNG THÍ NGHIỆM HÓA LÝ ỨNG DỤNG](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-phong-thi-nghiem-hoa-ly-ung-dung/)
 * 21/08/2024: [THÔNG BÁO KẾT QUẢ TRÚNG TUYỂN VÀ NHẬN GIẤY BÁO TRÚNG TUYỂN, HOÀN TẤT HỒ SƠ TUYỂN DỤNG](https://hcmus.edu.vn/thong-bao-ket-qua-trung-tuyen-va-nhan-giay-bao-trung-tuyen-hoan-tat-ho-so-tuyen-dung/)
@@ -135,6 +139,7 @@ No news in the last 1 month
 * 02/08/2024: [Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025](https://hcmus.edu.vn/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/)
 * 01/08/2024: [THÔNG TIN GIẢI THƯỞNG BẢO SƠN 2024](https://hcmus.edu.vn/thong-tin-giai-thuong-bao-son-2024/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
+* 29/08/2024: [Chương trình học bổng do Tổ chức Christina Noble Children’s Foundation tài trợ dành cho sinh viên năm cuối (năm học 2024-2025)](https://hcmus.edu.vn/chuong-trinh-hoc-bong-do-to-chuc-christina-noble-childrens-foundation-tai-tro-danh-cho-sinh-vien-nam-cuoi-nam-hoc-2024-2025/)
 * 19/08/2024: [Kết quả học bổng Vallet năm 2024](https://hcmus.edu.vn/ket-qua-hoc-bong-vallet-nam-2024/)
 * 14/08/2024: [[THÔNG BÁO] Chương trình DiscoverNUS của Đại học Quốc gia Singapore (NUS) – Deadline 16/8/2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-discovernus-cua-dai-hoc-quoc-gia-singapore-nus-deadline-16-8-2024/)
 * 02/08/2024: [Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025](https://hcmus.edu.vn/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/)
