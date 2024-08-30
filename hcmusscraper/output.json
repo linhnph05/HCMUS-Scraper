@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:24:44 30/08/2024",
+  "Update time": "03:07:36 30/08/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324",
@@ -54,13 +54,7 @@
     }
   ],
   "Tin tuc": [],
-  "Thong tin can biet": [
-    {
-      "tieuDe": "Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/",
-      "date": "27/08/2024"
-    }
-  ],
+  "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
@@ -209,6 +203,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Các mốc thời gian Tân sinh viên cần lưu ý",
+      "url": "https://hcmus.edu.vn/cac-moc-thoi-gian-tan-sinh-vien-can-luu-y/",
+      "date": "30/08/2024"
+    },
     {
       "tieuDe": "Quyết định Về việc công nhận kết quả tuyển dụng viên chức năm 2024",
       "url": "https://hcmus.edu.vn/quyet-dinh-ve-viec-cong-nhan-ket-qua-tuyen-dung-vien-chuc-nam-2024/",
@@ -436,6 +435,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Các mốc thời gian Tân sinh viên cần lưu ý",
+      "url": "https://hcmus.edu.vn/cac-moc-thoi-gian-tan-sinh-vien-can-luu-y/",
+      "date": "30/08/2024"
+    },
     {
       "tieuDe": "Chương trình học bổng do Tổ chức Christina Noble Children’s Foundation tài trợ dành cho sinh viên năm cuối (năm học 2024-2025)",
       "url": "https://hcmus.edu.vn/chuong-trinh-hoc-bong-do-to-chuc-christina-noble-childrens-foundation-tai-tro-danh-cho-sinh-vien-nam-cuoi-nam-hoc-2024-2025/",
