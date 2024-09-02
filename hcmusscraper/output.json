@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "14:06:33 02/09/2024",
+  "Update time": "15:06:51 02/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324",
@@ -74,6 +74,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "[CQ] Kết quả xét chuyên ngành sinh viên Khóa 2022, ĐHCQ chương trình Chuẩn (cập nhật)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16348",
+      "date": "2/9/2024"
+    },
+    {
       "tieuDe": "[CQ] Kết quả xét chuyên ngành sinh viên Khóa 2022, ĐHCQ chương trình Chuẩn",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16347",
       "date": "2/9/2024"
@@ -116,11 +121,6 @@
     {
       "tieuDe": "[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp (KLTN/TTTN/TTDATN) Khóa 2021- Đợt 1",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16334",
-      "date": "20/8/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 3 năm 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16332",
       "date": "20/8/2024"
     }
   ],
