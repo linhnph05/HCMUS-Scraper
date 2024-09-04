@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **11:25:53 04/09/2024**_
+_Last update: **12:19:08 04/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 28/08/2024: [Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/thong-bao-thay-doi-phong-thi-nm-cong-nghe-phan-mem_hk3-2324/)
 * 27/08/2024: [Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
@@ -48,11 +48,11 @@ No news in the last 1 month
 * 14/08/2024: [Chương trình DiscoverNUS của Đại học Quốc gia Singapore (NUS)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16327)
 * 13/08/2024: [V/v tuyển sinh viên tham dự Diễn đàn Thủ lĩnh sinh viên Đông Nam Á tại Malaysia](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16322)
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 04/09/2024: [Cloud Engineering Interns/Contractors](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16349)
 * 29/08/2024: [🔥CHƯƠNG TRÌNH ĐẠI SỨ SINH VIÊN FPT SOFTWARE CHÍNH THỨC MỞ ĐƠN ĐĂNG KÝ🔥](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16337)
 * 26/08/2024: [[RENESAS] Renesas Internship Program for Women in Semiconductor 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16340)
 * 26/08/2024: [FPT Software HCM tuyển dụng vị trí Thực tập sinh Angular](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16338)
 * 20/08/2024: [[Uniquify Việt Nam] AI Basics to ChatGPT Training Program](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16333)
-* 19/08/2024: [VNPT ĐẮK LẮK TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16331)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 04/09/2024: [[THÔNG BÁO] Học bổng của Chính phủ Thụy Sỹ/The Swiss Government Excellence Scholarships](https://hcmus.edu.vn/thong-bao-hoc-bong-cua-chinh-phu-thuy-sy-the-swiss-government-excellence-scholarships/)
 * 30/08/2024: [Lịch thi Anh văn đầu khóa 2024](https://hcmus.edu.vn/lich-thi-anh-van-dau-khoa-2024/)
