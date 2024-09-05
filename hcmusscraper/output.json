@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:07:11 05/09/2024",
+  "Update time": "10:07:28 05/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324",
@@ -64,6 +64,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "[CQ Chuẩn] Kết quả xét tuyển lớp Cử nhân tài năng Khoá tuyển 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16352",
+      "date": "5/9/2024"
+    },
+    {
       "tieuDe": "Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Đỗ Đức Hào",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16350",
       "date": "5/9/2024"
@@ -107,11 +112,6 @@
       "tieuDe": "v/v xét tuyển Chương trình Cử nhân tài năng nhóm ngành Máy tính và Công nghệ thông tin khóa tuyển 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16313",
       "date": "24/8/2024"
-    },
-    {
-      "tieuDe": "Chào mừng tân sinh viên khóa tuyển 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16335",
-      "date": "22/8/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
