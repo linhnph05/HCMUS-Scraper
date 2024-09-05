@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **07:41:39 05/09/2024**_
+_Last update: **08:45:45 05/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 28/08/2024: [Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/thong-bao-thay-doi-phong-thi-nm-cong-nghe-phan-mem_hk3-2324/)
 * 27/08/2024: [Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
@@ -63,8 +63,8 @@ No news in the last 1 month
 * 27/08/2024: [THÔNG BÁO TUYỂN DỤNG TRỢ GIẢNG KHOA TOÁN – TIN HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-tro-giang-khoa-toan-tin-hoc/)
 * 26/08/2024: [HỘI NGHỊ KHOA HỌC QUỐC TẾ GSETS 2025 [HUTECH]](https://hcmus.edu.vn/hoi-nghi-khoa-hoc-quoc-te-gsets-2025-hutech/)
 * 26/08/2024: [THÔNG TIN GIẢI THƯỞNG KHUÊ VĂN CÁC LẦN 1 NĂM 2024](https://hcmus.edu.vn/thong-tin-giai-thuong-khue-van-cac-lan-1-nam-2024/)
-* 26/08/2024: [Kế hoạch mở học phần học kỳ 1 / 2023-2024 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh-2/)
-* 26/08/2024: [Kế hoạch mở học phần học kỳ 1 / 2023-2024 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh/)
+* 26/08/2024: [Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh-2/)
+* 26/08/2024: [Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh/)
 * 23/08/2024: [THÔNG BÁO V/v tổ chức Tuần lễ Sinh hoạt Công dân – Sinh viên đối với Tân sinh viên khóa tuyển 2024](https://hcmus.edu.vn/thong-bao-v-v-to-chuc-tuan-le-sinh-hoat-cong-dan-sinh-vien-doi-voi-tan-sinh-vien-khoa-tuyen-2024/)
 * 23/08/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN PHÒNG THÍ NGHIỆM HÓA LÝ ỨNG DỤNG](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-phong-thi-nghiem-hoa-ly-ung-dung/)
 * 22/08/2024: [Quy định chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://hcmus.edu.vn/quy-dinh-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
@@ -96,8 +96,8 @@ No news in the last 1 month
 * 30/08/2024: [Các mốc thời gian Tân sinh viên cần lưu ý](https://hcmus.edu.vn/cac-moc-thoi-gian-tan-sinh-vien-can-luu-y/)
 * 29/08/2024: [Chương trình học bổng do Tổ chức Christina Noble Children’s Foundation tài trợ dành cho sinh viên năm cuối (năm học 2024-2025)](https://hcmus.edu.vn/chuong-trinh-hoc-bong-do-to-chuc-christina-noble-childrens-foundation-tai-tro-danh-cho-sinh-vien-nam-cuoi-nam-hoc-2024-2025/)
 * 27/08/2024: [Thông báo Kế hoạch tổ chức tiếp nhận, quản lý, rèn luyện trong việc học tập Giáo dục Quốc phòng – An ninh năm 2024](https://hcmus.edu.vn/thong-bao-ke-hoach-to-chuc-tiep-nhan-quan-ly-ren-luyen-giao-duc-quoc-phong-an-ninh-nam-2024/)
-* 26/08/2024: [Kế hoạch mở học phần học kỳ 1 / 2023-2024 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh-2/)
-* 26/08/2024: [Kế hoạch mở học phần học kỳ 1 / 2023-2024 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh/)
+* 26/08/2024: [Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh-2/)
+* 26/08/2024: [Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh/)
 * 23/08/2024: [THÔNG BÁO V/v tổ chức Tuần lễ Sinh hoạt Công dân – Sinh viên đối với Tân sinh viên khóa tuyển 2024](https://hcmus.edu.vn/thong-bao-v-v-to-chuc-tuan-le-sinh-hoat-cong-dan-sinh-vien-doi-voi-tan-sinh-vien-khoa-tuyen-2024/)
 * 22/08/2024: [Quy định chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://hcmus.edu.vn/quy-dinh-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
 * 21/08/2024: [Thông báo tạm dừng Moodle để bảo trì](https://hcmus.edu.vn/thong-bao-tam-dung-moodle-de-bao-tri/)
