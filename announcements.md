@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:18:09 05/09/2024**_
+_Last update: **07:41:39 05/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 28/08/2024: [Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/thong-bao-thay-doi-phong-thi-nm-cong-nghe-phan-mem_hk3-2324/)
 * 27/08/2024: [Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
@@ -91,8 +91,6 @@ No news in the last 1 month
 * 07/08/2024: [Thông báo nộp học phí Học kỳ hè NH 2023-2024 – Chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-he-nh-2023-2024-chuong-trinh-dai-tra/)
 * 07/08/2024: [Thông báo về việc đăng ký nội trú tại Ký túc xá Trường, Học kỳ 1, năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-ve-viec-dang-ky-noi-tru-tai-ky-tuc-xa-truong-hoc-ky-1-nam-hoc-2024-2025/)
 * 06/08/2024: [[THÔNG BÁO] Chương trình Thạc sĩ/Tiến sĩ về Robotics và Bioengineering – ĐH Osaka, Nhật Bản](https://hcmus.edu.vn/thong-bao-chuong-trinh-thac-si-tien-si-ve-robotics-va-bioengineering-dh-osaka-nhat-ban/)
-* 05/08/2024: [THÔNG BÁO TUYỂN CHỌN TỔ CHỨC CÁ NHÂN THỰC HIỆN NHIỆM VỤ KHOA HỌC CÔNG NGHỆ AN GIANG 2023-2024 LẦN 3](https://hcmus.edu.vn/thong-bao-tuyen-chon-to-chuc-ca-nhan-thuc-hien-nhiem-vu-khoa-hoc-cong-nghe-an-giang-2023-2024-lan-3/)
-* 05/08/2024: [CUỘC THI ROBOCUS 2024: THÀNH CÔNG VÀ ẤN TƯỢNG](https://hcmus.edu.vn/cuoc-thi-robocus-2024-thanh-cong-va-an-tuong/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 30/08/2024: [Lịch thi Anh văn đầu khóa 2024](https://hcmus.edu.vn/lich-thi-anh-van-dau-khoa-2024/)
 * 30/08/2024: [Các mốc thời gian Tân sinh viên cần lưu ý](https://hcmus.edu.vn/cac-moc-thoi-gian-tan-sinh-vien-can-luu-y/)
