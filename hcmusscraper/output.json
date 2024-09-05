@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:07:05 05/09/2024",
+  "Update time": "08:09:02 05/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324",
@@ -189,6 +189,11 @@
   ],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "[GOLDEN OWL SOLUTIONS] TUYỂN DỤNG VỊ TRÍ RUBY INTERN",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16351",
+      "date": "05/09/2024"
+    },
+    {
       "tieuDe": "Cloud Engineering Interns/Contractors",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16349",
       "date": "04/09/2024"
@@ -207,14 +212,14 @@
       "tieuDe": "FPT Software HCM tuyển dụng vị trí Thực tập sinh Angular",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16338",
       "date": "26/08/2024"
-    },
-    {
-      "tieuDe": "[Uniquify Việt Nam] AI Basics to ChatGPT Training Program",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16333",
-      "date": "20/08/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Kế hoạch thực hành Hóa đại cương 1, 2 trong HK1/24-25",
+      "url": "https://hcmus.edu.vn/ke-hoach-thuc-hanh-hoa-dai-cuong-1-2-trong-hk1-24-25/",
+      "date": "05/09/2024"
+    },
     {
       "tieuDe": "[THÔNG BÁO] Học bổng của Chính phủ Thụy Sỹ/The Swiss Government Excellence Scholarships",
       "url": "https://hcmus.edu.vn/thong-bao-hoc-bong-cua-chinh-phu-thuy-sy-the-swiss-government-excellence-scholarships/",
@@ -412,6 +417,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Kế hoạch thực hành Hóa đại cương 1, 2 trong HK1/24-25",
+      "url": "https://hcmus.edu.vn/ke-hoach-thuc-hanh-hoa-dai-cuong-1-2-trong-hk1-24-25/",
+      "date": "05/09/2024"
+    },
     {
       "tieuDe": "Lịch thi Anh văn đầu khóa 2024",
       "url": "https://hcmus.edu.vn/lich-thi-anh-van-dau-khoa-2024/",
