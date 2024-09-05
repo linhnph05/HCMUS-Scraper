@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:20:43 05/09/2024**_
+_Last update: **16:18:09 05/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 28/08/2024: [Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/thong-bao-thay-doi-phong-thi-nm-cong-nghe-phan-mem_hk3-2324/)
 * 27/08/2024: [Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
@@ -52,6 +52,7 @@ No news in the last 1 month
 * 26/08/2024: [[RENESAS] Renesas Internship Program for Women in Semiconductor 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16340)
 * 26/08/2024: [FPT Software HCM tuyển dụng vị trí Thực tập sinh Angular](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16338)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 05/09/2024: [THƯ MỜI VIẾT BÀI HỘI THẢO KHOA HỌC QUỐC TẾ ICISN 2025](https://hcmus.edu.vn/thu-moi-viet-bai-hoi-thao-khoa-hoc-quoc-te-icisn-2025/)
 * 05/09/2024: [Kế hoạch thực hành Hóa đại cương 1, 2 trong HK1/24-25](https://hcmus.edu.vn/ke-hoach-thuc-hanh-hoa-dai-cuong-1-2-trong-hk1-24-25/)
 * 04/09/2024: [[THÔNG BÁO] Học bổng của Chính phủ Thụy Sỹ/The Swiss Government Excellence Scholarships](https://hcmus.edu.vn/thong-bao-hoc-bong-cua-chinh-phu-thuy-sy-the-swiss-government-excellence-scholarships/)
 * 30/08/2024: [Lịch thi Anh văn đầu khóa 2024](https://hcmus.edu.vn/lich-thi-anh-van-dau-khoa-2024/)
