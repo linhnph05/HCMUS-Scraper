@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "10:07:28 05/09/2024",
+  "Update time": "11:07:35 05/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324",
@@ -54,15 +54,14 @@
     }
   ],
   "Tin tuc": [],
-  "Thong tin can biet": [
-    {
-      "tieuDe": "Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/",
-      "date": "27/08/2024"
-    }
-  ],
+  "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "[CQ] Thông báo kiểm tra kết quả đăng ký học phần HK1, NH 2024-2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16353",
+      "date": "5/9/2024"
+    },
     {
       "tieuDe": "[CQ Chuẩn] Kết quả xét tuyển lớp Cử nhân tài năng Khoá tuyển 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16352",
@@ -107,14 +106,14 @@
       "tieuDe": "[CNTN] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ lớp CNTN2020 (bảo vệ tháng 8/2024)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16339",
       "date": "26/8/2024"
-    },
-    {
-      "tieuDe": "v/v xét tuyển Chương trình Cử nhân tài năng nhóm ngành Máy tính và Công nghệ thông tin khóa tuyển 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16313",
-      "date": "24/8/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Chương trình trao đổi học kỳ mùa xuân 2025 - Đại học Khoa học và Công nghệ Pohang (POSTECH)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16354",
+      "date": "05/09/2024"
+    },
     {
       "tieuDe": "Danh sách học phần đề nghị học trước áp dụng từ năm học 2024-2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16345",
@@ -134,11 +133,6 @@
       "tieuDe": "Chào mừng tân sinh viên khóa tuyển 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16335",
       "date": "22/08/2024"
-    },
-    {
-      "tieuDe": "Học bổng thực tập ngắn hạn tại Kyoto Institute of Technology, Nhật Bản năm 2025",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16329",
-      "date": "15/08/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
