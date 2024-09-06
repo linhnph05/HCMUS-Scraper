@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "10:07:10 06/09/2024",
+  "Update time": "11:07:18 06/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324",
@@ -59,6 +59,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Chương trình Hành trang tân sinh viên Khoa Công nghệ Thông tin khóa tuyển 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16357",
+      "date": "6/9/2024"
+    },
+    {
       "tieuDe": "[CQ] Thông báo kiểm tra kết quả đăng ký học phần HK1, NH 2024-2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16353",
       "date": "5/9/2024"
@@ -102,14 +107,14 @@
       "tieuDe": "Thông báo về việc khảo sát năng lực lập trình đầu khóa cho sinh viên khóa tuyển 2024 chương trình Tăng cường tiếng Anh ngành Công nghệ thông tin",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16342",
       "date": "27/8/2024"
-    },
-    {
-      "tieuDe": "Thông báo về việc khảo sát năng lực Anh văn đầu khóa đối với sinh viên chương trình Đề án Khoa Công nghệ thông tin khóa tuyển 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16341",
-      "date": "27/8/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Chương trình Hành trang tân sinh viên Khoa Công nghệ Thông tin khóa tuyển 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16357",
+      "date": "06/09/2024"
+    },
     {
       "tieuDe": "Chương trình trao đổi học kỳ mùa xuân 2025 - Đại học Khoa học và Công nghệ Pohang (POSTECH)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16354",
@@ -128,11 +133,6 @@
     {
       "tieuDe": "Thông báo về việc khảo sát năng lực lập trình đầu khóa cho sinh viên khóa tuyển 2024 chương trình Tăng cường tiếng Anh ngành Công nghệ thông tin",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16342",
-      "date": "27/08/2024"
-    },
-    {
-      "tieuDe": "Thông báo về việc khảo sát năng lực Anh văn đầu khóa đối với sinh viên chương trình Đề án Khoa Công nghệ thông tin khóa tuyển 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16341",
       "date": "27/08/2024"
     }
   ],
