@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:25:16 06/09/2024",
+  "Update time": "03:07:59 06/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324",
@@ -26,10 +26,36 @@
       "tieuDe": "Thông báo nộp hồ sơ xét hoàn tất chương trình đào tạo trình độ đại học hệ chính quy đợt tháng 11/2024",
       "url": "https://www.ctda.hcmus.edu.vn/vi/2024/08/https-hcmus-edu-vn-thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-dot-thang-11-nam-2024/",
       "date": "22/08/2024"
+    },
+    {
+      "tieuDe": "[CTĐA] Kế hoạch năm học 2024-2025",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda-ke-hoach-nam-hoc-2024-2025/",
+      "date": "21/08/2024"
+    },
+    {
+      "tieuDe": "CTĐA_Thông báo thay đổi phòng thi cuối kỳ HK3/2324",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda_thong-bao-thay-doi-phong-thi-hk3-2324/",
+      "date": "19/08/2024"
+    },
+    {
+      "tieuDe": "CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2020 – Đợt 2",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2020-dot-2/",
+      "date": "16/08/2024"
+    },
+    {
+      "tieuDe": "CTĐA_ Thông báo thực hiện khảo sát đánh giá môn học – Giảng viên HK3/2324",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/08/bpgv-thong-bao-thuc-hien-khao-sat-danh-gia-mon-hoc-giang-vien-hk3-2324/",
+      "date": "15/08/2024"
     }
   ],
   "Tin tuc": [],
-  "Thong tin can biet": [],
+  "Thong tin can biet": [
+    {
+      "tieuDe": "Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/",
+      "date": "27/08/2024"
+    }
+  ],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
@@ -63,6 +89,11 @@
       "date": "30/8/2024"
     },
     {
+      "tieuDe": "Chương trình 'Máy tính trao tay' 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16356",
+      "date": "28/8/2024"
+    },
+    {
       "tieuDe": "DSHV đăng ký bảo vệ luận văn thạc sĩ đợt cuối tháng 9/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16343",
       "date": "27/8/2024"
@@ -76,11 +107,6 @@
       "tieuDe": "Thông báo về việc khảo sát năng lực Anh văn đầu khóa đối với sinh viên chương trình Đề án Khoa Công nghệ thông tin khóa tuyển 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16341",
       "date": "27/8/2024"
-    },
-    {
-      "tieuDe": "[CNTN] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ lớp CNTN2020 (bảo vệ tháng 8/2024)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16339",
-      "date": "26/8/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -95,6 +121,11 @@
       "date": "30/08/2024"
     },
     {
+      "tieuDe": "Chương trình 'Máy tính trao tay' 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16356",
+      "date": "28/08/2024"
+    },
+    {
       "tieuDe": "Thông báo về việc khảo sát năng lực lập trình đầu khóa cho sinh viên khóa tuyển 2024 chương trình Tăng cường tiếng Anh ngành Công nghệ thông tin",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16342",
       "date": "27/08/2024"
@@ -103,11 +134,6 @@
       "tieuDe": "Thông báo về việc khảo sát năng lực Anh văn đầu khóa đối với sinh viên chương trình Đề án Khoa Công nghệ thông tin khóa tuyển 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16341",
       "date": "27/08/2024"
-    },
-    {
-      "tieuDe": "Chào mừng tân sinh viên khóa tuyển 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16335",
-      "date": "22/08/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
