@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:19:36 06/09/2024**_
+_Last update: **07:42:46 06/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 28/08/2024: [Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/thong-bao-thay-doi-phong-thi-nm-cong-nghe-phan-mem_hk3-2324/)
 * 27/08/2024: [Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
@@ -10,7 +10,6 @@ _Last update: **06:19:36 06/09/2024**_
 * 19/08/2024: [CTĐA_Thông báo thay đổi phòng thi cuối kỳ HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda_thong-bao-thay-doi-phong-thi-hk3-2324/)
 * 16/08/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2020 – Đợt 2](https://www.ctda.hcmus.edu.vn/vi/2024/08/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2020-dot-2/)
 * 15/08/2024: [CTĐA_ Thông báo thực hiện khảo sát đánh giá môn học – Giảng viên HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/bpgv-thong-bao-thuc-hien-khao-sat-danh-gia-mon-hoc-giang-vien-hk3-2324/)
-* 06/08/2024: [[CTĐA][K20_Đ1] Mời tham dự buổi bảo vệ đề tài tốt nghiệp các Hội đồng bảo vệ từ ngày 12/08/2024 – 24/08/2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/9221/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
@@ -92,7 +91,6 @@ No news in the last 1 month
 * 08/08/2024: [Thông báo tổ chức đăng ký học phần học kỳ 1 năm học 2024-2025 cho sinh viên trình độ đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-to-chuc-dang-ky-hoc-phan-hoc-ky-1-nam-hoc-2024-2025-cho-sinh-vien-trinh-do-dai-hoc-he-chinh-quy/)
 * 07/08/2024: [Thông báo nộp học phí Học kỳ hè NH 2023-2024 – Chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-he-nh-2023-2024-chuong-trinh-dai-tra/)
 * 07/08/2024: [Thông báo về việc đăng ký nội trú tại Ký túc xá Trường, Học kỳ 1, năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-ve-viec-dang-ky-noi-tru-tai-ky-tuc-xa-truong-hoc-ky-1-nam-hoc-2024-2025/)
-* 06/08/2024: [[THÔNG BÁO] Chương trình Thạc sĩ/Tiến sĩ về Robotics và Bioengineering – ĐH Osaka, Nhật Bản](https://hcmus.edu.vn/thong-bao-chuong-trinh-thac-si-tien-si-ve-robotics-va-bioengineering-dh-osaka-nhat-ban/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 05/09/2024: [Kế hoạch thực hành Hóa đại cương 1, 2 trong HK1/24-25](https://hcmus.edu.vn/ke-hoach-thuc-hanh-hoa-dai-cuong-1-2-trong-hk1-24-25/)
 * 30/08/2024: [Lịch thi Anh văn đầu khóa 2024](https://hcmus.edu.vn/lich-thi-anh-van-dau-khoa-2024/)
