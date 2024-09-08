@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **09:40:37 08/09/2024**_
+_Last update: **10:20:33 08/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 07/09/2024: [[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao_cap-email-khoa-cong-nghe-thong-tin-cho-sinh-vien-khoa-2024/)
 * 28/08/2024: [Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/thong-bao-thay-doi-phong-thi-nm-cong-nghe-phan-mem_hk3-2324/)
@@ -18,39 +18,19 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
-* 6/9/2024: [Chương trình Hành trang tân sinh viên Khoa Công nghệ Thông tin khóa tuyển 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16357)
-* 5/9/2024: [[CQ] Thông báo kiểm tra kết quả đăng ký học phần HK1, NH 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16353)
-* 5/9/2024: [[CQ Chuẩn] Kết quả xét tuyển lớp Cử nhân tài năng Khoá tuyển 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16352)
-* 5/9/2024: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Đỗ Đức Hào](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16350)
-* 2/9/2024: [[CQ] Kết quả xét chuyên ngành sinh viên Khóa 2022, ĐHCQ chương trình Chuẩn (cập nhật)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16348)
-* 2/9/2024: [[CQ] Kết quả xét chuyên ngành sinh viên Khóa 2022, ĐHCQ chương trình Chuẩn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16347)
-* 30/8/2024: [Danh sách học phần đề nghị học trước áp dụng từ năm học 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16345)
-* 28/8/2024: [Chương trình 'Máy tính trao tay' 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16356)
-* 27/8/2024: [DSHV đăng ký bảo vệ luận văn thạc sĩ đợt cuối tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16343)
-* 27/8/2024: [Thông báo về việc khảo sát năng lực lập trình đầu khóa cho sinh viên khóa tuyển 2024 chương trình Tăng cường tiếng Anh ngành Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16342)
+No news in the last 1 month
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 06/09/2024: [Chương trình Hành trang tân sinh viên Khoa Công nghệ Thông tin khóa tuyển 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16357)
-* 05/09/2024: [Chương trình trao đổi học kỳ mùa xuân 2025 - Đại học Khoa học và Công nghệ Pohang (POSTECH)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16354)
-* 30/08/2024: [Danh sách học phần đề nghị học trước áp dụng từ năm học 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16345)
-* 28/08/2024: [Chương trình 'Máy tính trao tay' 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16356)
-* 27/08/2024: [Thông báo về việc khảo sát năng lực lập trình đầu khóa cho sinh viên khóa tuyển 2024 chương trình Tăng cường tiếng Anh ngành Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16342)
+No news in the last 1 month
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 30/08/2024: [Danh sách dự kiến cấp xét học bổng tân sinh viên HK2 năm học 2023-2024 - Dự kiến](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16346)
+No news in the last 1 month
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 20/08/2024: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 3 năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16332)
-* 15/08/2024: [Tổng kết Seminar Autonomous systems for humanity](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16328)
-* 14/08/2024: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 2 năm 2024]](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16325)
+No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 28/08/2024: [Chương trình Sudo Code 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16344)
-* 14/08/2024: [Chương trình DiscoverNUS của Đại học Quốc gia Singapore (NUS)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16327)
-* 13/08/2024: [V/v tuyển sinh viên tham dự Diễn đàn Thủ lĩnh sinh viên Đông Nam Á tại Malaysia](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16322)
+No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 06/09/2024: [Chương trình thực tập sinh ALGOTRADE](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16355)
-* 05/09/2024: [[GOLDEN OWL SOLUTIONS] TUYỂN DỤNG VỊ TRÍ RUBY INTERN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16351)
-* 04/09/2024: [Cloud Engineering Interns/Contractors](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16349)
-* 29/08/2024: [🔥CHƯƠNG TRÌNH ĐẠI SỨ SINH VIÊN FPT SOFTWARE CHÍNH THỨC MỞ ĐƠN ĐĂNG KÝ🔥](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16337)
-* 26/08/2024: [[RENESAS] Renesas Internship Program for Women in Semiconductor 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16340)
+No news in the last 1 month
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 08/09/2024: [Thông báo kết quả kiểm tra tiếng Anh Khoá 2024](https://hcmus.edu.vn/thong-bao-ket-qua-kiem-tra-tieng-anh-khoa-2024/)
 * 05/09/2024: [THƯ MỜI VIẾT BÀI HỘI THẢO KHOA HỌC QUỐC TẾ ICISN 2025](https://hcmus.edu.vn/thu-moi-viet-bai-hoi-thao-khoa-hoc-quoc-te-icisn-2025/)
 * 05/09/2024: [Kế hoạch thực hành Hóa đại cương 1, 2 trong HK1/24-25](https://hcmus.edu.vn/ke-hoach-thuc-hanh-hoa-dai-cuong-1-2-trong-hk1-24-25/)
 * 04/09/2024: [[THÔNG BÁO] Học bổng của Chính phủ Thụy Sỹ/The Swiss Government Excellence Scholarships](https://hcmus.edu.vn/thong-bao-hoc-bong-cua-chinh-phu-thuy-sy-the-swiss-government-excellence-scholarships/)
@@ -88,6 +68,7 @@ No news in the last 1 month
 * 13/08/2024: [[THÔNG BÁO] Chương trình học bổng dài hạn – Cơ quan Hợp tác Quốc tế Nhật Bản (JICA)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dai-han-co-quan-hop-tac-quoc-te-nhat-ban-jica/)
 * 13/08/2024: [[THÔNG BÁO] Chương trình tài trợ trong khuôn khổ quan hệ đối tác VQ Anh – Việt Nam từ Bristish Council tháng 8/2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-tai-tro-trong-khuon-kho-quan-he-doi-tac-vq-anh-viet-nam-tu-bristish-council-thang-8-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 08/09/2024: [Thông báo kết quả kiểm tra tiếng Anh Khoá 2024](https://hcmus.edu.vn/thong-bao-ket-qua-kiem-tra-tieng-anh-khoa-2024/)
 * 05/09/2024: [Kế hoạch thực hành Hóa đại cương 1, 2 trong HK1/24-25](https://hcmus.edu.vn/ke-hoach-thuc-hanh-hoa-dai-cuong-1-2-trong-hk1-24-25/)
 * 30/08/2024: [Lịch thi Anh văn đầu khóa 2024](https://hcmus.edu.vn/lich-thi-anh-van-dau-khoa-2024/)
 * 30/08/2024: [Các mốc thời gian Tân sinh viên cần lưu ý](https://hcmus.edu.vn/cac-moc-thoi-gian-tan-sinh-vien-can-luu-y/)
