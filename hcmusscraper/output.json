@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "04:08:29 09/09/2024",
+  "Update time": "05:07:38 09/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024",
@@ -64,6 +64,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "[CQ] Danh sách lớp hủy HK1/24-25 do không đủ số lượng mở lớp",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16360",
+      "date": "9/9/2024"
+    },
+    {
       "tieuDe": "Thông báo v/v đăng ký đội tham dự ICPC-HCMUS 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16359",
       "date": "9/9/2024"
@@ -107,11 +112,6 @@
       "tieuDe": "Danh sách học phần đề nghị học trước áp dụng từ năm học 2024-2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16345",
       "date": "30/8/2024"
-    },
-    {
-      "tieuDe": "Chương trình 'Máy tính trao tay' 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16356",
-      "date": "28/8/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
