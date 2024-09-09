@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **14:18:50 09/09/2024**_
+_Last update: **15:26:26 09/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 07/09/2024: [[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao_cap-email-khoa-cong-nghe-thong-tin-cho-sinh-vien-khoa-2024/)
 * 28/08/2024: [Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/thong-bao-thay-doi-phong-thi-nm-cong-nghe-phan-mem_hk3-2324/)
@@ -14,7 +14,7 @@ _Last update: **14:18:50 09/09/2024**_
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
-* 27/08/2024: [Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
+No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
@@ -51,6 +51,7 @@ No news in the last 1 month
 * 29/08/2024: [🔥CHƯƠNG TRÌNH ĐẠI SỨ SINH VIÊN FPT SOFTWARE CHÍNH THỨC MỞ ĐƠN ĐĂNG KÝ🔥](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16337)
 * 26/08/2024: [[RENESAS] Renesas Internship Program for Women in Semiconductor 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16340)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 09/09/2024: [Thông báo hủy 1 số lớp Anh văn 3, 4 trong HK1/2024-2025](https://hcmus.edu.vn/thong-bao-huy-1-so-lop-anh-van-3-4-trong-hk1-2024-2025/)
 * 09/09/2024: [Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK1/2024-2025](https://hcmus.edu.vn/thong-bao-huy-lop-mo-lop-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk1-2024-2025/)
 * 08/09/2024: [Thông báo kết quả kiểm tra tiếng Anh Khoá 2024](https://hcmus.edu.vn/thong-bao-ket-qua-kiem-tra-tieng-anh-khoa-2024/)
 * 05/09/2024: [THƯ MỜI VIẾT BÀI HỘI THẢO KHOA HỌC QUỐC TẾ ICISN 2025](https://hcmus.edu.vn/thu-moi-viet-bai-hoi-thao-khoa-hoc-quoc-te-icisn-2025/)
@@ -90,6 +91,7 @@ No news in the last 1 month
 * 13/08/2024: [[THÔNG BÁO] Chương trình học bổng dài hạn – Cơ quan Hợp tác Quốc tế Nhật Bản (JICA)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dai-han-co-quan-hop-tac-quoc-te-nhat-ban-jica/)
 * 13/08/2024: [[THÔNG BÁO] Chương trình tài trợ trong khuôn khổ quan hệ đối tác VQ Anh – Việt Nam từ Bristish Council tháng 8/2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-tai-tro-trong-khuon-kho-quan-he-doi-tac-vq-anh-viet-nam-tu-bristish-council-thang-8-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 09/09/2024: [Thông báo hủy 1 số lớp Anh văn 3, 4 trong HK1/2024-2025](https://hcmus.edu.vn/thong-bao-huy-1-so-lop-anh-van-3-4-trong-hk1-2024-2025/)
 * 09/09/2024: [Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK1/2024-2025](https://hcmus.edu.vn/thong-bao-huy-lop-mo-lop-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk1-2024-2025/)
 * 08/09/2024: [Thông báo kết quả kiểm tra tiếng Anh Khoá 2024](https://hcmus.edu.vn/thong-bao-ket-qua-kiem-tra-tieng-anh-khoa-2024/)
 * 05/09/2024: [Kế hoạch thực hành Hóa đại cương 1, 2 trong HK1/24-25](https://hcmus.edu.vn/ke-hoach-thuc-hanh-hoa-dai-cuong-1-2-trong-hk1-24-25/)
