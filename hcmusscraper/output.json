@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:08:00 10/09/2024",
+  "Update time": "09:07:37 10/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024",
@@ -54,15 +54,19 @@
     }
   ],
   "Tin tuc": [],
-  "Thong tin can biet": [
-    {
-      "tieuDe": "Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/",
-      "date": "27/08/2024"
-    }
-  ],
+  "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "V/v nộp hồ sơ bảo vệ dành cho học viên cao học bảo vệ đợt cuối tháng 9/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16363",
+      "date": "10/9/2024"
+    },
+    {
+      "tieuDe": "Lịch làm việc của Cố vấn học tập HK1 năm học 2024 - 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16362",
+      "date": "10/9/2024"
+    },
     {
       "tieuDe": "Mời tham dự Hội thảo trực tuyến 'Giới thiệu các chương trình đào tạo Sau đại học' ngày 13/9/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16361",
@@ -102,16 +106,6 @@
       "tieuDe": "Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Đỗ Đức Hào",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16350",
       "date": "5/9/2024"
-    },
-    {
-      "tieuDe": "[CQ] Kết quả xét chuyên ngành sinh viên Khóa 2022, ĐHCQ chương trình Chuẩn (cập nhật)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16348",
-      "date": "2/9/2024"
-    },
-    {
-      "tieuDe": "[CQ] Kết quả xét chuyên ngành sinh viên Khóa 2022, ĐHCQ chương trình Chuẩn",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16347",
-      "date": "2/9/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
