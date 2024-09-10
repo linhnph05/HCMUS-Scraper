@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:26:07 10/09/2024",
+  "Update time": "03:08:12 10/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024",
@@ -54,7 +54,13 @@
     }
   ],
   "Tin tuc": [],
-  "Thong tin can biet": [],
+  "Thong tin can biet": [
+    {
+      "tieuDe": "Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/",
+      "date": "27/08/2024"
+    }
+  ],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
@@ -205,9 +211,14 @@
   ],
   "HCMUS-Thong tin nguoi hoc": [
     {
-      "tieuDe": "TỌA ĐÀM: TRÍ TUỆ NHÂN TẠO HƯỚNG ĐẾN TƯƠNG LAI",
-      "url": "https://hcmus.edu.vn/toa-dam-tri-tue-nhan-tao-huong-den-tuong-lai/",
-      "date": "09/09/2024"
+      "tieuDe": "Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)",
+      "url": "https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh-2/",
+      "date": "10/09/2024"
+    },
+    {
+      "tieuDe": "Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)",
+      "url": "https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh/",
+      "date": "10/09/2024"
     },
     {
       "tieuDe": "Thông báo hủy 1 số lớp Anh văn 3, 4 trong HK1/2024-2025",
@@ -290,16 +301,6 @@
       "date": "26/08/2024"
     },
     {
-      "tieuDe": "Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)",
-      "url": "https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh-2/",
-      "date": "26/08/2024"
-    },
-    {
-      "tieuDe": "Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)",
-      "url": "https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh/",
-      "date": "26/08/2024"
-    },
-    {
       "tieuDe": "THÔNG BÁO V/v tổ chức Tuần lễ Sinh hoạt Công dân – Sinh viên đối với Tân sinh viên khóa tuyển 2024",
       "url": "https://hcmus.edu.vn/thong-bao-v-v-to-chuc-tuan-le-sinh-hoat-cong-dan-sinh-vien-doi-voi-tan-sinh-vien-khoa-tuyen-2024/",
       "date": "23/08/2024"
@@ -343,6 +344,11 @@
       "tieuDe": "THÔNG BÁO KẾT QUẢ THI VÒNG 2 VÀ VÒNG KIỂM TRA SÁT HẠCH, KỲ TUYỂN DỤNG VIÊN CHỨC NĂM 2024",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-thi-vong-2-va-vong-kiem-tra-sat-hach-ky-tuyen-dung-vien-chuc-nam-2024/",
       "date": "21/08/2024"
+    },
+    {
+      "tieuDe": "TỌA ĐÀM: TRÍ TUỆ NHÂN TẠO HƯỚNG ĐẾN TƯƠNG LAI",
+      "url": "https://hcmus.edu.vn/toa-dam-tri-tue-nhan-tao-huong-den-tuong-lai/",
+      "date": "20/08/2024"
     },
     {
       "tieuDe": "Thông báo kiểm tra Anh văn đầu khóa dành cho Tân sinh viên khóa 2024",
@@ -412,6 +418,16 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)",
+      "url": "https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh-2/",
+      "date": "10/09/2024"
+    },
+    {
+      "tieuDe": "Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)",
+      "url": "https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh/",
+      "date": "10/09/2024"
+    },
+    {
       "tieuDe": "Thông báo hủy 1 số lớp Anh văn 3, 4 trong HK1/2024-2025",
       "url": "https://hcmus.edu.vn/thong-bao-huy-1-so-lop-anh-van-3-4-trong-hk1-2024-2025/",
       "date": "09/09/2024"
@@ -450,16 +466,6 @@
       "tieuDe": "Thông báo Kế hoạch tổ chức tiếp nhận, quản lý, rèn luyện trong việc học tập Giáo dục Quốc phòng – An ninh năm 2024",
       "url": "https://hcmus.edu.vn/thong-bao-ke-hoach-to-chuc-tiep-nhan-quan-ly-ren-luyen-giao-duc-quoc-phong-an-ninh-nam-2024/",
       "date": "27/08/2024"
-    },
-    {
-      "tieuDe": "Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)",
-      "url": "https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh-2/",
-      "date": "26/08/2024"
-    },
-    {
-      "tieuDe": "Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)",
-      "url": "https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh/",
-      "date": "26/08/2024"
     },
     {
       "tieuDe": "THÔNG BÁO V/v tổ chức Tuần lễ Sinh hoạt Công dân – Sinh viên đối với Tân sinh viên khóa tuyển 2024",
