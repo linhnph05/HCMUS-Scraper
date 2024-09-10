@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **16:27:11 10/09/2024**_
+_Last update: **17:19:55 10/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 07/09/2024: [[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao_cap-email-khoa-cong-nghe-thong-tin-cho-sinh-vien-khoa-2024/)
 * 28/08/2024: [Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/thong-bao-thay-doi-phong-thi-nm-cong-nghe-phan-mem_hk3-2324/)
@@ -14,12 +14,12 @@ _Last update: **16:27:11 10/09/2024**_
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
-No news in the last 1 month
+* 27/08/2024: [Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
-* 10/9/2024: [V/v nộp hồ sơ bảo vệ dành cho học viên cao học bảo vệ đợt cuối tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16363)
 * 10/9/2024: [Lịch làm việc của Cố vấn học tập HK1 năm học 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16362)
+* 10/9/2024: [V/v nộp hồ sơ bảo vệ dành cho học viên cao học bảo vệ đợt cuối tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16363)
 * 9/9/2024: [Mời tham dự Hội thảo trực tuyến 'Giới thiệu các chương trình đào tạo Sau đại học' ngày 13/9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16361)
 * 9/9/2024: [[CQ] Danh sách lớp hủy HK1/24-25 do không đủ số lượng mở lớp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16360)
 * 9/9/2024: [Thông báo v/v đăng ký đội tham dự ICPC-HCMUS 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16359)
@@ -72,6 +72,7 @@ No news in the last 1 month
 * 23/08/2024: [THÔNG BÁO V/v tổ chức Tuần lễ Sinh hoạt Công dân – Sinh viên đối với Tân sinh viên khóa tuyển 2024](https://hcmus.edu.vn/thong-bao-v-v-to-chuc-tuan-le-sinh-hoat-cong-dan-sinh-vien-doi-voi-tan-sinh-vien-khoa-tuyen-2024/)
 * 23/08/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN PHÒNG THÍ NGHIỆM HÓA LÝ ỨNG DỤNG](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-phong-thi-nghiem-hoa-ly-ung-dung/)
 * 22/08/2024: [Quy định chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://hcmus.edu.vn/quy-dinh-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
+* 21/08/2024: [HỘI THẢO: “GIẢI PHÁP HỖ TRỢ CHUYỂN ĐỔI SỐ VỀ KHOA HỌC VÀ CÔNG NGHỆ CHO TRƯỜNG ĐẠI HỌC TỪ ELSEVIER”](https://hcmus.edu.vn/hoi-thao-giai-phap-ho-tro-chuyen-doi-so-ve-khoa-hoc-va-cong-nghe-cho-truong-dai-hoc-tu-elsevier-2/)
 * 21/08/2024: [Thông báo tạm dừng Moodle để bảo trì](https://hcmus.edu.vn/thong-bao-tam-dung-moodle-de-bao-tri/)
 * 21/08/2024: [Thông báo nộp hồ sơ xét tốt nghiệp đại học ngành Khoa học môi trường, chương trình CLC – đợt tháng 10/2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dai-hoc-nganh-khoa-hoc-moi-truong-chuong-trinh-clc-dot-thang-10-2024/)
 * 21/08/2024: [Tổ chức biên chế lớp học Giáo dục Quốc phòng – An ninh cho sinh viên Khóa 2023, đợt tháng 9/2024](https://hcmus.edu.vn/to-chuc-bien-che-lop-hoc-giao-duc-quoc-phong-an-ninh-cho-sinh-vien-khoa-2023-dot-thang-9-2024/)

@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:07:37 10/09/2024",
+  "Update time": "10:07:13 10/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024",
@@ -54,17 +54,23 @@
     }
   ],
   "Tin tuc": [],
-  "Thong tin can biet": [],
+  "Thong tin can biet": [
+    {
+      "tieuDe": "Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/",
+      "date": "27/08/2024"
+    }
+  ],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
-      "tieuDe": "V/v nộp hồ sơ bảo vệ dành cho học viên cao học bảo vệ đợt cuối tháng 9/2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16363",
+      "tieuDe": "Lịch làm việc của Cố vấn học tập HK1 năm học 2024 - 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16362",
       "date": "10/9/2024"
     },
     {
-      "tieuDe": "Lịch làm việc của Cố vấn học tập HK1 năm học 2024 - 2025",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16362",
+      "tieuDe": "V/v nộp hồ sơ bảo vệ dành cho học viên cao học bảo vệ đợt cuối tháng 9/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16363",
       "date": "10/9/2024"
     },
     {
@@ -308,6 +314,11 @@
       "tieuDe": "Quy định chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024",
       "url": "https://hcmus.edu.vn/quy-dinh-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/",
       "date": "22/08/2024"
+    },
+    {
+      "tieuDe": "HỘI THẢO: “GIẢI PHÁP HỖ TRỢ CHUYỂN ĐỔI SỐ VỀ KHOA HỌC VÀ CÔNG NGHỆ CHO TRƯỜNG ĐẠI HỌC TỪ ELSEVIER”",
+      "url": "https://hcmus.edu.vn/hoi-thao-giai-phap-ho-tro-chuyen-doi-so-ve-khoa-hoc-va-cong-nghe-cho-truong-dai-hoc-tu-elsevier-2/",
+      "date": "21/08/2024"
     },
     {
       "tieuDe": "Thông báo tạm dừng Moodle để bảo trì",
