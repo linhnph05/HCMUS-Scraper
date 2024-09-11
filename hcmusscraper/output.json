@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:07:04 11/09/2024",
+  "Update time": "10:07:17 11/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024",
@@ -64,6 +64,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Thời khóa biểu lớp bổ túc kiến thức môn Cơ sở dữ liệu, Các thuật toán thông minh nhân tạo và ứng dụng khóa tháng 9/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16364",
+      "date": "11/9/2024"
+    },
+    {
       "tieuDe": "Lịch làm việc của Cố vấn học tập HK1 năm học 2024 - 2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16362",
       "date": "10/9/2024"
@@ -106,11 +111,6 @@
     {
       "tieuDe": "[CQ Chuẩn] Kết quả xét tuyển lớp Cử nhân tài năng Khoá tuyển 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16352",
-      "date": "5/9/2024"
-    },
-    {
-      "tieuDe": "Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Đỗ Đức Hào",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16350",
       "date": "5/9/2024"
     }
   ],
