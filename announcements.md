@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:20:12 12/09/2024**_
+_Last update: **17:23:33 12/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 07/09/2024: [[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao_cap-email-khoa-cong-nghe-thong-tin-cho-sinh-vien-khoa-2024/)
 * 28/08/2024: [Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/thong-bao-thay-doi-phong-thi-nm-cong-nghe-phan-mem_hk3-2324/)
@@ -51,6 +51,9 @@ No news in the last 1 month
 * 29/08/2024: [🔥CHƯƠNG TRÌNH ĐẠI SỨ SINH VIÊN FPT SOFTWARE CHÍNH THỨC MỞ ĐƠN ĐĂNG KÝ🔥](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16337)
 * 26/08/2024: [[RENESAS] Renesas Internship Program for Women in Semiconductor 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16340)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 12/09/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ TRỢ GIẢNG KHOA ĐIỆN TỬ – VIỄN THÔNG](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-tro-giang-khoa-dien-tu-vien-thong/)
+* 12/09/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ KỸ SƯ XÂY DỰNG PHÒNG QUẢN TRỊ THIẾT BỊ](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-ky-su-xay-dung-phong-quan-tri-thiet-bi/)
+* 12/09/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN PHÒNG THÍ NGHIỆM NGHIÊN CỨU UNG THƯ](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-phong-thi-nghiem-nghien-cuu-ung-thu/)
 * 12/09/2024: [THÔNG BÁO CHƯƠNG TRÌNH PHÁT TRIỂN SINH VIÊN VIETHOPE 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-phat-trien-sinh-vien-viethope-2024/)
 * 10/09/2024: [Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh-2/)
 * 10/09/2024: [Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh/)
@@ -120,6 +123,9 @@ No news in the last 1 month
 * 13/08/2024: [Thông báo nộp hồ sơ xét Hoàn tất chương trình đào tạo trình độ đại học hệ chính quy các chương trình – Đợt tháng 11 năm 2024](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-dot-thang-11-nam-2024/)
 * 13/08/2024: [[THÔNG BÁO] Chương trình tài trợ trong khuôn khổ quan hệ đối tác VQ Anh – Việt Nam từ Bristish Council tháng 8/2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-tai-tro-trong-khuon-kho-quan-he-doi-tac-vq-anh-viet-nam-tu-bristish-council-thang-8-2024/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
+* 12/09/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ TRỢ GIẢNG KHOA ĐIỆN TỬ – VIỄN THÔNG](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-tro-giang-khoa-dien-tu-vien-thong/)
+* 12/09/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ KỸ SƯ XÂY DỰNG PHÒNG QUẢN TRỊ THIẾT BỊ](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-ky-su-xay-dung-phong-quan-tri-thiet-bi/)
+* 12/09/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN PHÒNG THÍ NGHIỆM NGHIÊN CỨU UNG THƯ](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-phong-thi-nghiem-nghien-cuu-ung-thu/)
 * 29/08/2024: [Quyết định Về việc công nhận kết quả tuyển dụng viên chức năm 2024](https://hcmus.edu.vn/quyet-dinh-ve-viec-cong-nhan-ket-qua-tuyen-dung-vien-chuc-nam-2024/)
 * 27/08/2024: [THÔNG BÁO TUYỂN DỤNG TRỢ GIẢNG KHOA TOÁN – TIN HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-tro-giang-khoa-toan-tin-hoc/)
 * 23/08/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN PHÒNG THÍ NGHIỆM HÓA LÝ ỨNG DỤNG](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-phong-thi-nghiem-hoa-ly-ung-dung/)
