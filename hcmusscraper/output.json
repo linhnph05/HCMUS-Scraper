@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "10:07:13 13/09/2024",
+  "Update time": "11:07:35 13/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024",
@@ -54,13 +54,7 @@
     }
   ],
   "Tin tuc": [],
-  "Thong tin can biet": [
-    {
-      "tieuDe": "Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/",
-      "date": "27/08/2024"
-    }
-  ],
+  "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
@@ -179,6 +173,11 @@
   ],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "[FPT Software] Tuyển Dụng 15 Thực Tập Sinh Flutter/C#, .NET/ReactJS/Android",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16367",
+      "date": "13/09/2024"
+    },
+    {
       "tieuDe": "NEXLAB INTERNSHIP PROGRAM 2024 HO CHI MINH",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16366",
       "date": "12/09/2024"
@@ -197,11 +196,6 @@
       "tieuDe": "Cloud Engineering Interns/Contractors",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16349",
       "date": "04/09/2024"
-    },
-    {
-      "tieuDe": "🔥CHƯƠNG TRÌNH ĐẠI SỨ SINH VIÊN FPT SOFTWARE CHÍNH THỨC MỞ ĐƠN ĐĂNG KÝ🔥",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16337",
-      "date": "29/08/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
