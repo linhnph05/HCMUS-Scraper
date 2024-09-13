@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:06:50 13/09/2024",
+  "Update time": "10:07:13 13/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024",
@@ -205,6 +205,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo đổi phòng học trong HK1/2024-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-doi-phong-hoc-trong-hk1-2024-2025/",
+      "date": "13/09/2024"
+    },
     {
       "tieuDe": "[THÔNG BÁO] Chương trình Học bổng Chevening năm học 2025-2026 – Chính phủ Anh",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chevening-nam-hoc-2025-2026-chinh-phu-anh/",
@@ -417,6 +422,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Thông báo đổi phòng học trong HK1/2024-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-doi-phong-hoc-trong-hk1-2024-2025/",
+      "date": "13/09/2024"
+    },
     {
       "tieuDe": "THÔNG BÁO CHƯƠNG TRÌNH PHÁT TRIỂN SINH VIÊN VIETHOPE 2024",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-phat-trien-sinh-vien-viethope-2024/",
