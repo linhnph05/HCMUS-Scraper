@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "11:07:35 13/09/2024",
+  "Update time": "12:10:09 13/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024",
@@ -54,7 +54,13 @@
     }
   ],
   "Tin tuc": [],
-  "Thong tin can biet": [],
+  "Thong tin can biet": [
+    {
+      "tieuDe": "Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/",
+      "date": "27/08/2024"
+    }
+  ],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
@@ -110,6 +116,11 @@
   ],
   "FIT-THÔNG TIN CHUNG": [
     {
+      "tieuDe": "Chương trình Học bổng Chevening năm học 2025-2026 - Chính phủ Anh",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16368",
+      "date": "13/09/2024"
+    },
+    {
       "tieuDe": "Thông báo v/v đăng ký đội tham dự ICPC-HCMUS 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16359",
       "date": "09/09/2024"
@@ -128,11 +139,6 @@
       "tieuDe": "Chương trình trao đổi học kỳ mùa xuân 2025 - Đại học Khoa học và Công nghệ Pohang (POSTECH)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16354",
       "date": "05/09/2024"
-    },
-    {
-      "tieuDe": "Danh sách học phần đề nghị học trước áp dụng từ năm học 2024-2025",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16345",
-      "date": "30/08/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
