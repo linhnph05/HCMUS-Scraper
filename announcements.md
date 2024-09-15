@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:21:04 15/09/2024**_
+_Last update: **07:44:31 15/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/09/2024: [Thông báo danh sách tham gia khảo sát trình độ ngoại ngữ sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-danh-sach-tham-gia-khao-sat-trinh-do-ngoai-ngu-sinh-vien-khoa-2024/)
 * 07/09/2024: [[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao_cap-email-khoa-cong-nghe-thong-tin-cho-sinh-vien-khoa-2024/)
@@ -38,7 +38,6 @@ No news in the last 1 month
 * 30/08/2024: [Danh sách dự kiến cấp xét học bổng tân sinh viên HK2 năm học 2023-2024 - Dự kiến](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16346)
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 20/08/2024: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 3 năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16332)
-* 15/08/2024: [Tổng kết Seminar Autonomous systems for humanity](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16328)
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 28/08/2024: [Chương trình Sudo Code 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16344)
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
