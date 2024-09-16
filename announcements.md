@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **11:21:07 16/09/2024**_
+_Last update: **12:20:25 16/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/09/2024: [Thông báo danh sách tham gia khảo sát trình độ ngoại ngữ sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-danh-sach-tham-gia-khao-sat-trinh-do-ngoai-ngu-sinh-vien-khoa-2024/)
 * 07/09/2024: [[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao_cap-email-khoa-cong-nghe-thong-tin-cho-sinh-vien-khoa-2024/)
@@ -50,6 +50,7 @@ No news in the last 1 month
 * 14/09/2024: [Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK1/2024-2025 – Đợt 3](https://hcmus.edu.vn/thong-bao-huy-lop-mo-lop-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk1-2024-2025-sinh-vien-bac-dai-hoc-he-chinh-quy-dot-3/)
 * 13/09/2024: [Thông báo đổi phòng học trong HK1/2024-2025](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-trong-hk1-2024-2025/)
 * 13/09/2024: [[THÔNG BÁO] Chương trình Học bổng Chevening năm học 2025-2026 – Chính phủ Anh](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chevening-nam-hoc-2025-2026-chinh-phu-anh/)
+* 13/09/2024: [HỘI THẢO DOANH NGHIỆP “HỢP TÁC NHÀ TRƯỜNG VÀ DOANH NGHIỆP” – KẾT NỐI TƯƠNG LAI NGÀNH ĐIỆN TỬ – VIỄN THÔNG](https://hcmus.edu.vn/hoi-thao-doanh-nghiep-hop-tac-nha-truong-va-doanh-nghiep-ket-noi-tuong-lai-nganh-dien-tu-vien-thong/)
 * 12/09/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ TRỢ GIẢNG KHOA ĐIỆN TỬ – VIỄN THÔNG](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-tro-giang-khoa-dien-tu-vien-thong/)
 * 12/09/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ KỸ SƯ XÂY DỰNG PHÒNG QUẢN TRỊ THIẾT BỊ](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-ky-su-xay-dung-phong-quan-tri-thiet-bi/)
 * 12/09/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN PHÒNG THÍ NGHIỆM NGHIÊN CỨU UNG THƯ](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-phong-thi-nghiem-nghien-cuu-ung-thu/)
