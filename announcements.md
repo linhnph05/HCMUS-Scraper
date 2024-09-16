@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **14:19:20 16/09/2024**_
+_Last update: **15:21:05 16/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/09/2024: [Thông báo danh sách tham gia khảo sát trình độ ngoại ngữ sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-danh-sach-tham-gia-khao-sat-trinh-do-ngoai-ngu-sinh-vien-khoa-2024/)
 * 07/09/2024: [[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao_cap-email-khoa-cong-nghe-thong-tin-cho-sinh-vien-khoa-2024/)
@@ -46,6 +46,8 @@ No news in the last 1 month
 * 06/09/2024: [Chương trình thực tập sinh ALGOTRADE](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16355)
 * 05/09/2024: [[GOLDEN OWL SOLUTIONS] TUYỂN DỤNG VỊ TRÍ RUBY INTERN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16351)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 16/09/2024: [TB Chương trình Học bổng POSCO TJ Park Foundation năm học 2024-2025](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-posco-tj-park-foundation-nam-hoc-2024-2025/)
+* 16/09/2024: [Thời khóa biểu HK1/2024-2025 – khóa 2022 và 2024 (cập nhật đến ngày 16/9)](https://hcmus.edu.vn/thoi-khoa-bieu-hk1-2021-2025-khoa-2022-va-2024-cap-nhat-den-ngay-16-9/)
 * 14/09/2024: [BÁO CÁO CHUYÊN ĐỀ: MỘT SỐ VẤN ĐỀ VỀ PHÁP LUẬT DÀNH CHO SINH VIÊN NĂM NHẤT](https://hcmus.edu.vn/bao-cao-chuyen-de-mot-so-van-de-ve-phap-luat-danh-cho-sinh-vien-nam-nhat/)
 * 14/09/2024: [Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK1/2024-2025 – Đợt 3](https://hcmus.edu.vn/thong-bao-huy-lop-mo-lop-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk1-2024-2025-sinh-vien-bac-dai-hoc-he-chinh-quy-dot-3/)
 * 13/09/2024: [Thông báo đổi phòng học trong HK1/2024-2025](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-trong-hk1-2024-2025/)
@@ -88,6 +90,8 @@ No news in the last 1 month
 * 19/08/2024: [Kết quả học bổng Vallet năm 2024](https://hcmus.edu.vn/ket-qua-hoc-bong-vallet-nam-2024/)
 * 17/08/2024: [ĐIỂM CHUẨN PHƯƠNG THỨC XÉT TUYỂN DỰA TRÊN KẾT QUẢ KỲ THI TỐT NGHIỆP THPT 2024](https://hcmus.edu.vn/diem-chuan-phuong-thuc-xet-tuyen-dua-tren-ket-qua-ky-thi-tot-nghiep-thpt-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 16/09/2024: [TB Chương trình Học bổng POSCO TJ Park Foundation năm học 2024-2025](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-posco-tj-park-foundation-nam-hoc-2024-2025/)
+* 16/09/2024: [Thời khóa biểu HK1/2024-2025 – khóa 2022 và 2024 (cập nhật đến ngày 16/9)](https://hcmus.edu.vn/thoi-khoa-bieu-hk1-2021-2025-khoa-2022-va-2024-cap-nhat-den-ngay-16-9/)
 * 14/09/2024: [Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK1/2024-2025 – Đợt 3](https://hcmus.edu.vn/thong-bao-huy-lop-mo-lop-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk1-2024-2025-sinh-vien-bac-dai-hoc-he-chinh-quy-dot-3/)
 * 13/09/2024: [Thông báo đổi phòng học trong HK1/2024-2025](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-trong-hk1-2024-2025/)
 * 12/09/2024: [THÔNG BÁO CHƯƠNG TRÌNH PHÁT TRIỂN SINH VIÊN VIETHOPE 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-phat-trien-sinh-vien-viethope-2024/)
@@ -124,6 +128,7 @@ No news in the last 1 month
 * 21/08/2024: [Thông tin tuyển sinh viên tham dự Diễn đàn giáo dục và Cuộc thi Nhà hùng biện trẻ AUN lần thứ 20 và ASEAN+3 lần thứ 9](https://hcmus.edu.vn/thong-tin-tuyen-sinh-vien-tham-du-dien-dan-giao-duc-va-cuoc-thi-nha-hung-bien-tre-aun-lan-thu-20-va-asean3-lan-thu-9/)
 * 19/08/2024: [Kết quả học bổng Vallet năm 2024](https://hcmus.edu.vn/ket-qua-hoc-bong-vallet-nam-2024/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
+* 16/09/2024: [TB Chương trình Học bổng POSCO TJ Park Foundation năm học 2024-2025](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-posco-tj-park-foundation-nam-hoc-2024-2025/)
 * 12/09/2024: [THÔNG BÁO CHƯƠNG TRÌNH PHÁT TRIỂN SINH VIÊN VIETHOPE 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-phat-trien-sinh-vien-viethope-2024/)
 * 29/08/2024: [Chương trình học bổng do Tổ chức Christina Noble Children’s Foundation tài trợ dành cho sinh viên năm cuối (năm học 2024-2025)](https://hcmus.edu.vn/chuong-trinh-hoc-bong-do-to-chuc-christina-noble-childrens-foundation-tai-tro-danh-cho-sinh-vien-nam-cuoi-nam-hoc-2024-2025/)
 * 19/08/2024: [Kết quả học bổng Vallet năm 2024](https://hcmus.edu.vn/ket-qua-hoc-bong-vallet-nam-2024/)
