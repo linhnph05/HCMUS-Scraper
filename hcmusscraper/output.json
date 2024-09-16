@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "10:08:06 16/09/2024",
+  "Update time": "11:07:00 16/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo danh sách tham gia khảo sát trình độ ngoại ngữ sinh viên khóa 2024",
@@ -59,6 +59,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "[CQ] Danh sách các lớp đổi phòng học HK1/24-25 từ 17/9/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16370",
+      "date": "16/9/2024"
+    },
+    {
       "tieuDe": "[CQ] Thời khóa biểu Lý thuyết học kỳ 1 năm học 2024-2025 (có phòng học)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16365",
       "date": "12/9/2024"
@@ -102,11 +107,6 @@
       "tieuDe": "Chương trình Hành trang tân sinh viên Khoa Công nghệ Thông tin khóa tuyển 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16357",
       "date": "6/9/2024"
-    },
-    {
-      "tieuDe": "[CQ] Thông báo kiểm tra kết quả đăng ký học phần HK1, NH 2024-2025",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16353",
-      "date": "5/9/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -185,6 +185,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "KHẢO SÁT MỨC ĐỘ SẴN SÀNG CỦA TÂN SINH VIÊN ĐỐI VỚI NGÀNH HỌC, TRƯỜNG HỌC VÀ KÊNH TƯ VẤN HƯỚNG NGHIỆP – TUYỂN SINH NĂM 2024",
+      "url": "https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2024/",
+      "date": "16/09/2024"
+    },
     {
       "tieuDe": "Thông báo mở bổ sung lớp Thể dục 1 và tăng sĩ số các môn Giải tích 1A, Vi tích phân 1 A, Hóa ĐC 1 và Thể dục 1",
       "url": "https://hcmus.edu.vn/thong-bao-mo-bo-sung-lop-the-duc-1-va-tang-si-so-cac-mon-giai-tich-1a-vi-tich-phan-1-a-hoa-dc-1-va-the-duc-1/",
@@ -413,6 +418,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "KHẢO SÁT MỨC ĐỘ SẴN SÀNG CỦA TÂN SINH VIÊN ĐỐI VỚI NGÀNH HỌC, TRƯỜNG HỌC VÀ KÊNH TƯ VẤN HƯỚNG NGHIỆP – TUYỂN SINH NĂM 2024",
+      "url": "https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2024/",
+      "date": "16/09/2024"
+    },
+    {
       "tieuDe": "Thông báo mở bổ sung lớp Thể dục 1 và tăng sĩ số các môn Giải tích 1A, Vi tích phân 1 A, Hóa ĐC 1 và Thể dục 1",
       "url": "https://hcmus.edu.vn/thong-bao-mo-bo-sung-lop-the-duc-1-va-tang-si-so-cac-mon-giai-tich-1a-vi-tich-phan-1-a-hoa-dc-1-va-the-duc-1/",
       "date": "16/09/2024"
@@ -576,6 +586,11 @@
     }
   ],
   "HCMUS-Nguoi hoc": [
+    {
+      "tieuDe": "KHẢO SÁT MỨC ĐỘ SẴN SÀNG CỦA TÂN SINH VIÊN ĐỐI VỚI NGÀNH HỌC, TRƯỜNG HỌC VÀ KÊNH TƯ VẤN HƯỚNG NGHIỆP – TUYỂN SINH NĂM 2024",
+      "url": "https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2024/",
+      "date": "16/09/2024"
+    },
     {
       "tieuDe": "BÁO CÁO CHUYÊN ĐỀ: MỘT SỐ VẤN ĐỀ VỀ PHÁP LUẬT DÀNH CHO SINH VIÊN NĂM NHẤT",
       "url": "https://hcmus.edu.vn/bao-cao-chuyen-de-mot-so-van-de-ve-phap-luat-danh-cho-sinh-vien-nam-nhat/",

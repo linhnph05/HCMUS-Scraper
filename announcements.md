@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **17:20:06 16/09/2024**_
+_Last update: **18:18:42 16/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/09/2024: [Thông báo danh sách tham gia khảo sát trình độ ngoại ngữ sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-danh-sach-tham-gia-khao-sat-trinh-do-ngoai-ngu-sinh-vien-khoa-2024/)
 * 07/09/2024: [[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao_cap-email-khoa-cong-nghe-thong-tin-cho-sinh-vien-khoa-2024/)
@@ -17,6 +17,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 16/9/2024: [[CQ] Danh sách các lớp đổi phòng học HK1/24-25 từ 17/9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16370)
 * 12/9/2024: [[CQ] Thời khóa biểu Lý thuyết học kỳ 1 năm học 2024-2025 (có phòng học)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16365)
 * 11/9/2024: [Thời khóa biểu lớp bổ túc kiến thức môn Cơ sở dữ liệu, Các thuật toán thông minh nhân tạo và ứng dụng khóa tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16364)
 * 10/9/2024: [Lịch làm việc của Cố vấn học tập HK1 năm học 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16362)
@@ -26,7 +27,6 @@ No news in the last 1 month
 * 9/9/2024: [Thông báo v/v đăng ký đội tham dự ICPC-HCMUS 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16359)
 * 9/9/2024: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học Tự nhiên năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16358)
 * 6/9/2024: [Chương trình Hành trang tân sinh viên Khoa Công nghệ Thông tin khóa tuyển 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16357)
-* 5/9/2024: [[CQ] Thông báo kiểm tra kết quả đăng ký học phần HK1, NH 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16353)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 13/09/2024: [Chương trình Học bổng Chevening năm học 2025-2026 - Chính phủ Anh](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16368)
 * 09/09/2024: [Thông báo v/v đăng ký đội tham dự ICPC-HCMUS 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16359)
@@ -46,6 +46,7 @@ No news in the last 1 month
 * 06/09/2024: [Chương trình thực tập sinh ALGOTRADE](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16355)
 * 05/09/2024: [[GOLDEN OWL SOLUTIONS] TUYỂN DỤNG VỊ TRÍ RUBY INTERN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16351)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 16/09/2024: [KHẢO SÁT MỨC ĐỘ SẴN SÀNG CỦA TÂN SINH VIÊN ĐỐI VỚI NGÀNH HỌC, TRƯỜNG HỌC VÀ KÊNH TƯ VẤN HƯỚNG NGHIỆP – TUYỂN SINH NĂM 2024](https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2024/)
 * 16/09/2024: [Thông báo mở bổ sung lớp Thể dục 1 và tăng sĩ số các môn Giải tích 1A, Vi tích phân 1 A, Hóa ĐC 1 và Thể dục 1](https://hcmus.edu.vn/thong-bao-mo-bo-sung-lop-the-duc-1-va-tang-si-so-cac-mon-giai-tich-1a-vi-tich-phan-1-a-hoa-dc-1-va-the-duc-1/)
 * 16/09/2024: [Thông báo thay đổi phòng học môn Vật lý đại cương (cơ – nhiệt) lớp 24KMT1](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-mon-vat-ly-dai-cuong-co-nhiet-lop-24kmt1/)
 * 16/09/2024: [TB Chương trình Học bổng POSCO TJ Park Foundation năm học 2024-2025](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-posco-tj-park-foundation-nam-hoc-2024-2025/)
@@ -92,6 +93,7 @@ No news in the last 1 month
 * 19/08/2024: [Kết quả học bổng Vallet năm 2024](https://hcmus.edu.vn/ket-qua-hoc-bong-vallet-nam-2024/)
 * 17/08/2024: [ĐIỂM CHUẨN PHƯƠNG THỨC XÉT TUYỂN DỰA TRÊN KẾT QUẢ KỲ THI TỐT NGHIỆP THPT 2024](https://hcmus.edu.vn/diem-chuan-phuong-thuc-xet-tuyen-dua-tren-ket-qua-ky-thi-tot-nghiep-thpt-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 16/09/2024: [KHẢO SÁT MỨC ĐỘ SẴN SÀNG CỦA TÂN SINH VIÊN ĐỐI VỚI NGÀNH HỌC, TRƯỜNG HỌC VÀ KÊNH TƯ VẤN HƯỚNG NGHIỆP – TUYỂN SINH NĂM 2024](https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2024/)
 * 16/09/2024: [Thông báo mở bổ sung lớp Thể dục 1 và tăng sĩ số các môn Giải tích 1A, Vi tích phân 1 A, Hóa ĐC 1 và Thể dục 1](https://hcmus.edu.vn/thong-bao-mo-bo-sung-lop-the-duc-1-va-tang-si-so-cac-mon-giai-tich-1a-vi-tich-phan-1-a-hoa-dc-1-va-the-duc-1/)
 * 16/09/2024: [Thông báo thay đổi phòng học môn Vật lý đại cương (cơ – nhiệt) lớp 24KMT1](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-mon-vat-ly-dai-cuong-co-nhiet-lop-24kmt1/)
 * 16/09/2024: [TB Chương trình Học bổng POSCO TJ Park Foundation năm học 2024-2025](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-posco-tj-park-foundation-nam-hoc-2024-2025/)
@@ -126,6 +128,7 @@ No news in the last 1 month
 * 21/08/2024: [THÔNG BÁO KẾT QUẢ TRÚNG TUYỂN VÀ NHẬN GIẤY BÁO TRÚNG TUYỂN, HOÀN TẤT HỒ SƠ TUYỂN DỤNG](https://hcmus.edu.vn/thong-bao-ket-qua-trung-tuyen-va-nhan-giay-bao-trung-tuyen-hoan-tat-ho-so-tuyen-dung/)
 * 21/08/2024: [THÔNG BÁO KẾT QUẢ THI VÒNG 2 VÀ VÒNG KIỂM TRA SÁT HẠCH, KỲ TUYỂN DỤNG VIÊN CHỨC NĂM 2024](https://hcmus.edu.vn/thong-bao-ket-qua-thi-vong-2-va-vong-kiem-tra-sat-hach-ky-tuyen-dung-vien-chuc-nam-2024/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
+* 16/09/2024: [KHẢO SÁT MỨC ĐỘ SẴN SÀNG CỦA TÂN SINH VIÊN ĐỐI VỚI NGÀNH HỌC, TRƯỜNG HỌC VÀ KÊNH TƯ VẤN HƯỚNG NGHIỆP – TUYỂN SINH NĂM 2024](https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2024/)
 * 14/09/2024: [BÁO CÁO CHUYÊN ĐỀ: MỘT SỐ VẤN ĐỀ VỀ PHÁP LUẬT DÀNH CHO SINH VIÊN NĂM NHẤT](https://hcmus.edu.vn/bao-cao-chuyen-de-mot-so-van-de-ve-phap-luat-danh-cho-sinh-vien-nam-nhat/)
 * 04/09/2024: [[THÔNG BÁO] Học bổng của Chính phủ Thụy Sỹ/The Swiss Government Excellence Scholarships](https://hcmus.edu.vn/thong-bao-hoc-bong-cua-chinh-phu-thuy-sy-the-swiss-government-excellence-scholarships/)
 * 23/08/2024: [THÔNG BÁO V/v tổ chức Tuần lễ Sinh hoạt Công dân – Sinh viên đối với Tân sinh viên khóa tuyển 2024](https://hcmus.edu.vn/thong-bao-v-v-to-chuc-tuan-le-sinh-hoat-cong-dan-sinh-vien-doi-voi-tan-sinh-vien-khoa-tuyen-2024/)
