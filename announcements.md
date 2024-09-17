@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:21:17 17/09/2024**_
+_Last update: **07:39:48 17/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/09/2024: [Thông báo danh sách tham gia khảo sát trình độ ngoại ngữ sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-danh-sach-tham-gia-khao-sat-trinh-do-ngoai-ngu-sinh-vien-khoa-2024/)
 * 07/09/2024: [[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao_cap-email-khoa-cong-nghe-thong-tin-cho-sinh-vien-khoa-2024/)
@@ -13,7 +13,7 @@ _Last update: **06:21:17 17/09/2024**_
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
-* 27/08/2024: [Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
+No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
@@ -91,7 +91,6 @@ No news in the last 1 month
 * 20/08/2024: [TỌA ĐÀM: TRÍ TUỆ NHÂN TẠO HƯỚNG ĐẾN TƯƠNG LAI](https://hcmus.edu.vn/toa-dam-tri-tue-nhan-tao-huong-den-tuong-lai/)
 * 20/08/2024: [Thông báo kiểm tra Anh văn đầu khóa dành cho Tân sinh viên khóa 2024](https://hcmus.edu.vn/thong-bao-kiem-tra-anh-van-dau-danh-cho-tan-sinh-vien-khoa-2024/)
 * 19/08/2024: [Kết quả học bổng Vallet năm 2024](https://hcmus.edu.vn/ket-qua-hoc-bong-vallet-nam-2024/)
-* 17/08/2024: [ĐIỂM CHUẨN PHƯƠNG THỨC XÉT TUYỂN DỰA TRÊN KẾT QUẢ KỲ THI TỐT NGHIỆP THPT 2024](https://hcmus.edu.vn/diem-chuan-phuong-thuc-xet-tuyen-dua-tren-ket-qua-ky-thi-tot-nghiep-thpt-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 16/09/2024: [KHẢO SÁT MỨC ĐỘ SẴN SÀNG CỦA TÂN SINH VIÊN ĐỐI VỚI NGÀNH HỌC, TRƯỜNG HỌC VÀ KÊNH TƯ VẤN HƯỚNG NGHIỆP – TUYỂN SINH NĂM 2024](https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2024/)
 * 16/09/2024: [Thông báo mở bổ sung lớp Thể dục 1 và tăng sĩ số các môn Giải tích 1A, Vi tích phân 1 A, Hóa ĐC 1 và Thể dục 1](https://hcmus.edu.vn/thong-bao-mo-bo-sung-lop-the-duc-1-va-tang-si-so-cac-mon-giai-tich-1a-vi-tich-phan-1-a-hoa-dc-1-va-the-duc-1/)
