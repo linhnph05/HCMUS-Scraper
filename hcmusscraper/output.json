@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:08:38 17/09/2024",
+  "Update time": "09:08:17 17/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo danh sách tham gia khảo sát trình độ ngoại ngữ sinh viên khóa 2024",
@@ -49,13 +49,7 @@
     }
   ],
   "Tin tuc": [],
-  "Thong tin can biet": [
-    {
-      "tieuDe": "Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/",
-      "date": "27/08/2024"
-    }
-  ],
+  "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
@@ -137,6 +131,16 @@
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
+    {
+      "tieuDe": "Thông báo kết quả chính thức học bổng TSV Khóa 2022 và Khóa 2023 HK2 NH: 2023-2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16375",
+      "date": "17/09/2024"
+    },
+    {
+      "tieuDe": "Danh sách dự kiến cấp xét học bổng đột xuất HK2 năm học 2023-2024 Dự kiến",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16374",
+      "date": "17/09/2024"
+    },
     {
       "tieuDe": "Danh sách dự kiến cấp xét học bổng tân sinh viên HK3 năm học 2023-2024 - Dự kiến",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16372",
