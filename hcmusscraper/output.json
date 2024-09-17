@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:07:48 17/09/2024",
+  "Update time": "04:08:19 17/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo danh sách tham gia khảo sát trình độ ngoại ngữ sinh viên khóa 2024",
@@ -138,6 +138,11 @@
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
     {
+      "tieuDe": "Danh sách dự kiến cấp xét học bổng tân sinh viên HK3 năm học 2023-2024 - Dự kiến",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16372",
+      "date": "17/09/2024"
+    },
+    {
       "tieuDe": "Danh sách dự kiến cấp xét học bổng tân sinh viên HK2 năm học 2023-2024 - Dự kiến",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16346",
       "date": "30/08/2024"
@@ -159,6 +164,11 @@
   ],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "FPT Software khởi động DX BOOTCAMP 2024 - Sân chơi đỉnh cao cho nhà công nghệ tương lai",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16371",
+      "date": "17/09/2024"
+    },
+    {
       "tieuDe": "Software Engineer I (New Graduate 2025)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16369",
       "date": "16/09/2024"
@@ -177,14 +187,19 @@
       "tieuDe": "Chương trình thực tập sinh ALGOTRADE",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16355",
       "date": "06/09/2024"
-    },
-    {
-      "tieuDe": "[GOLDEN OWL SOLUTIONS] TUYỂN DỤNG VỊ TRÍ RUBY INTERN",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16351",
-      "date": "05/09/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Quyết định sửa đổi, bổ sung về Đánh giá kết quả học tập các học phần Anh văn – Khóa 2022 về sau",
+      "url": "https://hcmus.edu.vn/quyet-dinh-sua-doi-bo-sung-ve-danh-gia-ket-qua-hoc-tap-cac-hoc-phan-anh-van-khoa-2022/",
+      "date": "17/09/2024"
+    },
+    {
+      "tieuDe": "Thời khóa biểu học kỳ 1/24-25 – Khóa 2023",
+      "url": "https://hcmus.edu.vn/thoi-khoa-bieu-hoc-ky-1-24-25-khoa-2023/",
+      "date": "17/09/2024"
+    },
     {
       "tieuDe": "Thời khóa biểu HK1/2024-2025 – khóa 2022 và 2024 (cập nhật đến ngày 16/9)",
       "url": "https://hcmus.edu.vn/thoi-khoa-bieu-hk1-2024-2025-khoa-2022-va-2024-cap-nhat-den-ngay-16-9/",
@@ -422,6 +437,16 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Quyết định sửa đổi, bổ sung về Đánh giá kết quả học tập các học phần Anh văn – Khóa 2022 về sau",
+      "url": "https://hcmus.edu.vn/quyet-dinh-sua-doi-bo-sung-ve-danh-gia-ket-qua-hoc-tap-cac-hoc-phan-anh-van-khoa-2022/",
+      "date": "17/09/2024"
+    },
+    {
+      "tieuDe": "Thời khóa biểu học kỳ 1/24-25 – Khóa 2023",
+      "url": "https://hcmus.edu.vn/thoi-khoa-bieu-hoc-ky-1-24-25-khoa-2023/",
+      "date": "17/09/2024"
+    },
     {
       "tieuDe": "Thời khóa biểu HK1/2024-2025 – khóa 2022 và 2024 (cập nhật đến ngày 16/9)",
       "url": "https://hcmus.edu.vn/thoi-khoa-bieu-hk1-2024-2025-khoa-2022-va-2024-cap-nhat-den-ngay-16-9/",
