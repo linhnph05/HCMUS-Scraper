@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:08:30 18/09/2024",
+  "Update time": "10:07:22 18/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo danh sách tham gia khảo sát trình độ ngoại ngữ sinh viên khóa 2024",
@@ -59,6 +59,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Thông báo đổi phòng học lớp Phát triển phần mềm cho thiết bị di động (22_31), HK1/NH 2024-2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16380",
+      "date": "18/9/2024"
+    },
+    {
       "tieuDe": "Thông báo đổi phòng học lớp Blockchain và ứng dụng (21_22), HK1/NH 2024-2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16379",
       "date": "18/9/2024"
@@ -101,11 +106,6 @@
     {
       "tieuDe": "[CQ] Danh sách lớp hủy HK1/24-25 do không đủ số lượng mở lớp",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16360",
-      "date": "9/9/2024"
-    },
-    {
-      "tieuDe": "Thông báo v/v đăng ký đội tham dự ICPC-HCMUS 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16359",
       "date": "9/9/2024"
     }
   ],
@@ -200,6 +200,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo v/v thực hiện chế độ chính sách dành cho sinh viên học kỳ 1 năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-v-v-thuc-hien-che-do-chinh-sach-danh-cho-sinh-vien-hoc-ky-1-nam-hoc-2024-2025/",
+      "date": "18/09/2024"
+    },
     {
       "tieuDe": "THÔNG TIN GIẢI THƯỞNG TRẦN ĐẠI NGHĨA NĂM 2025",
       "url": "https://hcmus.edu.vn/thong-tin-giai-thuong-tran-dai-nghia-nam-2025/",
@@ -458,6 +463,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "Thông báo v/v thực hiện chế độ chính sách dành cho sinh viên học kỳ 1 năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-v-v-thuc-hien-che-do-chinh-sach-danh-cho-sinh-vien-hoc-ky-1-nam-hoc-2024-2025/",
+      "date": "18/09/2024"
+    },
+    {
       "tieuDe": "Thời khóa biểu môn học Thể dục 1 trong HK1/24-25 (có thông tin giảng viên)",
       "url": "https://hcmus.edu.vn/thoi-khoa-bieu-mon-hoc-the-duc-1-trong-hk1-24-25-co-thong-tin-giang-vien/",
       "date": "18/09/2024"
@@ -651,6 +661,11 @@
     }
   ],
   "HCMUS-Nguoi hoc": [
+    {
+      "tieuDe": "Thông báo v/v thực hiện chế độ chính sách dành cho sinh viên học kỳ 1 năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-v-v-thuc-hien-che-do-chinh-sach-danh-cho-sinh-vien-hoc-ky-1-nam-hoc-2024-2025/",
+      "date": "18/09/2024"
+    },
     {
       "tieuDe": "KHẢO SÁT MỨC ĐỘ SẴN SÀNG CỦA TÂN SINH VIÊN ĐỐI VỚI NGÀNH HỌC, TRƯỜNG HỌC VÀ KÊNH TƯ VẤN HƯỚNG NGHIỆP – TUYỂN SINH NĂM 2024",
       "url": "https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2024/",
