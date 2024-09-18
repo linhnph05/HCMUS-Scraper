@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "11:06:40 18/09/2024",
+  "Update time": "12:10:32 18/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo danh sách tham gia khảo sát trình độ ngoại ngữ sinh viên khóa 2024",
@@ -49,7 +49,13 @@
     }
   ],
   "Tin tuc": [],
-  "Thong tin can biet": [],
+  "Thong tin can biet": [
+    {
+      "tieuDe": "Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/",
+      "date": "27/08/2024"
+    }
+  ],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
