@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **08:46:29 18/09/2024**_
+_Last update: **09:39:40 18/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/09/2024: [Thông báo danh sách tham gia khảo sát trình độ ngoại ngữ sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-danh-sach-tham-gia-khao-sat-trinh-do-ngoai-ngu-sinh-vien-khoa-2024/)
 * 07/09/2024: [[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao_cap-email-khoa-cong-nghe-thong-tin-cho-sinh-vien-khoa-2024/)
@@ -43,11 +43,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 28/08/2024: [Chương trình Sudo Code 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16344)
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 18/09/2024: [Jumpstart Your IT Career at Netcompany!](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16376)
 * 17/09/2024: [FPT Software khởi động DX BOOTCAMP 2024 - Sân chơi đỉnh cao cho nhà công nghệ tương lai](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16371)
 * 16/09/2024: [Software Engineer I (New Graduate 2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16369)
 * 13/09/2024: [[FPT Software] Tuyển Dụng 15 Thực Tập Sinh Flutter/C#, .NET/ReactJS/Android](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16367)
 * 12/09/2024: [NEXLAB INTERNSHIP PROGRAM 2024 HO CHI MINH](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16366)
-* 06/09/2024: [Chương trình thực tập sinh ALGOTRADE](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16355)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 17/09/2024: [Thông báo ngày điều chỉnh đăng ký học phần môn Tin học cơ sở đối với Khóa 2023 chương trình đại trà](https://hcmus.edu.vn/thong-bao-ngay-dieu-chinh-dang-ky-hoc-phan-mon-tin-hoc-co-so-doi-voi-khoa-2023/)
 * 17/09/2024: [Quyết định sửa đổi, bổ sung về Đánh giá kết quả học tập các học phần Anh văn – Khóa 2022 về sau](https://hcmus.edu.vn/quyet-dinh-sua-doi-bo-sung-ve-danh-gia-ket-qua-hoc-tap-cac-hoc-phan-anh-van-khoa-2022/)
