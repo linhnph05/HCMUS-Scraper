@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:09:11 18/09/2024",
+  "Update time": "09:08:30 18/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo danh sách tham gia khảo sát trình độ ngoại ngữ sinh viên khóa 2024",
@@ -59,6 +59,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Thông báo đổi phòng học lớp Blockchain và ứng dụng (21_22), HK1/NH 2024-2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16379",
+      "date": "18/9/2024"
+    },
+    {
       "tieuDe": "Chương trình Ươm mầm sinh viên nghiên cứu khoa học sinh viên năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16373",
       "date": "17/9/2024"
@@ -101,11 +106,6 @@
     {
       "tieuDe": "Thông báo v/v đăng ký đội tham dự ICPC-HCMUS 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16359",
-      "date": "9/9/2024"
-    },
-    {
-      "tieuDe": "Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học Tự nhiên năm 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16358",
       "date": "9/9/2024"
     }
   ],

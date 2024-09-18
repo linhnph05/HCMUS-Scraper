@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:22:31 18/09/2024**_
+_Last update: **16:20:16 18/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/09/2024: [Thông báo danh sách tham gia khảo sát trình độ ngoại ngữ sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-danh-sach-tham-gia-khao-sat-trinh-do-ngoai-ngu-sinh-vien-khoa-2024/)
 * 07/09/2024: [[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao_cap-email-khoa-cong-nghe-thong-tin-cho-sinh-vien-khoa-2024/)
@@ -17,6 +17,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 18/9/2024: [Thông báo đổi phòng học lớp Blockchain và ứng dụng (21_22), HK1/NH 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16379)
 * 17/9/2024: [Chương trình Ươm mầm sinh viên nghiên cứu khoa học sinh viên năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16373)
 * 16/9/2024: [[CQ] Danh sách các lớp đổi phòng học HK1/24-25 từ 17/9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16370)
 * 12/9/2024: [[CQ] Thời khóa biểu Lý thuyết học kỳ 1 năm học 2024-2025 (có phòng học)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16365)
@@ -26,7 +27,6 @@ No news in the last 1 month
 * 9/9/2024: [Mời tham dự Hội thảo trực tuyến 'Giới thiệu các chương trình đào tạo Sau đại học' ngày 13/9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16361)
 * 9/9/2024: [[CQ] Danh sách lớp hủy HK1/24-25 do không đủ số lượng mở lớp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16360)
 * 9/9/2024: [Thông báo v/v đăng ký đội tham dự ICPC-HCMUS 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16359)
-* 9/9/2024: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học Tự nhiên năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16358)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 17/09/2024: [Chương trình Ươm mầm sinh viên nghiên cứu khoa học sinh viên năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16373)
 * 13/09/2024: [Chương trình Học bổng Chevening năm học 2025-2026 - Chính phủ Anh](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16368)
