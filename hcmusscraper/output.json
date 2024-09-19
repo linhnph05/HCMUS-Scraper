@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "04:08:11 19/09/2024",
+  "Update time": "05:07:25 19/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)",
@@ -59,6 +59,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "[CQ] Thông báo kiểm tra kết quả kiểm duyệt đăng ký học phần HK1, NH 2024-2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16381",
+      "date": "19/9/2024"
+    },
+    {
       "tieuDe": "Thông báo đổi phòng học lớp Phát triển phần mềm cho thiết bị di động (22_31), HK1/NH 2024-2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16380",
       "date": "18/9/2024"
@@ -101,11 +106,6 @@
     {
       "tieuDe": "Mời tham dự Hội thảo trực tuyến 'Giới thiệu các chương trình đào tạo Sau đại học' ngày 13/9/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16361",
-      "date": "9/9/2024"
-    },
-    {
-      "tieuDe": "[CQ] Danh sách lớp hủy HK1/24-25 do không đủ số lượng mở lớp",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16360",
       "date": "9/9/2024"
     }
   ],
