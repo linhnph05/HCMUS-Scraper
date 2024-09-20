@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:09:18 20/09/2024",
+  "Update time": "04:08:07 20/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)",
@@ -59,6 +59,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Thông báo kết quả xét duyệt học bổng dành cho HVCH ngành Trí tuệ nhân tạo Khóa 33/2023 được tài trợ bởi VINIF",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16384",
+      "date": "20/9/2024"
+    },
+    {
       "tieuDe": "Mời tham dự buổi bảo vệ luận văn Thạc sĩ đợt cuối tháng 9/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16383",
       "date": "19/9/2024"
@@ -101,11 +106,6 @@
     {
       "tieuDe": "Lịch làm việc của Cố vấn học tập HK1 năm học 2024 - 2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16362",
-      "date": "10/9/2024"
-    },
-    {
-      "tieuDe": "V/v nộp hồ sơ bảo vệ dành cho học viên cao học bảo vệ đợt cuối tháng 9/2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16363",
       "date": "10/9/2024"
     }
   ],
