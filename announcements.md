@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:22:30 23/09/2024**_
+_Last update: **16:21:26 23/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 20/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao/)
 * 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -42,11 +42,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 28/08/2024: [Chương trình Sudo Code 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16344)
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 23/09/2024: [[Q2, Bình Thạnh] Cty IT Outsourcing Golden Owl Solutions tuyển dụng TTS Ruby on Rails](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16386)
 * 18/09/2024: [VNPT TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16378)
 * 18/09/2024: [Chương trình học bổng KMS BACK2SCHOOL 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16377)
 * 18/09/2024: [Jumpstart Your IT Career at Netcompany!](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16376)
 * 17/09/2024: [FPT Software khởi động DX BOOTCAMP 2024 - Sân chơi đỉnh cao cho nhà công nghệ tương lai](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16371)
-* 16/09/2024: [Software Engineer I (New Graduate 2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16369)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 23/09/2024: [Thông báo kết quả dự kiến Điểm rèn luyện HK2/2023 – 2024 (CT Đại trà) và HK3/2023 – 2024 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2023-2024-ct-dai-tra-va-hk3-2023-2024-ct-de-an/)
 * 19/09/2024: [Thông báo điều chỉnh lớp các sinh viên có cùng lịch học môn Anh văn bổ túc, Anh văn 1](https://hcmus.edu.vn/thong-bao-dieu-chinh-lop-cac-sinh-vien-co-cung-lich-hoc-mon-anh-van-bo-tuc-anh-van-1/)
