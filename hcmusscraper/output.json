@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:29:37 23/09/2024",
+  "Update time": "03:11:14 23/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao",
@@ -54,6 +54,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "[CQ] TKB lý thuyết và thực hành chính thức HK1/24-25",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16385",
+      "date": "23/9/2024"
+    },
+    {
       "tieuDe": "Thông báo kết quả xét duyệt học bổng dành cho HVCH ngành Trí tuệ nhân tạo Khóa 33/2023 được tài trợ bởi VINIF",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16384",
       "date": "20/9/2024"
@@ -97,11 +102,6 @@
       "tieuDe": "Thời khóa biểu lớp bổ túc kiến thức môn Cơ sở dữ liệu, Các thuật toán thông minh nhân tạo và ứng dụng khóa tháng 9/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16364",
       "date": "11/9/2024"
-    },
-    {
-      "tieuDe": "Lịch làm việc của Cố vấn học tập HK1 năm học 2024 - 2025",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16362",
-      "date": "10/9/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
