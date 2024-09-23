@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **14:19:33 23/09/2024**_
+_Last update: **15:22:30 23/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 20/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao/)
 * 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
@@ -48,6 +48,7 @@ No news in the last 1 month
 * 17/09/2024: [FPT Software khởi động DX BOOTCAMP 2024 - Sân chơi đỉnh cao cho nhà công nghệ tương lai](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16371)
 * 16/09/2024: [Software Engineer I (New Graduate 2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16369)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 23/09/2024: [Thông báo kết quả dự kiến Điểm rèn luyện HK2/2023 – 2024 (CT Đại trà) và HK3/2023 – 2024 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2023-2024-ct-dai-tra-va-hk3-2023-2024-ct-de-an/)
 * 19/09/2024: [Thông báo điều chỉnh lớp các sinh viên có cùng lịch học môn Anh văn bổ túc, Anh văn 1](https://hcmus.edu.vn/thong-bao-dieu-chinh-lop-cac-sinh-vien-co-cung-lich-hoc-mon-anh-van-bo-tuc-anh-van-1/)
 * 18/09/2024: [Thông báo v/v thực hiện chế độ chính sách dành cho sinh viên học kỳ 1 năm học 2024-2025](https://hcmus.edu.vn/thong-bao-v-v-thuc-hien-che-do-chinh-sach-danh-cho-sinh-vien-hoc-ky-1-nam-hoc-2024-2025/)
 * 18/09/2024: [THÔNG TIN GIẢI THƯỞNG TRẦN ĐẠI NGHĨA NĂM 2025](https://hcmus.edu.vn/thong-tin-giai-thuong-tran-dai-nghia-nam-2025/)
@@ -89,6 +90,7 @@ No news in the last 1 month
 * 26/08/2024: [HỘI NGHỊ KHOA HỌC QUỐC TẾ GSETS 2025 [HUTECH]](https://hcmus.edu.vn/hoi-nghi-khoa-hoc-quoc-te-gsets-2025-hutech/)
 * 26/08/2024: [THÔNG TIN GIẢI THƯỞNG KHUÊ VĂN CÁC LẦN 1 NĂM 2024](https://hcmus.edu.vn/thong-tin-giai-thuong-khue-van-cac-lan-1-nam-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 23/09/2024: [Thông báo kết quả dự kiến Điểm rèn luyện HK2/2023 – 2024 (CT Đại trà) và HK3/2023 – 2024 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2023-2024-ct-dai-tra-va-hk3-2023-2024-ct-de-an/)
 * 19/09/2024: [Thông báo điều chỉnh lớp các sinh viên có cùng lịch học môn Anh văn bổ túc, Anh văn 1](https://hcmus.edu.vn/thong-bao-dieu-chinh-lop-cac-sinh-vien-co-cung-lich-hoc-mon-anh-van-bo-tuc-anh-van-1/)
 * 18/09/2024: [Thông báo v/v thực hiện chế độ chính sách dành cho sinh viên học kỳ 1 năm học 2024-2025](https://hcmus.edu.vn/thong-bao-v-v-thuc-hien-che-do-chinh-sach-danh-cho-sinh-vien-hoc-ky-1-nam-hoc-2024-2025/)
 * 18/09/2024: [Thời khóa biểu môn học Thể dục 1 trong HK1/24-25 (có thông tin giảng viên)](https://hcmus.edu.vn/thoi-khoa-bieu-mon-hoc-the-duc-1-trong-hk1-24-25-co-thong-tin-giang-vien/)
@@ -121,6 +123,7 @@ No news in the last 1 month
 * 29/08/2024: [Quyết định Về việc công nhận kết quả tuyển dụng viên chức năm 2024](https://hcmus.edu.vn/quyet-dinh-ve-viec-cong-nhan-ket-qua-tuyen-dung-vien-chuc-nam-2024/)
 * 27/08/2024: [THÔNG BÁO TUYỂN DỤNG TRỢ GIẢNG KHOA TOÁN – TIN HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-tro-giang-khoa-toan-tin-hoc/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
+* 23/09/2024: [Thông báo kết quả dự kiến Điểm rèn luyện HK2/2023 – 2024 (CT Đại trà) và HK3/2023 – 2024 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2023-2024-ct-dai-tra-va-hk3-2023-2024-ct-de-an/)
 * 18/09/2024: [Thông báo v/v thực hiện chế độ chính sách dành cho sinh viên học kỳ 1 năm học 2024-2025](https://hcmus.edu.vn/thong-bao-v-v-thuc-hien-che-do-chinh-sach-danh-cho-sinh-vien-hoc-ky-1-nam-hoc-2024-2025/)
 * 16/09/2024: [KHẢO SÁT MỨC ĐỘ SẴN SÀNG CỦA TÂN SINH VIÊN ĐỐI VỚI NGÀNH HỌC, TRƯỜNG HỌC VÀ KÊNH TƯ VẤN HƯỚNG NGHIỆP – TUYỂN SINH NĂM 2024](https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2024/)
 * 14/09/2024: [BÁO CÁO CHUYÊN ĐỀ: MỘT SỐ VẤN ĐỀ VỀ PHÁP LUẬT DÀNH CHO SINH VIÊN NĂM NHẤT](https://hcmus.edu.vn/bao-cao-chuyen-de-mot-so-van-de-ve-phap-luat-danh-cho-sinh-vien-nam-nhat/)
