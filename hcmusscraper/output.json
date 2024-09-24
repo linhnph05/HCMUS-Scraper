@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "01:34:06 24/09/2024",
+  "Update time": "03:11:08 24/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "[TLSV]_Thông báo lịch cố vấn học tập học kỳ 1/2024-2025",
@@ -80,6 +80,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Thay đổi thời gian Hội đồng bảo vệ luận văn thạc sĩ - Hội đồng 4",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16387",
+      "date": "24/9/2024"
+    },
+    {
       "tieuDe": "[CQ] TKB lý thuyết và thực hành chính thức HK1/24-25",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16385",
       "date": "23/9/2024"
@@ -123,11 +128,6 @@
       "tieuDe": "[CQ] Thời khóa biểu Lý thuyết học kỳ 1 năm học 2024-2025 (có phòng học)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16365",
       "date": "12/9/2024"
-    },
-    {
-      "tieuDe": "Thời khóa biểu lớp bổ túc kiến thức môn Cơ sở dữ liệu, Các thuật toán thông minh nhân tạo và ứng dụng khóa tháng 9/2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16364",
-      "date": "11/9/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -215,6 +215,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "THÔNG BÁO V/v thực hiện bài thu hoạch và khảo sát công tác đầu năm sau Tuần lễ Sinh hoạt Công dân – Sinh viên đầu khóa năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-thuc-hien-bai-thu-hoach-va-khao-sat-cong-tac-dau-nam-sau-tuan-le-sinh-hoa%cc%a3t-cong-dan-sinh-vien-dau-khoa-nam-ho%cc%a3c-2024-2025/",
+      "date": "24/09/2024"
+    },
     {
       "tieuDe": "Thông báo kết quả dự kiến Điểm rèn luyện HK2/2023 – 2024 (CT Đại trà) và HK3/2023 – 2024 (CT Đề án)",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2023-2024-ct-dai-tra-va-hk3-2023-2024-ct-de-an/",
@@ -423,6 +428,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "THÔNG BÁO V/v thực hiện bài thu hoạch và khảo sát công tác đầu năm sau Tuần lễ Sinh hoạt Công dân – Sinh viên đầu khóa năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-thuc-hien-bai-thu-hoach-va-khao-sat-cong-tac-dau-nam-sau-tuan-le-sinh-hoa%cc%a3t-cong-dan-sinh-vien-dau-khoa-nam-ho%cc%a3c-2024-2025/",
+      "date": "24/09/2024"
+    },
+    {
       "tieuDe": "Thông báo kết quả dự kiến Điểm rèn luyện HK2/2023 – 2024 (CT Đại trà) và HK3/2023 – 2024 (CT Đề án)",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2023-2024-ct-dai-tra-va-hk3-2023-2024-ct-de-an/",
       "date": "23/09/2024"
@@ -581,6 +591,11 @@
     }
   ],
   "HCMUS-Nguoi hoc": [
+    {
+      "tieuDe": "THÔNG BÁO V/v thực hiện bài thu hoạch và khảo sát công tác đầu năm sau Tuần lễ Sinh hoạt Công dân – Sinh viên đầu khóa năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-thuc-hien-bai-thu-hoach-va-khao-sat-cong-tac-dau-nam-sau-tuan-le-sinh-hoa%cc%a3t-cong-dan-sinh-vien-dau-khoa-nam-ho%cc%a3c-2024-2025/",
+      "date": "24/09/2024"
+    },
     {
       "tieuDe": "Thông báo kết quả dự kiến Điểm rèn luyện HK2/2023 – 2024 (CT Đại trà) và HK3/2023 – 2024 (CT Đề án)",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2023-2024-ct-dai-tra-va-hk3-2023-2024-ct-de-an/",
