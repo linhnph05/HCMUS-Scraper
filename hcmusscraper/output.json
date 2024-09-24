@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:07:26 24/09/2024",
+  "Update time": "10:07:21 24/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo",
@@ -65,7 +65,13 @@
       "date": "23/09/2024"
     }
   ],
-  "Thong tin can biet": [],
+  "Thong tin can biet": [
+    {
+      "tieuDe": "Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/",
+      "date": "27/08/2024"
+    }
+  ],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
@@ -178,6 +184,11 @@
   ],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "FPT Software tuyển dụng On Job Training Technical Consultant",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16392",
+      "date": "24/09/2024"
+    },
+    {
       "tieuDe": "TMA Tech Group tuyển dụng Fresher Tester/Developer 9/2024- Không yêu cầu kinh nghiệm",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16388",
       "date": "24/09/2024"
@@ -196,14 +207,19 @@
       "tieuDe": "Chương trình học bổng KMS BACK2SCHOOL 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16377",
       "date": "18/09/2024"
-    },
-    {
-      "tieuDe": "Jumpstart Your IT Career at Netcompany!",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16376",
-      "date": "18/09/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo Chương trình Học bổng Pony Chung năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-nam-hoc-2024-2025/",
+      "date": "24/09/2024"
+    },
+    {
+      "tieuDe": "Kết quả xét tốt nghiệp đại học đợt tháng 9 năm 2024",
+      "url": "https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-9-nam-2024/",
+      "date": "24/09/2024"
+    },
     {
       "tieuDe": "THÔNG BÁO V/v thực hiện bài thu hoạch và khảo sát công tác đầu năm sau Tuần lễ Sinh hoạt Công dân – Sinh viên đầu khóa năm học 2024-2025",
       "url": "https://hcmus.edu.vn/thong-bao-thuc-hien-bai-thu-hoach-va-khao-sat-cong-tac-dau-nam-sau-tuan-le-sinh-hoa%cc%a3t-cong-dan-sinh-vien-dau-khoa-nam-ho%cc%a3c-2024-2025/",
@@ -417,6 +433,16 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "Thông báo Chương trình Học bổng Pony Chung năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-nam-hoc-2024-2025/",
+      "date": "24/09/2024"
+    },
+    {
+      "tieuDe": "Kết quả xét tốt nghiệp đại học đợt tháng 9 năm 2024",
+      "url": "https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-9-nam-2024/",
+      "date": "24/09/2024"
+    },
+    {
       "tieuDe": "THÔNG BÁO V/v thực hiện bài thu hoạch và khảo sát công tác đầu năm sau Tuần lễ Sinh hoạt Công dân – Sinh viên đầu khóa năm học 2024-2025",
       "url": "https://hcmus.edu.vn/thong-bao-thuc-hien-bai-thu-hoach-va-khao-sat-cong-tac-dau-nam-sau-tuan-le-sinh-hoa%cc%a3t-cong-dan-sinh-vien-dau-khoa-nam-ho%cc%a3c-2024-2025/",
       "date": "24/09/2024"
@@ -612,6 +638,11 @@
     }
   ],
   "HCMUS-Hoc bong dai hoc": [
+    {
+      "tieuDe": "Thông báo Chương trình Học bổng Pony Chung năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-nam-hoc-2024-2025/",
+      "date": "24/09/2024"
+    },
     {
       "tieuDe": "TB Chương trình Học bổng POSCO TJ Park Foundation năm học 2024-2025",
       "url": "https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-posco-tj-park-foundation-nam-hoc-2024-2025/",
