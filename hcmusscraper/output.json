@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "16:07:59 24/09/2024",
+  "Update time": "17:07:00 24/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo",
@@ -85,6 +85,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Mời đăng ký tham gia Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16393",
+      "date": "25/9/2024"
+    },
+    {
       "tieuDe": "Danh sách môn mở trong Học phần 4 lớp cao học khóa 33/2023",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16391",
       "date": "24/9/2024"
@@ -128,11 +133,6 @@
       "tieuDe": "Chương trình Ươm mầm sinh viên nghiên cứu khoa học sinh viên năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16373",
       "date": "17/9/2024"
-    },
-    {
-      "tieuDe": "[CQ] Danh sách các lớp đổi phòng học HK1/24-25 từ 17/9/2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16370",
-      "date": "16/9/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -184,7 +184,13 @@
       "date": "30/08/2024"
     }
   ],
-  "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [],
+  "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
+    {
+      "tieuDe": "Mời đăng ký tham gia Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16393",
+      "date": "25/09/2024"
+    }
+  ],
   "FIT-HOẠT ĐỘNG SINH VIÊN": [
     {
       "tieuDe": "Chương trình Sudo Code 2024",

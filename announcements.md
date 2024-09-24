@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **23:19:59 24/09/2024**_
+_Last update: **00:19:39 25/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 24/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao-sau-phuc-khao/)
 * 23/09/2024: [[TLSV]_Thông báo lịch cố vấn học tập học kỳ 1/2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/09/tlsv_thong-bao-lich-co-van-hoc-tap-hoc-ky-1-2024-2025/)
@@ -21,6 +21,7 @@ _Last update: **23:19:59 24/09/2024**_
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 25/9/2024: [Mời đăng ký tham gia Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16393)
 * 24/9/2024: [Danh sách môn mở trong Học phần 4 lớp cao học khóa 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16391)
 * 24/9/2024: [Thay đổi thời gian Hội đồng bảo vệ luận văn thạc sĩ - Hội đồng 4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16387)
 * 23/9/2024: [[CQ] TKB lý thuyết và thực hành chính thức HK1/24-25](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16385)
@@ -30,7 +31,6 @@ No news in the last 1 month
 * 18/9/2024: [Thông báo đổi phòng học lớp Phát triển phần mềm cho thiết bị di động (22_31), HK1/NH 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16380)
 * 18/9/2024: [Thông báo đổi phòng học lớp Blockchain và ứng dụng (21_22), HK1/NH 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16379)
 * 17/9/2024: [Chương trình Ươm mầm sinh viên nghiên cứu khoa học sinh viên năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16373)
-* 16/9/2024: [[CQ] Danh sách các lớp đổi phòng học HK1/24-25 từ 17/9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16370)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 17/09/2024: [Chương trình Ươm mầm sinh viên nghiên cứu khoa học sinh viên năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16373)
 * 13/09/2024: [Chương trình Học bổng Chevening năm học 2025-2026 - Chính phủ Anh](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16368)
@@ -43,7 +43,7 @@ No news in the last 1 month
 * 17/09/2024: [Danh sách dự kiến cấp xét học bổng tân sinh viên HK3 năm học 2023-2024 - Dự kiến](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16372)
 * 30/08/2024: [Danh sách dự kiến cấp xét học bổng tân sinh viên HK2 năm học 2023-2024 - Dự kiến](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16346)
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-No news in the last 1 month
+* 25/09/2024: [Mời đăng ký tham gia Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16393)
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 28/08/2024: [Chương trình Sudo Code 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16344)
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
