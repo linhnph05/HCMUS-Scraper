@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **12:27:48 25/09/2024**_
+_Last update: **13:22:44 25/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 24/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao-sau-phuc-khao/)
 * 23/09/2024: [[TLSV]_Thông báo lịch cố vấn học tập học kỳ 1/2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/09/tlsv_thong-bao-lich-co-van-hoc-tap-hoc-ky-1-2024-2025/)
@@ -11,8 +11,6 @@ _Last update: **12:27:48 25/09/2024**_
 * 07/09/2024: [[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao_cap-email-khoa-cong-nghe-thong-tin-cho-sinh-vien-khoa-2024/)
 * 28/08/2024: [Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/thong-bao-thay-doi-phong-thi-nm-cong-nghe-phan-mem_hk3-2324/)
 * 27/08/2024: [Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2024/)
-* 26/08/2024: [Thông báo về việc khảo sát năng lực Anh văn đầu khóa đối với sinh viên chương trình Đề án Khoa Công nghệ thông tin khóa tuyển 2024](https://www.ctda.hcmus.edu.vn/vi/2024/08/thong-bao-ve-viec-khao-sat-nang-luc-anh-van-dau-khoa-doi-voi-sinh-vien-chuong-trinh-de-an-khoa-cong-nghe-thong-tin-khoa-tuyen-2024/)
-* 26/08/2024: [Thông báo về việc khảo sát năng lực lập trình đầu khóa cho sinh viên khóa tuyển 2024  chương trình Tăng cường tiếng Anh ngành Công nghệ thông tin](https://www.ctda.hcmus.edu.vn/vi/2024/08/thong-bao-ve-viec-khao-sat-nang-luc-lap-trinh-dau-khoa-cho-sinh-vien-khoa-tuyen-2024-chuong-trinh-tang-cuong-tieng-anh-nganh-cong-nghe-thong-tin/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 * 23/09/2024: [TCTA_Thông báo về việc sử dụng tài khoản học vụ Khoá 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/tcta_thong-bao-ve-viec-su-dung-tai-khoan-hoc-vu-khoa-2024/)
 * 23/09/2024: [CTTT_Thông báo về việc sử dụng tài khoản học vụ Khoá 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/cttt_thong-bao-ve-viec-su-dung-tai-khoan-hoc-vu-khoa-2024/)
@@ -54,7 +52,7 @@ No news in the last 1 month
 * 18/09/2024: [VNPT TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16378)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 24/09/2024: [Thông báo Chương trình Học bổng Pony Chung năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-nam-hoc-2024-2025/)
-* 24/09/2024: [Kết quả xét tốt nghiệp đại học đợt tháng 9 năm 2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-9-nam-2024/)
+* 24/09/2024: [Kết quả xét tốt nghiệp đại học / cao đẳng đợt tháng 9 năm 2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-9-nam-2024/)
 * 24/09/2024: [THÔNG BÁO V/v thực hiện bài thu hoạch và khảo sát công tác đầu năm sau Tuần lễ Sinh hoạt Công dân – Sinh viên đầu khóa năm học 2024-2025](https://hcmus.edu.vn/thong-bao-thuc-hien-bai-thu-hoach-va-khao-sat-cong-tac-dau-nam-sau-tuan-le-sinh-hoa%cc%a3t-cong-dan-sinh-vien-dau-khoa-nam-ho%cc%a3c-2024-2025/)
 * 23/09/2024: [Thông báo kết quả dự kiến Điểm rèn luyện HK2/2023 – 2024 (CT Đại trà) và HK3/2023 – 2024 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2023-2024-ct-dai-tra-va-hk3-2023-2024-ct-de-an/)
 * 19/09/2024: [Thông báo điều chỉnh lớp các sinh viên có cùng lịch học môn Anh văn bổ túc, Anh văn 1](https://hcmus.edu.vn/thong-bao-dieu-chinh-lop-cac-sinh-vien-co-cung-lich-hoc-mon-anh-van-bo-tuc-anh-van-1/)
@@ -99,7 +97,7 @@ No news in the last 1 month
 * 26/08/2024: [THÔNG TIN GIẢI THƯỞNG KHUÊ VĂN CÁC LẦN 1 NĂM 2024](https://hcmus.edu.vn/thong-tin-giai-thuong-khue-van-cac-lan-1-nam-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 24/09/2024: [Thông báo Chương trình Học bổng Pony Chung năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-nam-hoc-2024-2025/)
-* 24/09/2024: [Kết quả xét tốt nghiệp đại học đợt tháng 9 năm 2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-9-nam-2024/)
+* 24/09/2024: [Kết quả xét tốt nghiệp đại học / cao đẳng đợt tháng 9 năm 2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-9-nam-2024/)
 * 24/09/2024: [THÔNG BÁO V/v thực hiện bài thu hoạch và khảo sát công tác đầu năm sau Tuần lễ Sinh hoạt Công dân – Sinh viên đầu khóa năm học 2024-2025](https://hcmus.edu.vn/thong-bao-thuc-hien-bai-thu-hoach-va-khao-sat-cong-tac-dau-nam-sau-tuan-le-sinh-hoa%cc%a3t-cong-dan-sinh-vien-dau-khoa-nam-ho%cc%a3c-2024-2025/)
 * 23/09/2024: [Thông báo kết quả dự kiến Điểm rèn luyện HK2/2023 – 2024 (CT Đại trà) và HK3/2023 – 2024 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2023-2024-ct-dai-tra-va-hk3-2023-2024-ct-de-an/)
 * 19/09/2024: [Thông báo điều chỉnh lớp các sinh viên có cùng lịch học môn Anh văn bổ túc, Anh văn 1](https://hcmus.edu.vn/thong-bao-dieu-chinh-lop-cac-sinh-vien-co-cung-lich-hoc-mon-anh-van-bo-tuc-anh-van-1/)
