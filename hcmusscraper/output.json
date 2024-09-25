@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:12:48 25/09/2024",
+  "Update time": "04:08:44 25/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo",
@@ -69,6 +69,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Đăng ký tham quan công ty FPT Telecom ngày 8/10",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16396",
+      "date": "25/9/2024"
+    },
+    {
       "tieuDe": "Mời đăng ký tham gia Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16393",
       "date": "25/9/2024"
@@ -112,14 +117,14 @@
       "tieuDe": "Thông báo đổi phòng học lớp Blockchain và ứng dụng (21_22), HK1/NH 2024-2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16379",
       "date": "18/9/2024"
-    },
-    {
-      "tieuDe": "Chương trình Ươm mầm sinh viên nghiên cứu khoa học sinh viên năm 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16373",
-      "date": "17/9/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Đăng ký tham quan công ty FPT Telecom ngày 8/10",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16396",
+      "date": "25/09/2024"
+    },
     {
       "tieuDe": "Chương trình Ươm mầm sinh viên nghiên cứu khoa học sinh viên năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16373",
@@ -139,11 +144,6 @@
       "tieuDe": "Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học Tự nhiên năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16358",
       "date": "09/09/2024"
-    },
-    {
-      "tieuDe": "Chương trình Hành trang tân sinh viên Khoa Công nghệ Thông tin khóa tuyển 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16357",
-      "date": "06/09/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
