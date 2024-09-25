@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:09:03 25/09/2024",
+  "Update time": "09:07:48 25/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo",
@@ -190,6 +190,11 @@
   ],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "FPT Software tuyển dụng Fresher Data Engineer - Chương trình đào tạo tài năng của FPT Software",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16395",
+      "date": "25/09/2024"
+    },
+    {
       "tieuDe": "FPT Software Tuyển Dụng Thực Tập Sinh C#,.NET,Razor/DE,DA/AI",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16394",
       "date": "25/09/2024"
@@ -208,14 +213,14 @@
       "tieuDe": "[Q2, Bình Thạnh] Cty IT Outsourcing Golden Owl Solutions tuyển dụng TTS Ruby on Rails",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16386",
       "date": "23/09/2024"
-    },
-    {
-      "tieuDe": "VNPT TUYỂN DỤNG",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16378",
-      "date": "18/09/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo cập nhật phòng học tại Cơ sở 2 từ ngày 30/9/2024",
+      "url": "https://hcmus.edu.vn/thong-bao-cap-nhat-phong-hoc-tai-co-so-2-tu-ngay-30-9-2024/",
+      "date": "25/09/2024"
+    },
     {
       "tieuDe": "Thông báo Chương trình Học bổng Pony Chung năm học 2024-2025",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-nam-hoc-2024-2025/",
@@ -438,6 +443,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Thông báo cập nhật phòng học tại Cơ sở 2 từ ngày 30/9/2024",
+      "url": "https://hcmus.edu.vn/thong-bao-cap-nhat-phong-hoc-tai-co-so-2-tu-ngay-30-9-2024/",
+      "date": "25/09/2024"
+    },
     {
       "tieuDe": "Thông báo Chương trình Học bổng Pony Chung năm học 2024-2025",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-nam-hoc-2024-2025/",
