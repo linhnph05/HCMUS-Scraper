@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:19:24 26/09/2024**_
+_Last update: **07:45:03 26/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 24/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao-sau-phuc-khao/)
 * 23/09/2024: [[TLSV]_Thông báo lịch cố vấn học tập học kỳ 1/2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/09/tlsv_thong-bao-lich-co-van-hoc-tap-hoc-ky-1-2024-2025/)
@@ -94,8 +94,6 @@ No news in the last 1 month
 * 27/08/2024: [THÔNG TIN GIẢI THƯỞNG SÁNG TẠO TƯƠNG LAI VIETFUTURE AWARDS 2024](https://hcmus.edu.vn/thong-tin-giai-thuong-sang-tao-tuong-lai-vietfuture-awards-2024-2/)
 * 27/08/2024: [THƯ MỜI THAM GIA VIẾT BÀI TỌA ĐÀM HÓA HỌC VỚI CUỘC SỐNG – HỘI HÓA HỌC TP HCM](https://hcmus.edu.vn/thu-moi-viet-bai-toa-dam-hoa-hoc-voi-cuoc-song/)
 * 27/08/2024: [THÔNG BÁO TUYỂN DỤNG TRỢ GIẢNG KHOA TOÁN – TIN HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-tro-giang-khoa-toan-tin-hoc/)
-* 26/08/2024: [HỘI NGHỊ KHOA HỌC QUỐC TẾ GSETS 2025 [HUTECH]](https://hcmus.edu.vn/hoi-nghi-khoa-hoc-quoc-te-gsets-2025-hutech/)
-* 26/08/2024: [THÔNG TIN GIẢI THƯỞNG KHUÊ VĂN CÁC LẦN 1 NĂM 2024](https://hcmus.edu.vn/thong-tin-giai-thuong-khue-van-cac-lan-1-nam-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 25/09/2024: [Thông báo cập nhật phòng học tại Cơ sở 2 từ ngày 30/9/2024](https://hcmus.edu.vn/thong-bao-cap-nhat-phong-hoc-tai-co-so-2-tu-ngay-30-9-2024/)
 * 24/09/2024: [Thông báo Chương trình Học bổng Pony Chung năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-nam-hoc-2024-2025/)
