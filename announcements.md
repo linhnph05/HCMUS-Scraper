@@ -1,14 +1,26 @@
 # All news in the last 1 month 
-_Last update: **10:17:09 26/09/2024**_
+_Last update: **11:30:48 26/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
-No news in the last 1 month
+* 26/09/2024: [[CTDA] – Thông báo phúc khảo HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-thong-bao-phuc-khao-hk3-2324/)
+* 24/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao-sau-phuc-khao/)
+* 23/09/2024: [[TLSV]_Thông báo lịch cố vấn học tập học kỳ 1/2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/09/tlsv_thong-bao-lich-co-van-hoc-tap-hoc-ky-1-2024-2025/)
+* 23/09/2024: [TCTA_Thông báo về việc sử dụng tài khoản học vụ Khoá 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/tcta_thong-bao-ve-viec-su-dung-tai-khoan-hoc-vu-khoa-2024/)
+* 23/09/2024: [CTTT_Thông báo về việc sử dụng tài khoản học vụ Khoá 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/cttt_thong-bao-ve-viec-su-dung-tai-khoan-hoc-vu-khoa-2024/)
+* 20/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao/)
+* 19/09/2024: [[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/)
+* 13/09/2024: [Thông báo danh sách tham gia khảo sát trình độ ngoại ngữ sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-danh-sach-tham-gia-khao-sat-trinh-do-ngoai-ngu-sinh-vien-khoa-2024/)
+* 07/09/2024: [[Thông báo]_Cấp email khoa Công nghệ thông tin cho sinh viên khóa 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao_cap-email-khoa-cong-nghe-thong-tin-cho-sinh-vien-khoa-2024/)
+* 28/08/2024: [Thông báo thay đổi phòng thi NM Công nghệ phần mềm_HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/08/thong-bao-thay-doi-phong-thi-nm-cong-nghe-phan-mem_hk3-2324/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
-No news in the last 1 month
+* 23/09/2024: [TCTA_Thông báo về việc sử dụng tài khoản học vụ Khoá 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/tcta_thong-bao-ve-viec-su-dung-tai-khoan-hoc-vu-khoa-2024/)
+* 23/09/2024: [CTTT_Thông báo về việc sử dụng tài khoản học vụ Khoá 2024](https://www.ctda.hcmus.edu.vn/vi/2024/09/cttt_thong-bao-ve-viec-su-dung-tai-khoan-hoc-vu-khoa-2024/)
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
 No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 26/9/2024: [Mời nộp bài và trình bày tại Hội nghị Khoa học Trường năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16399)
+* 26/9/2024: [V/v nộp luận văn tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16398)
 * 25/9/2024: [Đăng ký tham dự Seminar: File upload security & Career opportunities at OPSWAT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16397)
 * 25/9/2024: [Đăng ký tham quan công ty FPT Telecom ngày 8/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16396)
 * 25/9/2024: [Mời đăng ký tham gia Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16393)
@@ -17,8 +29,6 @@ No news in the last 1 month
 * 23/9/2024: [[CQ] TKB lý thuyết và thực hành chính thức HK1/24-25](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16385)
 * 20/9/2024: [Thông báo kết quả xét duyệt học bổng dành cho HVCH ngành Trí tuệ nhân tạo Khóa 33/2023 được tài trợ bởi VINIF](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16384)
 * 19/9/2024: [Mời tham dự buổi bảo vệ luận văn Thạc sĩ đợt cuối tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16383)
-* 19/9/2024: [[CQ] Thông báo kiểm tra kết quả kiểm duyệt đăng ký học phần HK1, NH 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16381)
-* 18/9/2024: [Thông báo đổi phòng học lớp Phát triển phần mềm cho thiết bị di động (22_31), HK1/NH 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16380)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 25/09/2024: [Đăng ký tham dự Seminar: File upload security & Career opportunities at OPSWAT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16397)
 * 25/09/2024: [Đăng ký tham quan công ty FPT Telecom ngày 8/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16396)
@@ -31,6 +41,7 @@ No news in the last 1 month
 * 17/09/2024: [Danh sách dự kiến cấp xét học bổng tân sinh viên HK3 năm học 2023-2024 - Dự kiến](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16372)
 * 30/08/2024: [Danh sách dự kiến cấp xét học bổng tân sinh viên HK2 năm học 2023-2024 - Dự kiến](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16346)
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 26/09/2024: [Mời nộp bài và trình bày tại Hội nghị Khoa học Trường năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16399)
 * 25/09/2024: [Mời đăng ký tham gia Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16393)
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 28/08/2024: [Chương trình Sudo Code 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16344)
