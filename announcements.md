@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **16:19:23 27/09/2024**_
+_Last update: **17:20:24 27/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/09/2024: [[CTDA] – Thông báo phúc khảo HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-thong-bao-phuc-khao-hk3-2324/)
 * 24/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao-sau-phuc-khao/)
@@ -52,6 +52,7 @@ No news in the last 1 month
 * 24/09/2024: [FPT Software tuyển dụng On Job Training Technical Consultant](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16392)
 * 24/09/2024: [TMA Tech Group tuyển dụng Fresher Tester/Developer 9/2024- Không yêu cầu kinh nghiệm](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16388)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 27/09/2024: [Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
 * 27/09/2024: [Thông báo Chương trình Workshop “Hành trình trải nghiệm và quá trình xây dựng thương hiệu cá nhân”](https://hcmus.edu.vn/thong-bao-chuong-trinh-workshop-hanh-trinh-trai-nghiem-va-qua-trinh-xay-dung-thuong-hieu-ca-nhan/)
 * 26/09/2024: [Thông báo Chương trình học bổng Mitsubishi UFJ Foundation năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-mitsubishi-ufj-foundation-nam-hoc-2024-2025/)
 * 26/09/2024: [Thông báo đổi phòng học ngày Thứ 7 (28/09/24) tại cơ sở 2](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-ngay-thu-7-28-09-24-tai-co-so-2/)
@@ -96,6 +97,7 @@ No news in the last 1 month
 * 29/08/2024: [Quyết định Về việc công nhận kết quả tuyển dụng viên chức năm 2024](https://hcmus.edu.vn/quyet-dinh-ve-viec-cong-nhan-ket-qua-tuyen-dung-vien-chuc-nam-2024/)
 * 29/08/2024: [Chương trình học bổng do Tổ chức Christina Noble Children’s Foundation tài trợ dành cho sinh viên năm cuối (năm học 2024-2025)](https://hcmus.edu.vn/chuong-trinh-hoc-bong-do-to-chuc-christina-noble-childrens-foundation-tai-tro-danh-cho-sinh-vien-nam-cuoi-nam-hoc-2024-2025/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 27/09/2024: [Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
 * 27/09/2024: [Thông báo Chương trình Workshop “Hành trình trải nghiệm và quá trình xây dựng thương hiệu cá nhân”](https://hcmus.edu.vn/thong-bao-chuong-trinh-workshop-hanh-trinh-trai-nghiem-va-qua-trinh-xay-dung-thuong-hieu-ca-nhan/)
 * 26/09/2024: [Thông báo Chương trình học bổng Mitsubishi UFJ Foundation năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-mitsubishi-ufj-foundation-nam-hoc-2024-2025/)
 * 26/09/2024: [Thông báo đổi phòng học ngày Thứ 7 (28/09/24) tại cơ sở 2](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-ngay-thu-7-28-09-24-tai-co-so-2/)
@@ -142,6 +144,7 @@ No news in the last 1 month
 * 14/09/2024: [BÁO CÁO CHUYÊN ĐỀ: MỘT SỐ VẤN ĐỀ VỀ PHÁP LUẬT DÀNH CHO SINH VIÊN NĂM NHẤT](https://hcmus.edu.vn/bao-cao-chuyen-de-mot-so-van-de-ve-phap-luat-danh-cho-sinh-vien-nam-nhat/)
 * 04/09/2024: [[THÔNG BÁO] Học bổng của Chính phủ Thụy Sỹ/The Swiss Government Excellence Scholarships](https://hcmus.edu.vn/thong-bao-hoc-bong-cua-chinh-phu-thuy-sy-the-swiss-government-excellence-scholarships/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
+* 27/09/2024: [Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
 * 26/09/2024: [Thông báo Chương trình học bổng Mitsubishi UFJ Foundation năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-mitsubishi-ufj-foundation-nam-hoc-2024-2025/)
 * 26/09/2024: [Thông báo Học bổng SPE năm học 2023-2024 (Dành cho sinh viên Đại học là thành viên của hiệp hội Kỹ Sư Dầu Khí Việt Nam)](https://hcmus.edu.vn/thong-bao-hoc-bong-spe-nam-hoc-2023-2024-danh-cho-sinh-vien-dai-hoc-la-thanh-vien-cua-hiep-hoi-ky-su-dau-khi-viet-nam/)
 * 24/09/2024: [Thông báo Chương trình Học bổng Pony Chung năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-nam-hoc-2024-2025/)
