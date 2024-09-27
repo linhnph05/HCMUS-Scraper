@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:07:29 27/09/2024",
+  "Update time": "08:09:27 27/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] – Thông báo phúc khảo HK3/2324",
@@ -69,6 +69,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Đăng ký tham quan công ty Axon Active Việt Nam ngày 18/10",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16403",
+      "date": "27/9/2024"
+    },
+    {
       "tieuDe": "Danh sách tham quan công ty FPT Telecom ngày 8/10",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16400",
       "date": "26/9/2024"
@@ -112,14 +117,14 @@
       "tieuDe": "[CQ] TKB lý thuyết và thực hành chính thức HK1/24-25",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16385",
       "date": "23/9/2024"
-    },
-    {
-      "tieuDe": "Thông báo kết quả xét duyệt học bổng dành cho HVCH ngành Trí tuệ nhân tạo Khóa 33/2023 được tài trợ bởi VINIF",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16384",
-      "date": "20/9/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Đăng ký tham quan công ty Axon Active Việt Nam ngày 18/10",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16403",
+      "date": "27/09/2024"
+    },
     {
       "tieuDe": "Cuộc thi 'RMIT GenAI and Cyber Security Hackathon'",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16402",
@@ -139,11 +144,6 @@
       "tieuDe": "Đăng ký tham quan công ty FPT Telecom ngày 8/10",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16396",
       "date": "25/09/2024"
-    },
-    {
-      "tieuDe": "Chương trình Ươm mầm sinh viên nghiên cứu khoa học sinh viên năm 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16373",
-      "date": "17/09/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
@@ -215,6 +215,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo Chương trình Workshop “Hành trình trải nghiệm và quá trình xây dựng thương hiệu cá nhân”",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-workshop-hanh-trinh-trai-nghiem-va-qua-trinh-xay-dung-thuong-hieu-ca-nhan/",
+      "date": "27/09/2024"
+    },
     {
       "tieuDe": "Thông báo Chương trình học bổng Mitsubishi UFJ Foundation năm học 2024-2025",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-mitsubishi-ufj-foundation-nam-hoc-2024-2025/",
@@ -427,6 +432,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Thông báo Chương trình Workshop “Hành trình trải nghiệm và quá trình xây dựng thương hiệu cá nhân”",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-workshop-hanh-trinh-trai-nghiem-va-qua-trinh-xay-dung-thuong-hieu-ca-nhan/",
+      "date": "27/09/2024"
+    },
     {
       "tieuDe": "Thông báo Chương trình học bổng Mitsubishi UFJ Foundation năm học 2024-2025",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-mitsubishi-ufj-foundation-nam-hoc-2024-2025/",
