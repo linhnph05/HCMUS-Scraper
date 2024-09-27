@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **08:46:41 27/09/2024**_
+_Last update: **09:43:06 27/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/09/2024: [[CTDA] – Thông báo phúc khảo HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-thong-bao-phuc-khao-hk3-2324/)
 * 24/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao-sau-phuc-khao/)
@@ -46,11 +46,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 28/08/2024: [Chương trình Sudo Code 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16344)
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 27/09/2024: [[HCMC] JUNIOR SOFTWARE ENGINEER - SynergieGlobal](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16401)
 * 25/09/2024: [FPT Software tuyển dụng Fresher Data Engineer - Chương trình đào tạo tài năng của FPT Software](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16395)
 * 25/09/2024: [FPT Software Tuyển Dụng Thực Tập Sinh C#,.NET,Razor/DE,DA/AI](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16394)
 * 24/09/2024: [FPT Software tuyển dụng On Job Training Technical Consultant](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16392)
 * 24/09/2024: [TMA Tech Group tuyển dụng Fresher Tester/Developer 9/2024- Không yêu cầu kinh nghiệm](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16388)
-* 23/09/2024: [[Q2, Bình Thạnh] Cty IT Outsourcing Golden Owl Solutions tuyển dụng TTS Ruby on Rails](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16386)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 26/09/2024: [Thông báo Chương trình học bổng Mitsubishi UFJ Foundation năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-mitsubishi-ufj-foundation-nam-hoc-2024-2025/)
 * 26/09/2024: [Thông báo đổi phòng học ngày Thứ 7 (28/09/24) tại cơ sở 2](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-ngay-thu-7-28-09-24-tai-co-so-2/)
