@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **07:43:37 28/09/2024**_
+_Last update: **08:53:36 28/09/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/09/2024: [[CTDA] – Thông báo phúc khảo HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-thong-bao-phuc-khao-hk3-2324/)
 * 24/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao-sau-phuc-khao/)
@@ -18,6 +18,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 28/9/2024: [Thông báo địa điểm và thời gian tổ chức Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16404)
 * 27/9/2024: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 18/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16403)
 * 26/9/2024: [Danh sách tham quan công ty FPT Telecom ngày 8/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16400)
 * 26/9/2024: [Mời nộp bài và trình bày tại Hội nghị Khoa học Trường năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16399)
@@ -27,7 +28,6 @@ No news in the last 1 month
 * 25/9/2024: [Mời đăng ký tham gia Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16393)
 * 24/9/2024: [Danh sách môn mở trong Học phần 4 lớp cao học khóa 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16391)
 * 24/9/2024: [Thay đổi thời gian Hội đồng bảo vệ luận văn thạc sĩ - Hội đồng 4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16387)
-* 23/9/2024: [[CQ] TKB lý thuyết và thực hành chính thức HK1/24-25](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16385)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 27/09/2024: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 18/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16403)
 * 27/09/2024: [Cuộc thi 'RMIT GenAI and Cyber Security Hackathon'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16402)
@@ -40,6 +40,7 @@ No news in the last 1 month
 * 17/09/2024: [Danh sách dự kiến cấp xét học bổng tân sinh viên HK3 năm học 2023-2024 - Dự kiến](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16372)
 * 30/08/2024: [Danh sách dự kiến cấp xét học bổng tân sinh viên HK2 năm học 2023-2024 - Dự kiến](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16346)
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 28/09/2024: [Thông báo địa điểm và thời gian tổ chức Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16404)
 * 26/09/2024: [Mời nộp bài và trình bày tại Hội nghị Khoa học Trường năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16399)
 * 25/09/2024: [Mời đăng ký tham gia Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16393)
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)

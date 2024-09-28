@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "00:25:42 28/09/2024",
+  "Update time": "01:34:27 28/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] – Thông báo phúc khảo HK3/2324",
@@ -64,6 +64,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Thông báo địa điểm và thời gian tổ chức Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16404",
+      "date": "28/9/2024"
+    },
+    {
       "tieuDe": "Đăng ký tham quan công ty Axon Active Việt Nam ngày 18/10",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16403",
       "date": "27/9/2024"
@@ -107,11 +112,6 @@
       "tieuDe": "Thay đổi thời gian Hội đồng bảo vệ luận văn thạc sĩ - Hội đồng 4",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16387",
       "date": "24/9/2024"
-    },
-    {
-      "tieuDe": "[CQ] TKB lý thuyết và thực hành chính thức HK1/24-25",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16385",
-      "date": "23/9/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -164,6 +164,11 @@
     }
   ],
   "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
+    {
+      "tieuDe": "Thông báo địa điểm và thời gian tổ chức Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16404",
+      "date": "28/09/2024"
+    },
     {
       "tieuDe": "Mời nộp bài và trình bày tại Hội nghị Khoa học Trường năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16399",
