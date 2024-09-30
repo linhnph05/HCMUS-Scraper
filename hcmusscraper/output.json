@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:07:46 30/09/2024",
+  "Update time": "10:08:08 30/09/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] – Thông báo phúc khảo HK3/2324",
@@ -64,6 +64,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Máy tính trao tay - Doanh nghiệp và Khoa CNTT đồng hành cùng tân sinh viên vững bước vào giảng đường",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16406",
+      "date": "30/9/2024"
+    },
+    {
       "tieuDe": "Các mốc thời gian đăng ký và thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021-D2 (cập nhật)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16405",
       "date": "30/9/2024"
@@ -107,14 +112,14 @@
       "tieuDe": "Mời đăng ký tham gia Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16393",
       "date": "25/9/2024"
-    },
-    {
-      "tieuDe": "Danh sách môn mở trong Học phần 4 lớp cao học khóa 33/2023",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16391",
-      "date": "24/9/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Máy tính trao tay - Doanh nghiệp và Khoa CNTT đồng hành cùng tân sinh viên vững bước vào giảng đường",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16406",
+      "date": "30/09/2024"
+    },
     {
       "tieuDe": "Đăng ký tham quan công ty Axon Active Việt Nam ngày 18/10",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16403",
@@ -133,11 +138,6 @@
     {
       "tieuDe": "Đăng ký tham dự Seminar: File upload security & Career opportunities at OPSWAT",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16397",
-      "date": "25/09/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham quan công ty FPT Telecom ngày 8/10",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16396",
       "date": "25/09/2024"
     }
   ],
