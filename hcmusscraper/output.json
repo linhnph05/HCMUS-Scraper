@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "04:08:39 01/10/2024",
+  "Update time": "05:07:29 01/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] – Thông báo phúc khảo HK3/2324",
@@ -64,6 +64,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Tổng kết Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16409",
+      "date": "1/10/2024"
+    },
+    {
       "tieuDe": "[CQ] Điều kiện và quy trình đăng ký thực hiện KLTN/TTTN và TTDATN, K2021-D2",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16407",
       "date": "1/10/2024"
@@ -106,11 +111,6 @@
     {
       "tieuDe": "Đăng ký tham dự Seminar: File upload security & Career opportunities at OPSWAT",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16397",
-      "date": "25/9/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham quan công ty FPT Telecom ngày 8/10",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16396",
       "date": "25/9/2024"
     }
   ],
@@ -159,6 +159,11 @@
     }
   ],
   "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
+    {
+      "tieuDe": "Tổng kết Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16409",
+      "date": "01/10/2024"
+    },
     {
       "tieuDe": "Thông báo địa điểm và thời gian tổ chức Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16404",
