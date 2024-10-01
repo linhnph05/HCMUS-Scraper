@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:18:16 01/10/2024",
+  "Update time": "04:08:39 01/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] – Thông báo phúc khảo HK3/2324",
@@ -178,6 +178,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "R&I LABS R&D APPRENTICESHIP 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16408",
+      "date": "01/10/2024"
+    },
+    {
       "tieuDe": "[HCMC] JUNIOR SOFTWARE ENGINEER - SynergieGlobal",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16401",
       "date": "27/09/2024"
@@ -195,11 +200,6 @@
     {
       "tieuDe": "FPT Software tuyển dụng On Job Training Technical Consultant",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16392",
-      "date": "24/09/2024"
-    },
-    {
-      "tieuDe": "TMA Tech Group tuyển dụng Fresher Tester/Developer 9/2024- Không yêu cầu kinh nghiệm",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16388",
       "date": "24/09/2024"
     }
   ],
@@ -222,6 +222,11 @@
     {
       "tieuDe": "Thông báo Chương trình Workshop “Hành trình trải nghiệm và quá trình xây dựng thương hiệu cá nhân”",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-workshop-hanh-trinh-trai-nghiem-va-qua-trinh-xay-dung-thuong-hieu-ca-nhan/",
+      "date": "27/09/2024"
+    },
+    {
+      "tieuDe": "TRAO ĐỔI HỢP TÁC GIỮA TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN VÀ HIỆP HỘI BÁN DẪN ĐÔNG NAM Á SEMI SEA",
+      "url": "https://hcmus.edu.vn/trao-doi-hop-tac-giua-truong-dai-hoc-khoa-hoc-tu-nhien-va-hiep-hoi-ban-dan-dong-nam-a-semi-sea/",
       "date": "27/09/2024"
     },
     {
