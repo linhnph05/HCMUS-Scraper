@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "06:09:22 01/10/2024",
+  "Update time": "07:06:58 01/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] – Thông báo phúc khảo HK3/2324",
@@ -116,6 +116,11 @@
   ],
   "FIT-THÔNG TIN CHUNG": [
     {
+      "tieuDe": "Danh sách sinh viên tham quan công ty Axon Active ngày 18/10",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16410",
+      "date": "01/10/2024"
+    },
+    {
       "tieuDe": "Máy tính trao tay - Doanh nghiệp và Khoa CNTT đồng hành cùng tân sinh viên vững bước vào giảng đường",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16406",
       "date": "30/09/2024"
@@ -134,11 +139,6 @@
       "tieuDe": "Danh sách tham quan công ty FPT Telecom ngày 8/10",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16400",
       "date": "26/09/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham dự Seminar: File upload security & Career opportunities at OPSWAT",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16397",
-      "date": "25/09/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
@@ -217,6 +217,11 @@
     {
       "tieuDe": "Kế hoạch tổ chức tập huấn kỹ năng học tập đại học cho sinh viên hệ chính quy chương trình đại trà – khóa tuyển 2024",
       "url": "https://hcmus.edu.vn/ke-hoach-to-chuc-tap-huan-ky-nang-hoc-tap-dai-hoc-cho-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra-khoa-tuyen-2024/",
+      "date": "28/09/2024"
+    },
+    {
+      "tieuDe": "TIẾP ĐÓN ĐOÀN LÀM VIỆC TỪ OFFICE OF NAVAL RESEARCH",
+      "url": "https://hcmus.edu.vn/tiep-don-doan-lam-viec-tu-office-of-naval-research/",
       "date": "28/09/2024"
     },
     {
