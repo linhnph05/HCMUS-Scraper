@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:29:44 02/10/2024",
+  "Update time": "03:11:08 02/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] – Thông báo phúc khảo HK3/2324",
@@ -64,6 +64,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Thông báo đăng ký Học phần 4 cùng lớp cao học khóa 33/2023 đối với sinh viên liên thông ĐH-ThS",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16413",
+      "date": "2/10/2024"
+    },
+    {
       "tieuDe": "Danh sách sinh viên đăng ký tham dự Seminar: File upload security & Career opportunities at OPSWAT",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16412",
       "date": "1/10/2024"
@@ -106,11 +111,6 @@
     {
       "tieuDe": "Danh sách tham quan công ty FPT Telecom ngày 8/10",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16400",
-      "date": "26/9/2024"
-    },
-    {
-      "tieuDe": "Mời nộp bài và trình bày tại Hội nghị Khoa học Trường năm 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16399",
       "date": "26/9/2024"
     }
   ],
@@ -230,7 +230,7 @@
       "date": "28/09/2024"
     },
     {
-      "tieuDe": "Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)",
+      "tieuDe": "Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Công nghệ Thông tin, Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/",
       "date": "27/09/2024"
     },
@@ -442,7 +442,7 @@
       "date": "28/09/2024"
     },
     {
-      "tieuDe": "Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)",
+      "tieuDe": "Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Công nghệ Thông tin, Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/",
       "date": "27/09/2024"
     },
@@ -648,7 +648,7 @@
   ],
   "HCMUS-Hoc bong dai hoc": [
     {
-      "tieuDe": "Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)",
+      "tieuDe": "Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Công nghệ Thông tin, Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/",
       "date": "27/09/2024"
     },

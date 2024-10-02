@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **09:46:17 02/10/2024**_
+_Last update: **10:22:41 02/10/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/09/2024: [[CTDA] – Thông báo phúc khảo HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-thong-bao-phuc-khao-hk3-2324/)
 * 24/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao-sau-phuc-khao/)
@@ -18,6 +18,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 2/10/2024: [Thông báo đăng ký Học phần 4 cùng lớp cao học khóa 33/2023 đối với sinh viên liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16413)
 * 1/10/2024: [Danh sách sinh viên đăng ký tham dự Seminar: File upload security & Career opportunities at OPSWAT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16412)
 * 1/10/2024: [Thông báo đăng ký tín chỉ học phần 4 chương trình cao học khoá 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16411)
 * 1/10/2024: [Tổng kết Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16409)
@@ -27,7 +28,6 @@ No news in the last 1 month
 * 28/9/2024: [Thông báo địa điểm và thời gian tổ chức Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16404)
 * 27/9/2024: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 18/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16403)
 * 26/9/2024: [Danh sách tham quan công ty FPT Telecom ngày 8/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16400)
-* 26/9/2024: [Mời nộp bài và trình bày tại Hội nghị Khoa học Trường năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16399)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 01/10/2024: [Danh sách sinh viên đăng ký tham dự Seminar: File upload security & Career opportunities at OPSWAT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16412)
 * 01/10/2024: [Danh sách sinh viên tham quan công ty Axon Active ngày 18/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16410)
@@ -56,7 +56,7 @@ No news in the last 1 month
 * 30/09/2024: [THÔNG BÁO ĐĂNG KÝ ĐỀ TÀI NCKH CẤP TRƯỜNG NĂM 2024 (ĐỢT 2 – THÁNG 9/2024)](https://hcmus.edu.vn/thong-bao-dang-ky-de-tai-nckh-cap-truong-nam-2024-dot-2-thang-9-2024/)
 * 28/09/2024: [Kế hoạch tổ chức tập huấn kỹ năng học tập đại học cho sinh viên hệ chính quy chương trình đại trà – khóa tuyển 2024](https://hcmus.edu.vn/ke-hoach-to-chuc-tap-huan-ky-nang-hoc-tap-dai-hoc-cho-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra-khoa-tuyen-2024/)
 * 28/09/2024: [TIẾP ĐÓN ĐOÀN LÀM VIỆC TỪ OFFICE OF NAVAL RESEARCH](https://hcmus.edu.vn/tiep-don-doan-lam-viec-tu-office-of-naval-research/)
-* 27/09/2024: [Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
+* 27/09/2024: [Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Công nghệ Thông tin, Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
 * 27/09/2024: [Thông báo Chương trình Workshop “Hành trình trải nghiệm và quá trình xây dựng thương hiệu cá nhân”](https://hcmus.edu.vn/thong-bao-chuong-trinh-workshop-hanh-trinh-trai-nghiem-va-qua-trinh-xay-dung-thuong-hieu-ca-nhan/)
 * 27/09/2024: [TRAO ĐỔI HỢP TÁC GIỮA TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN VÀ HIỆP HỘI BÁN DẪN ĐÔNG NAM Á SEMI SEA](https://hcmus.edu.vn/trao-doi-hop-tac-giua-truong-dai-hoc-khoa-hoc-tu-nhien-va-hiep-hoi-ban-dan-dong-nam-a-semi-sea/)
 * 26/09/2024: [Thông báo Chương trình học bổng Mitsubishi UFJ Foundation năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-mitsubishi-ufj-foundation-nam-hoc-2024-2025/)
@@ -99,7 +99,7 @@ No news in the last 1 month
 * 04/09/2024: [[THÔNG BÁO] Học bổng của Chính phủ Thụy Sỹ/The Swiss Government Excellence Scholarships](https://hcmus.edu.vn/thong-bao-hoc-bong-cua-chinh-phu-thuy-sy-the-swiss-government-excellence-scholarships/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 28/09/2024: [Kế hoạch tổ chức tập huấn kỹ năng học tập đại học cho sinh viên hệ chính quy chương trình đại trà – khóa tuyển 2024](https://hcmus.edu.vn/ke-hoach-to-chuc-tap-huan-ky-nang-hoc-tap-dai-hoc-cho-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra-khoa-tuyen-2024/)
-* 27/09/2024: [Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
+* 27/09/2024: [Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Công nghệ Thông tin, Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
 * 27/09/2024: [Thông báo Chương trình Workshop “Hành trình trải nghiệm và quá trình xây dựng thương hiệu cá nhân”](https://hcmus.edu.vn/thong-bao-chuong-trinh-workshop-hanh-trinh-trai-nghiem-va-qua-trinh-xay-dung-thuong-hieu-ca-nhan/)
 * 26/09/2024: [Thông báo Chương trình học bổng Mitsubishi UFJ Foundation năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-mitsubishi-ufj-foundation-nam-hoc-2024-2025/)
 * 26/09/2024: [Thông báo đổi phòng học ngày Thứ 7 (28/09/24) tại cơ sở 2](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-ngay-thu-7-28-09-24-tai-co-so-2/)
@@ -142,7 +142,7 @@ No news in the last 1 month
 * 14/09/2024: [BÁO CÁO CHUYÊN ĐỀ: MỘT SỐ VẤN ĐỀ VỀ PHÁP LUẬT DÀNH CHO SINH VIÊN NĂM NHẤT](https://hcmus.edu.vn/bao-cao-chuyen-de-mot-so-van-de-ve-phap-luat-danh-cho-sinh-vien-nam-nhat/)
 * 04/09/2024: [[THÔNG BÁO] Học bổng của Chính phủ Thụy Sỹ/The Swiss Government Excellence Scholarships](https://hcmus.edu.vn/thong-bao-hoc-bong-cua-chinh-phu-thuy-sy-the-swiss-government-excellence-scholarships/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
-* 27/09/2024: [Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
+* 27/09/2024: [Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Công nghệ Thông tin, Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
 * 26/09/2024: [Thông báo Chương trình học bổng Mitsubishi UFJ Foundation năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-mitsubishi-ufj-foundation-nam-hoc-2024-2025/)
 * 26/09/2024: [Thông báo Học bổng SPE năm học 2023-2024 (Dành cho sinh viên Đại học là thành viên của hiệp hội Kỹ Sư Dầu Khí Việt Nam)](https://hcmus.edu.vn/thong-bao-hoc-bong-spe-nam-hoc-2023-2024-danh-cho-sinh-vien-dai-hoc-la-thanh-vien-cua-hiep-hoi-ky-su-dau-khi-viet-nam/)
 * 24/09/2024: [Thông báo Chương trình Học bổng Pony Chung năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-nam-hoc-2024-2025/)
