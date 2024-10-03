@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "11:06:45 03/10/2024",
+  "Update time": "12:10:41 03/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] – Thông báo phúc khảo HK3/2324",
@@ -64,6 +64,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Đăng ký tham quan công ty FPT Software ngày 25/10",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16415",
+      "date": "3/10/2024"
+    },
+    {
       "tieuDe": "Thông báo đăng ký Học phần 4 cùng lớp cao học khóa 33/2023 đối với sinh viên liên thông ĐH-ThS",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16413",
       "date": "2/10/2024"
@@ -107,14 +112,14 @@
       "tieuDe": "Đăng ký tham quan công ty Axon Active Việt Nam ngày 18/10",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16403",
       "date": "27/9/2024"
-    },
-    {
-      "tieuDe": "Danh sách tham quan công ty FPT Telecom ngày 8/10",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16400",
-      "date": "26/9/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Đăng ký tham quan công ty FPT Software ngày 25/10",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16415",
+      "date": "03/10/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên đăng ký tham dự Seminar: File upload security & Career opportunities at OPSWAT",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16412",
@@ -133,11 +138,6 @@
     {
       "tieuDe": "Đăng ký tham quan công ty Axon Active Việt Nam ngày 18/10",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16403",
-      "date": "27/09/2024"
-    },
-    {
-      "tieuDe": "Cuộc thi 'RMIT GenAI and Cyber Security Hackathon'",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16402",
       "date": "27/09/2024"
     }
   ],
