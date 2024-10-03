@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:07:22 03/10/2024",
+  "Update time": "10:07:15 03/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] – Thông báo phúc khảo HK3/2324",
@@ -183,6 +183,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "[Bình Thạnh] Golden Owl Solutions Tuyển dụng Thực tập sinh PHP (Laravel Framework)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16414",
+      "date": "03/10/2024"
+    },
+    {
       "tieuDe": "R&I LABS R&D APPRENTICESHIP 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16408",
       "date": "01/10/2024"
@@ -201,11 +206,6 @@
       "tieuDe": "FPT Software Tuyển Dụng Thực Tập Sinh C#,.NET,Razor/DE,DA/AI",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16394",
       "date": "25/09/2024"
-    },
-    {
-      "tieuDe": "FPT Software tuyển dụng On Job Training Technical Consultant",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16392",
-      "date": "24/09/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
