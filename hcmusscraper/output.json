@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:14:10 06/10/2024",
+  "Update time": "04:08:57 06/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] – Thông báo phúc khảo HK3/2324",
@@ -64,6 +64,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Thông báo nộp hồ sơ Học bổng Cựu sinh viên - ASF năm học 2024-2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16416",
+      "date": "4/10/2024"
+    },
+    {
       "tieuDe": "Đăng ký tham quan công ty FPT Software ngày 25/10",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16415",
       "date": "3/10/2024"
@@ -107,11 +112,6 @@
       "tieuDe": "Thông báo địa điểm và thời gian tổ chức Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16404",
       "date": "28/9/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham quan công ty Axon Active Việt Nam ngày 18/10",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16403",
-      "date": "27/9/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -142,6 +142,11 @@
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
+    {
+      "tieuDe": "Thông báo nộp hồ sơ Học bổng Cựu sinh viên - ASF năm học 2024-2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16416",
+      "date": "04/10/2024"
+    },
     {
       "tieuDe": "Thông báo kết quả chính thức học bổng TSV Khóa 2022 và Khóa 2023 HK2 NH: 2023-2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16375",
