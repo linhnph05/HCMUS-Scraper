@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **08:45:48 07/10/2024**_
+_Last update: **09:41:58 07/10/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/09/2024: [[CTDA] – Thông báo phúc khảo HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-thong-bao-phuc-khao-hk3-2324/)
 * 24/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao-sau-phuc-khao/)
@@ -53,6 +53,7 @@ No news in the last 1 month
 * 25/09/2024: [FPT Software tuyển dụng Fresher Data Engineer - Chương trình đào tạo tài năng của FPT Software](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16395)
 * 25/09/2024: [FPT Software Tuyển Dụng Thực Tập Sinh C#,.NET,Razor/DE,DA/AI](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16394)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 07/10/2024: [Kế hoạch tổ chức tập huấn kỹ năng học tập đại học cho sinh viên hệ chính quy chương trình đại trà – khóa tuyển 2024211801](https://hcmus.edu.vn/ke-hoach-to-chuc-tap-huan-ky-nang-hoc-tap-dai-hoc-cho-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra-khoa-tuyen-2024/)
 * 05/10/2024: [Thông báo đổi phòng học dãy F cơ sở 2 từ ngày 05/10/24](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-day-f-tu-ngay-05-10-24/)
 * 04/10/2024: [ĐỀ XUẤT ĐẶT HÀNG NHIỆM VỤ KHOA HỌC CÔNG NGHỆ TỈNH BÀ RỊA -VŨNG TÀU NĂM 2025](https://hcmus.edu.vn/de-xuat-dat-hang-nhiem-vu-khoa-hoc-cong-nghe-tinh-ba-ria-vung-tau-nam-2025/)
 * 04/10/2024: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 4/2024](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-4-2024/)
@@ -64,7 +65,6 @@ No news in the last 1 month
 * 02/10/2024: [Thông báo điều chỉnh phòng học áp dụng từ ngày 30/09/2024 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-dieu-chinh-phong-hoc-ap-dung-tu-ngay-30-09-2024-tai-co-so-2/)
 * 01/10/2024: [HỌP MẶT CỰU DU HỌC SINH JAIST TẠI VIỆT NAM](https://hcmus.edu.vn/hop-mat-cuu-du-hoc-sinh-jaist-tai-viet-nam/)
 * 30/09/2024: [THÔNG BÁO ĐĂNG KÝ ĐỀ TÀI NCKH CẤP TRƯỜNG NĂM 2024 (ĐỢT 2 – THÁNG 9/2024)](https://hcmus.edu.vn/thong-bao-dang-ky-de-tai-nckh-cap-truong-nam-2024-dot-2-thang-9-2024/)
-* 28/09/2024: [Kế hoạch tổ chức tập huấn kỹ năng học tập đại học cho sinh viên hệ chính quy chương trình đại trà – khóa tuyển 2024](https://hcmus.edu.vn/ke-hoach-to-chuc-tap-huan-ky-nang-hoc-tap-dai-hoc-cho-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra-khoa-tuyen-2024/)
 * 28/09/2024: [TIẾP ĐÓN ĐOÀN LÀM VIỆC TỪ OFFICE OF NAVAL RESEARCH](https://hcmus.edu.vn/tiep-don-doan-lam-viec-tu-office-of-naval-research/)
 * 27/09/2024: [Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Công nghệ Thông tin, Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
 * 27/09/2024: [Thông báo Chương trình Workshop “Hành trình trải nghiệm và quá trình xây dựng thương hiệu cá nhân”](https://hcmus.edu.vn/thong-bao-chuong-trinh-workshop-hanh-trinh-trai-nghiem-va-qua-trinh-xay-dung-thuong-hieu-ca-nhan/)
@@ -105,11 +105,11 @@ No news in the last 1 month
 * 09/09/2024: [Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK1/2024-2025](https://hcmus.edu.vn/thong-bao-huy-lop-mo-lop-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk1-2024-2025/)
 * 08/09/2024: [Thông báo kết quả kiểm tra tiếng Anh Khoá 2024](https://hcmus.edu.vn/thong-bao-ket-qua-kiem-tra-tieng-anh-khoa-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 07/10/2024: [Kế hoạch tổ chức tập huấn kỹ năng học tập đại học cho sinh viên hệ chính quy chương trình đại trà – khóa tuyển 2024211801](https://hcmus.edu.vn/ke-hoach-to-chuc-tap-huan-ky-nang-hoc-tap-dai-hoc-cho-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra-khoa-tuyen-2024/)
 * 05/10/2024: [Thông báo đổi phòng học dãy F cơ sở 2 từ ngày 05/10/24](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-day-f-tu-ngay-05-10-24/)
 * 04/10/2024: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 4/2024](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-4-2024/)
 * 03/10/2024: [Thông báo Chương trình Học bổng Hessen – CHLB Đức năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-hessen-chlb-duc-nam-hoc-2024-2025/)
 * 02/10/2024: [Thông báo điều chỉnh phòng học áp dụng từ ngày 30/09/2024 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-dieu-chinh-phong-hoc-ap-dung-tu-ngay-30-09-2024-tai-co-so-2/)
-* 28/09/2024: [Kế hoạch tổ chức tập huấn kỹ năng học tập đại học cho sinh viên hệ chính quy chương trình đại trà – khóa tuyển 2024](https://hcmus.edu.vn/ke-hoach-to-chuc-tap-huan-ky-nang-hoc-tap-dai-hoc-cho-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra-khoa-tuyen-2024/)
 * 27/09/2024: [Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Công nghệ Thông tin, Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
 * 27/09/2024: [Thông báo Chương trình Workshop “Hành trình trải nghiệm và quá trình xây dựng thương hiệu cá nhân”](https://hcmus.edu.vn/thong-bao-chuong-trinh-workshop-hanh-trinh-trai-nghiem-va-qua-trinh-xay-dung-thuong-hieu-ca-nhan/)
 * 26/09/2024: [Thông báo Chương trình học bổng Mitsubishi UFJ Foundation năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-mitsubishi-ufj-foundation-nam-hoc-2024-2025/)
