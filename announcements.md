@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **14:23:51 07/10/2024**_
+_Last update: **15:20:31 07/10/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/09/2024: [[CTDA] – Thông báo phúc khảo HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-thong-bao-phuc-khao-hk3-2324/)
 * 24/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao-sau-phuc-khao/)
@@ -53,6 +53,7 @@ No news in the last 1 month
 * 25/09/2024: [FPT Software tuyển dụng Fresher Data Engineer - Chương trình đào tạo tài năng của FPT Software](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16395)
 * 25/09/2024: [FPT Software Tuyển Dụng Thực Tập Sinh C#,.NET,Razor/DE,DA/AI](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16394)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 07/10/2024: [[THÔNG BÁO] Chương trình ASEAN trong Thế giới Hôm nay (AsTW) 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-asean-trong-the-gioi-hom-nay-astw-2025/)
 * 07/10/2024: [Kế hoạch tổ chức tập huấn kỹ năng học tập đại học cho sinh viên hệ chính quy chương trình đại trà – khóa tuyển 2024211801](https://hcmus.edu.vn/ke-hoach-to-chuc-tap-huan-ky-nang-hoc-tap-dai-hoc-cho-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra-khoa-tuyen-2024/)
 * 05/10/2024: [Thông báo đổi phòng học dãy F cơ sở 2 từ ngày 05/10/24](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-day-f-tu-ngay-05-10-24/)
 * 04/10/2024: [ĐỀ XUẤT ĐẶT HÀNG NHIỆM VỤ KHOA HỌC CÔNG NGHỆ TỈNH BÀ RỊA -VŨNG TÀU NĂM 2025](https://hcmus.edu.vn/de-xuat-dat-hang-nhiem-vu-khoa-hoc-cong-nghe-tinh-ba-ria-vung-tau-nam-2025/)
@@ -105,6 +106,7 @@ No news in the last 1 month
 * 09/09/2024: [Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK1/2024-2025](https://hcmus.edu.vn/thong-bao-huy-lop-mo-lop-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk1-2024-2025/)
 * 08/09/2024: [Thông báo kết quả kiểm tra tiếng Anh Khoá 2024](https://hcmus.edu.vn/thong-bao-ket-qua-kiem-tra-tieng-anh-khoa-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 07/10/2024: [[THÔNG BÁO] Chương trình ASEAN trong Thế giới Hôm nay (AsTW) 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-asean-trong-the-gioi-hom-nay-astw-2025/)
 * 07/10/2024: [Kế hoạch tổ chức tập huấn kỹ năng học tập đại học cho sinh viên hệ chính quy chương trình đại trà – khóa tuyển 2024211801](https://hcmus.edu.vn/ke-hoach-to-chuc-tap-huan-ky-nang-hoc-tap-dai-hoc-cho-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra-khoa-tuyen-2024/)
 * 05/10/2024: [Thông báo đổi phòng học dãy F cơ sở 2 từ ngày 05/10/24](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-day-f-tu-ngay-05-10-24/)
 * 04/10/2024: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 4/2024](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-4-2024/)
@@ -155,6 +157,7 @@ No news in the last 1 month
 * 16/09/2024: [KHẢO SÁT MỨC ĐỘ SẴN SÀNG CỦA TÂN SINH VIÊN ĐỐI VỚI NGÀNH HỌC, TRƯỜNG HỌC VÀ KÊNH TƯ VẤN HƯỚNG NGHIỆP – TUYỂN SINH NĂM 2024](https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2024/)
 * 14/09/2024: [BÁO CÁO CHUYÊN ĐỀ: MỘT SỐ VẤN ĐỀ VỀ PHÁP LUẬT DÀNH CHO SINH VIÊN NĂM NHẤT](https://hcmus.edu.vn/bao-cao-chuyen-de-mot-so-van-de-ve-phap-luat-danh-cho-sinh-vien-nam-nhat/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
+* 07/10/2024: [[THÔNG BÁO] Chương trình ASEAN trong Thế giới Hôm nay (AsTW) 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-asean-trong-the-gioi-hom-nay-astw-2025/)
 * 03/10/2024: [Thông báo Chương trình Học bổng Hessen – CHLB Đức năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-hessen-chlb-duc-nam-hoc-2024-2025/)
 * 27/09/2024: [Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Công nghệ Thông tin, Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
 * 26/09/2024: [Thông báo Chương trình học bổng Mitsubishi UFJ Foundation năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-mitsubishi-ufj-foundation-nam-hoc-2024-2025/)
