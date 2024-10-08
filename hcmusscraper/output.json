@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:15:25 08/10/2024",
+  "Update time": "04:11:11 08/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] – Thông báo phúc khảo HK3/2324",
@@ -59,6 +59,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Đăng ký tham quan công ty KMS Technology ngày 22/10",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16420",
+      "date": "8/10/2024"
+    },
+    {
       "tieuDe": "Danh sách tham quan công ty FPT Software ngày 25/10",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16419",
       "date": "7/10/2024"
@@ -102,14 +107,14 @@
       "tieuDe": "Máy tính trao tay - Doanh nghiệp và Khoa CNTT đồng hành cùng tân sinh viên vững bước vào giảng đường",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16406",
       "date": "30/9/2024"
-    },
-    {
-      "tieuDe": "Các mốc thời gian đăng ký và thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021-D2 (cập nhật)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16405",
-      "date": "30/9/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Đăng ký tham quan công ty KMS Technology ngày 22/10",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16420",
+      "date": "08/10/2024"
+    },
     {
       "tieuDe": "Danh sách tham quan công ty FPT Software ngày 25/10",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16419",
@@ -128,11 +133,6 @@
     {
       "tieuDe": "Danh sách sinh viên đăng ký tham dự Seminar: File upload security & Career opportunities at OPSWAT",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16412",
-      "date": "01/10/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên tham quan công ty Axon Active ngày 18/10",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16410",
       "date": "01/10/2024"
     }
   ],
