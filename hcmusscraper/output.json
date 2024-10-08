@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "04:11:11 08/10/2024",
+  "Update time": "05:08:35 08/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] – Thông báo phúc khảo HK3/2324",
@@ -209,6 +209,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo nghỉ học ngày Thứ 7 (12/10) tại CS2 do cúp điện",
+      "url": "https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-thu-7-12-10-tai-cs2-do-cup-dien/",
+      "date": "08/10/2024"
+    },
     {
       "tieuDe": "[THÔNG BÁO] Chương trình ASEAN trong Thế giới Hôm nay (AsTW) 2025",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-asean-trong-the-gioi-hom-nay-astw-2025/",
@@ -471,6 +476,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Thông báo nghỉ học ngày Thứ 7 (12/10) tại CS2 do cúp điện",
+      "url": "https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-thu-7-12-10-tai-cs2-do-cup-dien/",
+      "date": "08/10/2024"
+    },
     {
       "tieuDe": "[THÔNG BÁO] Chương trình ASEAN trong Thế giới Hôm nay (AsTW) 2025",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-asean-trong-the-gioi-hom-nay-astw-2025/",
