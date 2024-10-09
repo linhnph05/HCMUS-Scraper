@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:21:11 09/10/2024",
+  "Update time": "04:08:20 09/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] – Thông báo phúc khảo HK3/2324",
@@ -183,6 +183,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "R&D Intern - Phygital Labs",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16421",
+      "date": "09/10/2024"
+    },
+    {
       "tieuDe": "[Bình Thạnh] Golden Owl Solutions Tuyển dụng Thực tập sinh PHP (Laravel Framework)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16414",
       "date": "03/10/2024"
@@ -200,11 +205,6 @@
     {
       "tieuDe": "FPT Software tuyển dụng Fresher Data Engineer - Chương trình đào tạo tài năng của FPT Software",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16395",
-      "date": "25/09/2024"
-    },
-    {
-      "tieuDe": "FPT Software Tuyển Dụng Thực Tập Sinh C#,.NET,Razor/DE,DA/AI",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16394",
       "date": "25/09/2024"
     }
   ],
