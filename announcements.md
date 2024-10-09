@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **14:19:32 09/10/2024**_
+_Last update: **15:20:45 09/10/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/09/2024: [[CTDA] – Thông báo phúc khảo HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-thong-bao-phuc-khao-hk3-2324/)
 * 24/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao-sau-phuc-khao/)
@@ -52,6 +52,7 @@ No news in the last 1 month
 * 27/09/2024: [[HCMC] JUNIOR SOFTWARE ENGINEER - SynergieGlobal](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16401)
 * 25/09/2024: [FPT Software tuyển dụng Fresher Data Engineer - Chương trình đào tạo tài năng của FPT Software](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16395)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 09/10/2024: [ĐỀ XUẤT ĐẶT HÀNG NV KHCN TĂNG CƯỜNG BẢO VỆ, TÁI TẠO VÀ PHÁT TRIỂN NGUỒN LỢI THỦY HẢI SẢN ĐỒNG THÁP 2024](https://hcmus.edu.vn/de-xuat-dat-hang-nv-khcn-tang-cuong-bao-ve-tai-tao-va-phat-trien-nguon-loi-thuy-hai-san-dong-thap-2024/)
 * 08/10/2024: [Thông báo chương trình học bổng Sau đại học của ĐHQG-HCM năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-sau-dai-hoc-cua-dhqg-hcm-nam-2024/)
 * 08/10/2024: [Thông báo nghỉ học ngày Thứ 7 (12/10) tại CS2 do cúp điện](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-thu-7-12-10-tai-cs2-do-cup-dien/)
 * 07/10/2024: [[THÔNG BÁO] Chương trình ASEAN trong Thế giới Hôm nay (AsTW) 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-asean-trong-the-gioi-hom-nay-astw-2025/)
