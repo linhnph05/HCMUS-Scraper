@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:39:18 10/10/2024**_
+_Last update: **16:23:42 10/10/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/09/2024: [[CTDA] – Thông báo phúc khảo HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-thong-bao-phuc-khao-hk3-2324/)
 * 24/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao-sau-phuc-khao/)
@@ -52,6 +52,7 @@ No news in the last 1 month
 * 01/10/2024: [R&I LABS R&D APPRENTICESHIP 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16408)
 * 27/09/2024: [[HCMC] JUNIOR SOFTWARE ENGINEER - SynergieGlobal](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16401)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 10/10/2024: [Thông báo chương trình Học bổng Thường niên AmCham năm 2024 (ACS24)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thuong-nien-amcham-nam-2024-acs24/)
 * 09/10/2024: [ĐỀ XUẤT ĐẶT HÀNG NV KHCN TĂNG CƯỜNG BẢO VỆ, TÁI TẠO VÀ PHÁT TRIỂN NGUỒN LỢI THỦY HẢI SẢN ĐỒNG THÁP 2024](https://hcmus.edu.vn/de-xuat-dat-hang-nv-khcn-tang-cuong-bao-ve-tai-tao-va-phat-trien-nguon-loi-thuy-hai-san-dong-thap-2024/)
 * 08/10/2024: [Thông báo chương trình học bổng Sau đại học của ĐHQG-HCM năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-sau-dai-hoc-cua-dhqg-hcm-nam-2024/)
 * 08/10/2024: [Thông báo nghỉ học ngày Thứ 7 (12/10) tại CS2 do cúp điện](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-thu-7-12-10-tai-cs2-do-cup-dien/)
@@ -105,6 +106,7 @@ No news in the last 1 month
 * 10/09/2024: [Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh-2/)
 * 10/09/2024: [Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 10/10/2024: [Thông báo chương trình Học bổng Thường niên AmCham năm 2024 (ACS24)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thuong-nien-amcham-nam-2024-acs24/)
 * 08/10/2024: [Thông báo nghỉ học ngày Thứ 7 (12/10) tại CS2 do cúp điện](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-thu-7-12-10-tai-cs2-do-cup-dien/)
 * 07/10/2024: [[THÔNG BÁO] Chương trình ASEAN trong Thế giới Hôm nay (AsTW) 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-asean-trong-the-gioi-hom-nay-astw-2025/)
 * 07/10/2024: [Kế hoạch tổ chức tập huấn kỹ năng học tập đại học cho sinh viên hệ chính quy chương trình đại trà – khóa tuyển 2024211801](https://hcmus.edu.vn/ke-hoach-to-chuc-tap-huan-ky-nang-hoc-tap-dai-hoc-cho-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra-khoa-tuyen-2024/)
@@ -154,6 +156,7 @@ No news in the last 1 month
 * 16/09/2024: [KHẢO SÁT MỨC ĐỘ SẴN SÀNG CỦA TÂN SINH VIÊN ĐỐI VỚI NGÀNH HỌC, TRƯỜNG HỌC VÀ KÊNH TƯ VẤN HƯỚNG NGHIỆP – TUYỂN SINH NĂM 2024](https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2024/)
 * 14/09/2024: [BÁO CÁO CHUYÊN ĐỀ: MỘT SỐ VẤN ĐỀ VỀ PHÁP LUẬT DÀNH CHO SINH VIÊN NĂM NHẤT](https://hcmus.edu.vn/bao-cao-chuyen-de-mot-so-van-de-ve-phap-luat-danh-cho-sinh-vien-nam-nhat/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
+* 10/10/2024: [Thông báo chương trình Học bổng Thường niên AmCham năm 2024 (ACS24)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thuong-nien-amcham-nam-2024-acs24/)
 * 07/10/2024: [[THÔNG BÁO] Chương trình ASEAN trong Thế giới Hôm nay (AsTW) 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-asean-trong-the-gioi-hom-nay-astw-2025/)
 * 03/10/2024: [Thông báo Chương trình Học bổng Hessen – CHLB Đức năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-hessen-chlb-duc-nam-hoc-2024-2025/)
 * 27/09/2024: [Thông báo kết quả dự kiến HBKK HK2/2023-2024 Khoa Công nghệ Thông tin, Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda/)
