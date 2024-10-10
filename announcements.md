@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **09:40:36 10/10/2024**_
+_Last update: **10:21:50 10/10/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/09/2024: [[CTDA] – Thông báo phúc khảo HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-thong-bao-phuc-khao-hk3-2324/)
 * 24/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao-sau-phuc-khao/)
@@ -17,6 +17,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 10/10/2024: [[CQ] Danh sách lớp nghỉ học ngày 12/10/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16423)
 * 8/10/2024: [Đăng ký tham quan công ty KMS Technology ngày 22/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16420)
 * 7/10/2024: [Danh sách tham quan công ty FPT Software ngày 25/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16419)
 * 4/10/2024: [Thông báo nộp hồ sơ Học bổng Cựu sinh viên - ASF năm học 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16416)
@@ -26,7 +27,6 @@ No news in the last 1 month
 * 1/10/2024: [Thông báo đăng ký tín chỉ học phần 4 chương trình cao học khoá 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16411)
 * 1/10/2024: [Tổng kết Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16409)
 * 1/10/2024: [[CQ] Điều kiện và quy trình đăng ký thực hiện KLTN/TTTN và TTDATN, K2021-D2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16407)
-* 30/9/2024: [Máy tính trao tay - Doanh nghiệp và Khoa CNTT đồng hành cùng tân sinh viên vững bước vào giảng đường](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16406)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 08/10/2024: [Đăng ký tham quan công ty KMS Technology ngày 22/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16420)
 * 07/10/2024: [Danh sách tham quan công ty FPT Software ngày 25/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16419)
