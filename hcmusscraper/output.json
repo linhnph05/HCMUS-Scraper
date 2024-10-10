@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "23:07:59 09/10/2024",
+  "Update time": "00:25:49 10/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] – Thông báo phúc khảo HK3/2324",
@@ -26,6 +26,21 @@
       "tieuDe": "CTTT_Thông báo về việc sử dụng tài khoản học vụ Khoá 2024",
       "url": "https://www.ctda.hcmus.edu.vn/vi/2024/09/cttt_thong-bao-ve-viec-su-dung-tai-khoan-hoc-vu-khoa-2024/",
       "date": "23/09/2024"
+    },
+    {
+      "tieuDe": "Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao/",
+      "date": "20/09/2024"
+    },
+    {
+      "tieuDe": "[CTĐA] Kế hoạch mở học phần năm học 2024-2025 (dự kiến)",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2024-2025-du-kien/",
+      "date": "19/09/2024"
+    },
+    {
+      "tieuDe": "Thông báo danh sách tham gia khảo sát trình độ ngoại ngữ sinh viên khóa 2024",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-danh-sach-tham-gia-khao-sat-trinh-do-ngoai-ngu-sinh-vien-khoa-2024/",
+      "date": "13/09/2024"
     }
   ],
   "Tin tuc": [
@@ -453,16 +468,6 @@
       "tieuDe": "Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)",
       "url": "https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh/",
       "date": "10/09/2024"
-    },
-    {
-      "tieuDe": "Thông báo hủy 1 số lớp Anh văn 3, 4 trong HK1/2024-2025",
-      "url": "https://hcmus.edu.vn/thong-bao-huy-1-so-lop-anh-van-3-4-trong-hk1-2024-2025/",
-      "date": "09/09/2024"
-    },
-    {
-      "tieuDe": "Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK1/2024-2025",
-      "url": "https://hcmus.edu.vn/thong-bao-huy-lop-mo-lop-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk1-2024-2025/",
-      "date": "09/09/2024"
     }
   ],
   "HCMUS-Thong tin sinh vien": [
@@ -635,16 +640,6 @@
       "tieuDe": "Kế hoạch mở học phần học kỳ 1 / 2024-2025 (giai đoạn đại cương và các môn chung giai đoạn chuyên ngành)",
       "url": "https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hoc-ky-1-2023-2024-giai-doan-dai-cuong-va-cac-mon-chung-giai-doan-chuyen-nganh/",
       "date": "10/09/2024"
-    },
-    {
-      "tieuDe": "Thông báo hủy 1 số lớp Anh văn 3, 4 trong HK1/2024-2025",
-      "url": "https://hcmus.edu.vn/thong-bao-huy-1-so-lop-anh-van-3-4-trong-hk1-2024-2025/",
-      "date": "09/09/2024"
-    },
-    {
-      "tieuDe": "Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK1/2024-2025",
-      "url": "https://hcmus.edu.vn/thong-bao-huy-lop-mo-lop-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk1-2024-2025/",
-      "date": "09/09/2024"
     }
   ],
   "HCMUS-Tuyen dung": [
