@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **16:18:47 11/10/2024**_
+_Last update: **17:23:18 11/10/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/09/2024: [[CTDA] – Thông báo phúc khảo HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-thong-bao-phuc-khao-hk3-2324/)
 * 24/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao-sau-phuc-khao/)
@@ -52,6 +52,7 @@ No news in the last 1 month
 * 01/10/2024: [R&I LABS R&D APPRENTICESHIP 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16408)
 * 27/09/2024: [[HCMC] JUNIOR SOFTWARE ENGINEER - SynergieGlobal](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16401)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 11/10/2024: [Kết quả xét tốt nghiệp đại học đợt tháng 10 năm 2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-10-nam-2024/)
 * 10/10/2024: [Thông báo chương trình Học bổng Thường niên AmCham năm 2024 (ACS24)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thuong-nien-amcham-nam-2024-acs24/)
 * 09/10/2024: [ĐỀ XUẤT ĐẶT HÀNG NV KHCN TĂNG CƯỜNG BẢO VỆ, TÁI TẠO VÀ PHÁT TRIỂN NGUỒN LỢI THỦY HẢI SẢN ĐỒNG THÁP 2024](https://hcmus.edu.vn/de-xuat-dat-hang-nv-khcn-tang-cuong-bao-ve-tai-tao-va-phat-trien-nguon-loi-thuy-hai-san-dong-thap-2024/)
 * 08/10/2024: [Thông báo chương trình học bổng Sau đại học của ĐHQG-HCM năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-sau-dai-hoc-cua-dhqg-hcm-nam-2024/)
@@ -104,6 +105,7 @@ No news in the last 1 month
 * 12/09/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN PHÒNG THÍ NGHIỆM NGHIÊN CỨU UNG THƯ](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-phong-thi-nghiem-nghien-cuu-ung-thu/)
 * 12/09/2024: [Thông báo chương trình học bổng Phát triển Sinh viên VSDP 2024 của VietHope](https://hcmus.edu.vn/thong-bao-chuong-trinh-phat-trien-sinh-vien-viethope-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 11/10/2024: [Kết quả xét tốt nghiệp đại học đợt tháng 10 năm 2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-10-nam-2024/)
 * 10/10/2024: [Thông báo chương trình Học bổng Thường niên AmCham năm 2024 (ACS24)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thuong-nien-amcham-nam-2024-acs24/)
 * 08/10/2024: [Thông báo nghỉ học ngày Thứ 7 (12/10) tại CS2 do cúp điện](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-thu-7-12-10-tai-cs2-do-cup-dien/)
 * 07/10/2024: [[THÔNG BÁO] Chương trình ASEAN trong Thế giới Hôm nay (AsTW) 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-asean-trong-the-gioi-hom-nay-astw-2025/)
