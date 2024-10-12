@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "05:07:02 12/10/2024",
+  "Update time": "06:08:28 12/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] – Thông báo phúc khảo HK3/2324",
@@ -59,6 +59,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Đăng ký tham quan công ty Fujinet Systems ngày 29/10",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16426",
+      "date": "12/10/2024"
+    },
+    {
       "tieuDe": "Danh sách sinh viên tham quan công ty KMS Technology",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16425",
       "date": "12/10/2024"
@@ -102,14 +107,14 @@
       "tieuDe": "Thông báo đăng ký tín chỉ học phần 4 chương trình cao học khoá 33/2023",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16411",
       "date": "1/10/2024"
-    },
-    {
-      "tieuDe": "Tổng kết Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16409",
-      "date": "1/10/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Đăng ký tham quan công ty Fujinet Systems ngày 29/10",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16426",
+      "date": "12/10/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên tham quan công ty KMS Technology",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16425",
@@ -129,11 +134,6 @@
       "tieuDe": "Chương trình ASEAN trong Thế giới Hôm nay (AsTW) 2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16418",
       "date": "07/10/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham quan công ty FPT Software ngày 25/10",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16415",
-      "date": "03/10/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
