@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "04:07:58 12/10/2024",
+  "Update time": "05:07:02 12/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] – Thông báo phúc khảo HK3/2324",
@@ -59,6 +59,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Danh sách sinh viên tham quan công ty KMS Technology",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16425",
+      "date": "12/10/2024"
+    },
+    {
       "tieuDe": "[CQ] Danh sách lớp nghỉ học ngày 12/10/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16423",
       "date": "10/10/2024"
@@ -102,14 +107,14 @@
       "tieuDe": "Tổng kết Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16409",
       "date": "1/10/2024"
-    },
-    {
-      "tieuDe": "[CQ] Điều kiện và quy trình đăng ký thực hiện KLTN/TTTN và TTDATN, K2021-D2",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16407",
-      "date": "1/10/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Danh sách sinh viên tham quan công ty KMS Technology",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16425",
+      "date": "12/10/2024"
+    },
     {
       "tieuDe": "Đăng ký tham quan công ty KMS Technology ngày 22/10",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16420",
@@ -129,11 +134,6 @@
       "tieuDe": "Đăng ký tham quan công ty FPT Software ngày 25/10",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16415",
       "date": "03/10/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên đăng ký tham dự Seminar: File upload security & Career opportunities at OPSWAT",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16412",
-      "date": "01/10/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
