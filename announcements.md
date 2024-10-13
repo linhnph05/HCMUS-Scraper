@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:18:20 13/10/2024**_
+_Last update: **07:39:56 13/10/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/09/2024: [[CTDA] – Thông báo phúc khảo HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-thong-bao-phuc-khao-hk3-2324/)
 * 24/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao-sau-phuc-khao/)
@@ -100,10 +100,6 @@ No news in the last 1 month
 * 13/09/2024: [Thông báo đổi phòng học trong HK1/2024-2025](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-trong-hk1-2024-2025/)
 * 13/09/2024: [[THÔNG BÁO] Chương trình Học bổng Chevening năm học 2025-2026 – Chính phủ Anh](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chevening-nam-hoc-2025-2026-chinh-phu-anh/)
 * 13/09/2024: [HỘI THẢO DOANH NGHIỆP “HỢP TÁC NHÀ TRƯỜNG VÀ DOANH NGHIỆP” – KẾT NỐI TƯƠNG LAI NGÀNH ĐIỆN TỬ – VIỄN THÔNG](https://hcmus.edu.vn/hoi-thao-doanh-nghiep-hop-tac-nha-truong-va-doanh-nghiep-ket-noi-tuong-lai-nganh-dien-tu-vien-thong/)
-* 12/09/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ TRỢ GIẢNG KHOA ĐIỆN TỬ – VIỄN THÔNG](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-tro-giang-khoa-dien-tu-vien-thong/)
-* 12/09/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ KỸ SƯ XÂY DỰNG PHÒNG QUẢN TRỊ THIẾT BỊ](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-ky-su-xay-dung-phong-quan-tri-thiet-bi/)
-* 12/09/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN PHÒNG THÍ NGHIỆM NGHIÊN CỨU UNG THƯ](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-phong-thi-nghiem-nghien-cuu-ung-thu/)
-* 12/09/2024: [Thông báo chương trình học bổng Phát triển Sinh viên VSDP 2024 của VietHope](https://hcmus.edu.vn/thong-bao-chuong-trinh-phat-trien-sinh-vien-viethope-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 11/10/2024: [Kết quả xét tốt nghiệp đại học đợt tháng 10 năm 2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-10-nam-2024/)
 * 10/10/2024: [Thông báo chương trình Học bổng Thường niên AmCham năm 2024 (ACS24)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thuong-nien-amcham-nam-2024-acs24/)
@@ -138,13 +134,9 @@ No news in the last 1 month
 * 16/09/2024: [Thời khóa biểu HK1/2024-2025 – khóa 2022 và 2024 (cập nhật đến ngày 16/9)](https://hcmus.edu.vn/thoi-khoa-bieu-hk1-2021-2025-khoa-2022-va-2024-cap-nhat-den-ngay-16-9/)
 * 14/09/2024: [Thông báo hủy lớp, mở lớp bổ sung và cập nhật phòng học các lớp trong HK1/2024-2025 – Đợt 3](https://hcmus.edu.vn/thong-bao-huy-lop-mo-lop-bo-sung-va-cap-nhat-phong-hoc-cac-lop-trong-hk1-2024-2025-sinh-vien-bac-dai-hoc-he-chinh-quy-dot-3/)
 * 13/09/2024: [Thông báo đổi phòng học trong HK1/2024-2025](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-trong-hk1-2024-2025/)
-* 12/09/2024: [Thông báo chương trình học bổng Phát triển Sinh viên VSDP 2024 của VietHope](https://hcmus.edu.vn/thong-bao-chuong-trinh-phat-trien-sinh-vien-viethope-2024/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 03/10/2024: [THÔNG BÁO TUYỂN DỤNG KHOA HÓA HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-hoa-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 02/10/2024: [[DAAD/DIES] Call for Applications for Management of Internationalisation (MoI) 2025/2026](https://hcmus.edu.vn/daad-dies-call-for-applications-for-management-of-internationalisation-moi-2025-2026/)
-* 12/09/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ TRỢ GIẢNG KHOA ĐIỆN TỬ – VIỄN THÔNG](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-tro-giang-khoa-dien-tu-vien-thong/)
-* 12/09/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ KỸ SƯ XÂY DỰNG PHÒNG QUẢN TRỊ THIẾT BỊ](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-ky-su-xay-dung-phong-quan-tri-thiet-bi/)
-* 12/09/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN PHÒNG THÍ NGHIỆM NGHIÊN CỨU UNG THƯ](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-phong-thi-nghiem-nghien-cuu-ung-thu/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
 * 04/10/2024: [Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 4/2024](https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-4-2024/)
 * 02/10/2024: [Thông báo tuyển sinh hệ Đào tạo từ xa ngành Công nghệ thông tin năm 2024- đợt 2](https://hcmus.edu.vn/thong-bao-tuyen-sinh-he-dao-tao-tu-xa-nganh-cong-nghe-thong-tin-nam-2024-dot-2/)
@@ -162,4 +154,3 @@ No news in the last 1 month
 * 26/09/2024: [Thông báo Học bổng SPE năm học 2023-2024 (Dành cho sinh viên Đại học là thành viên của hiệp hội Kỹ Sư Dầu Khí Việt Nam)](https://hcmus.edu.vn/thong-bao-hoc-bong-spe-nam-hoc-2023-2024-danh-cho-sinh-vien-dai-hoc-la-thanh-vien-cua-hiep-hoi-ky-su-dau-khi-viet-nam/)
 * 24/09/2024: [Thông báo Chương trình Học bổng Pony Chung năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-pony-chung-nam-hoc-2024-2025/)
 * 16/09/2024: [TB Chương trình Học bổng POSCO TJ Park Foundation năm học 2024-2025](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-posco-tj-park-foundation-nam-hoc-2024-2025/)
-* 12/09/2024: [Thông báo chương trình học bổng Phát triển Sinh viên VSDP 2024 của VietHope](https://hcmus.edu.vn/thong-bao-chuong-trinh-phat-trien-sinh-vien-viethope-2024/)
