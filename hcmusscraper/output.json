@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "04:08:37 14/10/2024",
+  "Update time": "05:07:47 14/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] – Thông báo phúc khảo HK3/2324",
@@ -220,6 +220,11 @@
       "date": "11/10/2024"
     },
     {
+      "tieuDe": "BUỔI GẶP GỠ VÀ TRAO ĐỔI GIỮA TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM VÀ TRƯỜNG ĐẠI HỌC QUỐC LẬP TRUNG ƯƠNG ĐÀI LOAN",
+      "url": "https://hcmus.edu.vn/buoi-gap-go-va-trao-doi-giua-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-va-truong-dai-hoc-quoc-lap-trung-uong-dai-loan/",
+      "date": "11/10/2024"
+    },
+    {
       "tieuDe": "Thông báo chương trình Học bổng Thường niên AmCham năm 2024 (ACS24)",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thuong-nien-amcham-nam-2024-acs24/",
       "date": "10/10/2024"
@@ -248,6 +253,16 @@
       "tieuDe": "Kế hoạch tổ chức tập huấn kỹ năng học tập đại học cho sinh viên hệ chính quy chương trình đại trà – khóa tuyển 2024211801",
       "url": "https://hcmus.edu.vn/ke-hoach-to-chuc-tap-huan-ky-nang-hoc-tap-dai-hoc-cho-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra-khoa-tuyen-2024/",
       "date": "07/10/2024"
+    },
+    {
+      "tieuDe": "HỘI THẢO KẾT NỐI DOANH NGHIỆP VỚI KHOA ĐỊA CHẤT TRONG ĐÀO TẠO VÀ TUYỂN DỤNG NHÂN SỰ",
+      "url": "https://hcmus.edu.vn/hoi-thao-ket-noi-doanh-nghiep-voi-khoa-dia-chat-trong-dao-tao-va-tuyen-dung-nhan-su/",
+      "date": "06/10/2024"
+    },
+    {
+      "tieuDe": "MÙA GIẢI ICPC HCMUS 2024 CHÍNH THỨC KHAI MẠC TẠI TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN",
+      "url": "https://hcmus.edu.vn/mua-giai-icpc-hcmus-2024-chinh-thuc-khai-mac-tai-dai-hoc-khoa-hoc-tu-nhien/",
+      "date": "06/10/2024"
     },
     {
       "tieuDe": "TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN XUẤT SẮC GHI DẤU TÊN TUỔI TẠI HỘI THAO SINH VIÊN ĐHQG-HCM 2024 VỚI GIẢI NHÌ TOÀN ĐOÀN",
@@ -297,6 +312,11 @@
     {
       "tieuDe": "[Thông báo] Hội thảo chia sẻ kinh nghiệm Dự án quốc tế 16/10/2024 tại cơ sở Nguyễn Văn Cừ – PHÒNG QUAN HỆ ĐỐI NGOẠI tổ chức",
       "url": "https://hcmus.edu.vn/thong-bao-hoi-thao-chia-se-kinh-nghiem-du-an-quoc-te-16-10-2024-tai-co-so-nguyen-van-cu-phong-quan-he-doi-ngoai-to-chuc/",
+      "date": "02/10/2024"
+    },
+    {
+      "tieuDe": "LỄ KÝ KẾT HỢP TÁC GIỮA TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM VÀ TRUNG TÂM QUẢN LÝ KÝ TÚC XÁ, ĐHQG-HCM",
+      "url": "https://hcmus.edu.vn/le-ky-ket-hop-tac-giua-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-va-trung-tam-quan-ly-ky-tuc-xa-dhqg-hcm/",
       "date": "02/10/2024"
     },
     {
@@ -636,6 +656,21 @@
   ],
   "HCMUS-Nguoi hoc": [
     {
+      "tieuDe": "BUỔI GẶP GỠ VÀ TRAO ĐỔI GIỮA TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM VÀ TRƯỜNG ĐẠI HỌC QUỐC LẬP TRUNG ƯƠNG ĐÀI LOAN",
+      "url": "https://hcmus.edu.vn/buoi-gap-go-va-trao-doi-giua-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-va-truong-dai-hoc-quoc-lap-trung-uong-dai-loan/",
+      "date": "11/10/2024"
+    },
+    {
+      "tieuDe": "HỘI THẢO KẾT NỐI DOANH NGHIỆP VỚI KHOA ĐỊA CHẤT TRONG ĐÀO TẠO VÀ TUYỂN DỤNG NHÂN SỰ",
+      "url": "https://hcmus.edu.vn/hoi-thao-ket-noi-doanh-nghiep-voi-khoa-dia-chat-trong-dao-tao-va-tuyen-dung-nhan-su/",
+      "date": "06/10/2024"
+    },
+    {
+      "tieuDe": "MÙA GIẢI ICPC HCMUS 2024 CHÍNH THỨC KHAI MẠC TẠI TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN",
+      "url": "https://hcmus.edu.vn/mua-giai-icpc-hcmus-2024-chinh-thuc-khai-mac-tai-dai-hoc-khoa-hoc-tu-nhien/",
+      "date": "06/10/2024"
+    },
+    {
       "tieuDe": "Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 4/2024",
       "url": "https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-4-2024/",
       "date": "04/10/2024"
@@ -643,6 +678,11 @@
     {
       "tieuDe": "Thông báo tuyển sinh hệ Đào tạo từ xa ngành Công nghệ thông tin năm 2024- đợt 2",
       "url": "https://hcmus.edu.vn/thong-bao-tuyen-sinh-he-dao-tao-tu-xa-nganh-cong-nghe-thong-tin-nam-2024-dot-2/",
+      "date": "02/10/2024"
+    },
+    {
+      "tieuDe": "LỄ KÝ KẾT HỢP TÁC GIỮA TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM VÀ TRUNG TÂM QUẢN LÝ KÝ TÚC XÁ, ĐHQG-HCM",
+      "url": "https://hcmus.edu.vn/le-ky-ket-hop-tac-giua-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-va-trung-tam-quan-ly-ky-tuc-xa-dhqg-hcm/",
       "date": "02/10/2024"
     },
     {
