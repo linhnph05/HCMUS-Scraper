@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:09:50 14/10/2024",
+  "Update time": "09:07:59 14/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] – Thông báo phúc khảo HK3/2324",
@@ -183,6 +183,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "TUYỂN DỤNG - CÔNG TY TNHH ARMOR SECURITY (AS SOLUTIONS)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16430",
+      "date": "14/10/2024"
+    },
+    {
       "tieuDe": "𝗔𝗖𝗧𝗜𝗩𝗔𝗧𝗢𝗥 𝗦𝗖𝗛𝗢𝗟𝗔𝗥𝗦𝗛𝗜𝗣 - 𝗬𝗢𝗨𝗥 𝗧𝗜𝗖𝗞𝗘𝗧 𝗧𝗢 𝗧𝗛𝗘 𝗙𝗨𝗧𝗨𝗥𝗘!",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16424",
       "date": "10/10/2024"
@@ -201,14 +206,19 @@
       "tieuDe": "R&I LABS R&D APPRENTICESHIP 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16408",
       "date": "01/10/2024"
-    },
-    {
-      "tieuDe": "[HCMC] JUNIOR SOFTWARE ENGINEER - SynergieGlobal",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16401",
-      "date": "27/09/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo dời phòng học F104 tại CS2 từ ngày 14/10/2024",
+      "url": "https://hcmus.edu.vn/thong-bao-doi-phong-hoc-f104-cs2-tu-ngay-14-10-2024/",
+      "date": "14/10/2024"
+    },
+    {
+      "tieuDe": "Chương trình học bổng do Tổ chức Christina Noble Children’s Foundation tài trợ dành cho sinh viên năm cuối (năm học 2024-2025) đợt bổ sung",
+      "url": "https://hcmus.edu.vn/chuong-trinh-hoc-bong-do-to-chuc-christina-noble-childrens-foundation-tai-tro-danh-cho-sinh-vien-nam-cuoi-nam-hoc-2024-2025-dot-bo-sung/",
+      "date": "14/10/2024"
+    },
     {
       "tieuDe": "Thông báo chương trình học bổng Đồng Hành kỳ 47 học kỳ I, năm học 2024-2025",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ky-47-hoc-ky-i-nam-hoc-2024-2025/",
@@ -220,7 +230,7 @@
       "date": "14/10/2024"
     },
     {
-      "tieuDe": "LỄ KÝ KẾT THỎA THUẬN TÀI TRỢ HỘI NGHỊ QUỐC TẾ ICEBA 2024",
+      "tieuDe": "KÝ KẾT THỎA THUẬN TÀI TRỢ HỘI NGHỊ QUỐC TẾ ICEBA 2024",
       "url": "https://hcmus.edu.vn/le-ky-ket-thoa-thuan-tai-tro-hoi-nghi-quoc-te-iceba-2024/",
       "date": "12/10/2024"
     },
@@ -320,7 +330,7 @@
       "date": "02/10/2024"
     },
     {
-      "tieuDe": "[Thông báo] Hội thảo chia sẻ kinh nghiệm Dự án quốc tế 16/10/2024 tại cơ sở Nguyễn Văn Cừ – PHÒNG QUAN HỆ ĐỐI NGOẠI tổ chức",
+      "tieuDe": "[Thông báo] Hội thảo chia sẻ kinh nghiệm Dự án quốc tế 16/10/2024",
       "url": "https://hcmus.edu.vn/thong-bao-hoi-thao-chia-se-kinh-nghiem-du-an-quoc-te-16-10-2024-tai-co-so-nguyen-van-cu-phong-quan-he-doi-ngoai-to-chuc/",
       "date": "02/10/2024"
     },
@@ -481,6 +491,16 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Thông báo dời phòng học F104 tại CS2 từ ngày 14/10/2024",
+      "url": "https://hcmus.edu.vn/thong-bao-doi-phong-hoc-f104-cs2-tu-ngay-14-10-2024/",
+      "date": "14/10/2024"
+    },
+    {
+      "tieuDe": "Chương trình học bổng do Tổ chức Christina Noble Children’s Foundation tài trợ dành cho sinh viên năm cuối (năm học 2024-2025) đợt bổ sung",
+      "url": "https://hcmus.edu.vn/chuong-trinh-hoc-bong-do-to-chuc-christina-noble-childrens-foundation-tai-tro-danh-cho-sinh-vien-nam-cuoi-nam-hoc-2024-2025-dot-bo-sung/",
+      "date": "14/10/2024"
+    },
     {
       "tieuDe": "Thông báo chương trình học bổng Đồng Hành kỳ 47 học kỳ I, năm học 2024-2025",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ky-47-hoc-ky-i-nam-hoc-2024-2025/",
@@ -722,6 +742,11 @@
     }
   ],
   "HCMUS-Hoc bong dai hoc": [
+    {
+      "tieuDe": "Chương trình học bổng do Tổ chức Christina Noble Children’s Foundation tài trợ dành cho sinh viên năm cuối (năm học 2024-2025) đợt bổ sung",
+      "url": "https://hcmus.edu.vn/chuong-trinh-hoc-bong-do-to-chuc-christina-noble-childrens-foundation-tai-tro-danh-cho-sinh-vien-nam-cuoi-nam-hoc-2024-2025-dot-bo-sung/",
+      "date": "14/10/2024"
+    },
     {
       "tieuDe": "Thông báo chương trình học bổng Đồng Hành kỳ 47 học kỳ I, năm học 2024-2025",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ky-47-hoc-ky-i-nam-hoc-2024-2025/",
