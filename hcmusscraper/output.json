@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:14:26 14/10/2024",
+  "Update time": "04:08:37 14/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] – Thông báo phúc khảo HK3/2324",
@@ -54,6 +54,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Đăng ký học bổng 'Hành trang hướng nghiệp' học kỳ 1, NH 2024 - 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16427",
+      "date": "15/10/2024"
+    },
+    {
       "tieuDe": "[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16390",
       "date": "14/10/2024"
@@ -97,11 +102,6 @@
       "tieuDe": "Thông báo đăng ký Học phần 4 cùng lớp cao học khóa 33/2023 đối với sinh viên liên thông ĐH-ThS",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16413",
       "date": "2/10/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên đăng ký tham dự Seminar: File upload security & Career opportunities at OPSWAT",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16412",
-      "date": "1/10/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -205,6 +205,16 @@
   ],
   "HCMUS-Thong tin nguoi hoc": [
     {
+      "tieuDe": "Thông báo chương trình học bổng Đồng Hành kỳ 47 học kỳ I, năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ky-47-hoc-ky-i-nam-hoc-2024-2025/",
+      "date": "14/10/2024"
+    },
+    {
+      "tieuDe": "Thông báo Chương trình học bổng Phát triển Nhân tài –The sponsorship program for talented studens – Never Give Up Năm học 2024 – 2025",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-phat-trien-nhan-tai-the-sponsorship-program-for-talented-studens-never-give-up-nam-hoc-2024-2025/",
+      "date": "14/10/2024"
+    },
+    {
       "tieuDe": "Kết quả xét tốt nghiệp đại học đợt tháng 10 năm 2024",
       "url": "https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-10-nam-2024/",
       "date": "11/10/2024"
@@ -240,6 +250,11 @@
       "date": "07/10/2024"
     },
     {
+      "tieuDe": "TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN XUẤT SẮC GHI DẤU TÊN TUỔI TẠI HỘI THAO SINH VIÊN ĐHQG-HCM 2024 VỚI GIẢI NHÌ TOÀN ĐOÀN",
+      "url": "https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-xuat-sac-ghi-dau-ten-tuoi-tai-hoi-thao-sinh-vien-dhqg-hcm-2024-voi-giai-nhi-toan-doan/",
+      "date": "05/10/2024"
+    },
+    {
       "tieuDe": "Thông báo đổi phòng học dãy F cơ sở 2 từ ngày 05/10/24",
       "url": "https://hcmus.edu.vn/thong-bao-doi-phong-hoc-day-f-tu-ngay-05-10-24/",
       "date": "05/10/2024"
@@ -253,6 +268,11 @@
       "tieuDe": "Thông báo đăng ký đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 4/2024",
       "url": "https://hcmus.edu.vn/thong-bao-dang-ky-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-4-2024/",
       "date": "04/10/2024"
+    },
+    {
+      "tieuDe": "TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM THAM DỰ NGÀY HỘI ĐỔI MỚI SÁNG TẠO VIỆT NAM 2024",
+      "url": "https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-tham-du-ngay-hoi-doi-moi-sang-tao-viet-nam-2024/",
+      "date": "03/10/2024"
     },
     {
       "tieuDe": "THÔNG BÁO TUYỂN DỤNG KHOA HÓA HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM",
@@ -431,6 +451,16 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Thông báo chương trình học bổng Đồng Hành kỳ 47 học kỳ I, năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ky-47-hoc-ky-i-nam-hoc-2024-2025/",
+      "date": "14/10/2024"
+    },
+    {
+      "tieuDe": "Thông báo Chương trình học bổng Phát triển Nhân tài –The sponsorship program for talented studens – Never Give Up Năm học 2024 – 2025",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-phat-trien-nhan-tai-the-sponsorship-program-for-talented-studens-never-give-up-nam-hoc-2024-2025/",
+      "date": "14/10/2024"
+    },
     {
       "tieuDe": "Kết quả xét tốt nghiệp đại học đợt tháng 10 năm 2024",
       "url": "https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-10-nam-2024/",
@@ -642,6 +672,16 @@
     }
   ],
   "HCMUS-Hoc bong dai hoc": [
+    {
+      "tieuDe": "Thông báo chương trình học bổng Đồng Hành kỳ 47 học kỳ I, năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ky-47-hoc-ky-i-nam-hoc-2024-2025/",
+      "date": "14/10/2024"
+    },
+    {
+      "tieuDe": "Thông báo Chương trình học bổng Phát triển Nhân tài –The sponsorship program for talented studens – Never Give Up Năm học 2024 – 2025",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-phat-trien-nhan-tai-the-sponsorship-program-for-talented-studens-never-give-up-nam-hoc-2024-2025/",
+      "date": "14/10/2024"
+    },
     {
       "tieuDe": "Thông báo chương trình Học bổng Thường niên AmCham năm 2024 (ACS24)",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thuong-nien-amcham-nam-2024-acs24/",
