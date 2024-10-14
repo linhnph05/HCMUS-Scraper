@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **12:19:18 14/10/2024**_
+_Last update: **13:22:55 14/10/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/09/2024: [[CTDA] – Thông báo phúc khảo HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-thong-bao-phuc-khao-hk3-2324/)
 * 24/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao-sau-phuc-khao/)
@@ -53,6 +53,7 @@ No news in the last 1 month
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 14/10/2024: [Thông báo chương trình học bổng Đồng Hành kỳ 47 học kỳ I, năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ky-47-hoc-ky-i-nam-hoc-2024-2025/)
 * 14/10/2024: [Thông báo Chương trình học bổng Phát triển Nhân tài –The sponsorship program for talented studens – Never Give Up Năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-phat-trien-nhan-tai-the-sponsorship-program-for-talented-studens-never-give-up-nam-hoc-2024-2025/)
+* 12/10/2024: [LỄ KÝ KẾT THỎA THUẬN TÀI TRỢ HỘI NGHỊ QUỐC TẾ ICEBA 2024](https://hcmus.edu.vn/le-ky-ket-thoa-thuan-tai-tro-hoi-nghi-quoc-te-iceba-2024/)
 * 11/10/2024: [Kết quả xét tốt nghiệp đại học đợt tháng 10 năm 2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-10-nam-2024/)
 * 11/10/2024: [BUỔI GẶP GỠ VÀ TRAO ĐỔI GIỮA TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM VÀ TRƯỜNG ĐẠI HỌC QUỐC LẬP TRUNG ƯƠNG ĐÀI LOAN](https://hcmus.edu.vn/buoi-gap-go-va-trao-doi-giua-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-va-truong-dai-hoc-quoc-lap-trung-uong-dai-loan/)
 * 10/10/2024: [Thông báo chương trình Học bổng Thường niên AmCham năm 2024 (ACS24)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thuong-nien-amcham-nam-2024-acs24/)
