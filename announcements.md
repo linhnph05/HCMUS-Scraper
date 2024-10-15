@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **08:46:12 15/10/2024**_
+_Last update: **10:26:53 15/10/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/09/2024: [[CTDA] – Thông báo phúc khảo HK3/2324](https://www.ctda.hcmus.edu.vn/vi/2024/09/ctda-thong-bao-phuc-khao-hk3-2324/)
 * 24/09/2024: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2024 – Chương trình Chất lượng cao sau phúc khảo](https://www.ctda.hcmus.edu.vn/vi/2024/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2024-chuong-trinh-chat-luong-cao-sau-phuc-khao/)
@@ -53,6 +53,8 @@ No news in the last 1 month
 * 03/10/2024: [[Bình Thạnh] Golden Owl Solutions Tuyển dụng Thực tập sinh PHP (Laravel Framework)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16414)
 * 01/10/2024: [R&I LABS R&D APPRENTICESHIP 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16408)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 15/10/2024: [Thông báo đăng ký nhận Giấy chứng nhận tốt nghiệp đại học tạm thời đối với sinh viên tốt nghiệp đợt tháng 10/2024](https://hcmus.edu.vn/thong-bao-dang-ky-nhan-giay-chung-nhan-tot-nghiep-dai-hoc-tam-thoi-doi-voi-sinh-vien-tot-nghiep-dot-thang-10-2024/)
+* 15/10/2024: [Thông báo v/v khai báo thông tin Bảo hiểm y tế được cấp miễn phí hoặc mua tại doanh nghiệp năm học 2024-2025 (Đối với sinh viên từ khóa 2023 trở về trước)](https://hcmus.edu.vn/thong-bao-v-v-khai-bao-thong-tin-bao-hiem-y-te-duoc-cap-mien-phi-hoac-mua-tai-doanh-nghiep-nam-hoc-2024-2025-doi-voi-sinh-vien-tu-khoa-2023-tro-ve-truoc/)
 * 14/10/2024: [Thông báo kết quả chính thức HBKK HK2/23-24 Khoa Hóa học, Môi trường, Công nghệ Thông tin, Điện tử-Viễn thông, Sinh học-CNSH (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk2-23-24-khoa-hoa-hoc-moi-truong-cong-nghe-thong-tin-dien-tu-vien-thong-sinh-hoc-cnsh-ctda/)
 * 14/10/2024: [Thông báo dời phòng học F104 tại CS2 từ ngày 14/10/2024](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-f104-cs2-tu-ngay-14-10-2024/)
 * 14/10/2024: [Chương trình học bổng do Tổ chức Christina Noble Children’s Foundation tài trợ dành cho sinh viên năm cuối (năm học 2024-2025) đợt bổ sung](https://hcmus.edu.vn/chuong-trinh-hoc-bong-do-to-chuc-christina-noble-childrens-foundation-tai-tro-danh-cho-sinh-vien-nam-cuoi-nam-hoc-2024-2025-dot-bo-sung/)
@@ -109,6 +111,8 @@ No news in the last 1 month
 * 16/09/2024: [TB Chương trình Học bổng POSCO TJ Park Foundation năm học 2024-2025](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-posco-tj-park-foundation-nam-hoc-2024-2025/)
 * 16/09/2024: [Thời khóa biểu HK1/2024-2025 – khóa 2022 và 2024 (cập nhật đến ngày 16/9)](https://hcmus.edu.vn/thoi-khoa-bieu-hk1-2021-2025-khoa-2022-va-2024-cap-nhat-den-ngay-16-9/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 15/10/2024: [Thông báo đăng ký nhận Giấy chứng nhận tốt nghiệp đại học tạm thời đối với sinh viên tốt nghiệp đợt tháng 10/2024](https://hcmus.edu.vn/thong-bao-dang-ky-nhan-giay-chung-nhan-tot-nghiep-dai-hoc-tam-thoi-doi-voi-sinh-vien-tot-nghiep-dot-thang-10-2024/)
+* 15/10/2024: [Thông báo v/v khai báo thông tin Bảo hiểm y tế được cấp miễn phí hoặc mua tại doanh nghiệp năm học 2024-2025 (Đối với sinh viên từ khóa 2023 trở về trước)](https://hcmus.edu.vn/thong-bao-v-v-khai-bao-thong-tin-bao-hiem-y-te-duoc-cap-mien-phi-hoac-mua-tai-doanh-nghiep-nam-hoc-2024-2025-doi-voi-sinh-vien-tu-khoa-2023-tro-ve-truoc/)
 * 14/10/2024: [Thông báo kết quả chính thức HBKK HK2/23-24 Khoa Hóa học, Môi trường, Công nghệ Thông tin, Điện tử-Viễn thông, Sinh học-CNSH (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk2-23-24-khoa-hoa-hoc-moi-truong-cong-nghe-thong-tin-dien-tu-vien-thong-sinh-hoc-cnsh-ctda/)
 * 14/10/2024: [Thông báo dời phòng học F104 tại CS2 từ ngày 14/10/2024](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-f104-cs2-tu-ngay-14-10-2024/)
 * 14/10/2024: [Chương trình học bổng do Tổ chức Christina Noble Children’s Foundation tài trợ dành cho sinh viên năm cuối (năm học 2024-2025) đợt bổ sung](https://hcmus.edu.vn/chuong-trinh-hoc-bong-do-to-chuc-christina-noble-childrens-foundation-tai-tro-danh-cho-sinh-vien-nam-cuoi-nam-hoc-2024-2025-dot-bo-sung/)
@@ -149,6 +153,7 @@ No news in the last 1 month
 * 03/10/2024: [THÔNG BÁO TUYỂN DỤNG KHOA HÓA HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-hoa-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 02/10/2024: [[DAAD/DIES] Call for Applications for Management of Internationalisation (MoI) 2025/2026](https://hcmus.edu.vn/daad-dies-call-for-applications-for-management-of-internationalisation-moi-2025-2026/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
+* 15/10/2024: [Thông báo v/v khai báo thông tin Bảo hiểm y tế được cấp miễn phí hoặc mua tại doanh nghiệp năm học 2024-2025 (Đối với sinh viên từ khóa 2023 trở về trước)](https://hcmus.edu.vn/thong-bao-v-v-khai-bao-thong-tin-bao-hiem-y-te-duoc-cap-mien-phi-hoac-mua-tai-doanh-nghiep-nam-hoc-2024-2025-doi-voi-sinh-vien-tu-khoa-2023-tro-ve-truoc/)
 * 14/10/2024: [Thông báo kết quả chính thức HBKK HK2/23-24 Khoa Hóa học, Môi trường, Công nghệ Thông tin, Điện tử-Viễn thông, Sinh học-CNSH (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk2-23-24-khoa-hoa-hoc-moi-truong-cong-nghe-thong-tin-dien-tu-vien-thong-sinh-hoc-cnsh-ctda/)
 * 11/10/2024: [GẶP GỠ VÀ TRAO ĐỔI HỌC THUẬT VỚI TRƯỜNG ĐẠI HỌC QUỐC LẬP TRUNG ƯƠNG ĐÀI LOAN](https://hcmus.edu.vn/buoi-gap-go-va-trao-doi-giua-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-va-truong-dai-hoc-quoc-lap-trung-uong-dai-loan/)
 * 06/10/2024: [HỘI THẢO KẾT NỐI DOANH NGHIỆP VỚI KHOA ĐỊA CHẤT TRONG ĐÀO TẠO VÀ TUYỂN DỤNG NHÂN SỰ](https://hcmus.edu.vn/hoi-thao-ket-noi-doanh-nghiep-voi-khoa-dia-chat-trong-dao-tao-va-tuyen-dung-nhan-su/)
