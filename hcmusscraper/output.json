@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:07:42 15/10/2024",
+  "Update time": "10:07:46 15/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)",
@@ -64,6 +64,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Danh sách sinh viên tham quan Fujinet Systems ngày 29/10",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16431",
+      "date": "15/10/2024"
+    },
+    {
       "tieuDe": "Đăng ký học bổng 'Hành trang hướng nghiệp' học kỳ 1, NH 2024 - 2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16427",
       "date": "15/10/2024"
@@ -107,14 +112,14 @@
       "tieuDe": "Thông báo nộp hồ sơ Học bổng Cựu sinh viên - ASF năm học 2024-2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16416",
       "date": "4/10/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham quan công ty FPT Software ngày 25/10",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16415",
-      "date": "3/10/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Danh sách sinh viên tham quan Fujinet Systems ngày 29/10",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16431",
+      "date": "15/10/2024"
+    },
     {
       "tieuDe": "[HTTT] Cuộc thi NetChallenge 2024 do Khoa Mạng máy tính và Truyền thông - Trường ĐH Công nghệ Thông tin - ĐHQG - HCM tổ chức",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16428",
@@ -134,11 +139,6 @@
       "tieuDe": "Đăng ký tham quan công ty KMS Technology ngày 22/10",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16420",
       "date": "08/10/2024"
-    },
-    {
-      "tieuDe": "Danh sách tham quan công ty FPT Software ngày 25/10",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16419",
-      "date": "07/10/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
