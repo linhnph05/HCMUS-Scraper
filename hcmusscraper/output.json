@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:07:28 16/10/2024",
+  "Update time": "10:08:06 16/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
@@ -74,6 +74,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Tổng kết Seminar Research & Study Opportunities at City University of Hong Kong",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16432",
+      "date": "16/10/2024"
+    },
+    {
       "tieuDe": "Danh sách sinh viên tham quan Fujinet Systems ngày 29/10",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16431",
       "date": "15/10/2024"
@@ -117,11 +122,6 @@
       "tieuDe": "Danh sách tham quan công ty FPT Software ngày 25/10",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16419",
       "date": "7/10/2024"
-    },
-    {
-      "tieuDe": "Thông báo nộp hồ sơ Học bổng Cựu sinh viên - ASF năm học 2024-2025",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16416",
-      "date": "4/10/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -180,6 +180,11 @@
   ],
   "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
     {
+      "tieuDe": "Tổng kết Seminar Research & Study Opportunities at City University of Hong Kong",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16432",
+      "date": "16/10/2024"
+    },
+    {
       "tieuDe": "Đăng ký tham gia Seminar Research & Study Opportunities at City University of Hong Kong",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16429",
       "date": "14/10/2024"
@@ -198,11 +203,6 @@
       "tieuDe": "Mời nộp bài và trình bày tại Hội nghị Khoa học Trường năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16399",
       "date": "26/09/2024"
-    },
-    {
-      "tieuDe": "Mời đăng ký tham gia Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16393",
-      "date": "25/09/2024"
     }
   ],
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
