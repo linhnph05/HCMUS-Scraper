@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:30:34 16/10/2024",
+  "Update time": "03:14:07 16/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)",
@@ -229,6 +229,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo nộp học phí học kỳ 1 năm học 2024-2025 đối với sinh viên hệ chính quy chương trình đại trà",
+      "url": "https://hcmus.edu.vn/thong-bao-hoc-phi-hoc-ky-1-nam-hoc-2024-2025-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra/",
+      "date": "16/10/2024"
+    },
     {
       "tieuDe": "Thông báo Khảo sát việc học, việc làm đối với sinh viên vừa tốt nghiệp đại học",
       "url": "https://hcmus.edu.vn/thong-bao-khao-sat-viec-hoc-viec-lam-doi-voi-sinh-vien-vua-tot-nghiep-dai-hoc/",
@@ -526,6 +531,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Thông báo nộp học phí học kỳ 1 năm học 2024-2025 đối với sinh viên hệ chính quy chương trình đại trà",
+      "url": "https://hcmus.edu.vn/thong-bao-hoc-phi-hoc-ky-1-nam-hoc-2024-2025-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra/",
+      "date": "16/10/2024"
+    },
     {
       "tieuDe": "Thông báo Khảo sát việc học, việc làm đối với sinh viên vừa tốt nghiệp đại học",
       "url": "https://hcmus.edu.vn/thong-bao-khao-sat-viec-hoc-viec-lam-doi-voi-sinh-vien-vua-tot-nghiep-dai-hoc/",
