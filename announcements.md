@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:21:26 18/10/2024**_
+_Last update: **16:20:15 18/10/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 16/10/2024: [Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2024-2025/)
 * 15/10/2024: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/)
@@ -48,12 +48,14 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 18/10/2024: [OPSWAT’s Critical Infrastructure Cybersecurity – Graduate Fellowship Program](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16435)
 * 17/10/2024: [[FPT SOFTWARE] ĐÀ NẴNG TALENT MOVE PROGRAM - START YOUR GLOBAL CAREER CÙNG FPT SOFTWARE](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16433)
 * 14/10/2024: [TUYỂN DỤNG - CÔNG TY TNHH ARMOR SECURITY (AS SOLUTIONS)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16430)
 * 10/10/2024: [𝗔𝗖𝗧𝗜𝗩𝗔𝗧𝗢𝗥 𝗦𝗖𝗛𝗢𝗟𝗔𝗥𝗦𝗛𝗜𝗣 - 𝗬𝗢𝗨𝗥 𝗧𝗜𝗖𝗞𝗘𝗧 𝗧𝗢 𝗧𝗛𝗘 𝗙𝗨𝗧𝗨𝗥𝗘!](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16424)
 * 09/10/2024: [R&D Intern - Phygital Labs](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16421)
-* 03/10/2024: [[Bình Thạnh] Golden Owl Solutions Tuyển dụng Thực tập sinh PHP (Laravel Framework)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16414)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 18/10/2024: [Thông báo kết quả dự kiến cấp học bổng năm học 2023-2024 cho sinh viên 07 ngành khó tuyển](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-cap-ho%cc%a3c-bo%cc%89ng-nam-hoc-2023-2024-cho-sinh-vien-07-nganh-kho-tuyen/)
+* 18/10/2024: [THÔNG TIN KHÓA HỌC CHUYÊN GIA PHƯƠNG PHÁP PHÂN TÍCH DỮ LIỆU VÀ CÔNG BỐ QUỐC TẾ](https://hcmus.edu.vn/thong-tin-khoa-hoc-chuyen-gia-phuong-phap-phan-tich-du-lieu-va-cong-bo-quoc-te/)
 * 17/10/2024: [Thông báo đổi phòng học dãy nhà E, cơ sở 2 từ ngày 21/12/2024](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-day-nha-e-co-so-2-tu-ngay-21-12-2024/)
 * 17/10/2024: [THÔNG BÁO Đăng ký lịch Sinh hoạt Công dân Đầu năm, năm học 2024-2025](https://hcmus.edu.vn/thong-bao-dang-ky-lich-sinh-hoat-cong-dan-dau-nam-nam-hoc-2024-2025/)
 * 16/10/2024: [Thông báo nộp học phí học kỳ 1 năm học 2024-2025 đối với sinh viên hệ chính quy chương trình đại trà](https://hcmus.edu.vn/thong-bao-hoc-phi-hoc-ky-1-nam-hoc-2024-2025-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra/)
@@ -108,6 +110,7 @@ No news in the last 1 month
 * 18/09/2024: [THÔNG TIN GIẢI THƯỞNG TRẦN ĐẠI NGHĨA NĂM 2025](https://hcmus.edu.vn/thong-tin-giai-thuong-tran-dai-nghia-nam-2025/)
 * 18/09/2024: [Thời khóa biểu môn học Thể dục 1 trong HK1/24-25 (có thông tin giảng viên)](https://hcmus.edu.vn/thoi-khoa-bieu-mon-hoc-the-duc-1-trong-hk1-24-25-co-thong-tin-giang-vien/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 18/10/2024: [Thông báo kết quả dự kiến cấp học bổng năm học 2023-2024 cho sinh viên 07 ngành khó tuyển](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-cap-ho%cc%a3c-bo%cc%89ng-nam-hoc-2023-2024-cho-sinh-vien-07-nganh-kho-tuyen/)
 * 17/10/2024: [Thông báo đổi phòng học dãy nhà E, cơ sở 2 từ ngày 21/12/2024](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-day-nha-e-co-so-2-tu-ngay-21-12-2024/)
 * 17/10/2024: [THÔNG BÁO Đăng ký lịch Sinh hoạt Công dân Đầu năm, năm học 2024-2025](https://hcmus.edu.vn/thong-bao-dang-ky-lich-sinh-hoat-cong-dan-dau-nam-nam-hoc-2024-2025/)
 * 16/10/2024: [Thông báo nộp học phí học kỳ 1 năm học 2024-2025 đối với sinh viên hệ chính quy chương trình đại trà](https://hcmus.edu.vn/thong-bao-hoc-phi-hoc-ky-1-nam-hoc-2024-2025-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra/)

@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:09:20 18/10/2024",
+  "Update time": "09:08:19 18/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
@@ -193,6 +193,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "OPSWAT’s Critical Infrastructure Cybersecurity – Graduate Fellowship Program",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16435",
+      "date": "18/10/2024"
+    },
+    {
       "tieuDe": "[FPT SOFTWARE] ĐÀ NẴNG TALENT MOVE PROGRAM - START YOUR GLOBAL CAREER CÙNG FPT SOFTWARE",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16433",
       "date": "17/10/2024"
@@ -211,14 +216,19 @@
       "tieuDe": "R&D Intern - Phygital Labs",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16421",
       "date": "09/10/2024"
-    },
-    {
-      "tieuDe": "[Bình Thạnh] Golden Owl Solutions Tuyển dụng Thực tập sinh PHP (Laravel Framework)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16414",
-      "date": "03/10/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo kết quả dự kiến cấp học bổng năm học 2023-2024 cho sinh viên 07 ngành khó tuyển",
+      "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-cap-ho%cc%a3c-bo%cc%89ng-nam-hoc-2023-2024-cho-sinh-vien-07-nganh-kho-tuyen/",
+      "date": "18/10/2024"
+    },
+    {
+      "tieuDe": "THÔNG TIN KHÓA HỌC CHUYÊN GIA PHƯƠNG PHÁP PHÂN TÍCH DỮ LIỆU VÀ CÔNG BỐ QUỐC TẾ",
+      "url": "https://hcmus.edu.vn/thong-tin-khoa-hoc-chuyen-gia-phuong-phap-phan-tich-du-lieu-va-cong-bo-quoc-te/",
+      "date": "18/10/2024"
+    },
     {
       "tieuDe": "Thông báo đổi phòng học dãy nhà E, cơ sở 2 từ ngày 21/12/2024",
       "url": "https://hcmus.edu.vn/thong-bao-doi-phong-hoc-day-nha-e-co-so-2-tu-ngay-21-12-2024/",
@@ -486,6 +496,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Thông báo kết quả dự kiến cấp học bổng năm học 2023-2024 cho sinh viên 07 ngành khó tuyển",
+      "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-cap-ho%cc%a3c-bo%cc%89ng-nam-hoc-2023-2024-cho-sinh-vien-07-nganh-kho-tuyen/",
+      "date": "18/10/2024"
+    },
     {
       "tieuDe": "Thông báo đổi phòng học dãy nhà E, cơ sở 2 từ ngày 21/12/2024",
       "url": "https://hcmus.edu.vn/thong-bao-doi-phong-hoc-day-nha-e-co-so-2-tu-ngay-21-12-2024/",
