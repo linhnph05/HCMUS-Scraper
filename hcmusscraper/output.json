@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "01:34:46 21/10/2024",
+  "Update time": "02:31:14 21/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
@@ -209,6 +209,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo học bổng Vừ A Dính năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-ho%cc%a3c-bo%cc%89ng-vu-a-dinh-nam-ho%cc%a3c-2024-2025/",
+      "date": "21/10/2024"
+    },
     {
       "tieuDe": "Thông báo kết quả dự kiến cấp học bổng năm học 2023-2024 cho sinh viên 07 ngành khó tuyển",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-cap-ho%cc%a3c-bo%cc%89ng-nam-hoc-2023-2024-cho-sinh-vien-07-nganh-kho-tuyen/",
@@ -467,6 +472,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "Thông báo học bổng Vừ A Dính năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-ho%cc%a3c-bo%cc%89ng-vu-a-dinh-nam-ho%cc%a3c-2024-2025/",
+      "date": "21/10/2024"
+    },
+    {
       "tieuDe": "Thông báo kết quả dự kiến cấp học bổng năm học 2023-2024 cho sinh viên 07 ngành khó tuyển",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-cap-ho%cc%a3c-bo%cc%89ng-nam-hoc-2023-2024-cho-sinh-vien-07-nganh-kho-tuyen/",
       "date": "18/10/2024"
@@ -697,6 +707,11 @@
     }
   ],
   "HCMUS-Hoc bong dai hoc": [
+    {
+      "tieuDe": "Thông báo học bổng Vừ A Dính năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-ho%cc%a3c-bo%cc%89ng-vu-a-dinh-nam-ho%cc%a3c-2024-2025/",
+      "date": "21/10/2024"
+    },
     {
       "tieuDe": "Thông báo chương trình học bổng QIS Việt Nam",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-qis-viet-nam/",
