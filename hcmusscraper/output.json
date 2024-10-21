@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:31:14 21/10/2024",
+  "Update time": "03:16:26 21/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
@@ -64,6 +64,16 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Đăng ký tham quan công ty Saritasa Việt Nam",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16437",
+      "date": "21/10/2024"
+    },
+    {
+      "tieuDe": "Giới thiệu Thư viện Khoa Công nghệ Thông tin, Đại học Khoa học tự nhiên, ĐHQG-HCM",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16436",
+      "date": "21/10/2024"
+    },
+    {
       "tieuDe": "Thông báo đăng ký tham dự Chuỗi Hội thảo kỹ năng - Công nghệ 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16434",
       "date": "18/10/2024"
@@ -102,19 +112,19 @@
       "tieuDe": "Danh sách sinh viên tham quan công ty KMS Technology",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16425",
       "date": "12/10/2024"
-    },
-    {
-      "tieuDe": "[CQ] Danh sách lớp nghỉ học ngày 12/10/2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16423",
-      "date": "10/10/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham quan công ty KMS Technology ngày 22/10",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16420",
-      "date": "8/10/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Đăng ký tham quan công ty Saritasa Việt Nam",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16437",
+      "date": "21/10/2024"
+    },
+    {
+      "tieuDe": "Giới thiệu Thư viện Khoa Công nghệ Thông tin, Đại học Khoa học tự nhiên, ĐHQG-HCM",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16436",
+      "date": "21/10/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên tham quan Fujinet Systems ngày 29/10",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16431",
@@ -129,16 +139,6 @@
       "tieuDe": "Đăng ký tham quan công ty Fujinet Systems ngày 29/10",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16426",
       "date": "12/10/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên tham quan công ty KMS Technology",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16425",
-      "date": "12/10/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham quan công ty KMS Technology ngày 22/10",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16420",
-      "date": "08/10/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
