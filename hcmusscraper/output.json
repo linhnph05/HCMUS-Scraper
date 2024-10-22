@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:07:22 22/10/2024",
+  "Update time": "10:07:29 22/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
@@ -183,6 +183,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "TUYỂN SINH VIÊN INTERNSHIP THAM GIA NHÓM NGHIÊN CỨU",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16438",
+      "date": "22/10/2024"
+    },
+    {
       "tieuDe": "OPSWAT’s Critical Infrastructure Cybersecurity – Graduate Fellowship Program",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16435",
       "date": "18/10/2024"
@@ -201,11 +206,6 @@
       "tieuDe": "𝗔𝗖𝗧𝗜𝗩𝗔𝗧𝗢𝗥 𝗦𝗖𝗛𝗢𝗟𝗔𝗥𝗦𝗛𝗜𝗣 - 𝗬𝗢𝗨𝗥 𝗧𝗜𝗖𝗞𝗘𝗧 𝗧𝗢 𝗧𝗛𝗘 𝗙𝗨𝗧𝗨𝗥𝗘!",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16424",
       "date": "10/10/2024"
-    },
-    {
-      "tieuDe": "R&D Intern - Phygital Labs",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16421",
-      "date": "09/10/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
@@ -225,7 +225,7 @@
       "date": "21/10/2024"
     },
     {
-      "tieuDe": "TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM TIẾP VÀ LÀM VIỆC VỚI VIỆN LIÊN HIỆP NGHIÊN CỨU HẠT NHÂN DUBNA",
+      "tieuDe": "TIẾP ĐÓN ĐOÀN CÔNG TÁC TỪ VIỆN LIÊN HIỆP NGHIÊN CỨU HẠT NHÂN DUBNA",
       "url": "https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-tiep-va-lam-viec-voi-vien-lien-hiep-nghien-cuu-hat-nhan-dubna/",
       "date": "19/10/2024"
     },
@@ -686,7 +686,7 @@
       "date": "22/10/2024"
     },
     {
-      "tieuDe": "TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM TIẾP VÀ LÀM VIỆC VỚI VIỆN LIÊN HIỆP NGHIÊN CỨU HẠT NHÂN DUBNA",
+      "tieuDe": "TIẾP ĐÓN ĐOÀN CÔNG TÁC TỪ VIỆN LIÊN HIỆP NGHIÊN CỨU HẠT NHÂN DUBNA",
       "url": "https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-tiep-va-lam-viec-voi-vien-lien-hiep-nghien-cuu-hat-nhan-dubna/",
       "date": "19/10/2024"
     },
