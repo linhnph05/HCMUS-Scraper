@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **17:21:12 23/10/2024**_
+_Last update: **18:25:06 23/10/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 16/10/2024: [Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2024-2025/)
 * 15/10/2024: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/)
@@ -52,8 +52,10 @@ No news in the last 1 month
 * 17/10/2024: [[FPT SOFTWARE] ĐÀ NẴNG TALENT MOVE PROGRAM - START YOUR GLOBAL CAREER CÙNG FPT SOFTWARE](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16433)
 * 14/10/2024: [TUYỂN DỤNG - CÔNG TY TNHH ARMOR SECURITY (AS SOLUTIONS)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16430)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 23/10/2024: [THÔNG BÁO THƯỞNG CÔNG BỐ KHOA HỌC 2023-2024](https://hcmus.edu.vn/thong-bao-thuong-cong-bo-khoa-hoc-2023-2024/)
 * 22/10/2024: [Thông báo nộp học phí học kỳ 1 / 2024-2025 đối với sinh viên học các chương trình theo đề án](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2024-2025-doi-voi-sinh-vien-hoc-cac-chuong-trinh-theo-de-an/)
 * 22/10/2024: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (CT Đại trà) và HK3/2023-2024 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ct-dai-tra-va-hk3-2023-2024-ct-de-an/)
+* 21/10/2024: [GIẢI THƯỞNG KHCN THƯỜNG NIÊN ĐHQG-HCM NĂM 2024](https://hcmus.edu.vn/giai-thuong-khcn-thuong-nien-dhqg-hcm-nam-2024/)
 * 21/10/2024: [Thông báo học bổng Vừ A Dính năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ho%cc%a3c-bo%cc%89ng-vu-a-dinh-nam-ho%cc%a3c-2024-2025/)
 * 19/10/2024: [TIẾP ĐÓN ĐOÀN CÔNG TÁC TỪ VIỆN LIÊN HIỆP NGHIÊN CỨU HẠT NHÂN DUBNA](https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-tiep-va-lam-viec-voi-vien-lien-hiep-nghien-cuu-hat-nhan-dubna/)
 * 18/10/2024: [Thông báo kết quả dự kiến cấp học bổng năm học 2023-2024 cho sinh viên 07 ngành khó tuyển](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-cap-ho%cc%a3c-bo%cc%89ng-nam-hoc-2023-2024-cho-sinh-vien-07-nganh-kho-tuyen/)
