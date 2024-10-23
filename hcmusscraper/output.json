@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:18:40 23/10/2024",
+  "Update time": "10:07:57 23/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
@@ -64,6 +64,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 6/11",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16441",
+      "date": "23/10/2024"
+    },
+    {
       "tieuDe": "Đăng ký tham quan công ty VNG ngày 18/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16440",
       "date": "23/10/2024"
@@ -107,14 +112,14 @@
       "tieuDe": "[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16390",
       "date": "14/10/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham quan công ty Fujinet Systems ngày 29/10",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16426",
-      "date": "12/10/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 6/11",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16441",
+      "date": "23/10/2024"
+    },
     {
       "tieuDe": "Đăng ký tham quan công ty VNG ngày 18/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16440",
@@ -134,11 +139,6 @@
       "tieuDe": "Danh sách sinh viên tham quan Fujinet Systems ngày 29/10",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16431",
       "date": "15/10/2024"
-    },
-    {
-      "tieuDe": "[HTTT] Cuộc thi NetChallenge 2024 do Khoa Mạng máy tính và Truyền thông - Trường ĐH Công nghệ Thông tin - ĐHQG - HCM tổ chức",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16428",
-      "date": "14/10/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
