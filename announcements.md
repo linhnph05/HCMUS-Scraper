@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **08:48:45 23/10/2024**_
+_Last update: **09:47:42 23/10/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 16/10/2024: [Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2024-2025/)
 * 15/10/2024: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/)
@@ -46,11 +46,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 23/10/2024: [[Bình Thạnh, Q2] Golden Owl Solutions tuyển dụng TTS Ruby on rails T10/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16439)
 * 22/10/2024: [TUYỂN SINH VIÊN INTERNSHIP THAM GIA NHÓM NGHIÊN CỨU](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16438)
 * 18/10/2024: [OPSWAT’s Critical Infrastructure Cybersecurity – Graduate Fellowship Program](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16435)
 * 17/10/2024: [[FPT SOFTWARE] ĐÀ NẴNG TALENT MOVE PROGRAM - START YOUR GLOBAL CAREER CÙNG FPT SOFTWARE](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16433)
 * 14/10/2024: [TUYỂN DỤNG - CÔNG TY TNHH ARMOR SECURITY (AS SOLUTIONS)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16430)
-* 10/10/2024: [𝗔𝗖𝗧𝗜𝗩𝗔𝗧𝗢𝗥 𝗦𝗖𝗛𝗢𝗟𝗔𝗥𝗦𝗛𝗜𝗣 - 𝗬𝗢𝗨𝗥 𝗧𝗜𝗖𝗞𝗘𝗧 𝗧𝗢 𝗧𝗛𝗘 𝗙𝗨𝗧𝗨𝗥𝗘!](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16424)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 22/10/2024: [Thông báo nộp học phí học kỳ 1 / 2024-2025 đối với sinh viên học các chương trình theo đề án](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2024-2025-doi-voi-sinh-vien-hoc-cac-chuong-trinh-theo-de-an/)
 * 22/10/2024: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (CT Đại trà) và HK3/2023-2024 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ct-dai-tra-va-hk3-2023-2024-ct-de-an/)
