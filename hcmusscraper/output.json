@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "04:15:07 23/10/2024",
+  "Update time": "05:10:08 23/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
@@ -64,6 +64,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Đăng ký tham quan công ty VNG ngày 18/11",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16440",
+      "date": "23/10/2024"
+    },
+    {
       "tieuDe": "Đăng ký tham quan công ty Saritasa Việt Nam",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16437",
       "date": "21/10/2024"
@@ -106,11 +111,6 @@
     {
       "tieuDe": "Đăng ký tham quan công ty Fujinet Systems ngày 29/10",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16426",
-      "date": "12/10/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên tham quan công ty KMS Technology",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16425",
       "date": "12/10/2024"
     }
   ],
