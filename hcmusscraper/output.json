@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "05:07:42 24/10/2024",
+  "Update time": "07:07:45 24/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
@@ -158,6 +158,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Embedded MBD Engineer",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14748",
+      "date": "24/10/2024"
+    },
+    {
       "tieuDe": "[Bình Thạnh, Q2] Golden Owl Solutions tuyển dụng TTS Ruby on rails T10/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16439",
       "date": "23/10/2024"
@@ -176,14 +181,14 @@
       "tieuDe": "[FPT SOFTWARE] ĐÀ NẴNG TALENT MOVE PROGRAM - START YOUR GLOBAL CAREER CÙNG FPT SOFTWARE",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16433",
       "date": "17/10/2024"
-    },
-    {
-      "tieuDe": "TUYỂN DỤNG - CÔNG TY TNHH ARMOR SECURITY (AS SOLUTIONS)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16430",
-      "date": "14/10/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo nghỉ học ngày 18 và 19/11 đối với sinh viên khoa Hóa học",
+      "url": "https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-18-va-19-11-doi-voi-sinh-vien-khoa-hoa-hoc/",
+      "date": "24/10/2024"
+    },
     {
       "tieuDe": "THÔNG BÁO THƯỞNG CÔNG BỐ KHOA HỌC 2023-2024",
       "url": "https://hcmus.edu.vn/thong-bao-thuong-cong-bo-khoa-hoc-2023-2024/",
@@ -471,6 +476,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Thông báo nghỉ học ngày 18 và 19/11 đối với sinh viên khoa Hóa học",
+      "url": "https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-18-va-19-11-doi-voi-sinh-vien-khoa-hoa-hoc/",
+      "date": "24/10/2024"
+    },
     {
       "tieuDe": "Thông báo nộp học phí học kỳ 1 / 2024-2025 đối với sinh viên học các chương trình theo đề án",
       "url": "https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2024-2025-doi-voi-sinh-vien-hoc-cac-chuong-trinh-theo-de-an/",
