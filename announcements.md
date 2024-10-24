@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **18:19:47 24/10/2024**_
+_Last update: **19:24:18 24/10/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 16/10/2024: [Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2024-2025/)
 * 15/10/2024: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/)
@@ -54,6 +54,7 @@ No news in the last 1 month
 * 21/10/2024: [GIẢI THƯỞNG KHCN THƯỜNG NIÊN ĐHQG-HCM NĂM 2024](https://hcmus.edu.vn/giai-thuong-khcn-thuong-nien-dhqg-hcm-nam-2024/)
 * 21/10/2024: [Thông báo học bổng Vừ A Dính năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ho%cc%a3c-bo%cc%89ng-vu-a-dinh-nam-ho%cc%a3c-2024-2025/)
 * 19/10/2024: [TIẾP ĐÓN ĐOÀN CÔNG TÁC TỪ VIỆN LIÊN HIỆP NGHIÊN CỨU HẠT NHÂN DUBNA](https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-tiep-va-lam-viec-voi-vien-lien-hiep-nghien-cuu-hat-nhan-dubna/)
+* 18/10/2024: [HỘI THẢO CHIA SẺ KINH NGHIỆM DỰ ÁN QUỐC TẾ](https://hcmus.edu.vn/hoi-thao-chia-se-kinh-nghiem-du-an-quoc-te/)
 * 18/10/2024: [Thông báo kết quả dự kiến cấp học bổng năm học 2023-2024 cho sinh viên 07 ngành khó tuyển](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-cap-ho%cc%a3c-bo%cc%89ng-nam-hoc-2023-2024-cho-sinh-vien-07-nganh-kho-tuyen/)
 * 18/10/2024: [THÔNG TIN KHÓA HỌC CHUYÊN GIA PHƯƠNG PHÁP PHÂN TÍCH DỮ LIỆU VÀ CÔNG BỐ QUỐC TẾ](https://hcmus.edu.vn/thong-tin-khoa-hoc-chuyen-gia-phuong-phap-phan-tich-du-lieu-va-cong-bo-quoc-te/)
 * 17/10/2024: [Thông báo đổi phòng học dãy nhà E, cơ sở 2 từ ngày 21/12/2024](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-day-nha-e-co-so-2-tu-ngay-21-12-2024/)
