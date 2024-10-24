@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:07:34 24/10/2024",
+  "Update time": "10:07:52 24/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
@@ -38,6 +38,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Đăng ký tham gia thi đấu An toàn Thông tin trường ĐH Khoa học tự nhiên - HCMUS-CTF 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16445",
+      "date": "24/10/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 6/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16441",
@@ -82,14 +87,14 @@
       "tieuDe": "Đăng ký tham gia Seminar Research & Study Opportunities at City University of Hong Kong",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16429",
       "date": "14/10/2024"
-    },
-    {
-      "tieuDe": "[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16390",
-      "date": "14/10/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Đăng ký tham gia thi đấu An toàn Thông tin trường ĐH Khoa học tự nhiên - HCMUS-CTF 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16445",
+      "date": "24/10/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 6/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16441",
@@ -109,11 +114,6 @@
       "tieuDe": "Giới thiệu Thư viện Khoa Công nghệ Thông tin, Đại học Khoa học tự nhiên, ĐHQG-HCM",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16436",
       "date": "21/10/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên tham quan Fujinet Systems ngày 29/10",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16431",
-      "date": "15/10/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
