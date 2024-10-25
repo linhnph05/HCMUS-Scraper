@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **08:53:54 25/10/2024**_
+_Last update: **09:49:16 25/10/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 16/10/2024: [Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2024-2025/)
 * 15/10/2024: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/)
@@ -40,11 +40,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 25/10/2024: [🔥GIA NHẬP FPT SOFTWARE XÂY DỰNG TƯƠNG LAI NGAY TẠI CẦN THƠ!🌟🎉](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16446)
 * 24/10/2024: [Hot hot hot ! DXC tuyển dụng 10 bạn Fresher ServiceNow developer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16444)
 * 24/10/2024: [Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Embedded MBD Engineer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16442)
 * 24/10/2024: [Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Embedded MBD Engineer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14748)
 * 23/10/2024: [[Bình Thạnh, Q2] Golden Owl Solutions tuyển dụng TTS Ruby on rails T10/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16439)
-* 22/10/2024: [TUYỂN SINH VIÊN INTERNSHIP THAM GIA NHÓM NGHIÊN CỨU](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16438)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 24/10/2024: [Thông báo nghỉ học ngày 18 và 19/11 đối với sinh viên khoa Hóa học](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-18-va-19-11-doi-voi-sinh-vien-khoa-hoa-hoc/)
 * 23/10/2024: [THÔNG BÁO THƯỞNG CÔNG BỐ KHOA HỌC 2023-2024](https://hcmus.edu.vn/thong-bao-thuong-cong-bo-khoa-hoc-2023-2024/)
