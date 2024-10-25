@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:07:50 25/10/2024",
+  "Update time": "10:07:56 25/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
@@ -33,6 +33,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Giới thiệu Chương trình chăm sóc sức khỏe tinh thần người học của FIT.HCMUS",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16447",
+      "date": "25/10/2024"
+    },
     {
       "tieuDe": "Đăng ký tham gia thi đấu An toàn Thông tin trường ĐH Khoa học tự nhiên - HCMUS-CTF 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16445",
@@ -77,11 +82,6 @@
       "tieuDe": "Đăng ký học bổng 'Hành trang hướng nghiệp' học kỳ 1, NH 2024 - 2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16427",
       "date": "15/10/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham gia Seminar Research & Study Opportunities at City University of Hong Kong",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16429",
-      "date": "14/10/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -179,6 +179,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "CHIA SẺ TỪ GIÁO SƯ TRẦN THẾ TRUYỀN VỀ TƯƠNG LAI CỦA AI",
+      "url": "https://hcmus.edu.vn/chia-se-tu-giao-su-tran-the-truyen-ve-tuong-lai-cua-ai/",
+      "date": "25/10/2024"
+    },
     {
       "tieuDe": "Thông báo nghỉ học ngày 18 và 19/11 đối với sinh viên khoa Hóa học",
       "url": "https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-18-va-19-11-doi-voi-sinh-vien-khoa-hoa-hoc/",
@@ -635,6 +640,11 @@
     }
   ],
   "HCMUS-Nguoi hoc": [
+    {
+      "tieuDe": "CHIA SẺ TỪ GIÁO SƯ TRẦN THẾ TRUYỀN VỀ TƯƠNG LAI CỦA AI",
+      "url": "https://hcmus.edu.vn/chia-se-tu-giao-su-tran-the-truyen-ve-tuong-lai-cua-ai/",
+      "date": "25/10/2024"
+    },
     {
       "tieuDe": "Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (CT Đại trà) và HK3/2023-2024 (CT Đề án)",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ct-dai-tra-va-hk3-2023-2024-ct-de-an/",
