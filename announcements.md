@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **10:29:33 28/10/2024**_
+_Last update: **11:21:50 28/10/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 No news in the last 1 month
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
