@@ -1,11 +1,16 @@
 [
 {
-  "Update time": "10:08:05 28/10/2024",
+  "Update time": "11:07:04 28/10/2024",
   "Thong Bao": [],
   "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Danh sách tham quan công ty VNG ngày 18/11",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16452",
+      "date": "28/10/2024"
+    },
     {
       "tieuDe": "Thời khóa biểu có phòng các lớp Học phần 4 Khóa 33/2023 - bắt đầu học 28/10/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16449",
@@ -50,14 +55,14 @@
       "tieuDe": "Thông báo đăng ký tham dự Chuỗi Hội thảo kỹ năng - Công nghệ 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16434",
       "date": "18/10/2024"
-    },
-    {
-      "tieuDe": "Tổng kết Seminar Research & Study Opportunities at City University of Hong Kong",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16432",
-      "date": "16/10/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Danh sách tham quan công ty VNG ngày 18/11",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16452",
+      "date": "28/10/2024"
+    },
     {
       "tieuDe": "Đăng ký tham gia thi đấu An toàn Thông tin trường ĐH Khoa học tự nhiên - HCMUS-CTF 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16445",
@@ -76,11 +81,6 @@
     {
       "tieuDe": "Đăng ký tham quan công ty Saritasa Việt Nam",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16437",
-      "date": "21/10/2024"
-    },
-    {
-      "tieuDe": "Giới thiệu Thư viện Khoa Công nghệ Thông tin, Đại học Khoa học tự nhiên, ĐHQG-HCM",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16436",
       "date": "21/10/2024"
     }
   ],
