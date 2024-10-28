@@ -1,11 +1,16 @@
 [
 {
-  "Update time": "09:12:22 28/10/2024",
+  "Update time": "10:08:05 28/10/2024",
   "Thong Bao": [],
   "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Thời khóa biểu có phòng các lớp Học phần 4 Khóa 33/2023 - bắt đầu học 28/10/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16449",
+      "date": "28/10/2024"
+    },
     {
       "tieuDe": "Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16448",
@@ -50,11 +55,6 @@
       "tieuDe": "Tổng kết Seminar Research & Study Opportunities at City University of Hong Kong",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16432",
       "date": "16/10/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên tham quan Fujinet Systems ngày 29/10",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16431",
-      "date": "15/10/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -121,6 +121,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "Craft Master Challenge - Cuộc thi Sáng tạo Game từ Nhà phát hành Garena Việt Nam",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16450",
+      "date": "28/10/2024"
+    },
+    {
       "tieuDe": "🔥GIA NHẬP FPT SOFTWARE XÂY DỰNG TƯƠNG LAI NGAY TẠI CẦN THƠ!🌟🎉",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16446",
       "date": "25/10/2024"
@@ -139,11 +144,6 @@
       "tieuDe": "Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Embedded MBD Engineer",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14748",
       "date": "24/10/2024"
-    },
-    {
-      "tieuDe": "[Bình Thạnh, Q2] Golden Owl Solutions tuyển dụng TTS Ruby on rails T10/2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16439",
-      "date": "23/10/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
