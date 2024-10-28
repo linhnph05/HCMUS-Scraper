@@ -1,8 +1,30 @@
 [
 {
-  "Update time": "04:08:56 28/10/2024",
-  "Thong Bao": [],
-  "Tin tuc": [],
+  "Update time": "05:08:38 28/10/2024",
+  "Thong Bao": [
+    {
+      "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2024-2025/",
+      "date": "16/10/2024"
+    },
+    {
+      "tieuDe": "Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/",
+      "date": "15/10/2024"
+    },
+    {
+      "tieuDe": "[CTĐA] Thời khóa biểu HK1/2425",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/ctda-thoi-khoa-bieu-hk1-2425/",
+      "date": "07/10/2024"
+    }
+  ],
+  "Tin tuc": [
+    {
+      "tieuDe": "Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/",
+      "date": "15/10/2024"
+    }
+  ],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
@@ -147,6 +169,16 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Kết quả đăng ký Sinh hoạt Công dân đầu năm chuyên đề A, năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-nam-hoc-2024-2025/",
+      "date": "28/10/2024"
+    },
+    {
+      "tieuDe": "HỘI NGHỊ “ÂM HƯỞNG TRONG THẾ GIỚI TOÁN HỌC”: KẾT NỐI CỘNG ĐỒNG TOÁN HỌC VIỆT NAM VÀ THẾ GIỚI",
+      "url": "https://hcmus.edu.vn/hoi-nghi-am-huong-trong-the-gioi-toan-hoc-ket-noi-cong-dong-toan-hoc-viet-nam-va-the-gioi/",
+      "date": "26/10/2024"
+    },
     {
       "tieuDe": "Nghiên cứu phát triển màng mỏng ZnO biến tính cho ứng dụng quang xúc tác trong xử lý nước thải công nghiệp",
       "url": "https://hcmus.edu.vn/khcn-b2021-18-05/",
