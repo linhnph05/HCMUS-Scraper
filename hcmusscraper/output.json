@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "06:09:50 29/10/2024",
+  "Update time": "07:07:27 29/10/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
@@ -18,13 +18,7 @@
       "date": "07/10/2024"
     }
   ],
-  "Tin tuc": [
-    {
-      "tieuDe": "Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/",
-      "date": "15/10/2024"
-    }
-  ],
+  "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
@@ -437,6 +431,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "THÔNG BÁO Lịch đăng ký các lớp tập huấn “Hiểu, biết và chăm sóc sức khỏe tinh thần cho chính mình”",
+      "url": "https://hcmus.edu.vn/thong-bao-lich-dang-ky-cac-lop-tap-huan-hieu-biet-va-cham-soc-suc-khoe-tinh-than-cho-chinh-minh/",
+      "date": "29/10/2024"
+    },
+    {
       "tieuDe": "Kết quả đăng ký Sinh hoạt Công dân đầu năm chuyên đề A, năm học 2024-2025",
       "url": "https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-nam-hoc-2024-2025/",
       "date": "28/10/2024"
@@ -585,6 +584,11 @@
     }
   ],
   "HCMUS-Nguoi hoc": [
+    {
+      "tieuDe": "THÔNG BÁO Lịch đăng ký các lớp tập huấn “Hiểu, biết và chăm sóc sức khỏe tinh thần cho chính mình”",
+      "url": "https://hcmus.edu.vn/thong-bao-lich-dang-ky-cac-lop-tap-huan-hieu-biet-va-cham-soc-suc-khoe-tinh-than-cho-chinh-minh/",
+      "date": "29/10/2024"
+    },
     {
       "tieuDe": "Kết quả đăng ký Sinh hoạt Công dân đầu năm chuyên đề A, năm học 2024-2025",
       "url": "https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-nam-hoc-2024-2025/",

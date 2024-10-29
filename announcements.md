@@ -1,11 +1,11 @@
 # All news in the last 1 month 
-_Last update: **13:27:37 29/10/2024**_
+_Last update: **14:26:19 29/10/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 16/10/2024: [Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2024-2025/)
 * 15/10/2024: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/)
 * 07/10/2024: [[CTĐA] Thời khóa biểu HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/10/ctda-thoi-khoa-bieu-hk1-2425/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
-* 15/10/2024: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/)
+No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
 No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
@@ -98,6 +98,7 @@ No news in the last 1 month
 * 01/10/2024: [HỌP MẶT CỰU DU HỌC SINH JAIST TẠI VIỆT NAM](https://hcmus.edu.vn/hop-mat-cuu-du-hoc-sinh-jaist-tai-viet-nam/)
 * 30/09/2024: [THÔNG BÁO ĐĂNG KÝ ĐỀ TÀI NCKH CẤP TRƯỜNG NĂM 2024 (ĐỢT 2 – THÁNG 9/2024)](https://hcmus.edu.vn/thong-bao-dang-ky-de-tai-nckh-cap-truong-nam-2024-dot-2-thang-9-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 29/10/2024: [THÔNG BÁO Lịch đăng ký các lớp tập huấn “Hiểu, biết và chăm sóc sức khỏe tinh thần cho chính mình”](https://hcmus.edu.vn/thong-bao-lich-dang-ky-cac-lop-tap-huan-hieu-biet-va-cham-soc-suc-khoe-tinh-than-cho-chinh-minh/)
 * 28/10/2024: [Kết quả đăng ký Sinh hoạt Công dân đầu năm chuyên đề A, năm học 2024-2025](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-nam-hoc-2024-2025/)
 * 24/10/2024: [Thông báo nghỉ học ngày 18 và 19/11 đối với sinh viên khoa Hóa học](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-18-va-19-11-doi-voi-sinh-vien-khoa-hoa-hoc/)
 * 22/10/2024: [Thông báo nộp học phí học kỳ 1 / 2024-2025 đối với sinh viên học các chương trình theo đề án](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2024-2025-doi-voi-sinh-vien-hoc-cac-chuong-trinh-theo-de-an/)
@@ -129,6 +130,7 @@ No news in the last 1 month
 * 03/10/2024: [THÔNG BÁO TUYỂN DỤNG KHOA HÓA HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-hoa-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 02/10/2024: [[DAAD/DIES] Call for Applications for Management of Internationalisation (MoI) 2025/2026](https://hcmus.edu.vn/daad-dies-call-for-applications-for-management-of-internationalisation-moi-2025-2026/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
+* 29/10/2024: [THÔNG BÁO Lịch đăng ký các lớp tập huấn “Hiểu, biết và chăm sóc sức khỏe tinh thần cho chính mình”](https://hcmus.edu.vn/thong-bao-lich-dang-ky-cac-lop-tap-huan-hieu-biet-va-cham-soc-suc-khoe-tinh-than-cho-chinh-minh/)
 * 28/10/2024: [Kết quả đăng ký Sinh hoạt Công dân đầu năm chuyên đề A, năm học 2024-2025](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-nam-hoc-2024-2025/)
 * 26/10/2024: [HỘI NGHỊ “ÂM HƯỞNG TRONG THẾ GIỚI TOÁN HỌC”: KẾT NỐI CỘNG ĐỒNG TOÁN HỌC VIỆT NAM VÀ THẾ GIỚI](https://hcmus.edu.vn/hoi-nghi-am-huong-trong-the-gioi-toan-hoc-ket-noi-cong-dong-toan-hoc-viet-nam-va-the-gioi/)
 * 25/10/2024: [CHIA SẺ TỪ GIÁO SƯ TRẦN THẾ TRUYỀN VỀ TƯƠNG LAI CỦA AI](https://hcmus.edu.vn/chia-se-tu-giao-su-tran-the-truyen-ve-tuong-lai-cua-ai/)
