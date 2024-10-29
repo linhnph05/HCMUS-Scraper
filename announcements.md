@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:19:08 29/10/2024**_
+_Last update: **07:43:35 29/10/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 No news in the last 1 month
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -32,7 +32,6 @@ No news in the last 1 month
 * 16/10/2024: [Tổng kết Seminar Research & Study Opportunities at City University of Hong Kong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16432)
 * 14/10/2024: [Đăng ký tham gia Seminar Research & Study Opportunities at City University of Hong Kong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16429)
 * 01/10/2024: [Tổng kết Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16409)
-* 28/09/2024: [Thông báo địa điểm và thời gian tổ chức Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16404)
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
@@ -94,7 +93,6 @@ No news in the last 1 month
 * 02/10/2024: [Thông báo điều chỉnh phòng học áp dụng từ ngày 30/09/2024 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-dieu-chinh-phong-hoc-ap-dung-tu-ngay-30-09-2024-tai-co-so-2/)
 * 01/10/2024: [HỌP MẶT CỰU DU HỌC SINH JAIST TẠI VIỆT NAM](https://hcmus.edu.vn/hop-mat-cuu-du-hoc-sinh-jaist-tai-viet-nam/)
 * 30/09/2024: [THÔNG BÁO ĐĂNG KÝ ĐỀ TÀI NCKH CẤP TRƯỜNG NĂM 2024 (ĐỢT 2 – THÁNG 9/2024)](https://hcmus.edu.vn/thong-bao-dang-ky-de-tai-nckh-cap-truong-nam-2024-dot-2-thang-9-2024/)
-* 28/09/2024: [TIẾP ĐÓN ĐOÀN LÀM VIỆC TỪ OFFICE OF NAVAL RESEARCH](https://hcmus.edu.vn/tiep-don-doan-lam-viec-tu-office-of-naval-research/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 28/10/2024: [Kết quả đăng ký Sinh hoạt Công dân đầu năm chuyên đề A, năm học 2024-2025](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-nam-hoc-2024-2025/)
 * 24/10/2024: [Thông báo nghỉ học ngày 18 và 19/11 đối với sinh viên khoa Hóa học](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-18-va-19-11-doi-voi-sinh-vien-khoa-hoa-hoc/)
