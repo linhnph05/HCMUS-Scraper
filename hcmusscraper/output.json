@@ -1,11 +1,38 @@
 [
 {
-  "Update time": "03:12:49 30/10/2024",
-  "Thong Bao": [],
-  "Tin tuc": [],
+  "Update time": "04:08:43 30/10/2024",
+  "Thong Bao": [
+    {
+      "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2024-2025/",
+      "date": "16/10/2024"
+    },
+    {
+      "tieuDe": "Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/",
+      "date": "15/10/2024"
+    },
+    {
+      "tieuDe": "[CTĐA] Thời khóa biểu HK1/2425",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/ctda-thoi-khoa-bieu-hk1-2425/",
+      "date": "07/10/2024"
+    }
+  ],
+  "Tin tuc": [
+    {
+      "tieuDe": "Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/",
+      "date": "15/10/2024"
+    }
+  ],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021 Đợt 1 (bảo vệ T3/2025)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16453",
+      "date": "30/10/2024"
+    },
     {
       "tieuDe": "Danh sách tham quan công ty VNG ngày 18/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16452",
@@ -50,14 +77,14 @@
       "tieuDe": "Giới thiệu Thư viện Khoa Công nghệ Thông tin, Đại học Khoa học tự nhiên, ĐHQG-HCM",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16436",
       "date": "21/10/2024"
-    },
-    {
-      "tieuDe": "Thông báo đăng ký tham dự Chuỗi Hội thảo kỹ năng - Công nghệ 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16434",
-      "date": "18/10/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021 Đợt 1 (bảo vệ T3/2025)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16453",
+      "date": "30/10/2024"
+    },
     {
       "tieuDe": "Danh sách tham quan công ty VNG ngày 18/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16452",
@@ -77,11 +104,6 @@
       "tieuDe": "Đăng ký tham quan công ty VNG ngày 18/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16440",
       "date": "23/10/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham quan công ty Saritasa Việt Nam",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16437",
-      "date": "21/10/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
