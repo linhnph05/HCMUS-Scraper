@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **12:29:24 30/10/2024**_
+_Last update: **14:20:41 30/10/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 No news in the last 1 month
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -41,6 +41,8 @@ No news in the last 1 month
 * 24/10/2024: [Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Embedded MBD Engineer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16442)
 * 24/10/2024: [Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Embedded MBD Engineer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14748)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 29/10/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2023-2024/)
+* 29/10/2024: [THÔNG BÁO Lịch đăng ký các lớp tập huấn “Hiểu, biết và chăm sóc sức khỏe tinh thần cho chính mình”](https://hcmus.edu.vn/thong-bao-lich-dang-ky-cac-lop-tap-huan-hieu-biet-va-cham-soc-suc-khoe-tinh-than-cho-chinh-minh/)
 * 28/10/2024: [VÕ HOÀNG HOA VIÊN: NỮ SINH XUẤT SẮC NGÀNH CÔNG NGHỆ THÔNG TIN VỚI NIỀM ĐAM MÊ KHOA HỌC DỮ LIỆU](https://hcmus.edu.vn/vo-hoang-hoa-vien-nu-sinh-xuat-sac-nganh-cong-nghe-thong-tin-voi-niem-dam-me-khoa-hoc-du-lieu/)
 * 28/10/2024: [Kết quả đăng ký Sinh hoạt Công dân đầu năm chuyên đề A, năm học 2024-2025](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-nam-hoc-2024-2025/)
 * 27/10/2024: [ĐỘI TUYỂN TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM TIẾP TỤC ĐẠT HẠNG CAO TẠI CUỘC THI LẬP TRÌNH IEEEXTREME](https://hcmus.edu.vn/doi-tuyen-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-tiep-tuc-dat-hang-cao-tai-cuoc-thi-lap-trinh-ieeextreme/)
