@@ -1,11 +1,16 @@
 [
 {
-  "Update time": "03:13:49 31/10/2024",
+  "Update time": "04:09:05 31/10/2024",
   "Thong Bao": [],
   "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Đăng ký tham quan công ty KBTG Việt Nam ngày 15/11",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16455",
+      "date": "31/10/2024"
+    },
     {
       "tieuDe": "Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16454",
@@ -50,14 +55,14 @@
       "tieuDe": "Đăng ký tham quan công ty VNG ngày 18/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16440",
       "date": "23/10/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham quan công ty Saritasa Việt Nam",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16437",
-      "date": "21/10/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Đăng ký tham quan công ty KBTG Việt Nam ngày 15/11",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16455",
+      "date": "31/10/2024"
+    },
     {
       "tieuDe": "[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021 Đợt 1 (bảo vệ T3/2025)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16453",
@@ -76,11 +81,6 @@
     {
       "tieuDe": "Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 6/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16441",
-      "date": "23/10/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham quan công ty VNG ngày 18/11",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16440",
       "date": "23/10/2024"
     }
   ],
