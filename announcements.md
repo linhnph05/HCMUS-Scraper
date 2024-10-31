@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:19:33 31/10/2024**_
+_Last update: **07:45:21 31/10/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 No news in the last 1 month
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -9,38 +9,17 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
-* 30/10/2024: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16454)
-* 30/10/2024: [[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021 Đợt 1 (bảo vệ T3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16453)
-* 28/10/2024: [Danh sách tham quan công ty VNG ngày 18/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16452)
-* 28/10/2024: [Thời khóa biểu có phòng các lớp Học phần 4 Khóa 33/2023 - bắt đầu học 28/10/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16449)
-* 28/10/2024: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16448)
-* 25/10/2024: [Giới thiệu Chương trình chăm sóc sức khỏe tinh thần người học của FIT.HCMUS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16447)
-* 24/10/2024: [Đăng ký tham gia thi đấu An toàn Thông tin trường ĐH Khoa học tự nhiên - HCMUS-CTF 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16445)
-* 23/10/2024: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 6/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16441)
-* 23/10/2024: [Đăng ký tham quan công ty VNG ngày 18/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16440)
-* 21/10/2024: [Đăng ký tham quan công ty Saritasa Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16437)
+No news in the last 1 month
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 30/10/2024: [[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021 Đợt 1 (bảo vệ T3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16453)
-* 28/10/2024: [Danh sách tham quan công ty VNG ngày 18/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16452)
-* 24/10/2024: [Đăng ký tham gia thi đấu An toàn Thông tin trường ĐH Khoa học tự nhiên - HCMUS-CTF 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16445)
-* 23/10/2024: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 6/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16441)
-* 23/10/2024: [Đăng ký tham quan công ty VNG ngày 18/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16440)
+No news in the last 1 month
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 30/10/2024: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16454)
-* 15/10/2024: [Đăng ký học bổng 'Hành trang hướng nghiệp' học kỳ 1, NH 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16427)
-* 04/10/2024: [Thông báo nộp hồ sơ Học bổng Cựu sinh viên - ASF năm học 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16416)
+No news in the last 1 month
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 16/10/2024: [Tổng kết Seminar Research & Study Opportunities at City University of Hong Kong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16432)
-* 14/10/2024: [Đăng ký tham gia Seminar Research & Study Opportunities at City University of Hong Kong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16429)
-* 01/10/2024: [Tổng kết Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16409)
+No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 28/10/2024: [Craft Master Challenge - Cuộc thi Sáng tạo Game từ Nhà phát hành Garena Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16450)
-* 25/10/2024: [🔥GIA NHẬP FPT SOFTWARE XÂY DỰNG TƯƠNG LAI NGAY TẠI CẦN THƠ!🌟🎉](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16446)
-* 24/10/2024: [Hot hot hot ! DXC tuyển dụng 10 bạn Fresher ServiceNow developer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16444)
-* 24/10/2024: [Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Embedded MBD Engineer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16442)
-* 24/10/2024: [Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Embedded MBD Engineer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=14748)
+No news in the last 1 month
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 29/10/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2023-2024/)
 * 29/10/2024: [THÔNG BÁO Lịch đăng ký các lớp tập huấn “Hiểu, biết và chăm sóc sức khỏe tinh thần cho chính mình”](https://hcmus.edu.vn/thong-bao-lich-dang-ky-cac-lop-tap-huan-hieu-biet-va-cham-soc-suc-khoe-tinh-than-cho-chinh-minh/)
@@ -97,7 +76,6 @@ No news in the last 1 month
 * 02/10/2024: [LỄ KÝ KẾT HỢP TÁC GIỮA TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM VÀ TRUNG TÂM QUẢN LÝ KÝ TÚC XÁ, ĐHQG-HCM](https://hcmus.edu.vn/le-ky-ket-hop-tac-giua-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-va-trung-tam-quan-ly-ky-tuc-xa-dhqg-hcm/)
 * 02/10/2024: [Thông báo điều chỉnh phòng học áp dụng từ ngày 30/09/2024 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-dieu-chinh-phong-hoc-ap-dung-tu-ngay-30-09-2024-tai-co-so-2/)
 * 01/10/2024: [HỌP MẶT CỰU DU HỌC SINH JAIST TẠI VIỆT NAM](https://hcmus.edu.vn/hop-mat-cuu-du-hoc-sinh-jaist-tai-viet-nam/)
-* 30/09/2024: [THÔNG BÁO ĐĂNG KÝ ĐỀ TÀI NCKH CẤP TRƯỜNG NĂM 2024 (ĐỢT 2 – THÁNG 9/2024)](https://hcmus.edu.vn/thong-bao-dang-ky-de-tai-nckh-cap-truong-nam-2024-dot-2-thang-9-2024/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 30/10/2024: [THÔNG BÁO Đăng ký tham dự chương trình Talkshow năm 2024 với chủ đề: “Tầm nhìn khởi nghiệp – Trách nhiệm cộng đồng”](https://hcmus.edu.vn/thong-bao-dang-ky-tham-du-chuong-trinh-talkshow-nam-2024-voi-chu-de-tam-nhin-khoi-nghiep-trach-nhiem-cong-dong/)
 * 29/10/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2023-2024/)
