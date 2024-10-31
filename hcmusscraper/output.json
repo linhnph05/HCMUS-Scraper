@@ -1,7 +1,23 @@
 [
 {
-  "Update time": "05:07:41 31/10/2024",
-  "Thong Bao": [],
+  "Update time": "06:09:38 31/10/2024",
+  "Thong Bao": [
+    {
+      "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2024-2025/",
+      "date": "16/10/2024"
+    },
+    {
+      "tieuDe": "Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/",
+      "date": "15/10/2024"
+    },
+    {
+      "tieuDe": "[CTĐA] Thời khóa biểu HK1/2425",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/ctda-thoi-khoa-bieu-hk1-2425/",
+      "date": "07/10/2024"
+    }
+  ],
   "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
@@ -148,6 +164,16 @@
   ],
   "HCMUS-Thong tin nguoi hoc": [
     {
+      "tieuDe": "THÔNG BÁO Đăng ký tham dự chương trình Talkshow năm 2024 với chủ đề: “Tầm nhìn khởi nghiệp – Trách nhiệm cộng đồng”",
+      "url": "https://hcmus.edu.vn/thong-bao-dang-ky-tham-du-chuong-trinh-talkshow-nam-2024-voi-chu-de-tam-nhin-khoi-nghiep-trach-nhiem-cong-dong/",
+      "date": "30/10/2024"
+    },
+    {
+      "tieuDe": "NỖ LỰC VÀ ĐAM MÊ: HÀNH TRÌNH ĐẾN THÀNH CÔNG CỦA GIÁO SƯ NGUYỄN TRỌNG TOÁN",
+      "url": "https://hcmus.edu.vn/no-luc-va-dam-me-hanh-trinh-den-thanh-cong-cua-giao-su-nguyen-trong-toan/",
+      "date": "30/10/2024"
+    },
+    {
       "tieuDe": "Thông báo kết quả dự kiến học bổng khuyến khích HK2/2023-2024",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2023-2024/",
       "date": "29/10/2024"
@@ -196,16 +222,6 @@
       "tieuDe": "THÔNG BÁO THƯỞNG CÔNG BỐ KHOA HỌC 2023-2024",
       "url": "https://hcmus.edu.vn/thong-bao-thuong-cong-bo-khoa-hoc-2023-2024/",
       "date": "23/10/2024"
-    },
-    {
-      "tieuDe": "Thông báo nộp học phí học kỳ 1 / 2024-2025 đối với sinh viên học các chương trình theo đề án",
-      "url": "https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2024-2025-doi-voi-sinh-vien-hoc-cac-chuong-trinh-theo-de-an/",
-      "date": "22/10/2024"
-    },
-    {
-      "tieuDe": "Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (CT Đại trà) và HK3/2023-2024 (CT Đề án)",
-      "url": "https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ct-dai-tra-va-hk3-2023-2024-ct-de-an/",
-      "date": "22/10/2024"
     },
     {
       "tieuDe": "GIẢI THƯỞNG KHCN THƯỜNG NIÊN ĐHQG-HCM NĂM 2024",
