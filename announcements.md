@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:17:55 01/11/2024**_
+_Last update: **07:43:23 01/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 No news in the last 1 month
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -32,7 +32,6 @@ No news in the last 1 month
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 16/10/2024: [Tổng kết Seminar Research & Study Opportunities at City University of Hong Kong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16432)
 * 14/10/2024: [Đăng ký tham gia Seminar Research & Study Opportunities at City University of Hong Kong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16429)
-* 01/10/2024: [Tổng kết Chương trình giao lưu cùng Cựu Học viên tốt nghiệp từ JAIST và Seminar 'Computational Complexity of Puzzles and Related Topics'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16409)
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
@@ -98,7 +97,6 @@ No news in the last 1 month
 * 02/10/2024: [[Thông báo] Hội thảo chia sẻ kinh nghiệm Dự án quốc tế 16/10/2024](https://hcmus.edu.vn/thong-bao-hoi-thao-chia-se-kinh-nghiem-du-an-quoc-te-16-10-2024-tai-co-so-nguyen-van-cu-phong-quan-he-doi-ngoai-to-chuc/)
 * 02/10/2024: [LỄ KÝ KẾT HỢP TÁC GIỮA TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM VÀ TRUNG TÂM QUẢN LÝ KÝ TÚC XÁ, ĐHQG-HCM](https://hcmus.edu.vn/le-ky-ket-hop-tac-giua-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-va-trung-tam-quan-ly-ky-tuc-xa-dhqg-hcm/)
 * 02/10/2024: [Thông báo điều chỉnh phòng học áp dụng từ ngày 30/09/2024 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-dieu-chinh-phong-hoc-ap-dung-tu-ngay-30-09-2024-tai-co-so-2/)
-* 01/10/2024: [HỌP MẶT CỰU DU HỌC SINH JAIST TẠI VIỆT NAM](https://hcmus.edu.vn/hop-mat-cuu-du-hoc-sinh-jaist-tai-viet-nam/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 30/10/2024: [THÔNG BÁO Đăng ký tham dự chương trình Talkshow năm 2024 với chủ đề: “Tầm nhìn khởi nghiệp – Trách nhiệm cộng đồng”](https://hcmus.edu.vn/thong-bao-dang-ky-tham-du-chuong-trinh-talkshow-nam-2024-voi-chu-de-tam-nhin-khoi-nghiep-trach-nhiem-cong-dong/)
 * 29/10/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2023-2024/)
