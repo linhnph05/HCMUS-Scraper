@@ -1,11 +1,11 @@
 # All news in the last 1 month 
-_Last update: **15:19:57 01/11/2024**_
+_Last update: **16:27:06 01/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 16/10/2024: [Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2024-2025/)
 * 15/10/2024: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/)
 * 07/10/2024: [[CTĐA] Thời khóa biểu HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/10/ctda-thoi-khoa-bieu-hk1-2425/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
-No news in the last 1 month
+* 15/10/2024: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/)
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
 No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
@@ -133,6 +133,7 @@ No news in the last 1 month
 * 03/10/2024: [Thông báo Chương trình Học bổng Hessen – CHLB Đức năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-hessen-chlb-duc-nam-hoc-2024-2025/)
 * 02/10/2024: [Thông báo điều chỉnh phòng học áp dụng từ ngày 30/09/2024 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-dieu-chinh-phong-hoc-ap-dung-tu-ngay-30-09-2024-tai-co-so-2/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
+* 01/11/2024: [THÔNG BÁO TUYỂN DỤNG KHOA VẬT LÝ – VẬT LÝ KỸ THUẬT, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-vat-ly-vat-ly-ky-thuat-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 03/10/2024: [THÔNG BÁO TUYỂN DỤNG KHOA HÓA HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-hoa-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 02/10/2024: [[DAAD/DIES] Call for Applications for Management of Internationalisation (MoI) 2025/2026](https://hcmus.edu.vn/daad-dies-call-for-applications-for-management-of-internationalisation-moi-2025-2026/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
