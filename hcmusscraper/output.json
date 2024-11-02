@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "04:08:22 02/11/2024",
+  "Update time": "05:07:37 02/11/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
@@ -18,7 +18,13 @@
       "date": "07/10/2024"
     }
   ],
-  "Tin tuc": [],
+  "Tin tuc": [
+    {
+      "tieuDe": "Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/",
+      "date": "15/10/2024"
+    }
+  ],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
@@ -222,6 +228,11 @@
       "tieuDe": "CHIA SẺ TỪ GIÁO SƯ TRẦN THẾ TRUYỀN VỀ TƯƠNG LAI CỦA AI",
       "url": "https://hcmus.edu.vn/chia-se-tu-giao-su-tran-the-truyen-ve-tuong-lai-cua-ai/",
       "date": "25/10/2024"
+    },
+    {
+      "tieuDe": "Thông báo nghỉ học ngày 18 và 19/11 đối với sinh viên khoa Hóa học",
+      "url": "https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-18-va-19-11-doi-voi-sinh-vien-khoa-hoa-hoc/",
+      "date": "24/10/2024"
     },
     {
       "tieuDe": "THÔNG BÁO THƯỞNG CÔNG BỐ KHOA HỌC 2023-2024",
