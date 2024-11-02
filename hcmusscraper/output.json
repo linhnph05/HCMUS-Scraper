@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:06:49 02/11/2024",
+  "Update time": "08:08:42 02/11/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
@@ -18,7 +18,13 @@
       "date": "07/10/2024"
     }
   ],
-  "Tin tuc": [],
+  "Tin tuc": [
+    {
+      "tieuDe": "Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/",
+      "date": "15/10/2024"
+    }
+  ],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
