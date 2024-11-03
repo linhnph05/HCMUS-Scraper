@@ -1,27 +1,16 @@
 [
 {
-  "Update time": "01:34:26 03/11/2024",
-  "Thong Bao": [
-    {
-      "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2024-2025/",
-      "date": "16/10/2024"
-    },
-    {
-      "tieuDe": "Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/",
-      "date": "15/10/2024"
-    },
-    {
-      "tieuDe": "[CTĐA] Thời khóa biểu HK1/2425",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/ctda-thoi-khoa-bieu-hk1-2425/",
-      "date": "07/10/2024"
-    }
-  ],
+  "Update time": "02:32:12 03/11/2024",
+  "Thong Bao": [],
   "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16458",
+      "date": "3/11/2024"
+    },
     {
       "tieuDe": "Đăng ký tham dự Hội nghị Khoa học Trường Đại học Khoa học tự nhiên lần thứ 14 - Năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16457",
@@ -66,14 +55,14 @@
       "tieuDe": "Đăng ký tham gia thi đấu An toàn Thông tin trường ĐH Khoa học tự nhiên - HCMUS-CTF 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16445",
       "date": "24/10/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 6/11",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16441",
-      "date": "23/10/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16458",
+      "date": "03/11/2024"
+    },
     {
       "tieuDe": "Đăng ký tham quan công ty KBTG Việt Nam ngày 15/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16455",
@@ -93,11 +82,6 @@
       "tieuDe": "Đăng ký tham gia thi đấu An toàn Thông tin trường ĐH Khoa học tự nhiên - HCMUS-CTF 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16445",
       "date": "24/10/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 6/11",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16441",
-      "date": "23/10/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
