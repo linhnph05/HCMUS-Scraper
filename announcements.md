@@ -1,9 +1,13 @@
 # All news in the last 1 month 
-_Last update: **11:19:21 05/11/2024**_
+_Last update: **13:19:41 05/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
-No news in the last 1 month
+* 04/11/2024: [[VP] Thông báo khảo sát giữa kỳ HK1- 2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/vp-thong-bao-khao-sat-giua-ky-hk1-2425/)
+* 04/11/2024: [[CLC] Thông báo khảo sát giữa kỳ HK1- 2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/clc-thong-bao-khao-sat-giua-ky-hk1-2425/)
+* 04/11/2024: [[APCS] Thông báo khảo sát giữa kỳ HK1-2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/apcs-thong-bao-khao-sat-giua-ky-hk1-2425/)
+* 16/10/2024: [Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2024-2025/)
+* 15/10/2024: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
-No news in the last 1 month
+* 15/10/2024: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/)
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
 No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
@@ -41,6 +45,8 @@ No news in the last 1 month
 * 25/10/2024: [🔥GIA NHẬP FPT SOFTWARE XÂY DỰNG TƯƠNG LAI NGAY TẠI CẦN THƠ!🌟🎉](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16446)
 * 24/10/2024: [Ryomo Việt Nam Solutions tuyển dụng 10 Fresher Embedded MBD Engineer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16442)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 04/11/2024: [THƯ MỜI GỬI BÀI HNQT TRƯỜNG ĐH VĂN HIẾN-TRUNG TÂM NGHỀ CÁ THẾ GIỚI](https://hcmus.edu.vn/thu-moi-gui-bai-hnqt-truong-dh-van-hien-trung-tam-nghe-ca-the-gioi/)
+* 04/11/2024: [THƯ MỜI THAM GIA HỘI NGHỊ QUỐC TẾ ANALYTICA VIỆT NAM 2025](https://hcmus.edu.vn/thu-moi-tham-gia-hoi-nghi-quoc-te-analytica-viet-nam-2025/)
 * 03/11/2024: [THÔNG BÁO Đăng ký lịch Sinh hoạt Công dân Đầu năm, năm học 2024-2025 (Bổ sung)](https://hcmus.edu.vn/thong-bao-dang-ky-lich-sinh-hoat-cong-dan-dau-nam-nam-hoc-2024-2025-bo-sung/)
 * 01/11/2024: [THÔNG BÁO TUYỂN DỤNG KHOA VẬT LÝ – VẬT LÝ KỸ THUẬT, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-vat-ly-vat-ly-ky-thuat-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 30/10/2024: [TĂNG CƯỜNG HỢP TÁC VỚI TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN CỦA VIỆN KHOA HỌC VÀ CÔNG NGHỆ TIÊN TIẾN HÀN QUỐC](https://hcmus.edu.vn/tang-cuong-hop-tac-voi-truong-dai-hoc-khoa-hoc-tu-nhien-vien-khoa-hoc-va-cong-nghe-tien-tien-han-quoc/)
@@ -51,8 +57,6 @@ No news in the last 1 month
 * 28/10/2024: [VÕ HOÀNG HOA VIÊN: NỮ SINH XUẤT SẮC NGÀNH CÔNG NGHỆ THÔNG TIN VỚI NIỀM ĐAM MÊ KHOA HỌC DỮ LIỆU](https://hcmus.edu.vn/vo-hoang-hoa-vien-nu-sinh-xuat-sac-nganh-cong-nghe-thong-tin-voi-niem-dam-me-khoa-hoc-du-lieu/)
 * 28/10/2024: [Kết quả đăng ký Sinh hoạt Công dân đầu năm chuyên đề A, năm học 2024-2025](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-nam-hoc-2024-2025/)
 * 27/10/2024: [ĐỘI TUYỂN TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM TIẾP TỤC ĐẠT HẠNG CAO TẠI CUỘC THI LẬP TRÌNH IEEEXTREME](https://hcmus.edu.vn/doi-tuyen-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-tiep-tuc-dat-hang-cao-tai-cuoc-thi-lap-trinh-ieeextreme/)
-* 26/10/2024: [HỘI NGHỊ “ÂM HƯỞNG TRONG THẾ GIỚI TOÁN HỌC”: KẾT NỐI CỘNG ĐỒNG TOÁN HỌC VIỆT NAM VÀ THẾ GIỚI](https://hcmus.edu.vn/hoi-nghi-am-huong-trong-the-gioi-toan-hoc-ket-noi-cong-dong-toan-hoc-viet-nam-va-the-gioi/)
-* 26/10/2024: [Nghiên cứu phát triển màng mỏng ZnO biến tính cho ứng dụng quang xúc tác trong xử lý nước thải công nghiệp](https://hcmus.edu.vn/khcn-b2021-18-05/)
 * 25/10/2024: [CHIA SẺ TỪ GIÁO SƯ TRẦN THẾ TRUYỀN VỀ TƯƠNG LAI CỦA AI](https://hcmus.edu.vn/chia-se-tu-giao-su-tran-the-truyen-ve-tuong-lai-cua-ai/)
 * 24/10/2024: [Thông báo nghỉ học ngày 18 và 19/11 đối với sinh viên khoa Hóa học](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-18-va-19-11-doi-voi-sinh-vien-khoa-hoa-hoc/)
 * 23/10/2024: [THÔNG BÁO THƯỞNG CÔNG BỐ KHOA HỌC 2023-2024](https://hcmus.edu.vn/thong-bao-thuong-cong-bo-khoa-hoc-2023-2024/)
@@ -89,6 +93,7 @@ No news in the last 1 month
 * 06/10/2024: [HỘI THẢO KẾT NỐI DOANH NGHIỆP VỚI KHOA ĐỊA CHẤT TRONG ĐÀO TẠO VÀ TUYỂN DỤNG NHÂN SỰ](https://hcmus.edu.vn/hoi-thao-ket-noi-doanh-nghiep-voi-khoa-dia-chat-trong-dao-tao-va-tuyen-dung-nhan-su/)
 * 06/10/2024: [MÙA GIẢI ICPC HCMUS 2024 CHÍNH THỨC KHAI MẠC TẠI TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN](https://hcmus.edu.vn/mua-giai-icpc-hcmus-2024-chinh-thuc-khai-mac-tai-dai-hoc-khoa-hoc-tu-nhien/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 05/11/2024: [Danh sách sinh viên đã tham gia Sinh hoạt Công dân Đầu năm – Chuyên đề A ngày 02 và 03/11/2024](https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-ngay-02-va-03-11-2024/)
 * 03/11/2024: [THÔNG BÁO Đăng ký lịch Sinh hoạt Công dân Đầu năm, năm học 2024-2025 (Bổ sung)](https://hcmus.edu.vn/thong-bao-dang-ky-lich-sinh-hoat-cong-dan-dau-nam-nam-hoc-2024-2025-bo-sung/)
 * 30/10/2024: [THÔNG BÁO Đăng ký tham dự chương trình Talkshow năm 2024 với chủ đề: “Tầm nhìn khởi nghiệp – Trách nhiệm cộng đồng”](https://hcmus.edu.vn/thong-bao-dang-ky-tham-du-chuong-trinh-talkshow-nam-2024-voi-chu-de-tam-nhin-khoi-nghiep-trach-nhiem-cong-dong/)
 * 29/10/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2023-2024/)
@@ -119,6 +124,7 @@ No news in the last 1 month
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 01/11/2024: [THÔNG BÁO TUYỂN DỤNG KHOA VẬT LÝ – VẬT LÝ KỸ THUẬT, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-vat-ly-vat-ly-ky-thuat-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
+* 05/11/2024: [Danh sách sinh viên đã tham gia Sinh hoạt Công dân Đầu năm – Chuyên đề A ngày 02 và 03/11/2024](https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-ngay-02-va-03-11-2024/)
 * 03/11/2024: [THÔNG BÁO Đăng ký lịch Sinh hoạt Công dân Đầu năm, năm học 2024-2025 (Bổ sung)](https://hcmus.edu.vn/thong-bao-dang-ky-lich-sinh-hoat-cong-dan-dau-nam-nam-hoc-2024-2025-bo-sung/)
 * 30/10/2024: [THÔNG BÁO Đăng ký tham dự chương trình Talkshow năm 2024 với chủ đề: “Tầm nhìn khởi nghiệp – Trách nhiệm cộng đồng”](https://hcmus.edu.vn/thong-bao-dang-ky-tham-du-chuong-trinh-talkshow-nam-2024-voi-chu-de-tam-nhin-khoi-nghiep-trach-nhiem-cong-dong/)
 * 30/10/2024: [NỖ LỰC VÀ ĐAM MÊ: HÀNH TRÌNH ĐẾN THÀNH CÔNG CỦA GIÁO SƯ NGUYỄN TRỌNG TOÁN](https://hcmus.edu.vn/no-luc-va-dam-me-hanh-trinh-den-thanh-cong-cua-giao-su-nguyen-trong-toan/)
