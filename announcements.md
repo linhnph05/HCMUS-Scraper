@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **22:17:45 05/11/2024**_
+_Last update: **23:18:31 05/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 04/11/2024: [[VP] Thông báo khảo sát giữa kỳ HK1- 2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/vp-thong-bao-khao-sat-giua-ky-hk1-2425/)
 * 04/11/2024: [[CLC] Thông báo khảo sát giữa kỳ HK1- 2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/clc-thong-bao-khao-sat-giua-ky-hk1-2425/)
