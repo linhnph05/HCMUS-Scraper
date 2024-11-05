@@ -1,11 +1,7 @@
 # All news in the last 1 month 
-_Last update: **23:18:31 05/11/2024**_
+_Last update: **00:18:39 06/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
-* 04/11/2024: [[VP] Thông báo khảo sát giữa kỳ HK1- 2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/vp-thong-bao-khao-sat-giua-ky-hk1-2425/)
-* 04/11/2024: [[CLC] Thông báo khảo sát giữa kỳ HK1- 2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/clc-thong-bao-khao-sat-giua-ky-hk1-2425/)
-* 04/11/2024: [[APCS] Thông báo khảo sát giữa kỳ HK1-2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/apcs-thong-bao-khao-sat-giua-ky-hk1-2425/)
-* 16/10/2024: [Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2024-2025/)
-* 15/10/2024: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/)
+No news in the last 1 month
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
@@ -13,37 +9,17 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
-* 5/11/2024: [Đăng ký tham quan công ty Netcompany ngày 22/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16460)
-* 5/11/2024: [Danh sách tham quan công ty KBTG Việt Nam ngày 15/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16459)
-* 3/11/2024: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16458)
-* 1/11/2024: [Đăng ký tham dự Hội nghị Khoa học Trường Đại học Khoa học tự nhiên lần thứ 14 - Năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16457)
-* 31/10/2024: [Đăng ký tham quan công ty KBTG Việt Nam ngày 15/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16455)
-* 30/10/2024: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16454)
-* 30/10/2024: [[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021 Đợt 1 (bảo vệ T3/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16453)
-* 28/10/2024: [Danh sách tham quan công ty VNG ngày 18/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16452)
-* 28/10/2024: [Thời khóa biểu có phòng các lớp Học phần 4 Khóa 33/2023 - bắt đầu học 28/10/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16449)
-* 28/10/2024: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16448)
+No news in the last 1 month
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 05/11/2024: [Đăng ký tham quan công ty Netcompany ngày 22/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16460)
-* 05/11/2024: [Danh sách tham quan công ty KBTG Việt Nam ngày 15/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16459)
-* 03/11/2024: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16458)
-* 31/10/2024: [Đăng ký tham quan công ty KBTG Việt Nam ngày 15/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16455)
-* 28/10/2024: [Danh sách tham quan công ty VNG ngày 18/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16452)
+No news in the last 1 month
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 30/10/2024: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16454)
-* 15/10/2024: [Đăng ký học bổng 'Hành trang hướng nghiệp' học kỳ 1, NH 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16427)
+No news in the last 1 month
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 01/11/2024: [Đăng ký tham dự Hội nghị Khoa học Trường Đại học Khoa học tự nhiên lần thứ 14 - Năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16457)
-* 16/10/2024: [Tổng kết Seminar Research & Study Opportunities at City University of Hong Kong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16432)
-* 14/10/2024: [Đăng ký tham gia Seminar Research & Study Opportunities at City University of Hong Kong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16429)
+No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 05/11/2024: [[AHAMOVE HCM] Tuyển Dụng Vị Trí Data Engineer và AI/ Machine Learning Engineer 11.2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16461)
-* 04/11/2024: [Hot hot hot ! DXC tuyển dụng 10 bạn Fresher ServiceNow developer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16444)
-* 31/10/2024: [CÔNG TY HYBRID TECHNOLOGIES x TẬP ĐOÀN CIRCLACE NHẬT BẢN - ĐẦU TƯ VÀ PHÁT TRIỂN Ý TƯỞNG NGHIÊN CỨU TIỀM NĂNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16456)
-* 28/10/2024: [Craft Master Challenge - Cuộc thi Sáng tạo Game từ Nhà phát hành Garena Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16450)
-* 25/10/2024: [🔥GIA NHẬP FPT SOFTWARE XÂY DỰNG TƯƠNG LAI NGAY TẠI CẦN THƠ!🌟🎉](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16446)
+No news in the last 1 month
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 04/11/2024: [THƯ MỜI GỬI BÀI HNQT TRƯỜNG ĐH VĂN HIẾN-TRUNG TÂM NGHỀ CÁ THẾ GIỚI](https://hcmus.edu.vn/thu-moi-gui-bai-hnqt-truong-dh-van-hien-trung-tam-nghe-ca-the-gioi/)
 * 04/11/2024: [THƯ MỜI THAM GIA HỘI NGHỊ QUỐC TẾ ANALYTICA VIỆT NAM 2025](https://hcmus.edu.vn/thu-moi-tham-gia-hoi-nghi-quoc-te-analytica-viet-nam-2025/)
