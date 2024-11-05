@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "06:09:18 05/11/2024",
+  "Update time": "07:07:18 05/11/2024",
   "Thong Bao": [
     {
       "tieuDe": "[VP] Thông báo khảo sát giữa kỳ HK1- 2425",
@@ -26,6 +26,11 @@
       "tieuDe": "Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)",
       "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/",
       "date": "15/10/2024"
+    },
+    {
+      "tieuDe": "[CTĐA] Thời khóa biểu HK1/2425",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/ctda-thoi-khoa-bieu-hk1-2425/",
+      "date": "07/10/2024"
     }
   ],
   "Tin tuc": [
@@ -38,6 +43,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Danh sách tham quan công ty KBTG Việt Nam ngày 15/11",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16459",
+      "date": "5/11/2024"
+    },
     {
       "tieuDe": "Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16458",
@@ -82,14 +92,14 @@
       "tieuDe": "Giới thiệu Chương trình chăm sóc sức khỏe tinh thần người học của FIT.HCMUS",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16447",
       "date": "25/10/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham gia thi đấu An toàn Thông tin trường ĐH Khoa học tự nhiên - HCMUS-CTF 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16445",
-      "date": "24/10/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Danh sách tham quan công ty KBTG Việt Nam ngày 15/11",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16459",
+      "date": "05/11/2024"
+    },
     {
       "tieuDe": "Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16458",
@@ -109,11 +119,6 @@
       "tieuDe": "Đăng ký tham gia thi đấu An toàn Thông tin trường ĐH Khoa học tự nhiên - HCMUS-CTF 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16445",
       "date": "24/10/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 6/11",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16441",
-      "date": "23/10/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
@@ -233,6 +238,21 @@
       "tieuDe": "ĐỘI TUYỂN TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM TIẾP TỤC ĐẠT HẠNG CAO TẠI CUỘC THI LẬP TRÌNH IEEEXTREME",
       "url": "https://hcmus.edu.vn/doi-tuyen-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-tiep-tuc-dat-hang-cao-tai-cuoc-thi-lap-trinh-ieeextreme/",
       "date": "27/10/2024"
+    },
+    {
+      "tieuDe": "ĐỘI TUYỂN TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM TIẾP TỤC ĐẠT HẠNG CAO TẠI CUỘC THI LẬP TRÌNH IEEEXTREME",
+      "url": "https://hcmus.edu.vn/doi-tuyen-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-tiep-tuc-dat-hang-cao-tai-cuoc-thi-lap-trinh-ieeextreme/",
+      "date": "27/10/2024"
+    },
+    {
+      "tieuDe": "HỘI NGHỊ “ÂM HƯỞNG TRONG THẾ GIỚI TOÁN HỌC”: KẾT NỐI CỘNG ĐỒNG TOÁN HỌC VIỆT NAM VÀ THẾ GIỚI",
+      "url": "https://hcmus.edu.vn/hoi-nghi-am-huong-trong-the-gioi-toan-hoc-ket-noi-cong-dong-toan-hoc-viet-nam-va-the-gioi/",
+      "date": "26/10/2024"
+    },
+    {
+      "tieuDe": "Nghiên cứu phát triển màng mỏng ZnO biến tính cho ứng dụng quang xúc tác trong xử lý nước thải công nghiệp",
+      "url": "https://hcmus.edu.vn/khcn-b2021-18-05/",
+      "date": "26/10/2024"
     },
     {
       "tieuDe": "CHIA SẺ TỪ GIÁO SƯ TRẦN THẾ TRUYỀN VỀ TƯƠNG LAI CỦA AI",
