@@ -1,16 +1,172 @@
 [
 {
-  "Update time": "19:06:28 05/11/2024",
-  "Thong Bao": [],
+  "Update time": "21:07:23 05/11/2024",
+  "Thong Bao": [
+    {
+      "tieuDe": "[VP] Thông báo khảo sát giữa kỳ HK1- 2425",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/vp-thong-bao-khao-sat-giua-ky-hk1-2425/",
+      "date": "04/11/2024"
+    },
+    {
+      "tieuDe": "[CLC] Thông báo khảo sát giữa kỳ HK1- 2425",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/clc-thong-bao-khao-sat-giua-ky-hk1-2425/",
+      "date": "04/11/2024"
+    },
+    {
+      "tieuDe": "[APCS] Thông báo khảo sát giữa kỳ HK1-2425",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/apcs-thong-bao-khao-sat-giua-ky-hk1-2425/",
+      "date": "04/11/2024"
+    },
+    {
+      "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2024-2025/",
+      "date": "16/10/2024"
+    },
+    {
+      "tieuDe": "Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/",
+      "date": "15/10/2024"
+    }
+  ],
   "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
-  "FIT-Tin tuc": [],
-  "FIT-THÔNG TIN CHUNG": [],
-  "FIT-THÔNG TIN HỌC BỔNG": [],
-  "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [],
+  "FIT-Tin tuc": [
+    {
+      "tieuDe": "Đăng ký tham quan công ty Netcompany ngày 22/11",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16460",
+      "date": "5/11/2024"
+    },
+    {
+      "tieuDe": "Danh sách tham quan công ty KBTG Việt Nam ngày 15/11",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16459",
+      "date": "5/11/2024"
+    },
+    {
+      "tieuDe": "Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16458",
+      "date": "3/11/2024"
+    },
+    {
+      "tieuDe": "Đăng ký tham dự Hội nghị Khoa học Trường Đại học Khoa học tự nhiên lần thứ 14 - Năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16457",
+      "date": "1/11/2024"
+    },
+    {
+      "tieuDe": "Đăng ký tham quan công ty KBTG Việt Nam ngày 15/11",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16455",
+      "date": "31/10/2024"
+    },
+    {
+      "tieuDe": "Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16454",
+      "date": "30/10/2024"
+    },
+    {
+      "tieuDe": "[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021 Đợt 1 (bảo vệ T3/2025)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16453",
+      "date": "30/10/2024"
+    },
+    {
+      "tieuDe": "Danh sách tham quan công ty VNG ngày 18/11",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16452",
+      "date": "28/10/2024"
+    },
+    {
+      "tieuDe": "Thời khóa biểu có phòng các lớp Học phần 4 Khóa 33/2023 - bắt đầu học 28/10/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16449",
+      "date": "28/10/2024"
+    },
+    {
+      "tieuDe": "Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16448",
+      "date": "28/10/2024"
+    }
+  ],
+  "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Đăng ký tham quan công ty Netcompany ngày 22/11",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16460",
+      "date": "05/11/2024"
+    },
+    {
+      "tieuDe": "Danh sách tham quan công ty KBTG Việt Nam ngày 15/11",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16459",
+      "date": "05/11/2024"
+    },
+    {
+      "tieuDe": "Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16458",
+      "date": "03/11/2024"
+    },
+    {
+      "tieuDe": "Đăng ký tham quan công ty KBTG Việt Nam ngày 15/11",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16455",
+      "date": "31/10/2024"
+    },
+    {
+      "tieuDe": "Danh sách tham quan công ty VNG ngày 18/11",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16452",
+      "date": "28/10/2024"
+    }
+  ],
+  "FIT-THÔNG TIN HỌC BỔNG": [
+    {
+      "tieuDe": "Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16454",
+      "date": "30/10/2024"
+    },
+    {
+      "tieuDe": "Đăng ký học bổng 'Hành trang hướng nghiệp' học kỳ 1, NH 2024 - 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16427",
+      "date": "15/10/2024"
+    }
+  ],
+  "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
+    {
+      "tieuDe": "Đăng ký tham dự Hội nghị Khoa học Trường Đại học Khoa học tự nhiên lần thứ 14 - Năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16457",
+      "date": "01/11/2024"
+    },
+    {
+      "tieuDe": "Tổng kết Seminar Research & Study Opportunities at City University of Hong Kong",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16432",
+      "date": "16/10/2024"
+    },
+    {
+      "tieuDe": "Đăng ký tham gia Seminar Research & Study Opportunities at City University of Hong Kong",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16429",
+      "date": "14/10/2024"
+    }
+  ],
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
-  "FIT-THÔNG TIN TUYỂN DỤNG": [],
+  "FIT-THÔNG TIN TUYỂN DỤNG": [
+    {
+      "tieuDe": "[AHAMOVE HCM] Tuyển Dụng Vị Trí Data Engineer và AI/ Machine Learning Engineer 11.2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16461",
+      "date": "05/11/2024"
+    },
+    {
+      "tieuDe": "Hot hot hot ! DXC tuyển dụng 10 bạn Fresher ServiceNow developer",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16444",
+      "date": "04/11/2024"
+    },
+    {
+      "tieuDe": "CÔNG TY HYBRID TECHNOLOGIES x TẬP ĐOÀN CIRCLACE NHẬT BẢN - ĐẦU TƯ VÀ PHÁT TRIỂN Ý TƯỞNG NGHIÊN CỨU TIỀM NĂNG",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16456",
+      "date": "31/10/2024"
+    },
+    {
+      "tieuDe": "Craft Master Challenge - Cuộc thi Sáng tạo Game từ Nhà phát hành Garena Việt Nam",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16450",
+      "date": "28/10/2024"
+    },
+    {
+      "tieuDe": "🔥GIA NHẬP FPT SOFTWARE XÂY DỰNG TƯƠNG LAI NGAY TẠI CẦN THƠ!🌟🎉",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16446",
+      "date": "25/10/2024"
+    }
+  ],
   "HCMUS-Thong tin nguoi hoc": [
     {
       "tieuDe": "THƯ MỜI GỬI BÀI HNQT TRƯỜNG ĐH VĂN HIẾN-TRUNG TÂM NGHỀ CÁ THẾ GIỚI",
