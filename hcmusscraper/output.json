@@ -1,40 +1,8 @@
 [
 {
-  "Update time": "23:07:13 05/11/2024",
-  "Thong Bao": [
-    {
-      "tieuDe": "[VP] Thông báo khảo sát giữa kỳ HK1- 2425",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/vp-thong-bao-khao-sat-giua-ky-hk1-2425/",
-      "date": "04/11/2024"
-    },
-    {
-      "tieuDe": "[CLC] Thông báo khảo sát giữa kỳ HK1- 2425",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/clc-thong-bao-khao-sat-giua-ky-hk1-2425/",
-      "date": "04/11/2024"
-    },
-    {
-      "tieuDe": "[APCS] Thông báo khảo sát giữa kỳ HK1-2425",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/apcs-thong-bao-khao-sat-giua-ky-hk1-2425/",
-      "date": "04/11/2024"
-    },
-    {
-      "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2024-2025/",
-      "date": "16/10/2024"
-    },
-    {
-      "tieuDe": "Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/",
-      "date": "15/10/2024"
-    }
-  ],
-  "Tin tuc": [
-    {
-      "tieuDe": "Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/",
-      "date": "15/10/2024"
-    }
-  ],
+  "Update time": "00:26:30 06/11/2024",
+  "Thong Bao": [],
+  "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
@@ -413,16 +381,6 @@
       "tieuDe": "Kế hoạch tổ chức tập huấn kỹ năng học tập đại học cho sinh viên hệ chính quy chương trình đại trà – khóa tuyển 2024211801",
       "url": "https://hcmus.edu.vn/ke-hoach-to-chuc-tap-huan-ky-nang-hoc-tap-dai-hoc-cho-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra-khoa-tuyen-2024/",
       "date": "07/10/2024"
-    },
-    {
-      "tieuDe": "HỘI THẢO KẾT NỐI DOANH NGHIỆP VỚI KHOA ĐỊA CHẤT TRONG ĐÀO TẠO VÀ TUYỂN DỤNG NHÂN SỰ",
-      "url": "https://hcmus.edu.vn/hoi-thao-ket-noi-doanh-nghiep-voi-khoa-dia-chat-trong-dao-tao-va-tuyen-dung-nhan-su/",
-      "date": "06/10/2024"
-    },
-    {
-      "tieuDe": "MÙA GIẢI ICPC HCMUS 2024 CHÍNH THỨC KHAI MẠC TẠI TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN",
-      "url": "https://hcmus.edu.vn/mua-giai-icpc-hcmus-2024-chinh-thuc-khai-mac-tai-dai-hoc-khoa-hoc-tu-nhien/",
-      "date": "06/10/2024"
     }
   ],
   "HCMUS-Thong tin sinh vien": [
@@ -654,16 +612,6 @@
       "tieuDe": "GẶP GỠ VÀ TRAO ĐỔI HỌC THUẬT VỚI TRƯỜNG ĐẠI HỌC QUỐC LẬP TRUNG ƯƠNG ĐÀI LOAN",
       "url": "https://hcmus.edu.vn/buoi-gap-go-va-trao-doi-giua-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-va-truong-dai-hoc-quoc-lap-trung-uong-dai-loan/",
       "date": "11/10/2024"
-    },
-    {
-      "tieuDe": "HỘI THẢO KẾT NỐI DOANH NGHIỆP VỚI KHOA ĐỊA CHẤT TRONG ĐÀO TẠO VÀ TUYỂN DỤNG NHÂN SỰ",
-      "url": "https://hcmus.edu.vn/hoi-thao-ket-noi-doanh-nghiep-voi-khoa-dia-chat-trong-dao-tao-va-tuyen-dung-nhan-su/",
-      "date": "06/10/2024"
-    },
-    {
-      "tieuDe": "MÙA GIẢI ICPC HCMUS 2024 CHÍNH THỨC KHAI MẠC TẠI TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN",
-      "url": "https://hcmus.edu.vn/mua-giai-icpc-hcmus-2024-chinh-thuc-khai-mac-tai-dai-hoc-khoa-hoc-tu-nhien/",
-      "date": "06/10/2024"
     }
   ],
   "HCMUS-Hoc bong dai hoc": [
