@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:09:24 06/11/2024",
+  "Update time": "09:08:08 06/11/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2021 bảo vệ tháng 8/2025",
@@ -26,6 +26,16 @@
       "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
       "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2024-2025/",
       "date": "16/10/2024"
+    },
+    {
+      "tieuDe": "Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/",
+      "date": "15/10/2024"
+    },
+    {
+      "tieuDe": "[CTĐA] Thời khóa biểu HK1/2425",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/ctda-thoi-khoa-bieu-hk1-2425/",
+      "date": "07/10/2024"
     }
   ],
   "Tin tuc": [
@@ -148,6 +158,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "Craft Master Challenge - Cuộc thi Sáng tạo Game từ Nhà phát hành Garena Việt Nam",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16464",
+      "date": "06/11/2024"
+    },
+    {
       "tieuDe": "CƠ HỘI THỰC TẬP TẠI TẬP ĐOÀN RAKUTEN",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16462",
       "date": "06/11/2024"
@@ -166,11 +181,6 @@
       "tieuDe": "CÔNG TY HYBRID TECHNOLOGIES x TẬP ĐOÀN CIRCLACE NHẬT BẢN - ĐẦU TƯ VÀ PHÁT TRIỂN Ý TƯỞNG NGHIÊN CỨU TIỀM NĂNG",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16456",
       "date": "31/10/2024"
-    },
-    {
-      "tieuDe": "Craft Master Challenge - Cuộc thi Sáng tạo Game từ Nhà phát hành Garena Việt Nam",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16450",
-      "date": "28/10/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
@@ -580,6 +590,11 @@
     }
   ],
   "HCMUS-Nguoi hoc": [
+    {
+      "tieuDe": "Nghiên Cứu Tác Động Của Hạn Hán Lên Sản Xuất Nông Nghiệp Tỉnh Ninh Thuận và xây dựng giải pháp thích ứng trong bối cảnh biến đổi khí hậu.",
+      "url": "https://hcmus.edu.vn/https-sdh-hcmus-edu-vn-2024-09-17-trang-thong-tin-gioi-thieu-luan-an-tien-si-cua-ncs-nguyen-hoang-tuan/",
+      "date": "06/11/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên đã tham gia Sinh hoạt Công dân Đầu năm – Chuyên đề A ngày 02 và 03/11/2024",
       "url": "https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-ngay-02-va-03-11-2024/",
