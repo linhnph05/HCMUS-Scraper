@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:27:52 06/11/2024",
+  "Update time": "03:09:44 06/11/2024",
   "Thong Bao": [],
   "Tin tuc": [],
   "Thong tin can biet": [],
@@ -116,6 +116,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "CƠ HỘI THỰC TẬP TẠI TẬP ĐOÀN RAKUTEN",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16462",
+      "date": "06/11/2024"
+    },
+    {
       "tieuDe": "[AHAMOVE HCM] Tuyển Dụng Vị Trí Data Engineer và AI/ Machine Learning Engineer 11.2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16461",
       "date": "05/11/2024"
@@ -134,11 +139,6 @@
       "tieuDe": "Craft Master Challenge - Cuộc thi Sáng tạo Game từ Nhà phát hành Garena Việt Nam",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16450",
       "date": "28/10/2024"
-    },
-    {
-      "tieuDe": "🔥GIA NHẬP FPT SOFTWARE XÂY DỰNG TƯƠNG LAI NGAY TẠI CẦN THƠ!🌟🎉",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16446",
-      "date": "25/10/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
