@@ -1,11 +1,16 @@
 [
 {
-  "Update time": "03:09:44 06/11/2024",
+  "Update time": "04:08:18 06/11/2024",
   "Thong Bao": [],
   "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16463",
+      "date": "6/11/2024"
+    },
     {
       "tieuDe": "Đăng ký tham quan công ty Netcompany ngày 22/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16460",
@@ -50,14 +55,14 @@
       "tieuDe": "Thời khóa biểu có phòng các lớp Học phần 4 Khóa 33/2023 - bắt đầu học 28/10/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16449",
       "date": "28/10/2024"
-    },
-    {
-      "tieuDe": "Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16448",
-      "date": "28/10/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16463",
+      "date": "06/11/2024"
+    },
     {
       "tieuDe": "Đăng ký tham quan công ty Netcompany ngày 22/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16460",
@@ -77,11 +82,6 @@
       "tieuDe": "Đăng ký tham quan công ty KBTG Việt Nam ngày 15/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16455",
       "date": "31/10/2024"
-    },
-    {
-      "tieuDe": "Danh sách tham quan công ty VNG ngày 18/11",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16452",
-      "date": "28/10/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
