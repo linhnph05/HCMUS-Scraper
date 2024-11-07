@@ -1,11 +1,16 @@
 [
 {
-  "Update time": "00:26:26 07/11/2024",
+  "Update time": "02:28:16 07/11/2024",
   "Thong Bao": [],
   "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Đăng ký ứng tuyển học bổng công ty TNHH Scrumviet",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16465",
+      "date": "7/11/2024"
+    },
     {
       "tieuDe": "Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16463",
@@ -50,11 +55,6 @@
       "tieuDe": "Danh sách tham quan công ty VNG ngày 18/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16452",
       "date": "28/10/2024"
-    },
-    {
-      "tieuDe": "Thời khóa biểu có phòng các lớp Học phần 4 Khóa 33/2023 - bắt đầu học 28/10/2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16449",
-      "date": "28/10/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -85,6 +85,11 @@
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
+    {
+      "tieuDe": "Đăng ký ứng tuyển học bổng công ty TNHH Scrumviet",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16465",
+      "date": "07/11/2024"
+    },
     {
       "tieuDe": "Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16454",
@@ -521,6 +526,11 @@
     }
   ],
   "HCMUS-Tuyen dung": [
+    {
+      "tieuDe": "THÔNG BÁO TUYỂN DỤNG KHOA HÓA HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-hoa-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-2/",
+      "date": "07/11/2024"
+    },
     {
       "tieuDe": "THÔNG BÁO TUYỂN DỤNG KHOA VẬT LÝ – VẬT LÝ KỸ THUẬT, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM",
       "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-vat-ly-vat-ly-ky-thuat-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/",
