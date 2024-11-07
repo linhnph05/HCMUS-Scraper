@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **09:43:24 07/11/2024**_
+_Last update: **10:22:43 07/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 No news in the last 1 month
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -122,7 +122,7 @@ No news in the last 1 month
 * 07/11/2024: [THÔNG BÁO TUYỂN DỤNG KHOA HÓA HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-hoa-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-2/)
 * 01/11/2024: [THÔNG BÁO TUYỂN DỤNG KHOA VẬT LÝ – VẬT LÝ KỸ THUẬT, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-vat-ly-vat-ly-ky-thuat-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
-* 06/11/2024: [SINH VIÊN TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN NHẬN HỌC BỔNG PONY CHUNG 2024](https://hcmus.edu.vn/sinh-vien-truong-dai-hoc-khoa-hoc-tu-nhien-nhan-hoc-bong-pony-chung-2024/)
+* 06/11/2024: [05 SINH VIÊN TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN NHẬN HỌC BỔNG PONY CHUNG 2024](https://hcmus.edu.vn/sinh-vien-truong-dai-hoc-khoa-hoc-tu-nhien-nhan-hoc-bong-pony-chung-2024/)
 * 06/11/2024: [Nghiên Cứu Tác Động Của Hạn Hán Lên Sản Xuất Nông Nghiệp Tỉnh Ninh Thuận và xây dựng giải pháp thích ứng trong bối cảnh biến đổi khí hậu.](https://hcmus.edu.vn/https-sdh-hcmus-edu-vn-2024-09-17-trang-thong-tin-gioi-thieu-luan-an-tien-si-cua-ncs-nguyen-hoang-tuan/)
 * 05/11/2024: [Danh sách sinh viên đã tham gia Sinh hoạt Công dân Đầu năm – Chuyên đề A ngày 02 và 03/11/2024](https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-ngay-02-va-03-11-2024/)
 * 03/11/2024: [THÔNG BÁO Đăng ký lịch Sinh hoạt Công dân Đầu năm, năm học 2024-2025 (Bổ sung)](https://hcmus.edu.vn/thong-bao-dang-ky-lich-sinh-hoat-cong-dan-dau-nam-nam-hoc-2024-2025-bo-sung/)
