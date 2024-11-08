@@ -1,43 +1,16 @@
 [
 {
-  "Update time": "07:11:48 08/11/2024",
-  "Thong Bao": [
-    {
-      "tieuDe": "[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2021 bảo vệ tháng 8/2025",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2021-bao-ve-thang-8-2025/",
-      "date": "06/11/2024"
-    },
-    {
-      "tieuDe": "[VP] Thông báo khảo sát giữa kỳ HK1- 2425",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/vp-thong-bao-khao-sat-giua-ky-hk1-2425/",
-      "date": "04/11/2024"
-    },
-    {
-      "tieuDe": "[CLC] Thông báo khảo sát giữa kỳ HK1- 2425",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/clc-thong-bao-khao-sat-giua-ky-hk1-2425/",
-      "date": "04/11/2024"
-    },
-    {
-      "tieuDe": "[APCS] Thông báo khảo sát giữa kỳ HK1-2425",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/apcs-thong-bao-khao-sat-giua-ky-hk1-2425/",
-      "date": "04/11/2024"
-    },
-    {
-      "tieuDe": "Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2024-2025/",
-      "date": "16/10/2024"
-    }
-  ],
-  "Tin tuc": [
-    {
-      "tieuDe": "Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/",
-      "date": "15/10/2024"
-    }
-  ],
+  "Update time": "09:09:06 08/11/2024",
+  "Thong Bao": [],
+  "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Danh sách sinh viên tham quan công ty Netcompany ngày 22/11",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16468",
+      "date": "8/11/2024"
+    },
     {
       "tieuDe": "Đăng ký tham quan công ty OPSWAT ngày 29/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16467",
@@ -82,14 +55,14 @@
       "tieuDe": "Đăng ký tham quan công ty KBTG Việt Nam ngày 15/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16455",
       "date": "31/10/2024"
-    },
-    {
-      "tieuDe": "Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16454",
-      "date": "30/10/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Danh sách sinh viên tham quan công ty Netcompany ngày 22/11",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16468",
+      "date": "08/11/2024"
+    },
     {
       "tieuDe": "Đăng ký tham quan công ty OPSWAT ngày 29/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16467",
@@ -108,11 +81,6 @@
     {
       "tieuDe": "Đăng ký tham quan công ty Netcompany ngày 22/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16460",
-      "date": "05/11/2024"
-    },
-    {
-      "tieuDe": "Danh sách tham quan công ty KBTG Việt Nam ngày 15/11",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16459",
       "date": "05/11/2024"
     }
   ],
@@ -238,6 +206,36 @@
       "tieuDe": "Danh sách sinh viên đã tham gia Sinh hoạt Công dân Đầu năm – Chuyên đề A ngày 02 và 03/11/2024",
       "url": "https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-ngay-02-va-03-11-2024/",
       "date": "05/11/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO ĐỀ XUẤT, ĐẶT HÀNG NHIỆM VỤ KH&CN CẤP TỈNH NĂM 2025 THUỘC CHƯƠNG TRÌNH PHÁT TRIỂN TÀI SẢN TRÍ TUỆ GIAI ĐOẠN 2022-2025 VÀ ĐỊNH HƯỚNG ĐẾN NĂM 2030 TRÊN ĐỊA BÀN TỈNH BÀ RỊA – VŨNG TÀU",
+      "url": "https://hcmus.edu.vn/thong-bao-de-xuat-dat-hang-nhiem-vu-khcn-cap-tinh-nam-2025-thuoc-chuong-trinh-phat-trien-tai-san-tri-tue-giai-doan-2022-2025-va-dinh-huong-den-nam-2030-tren-dia-ban-tinh-ba-ria-vung-tau/",
+      "date": "05/11/2024"
+    },
+    {
+      "tieuDe": "Danh sách sinh viên đã tham gia Sinh hoạt Công dân Đầu năm – Chuyên đề A ngày 02 và 03/11/2024",
+      "url": "https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-ngay-02-va-03-11-2024/",
+      "date": "05/11/2024"
+    },
+    {
+      "tieuDe": "THƯ MỜI GỬI BÀI HNQT TRƯỜNG ĐH VĂN HIẾN-TRUNG TÂM NGHỀ CÁ THẾ GIỚI",
+      "url": "https://hcmus.edu.vn/thu-moi-gui-bai-hnqt-truong-dh-van-hien-trung-tam-nghe-ca-the-gioi/",
+      "date": "04/11/2024"
+    },
+    {
+      "tieuDe": "THƯ MỜI THAM GIA HỘI NGHỊ QUỐC TẾ ANALYTICA VIỆT NAM 2025",
+      "url": "https://hcmus.edu.vn/thu-moi-tham-gia-hoi-nghi-quoc-te-analytica-viet-nam-2025/",
+      "date": "04/11/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO Đăng ký lịch Sinh hoạt Công dân Đầu năm, năm học 2024-2025 (Bổ sung)",
+      "url": "https://hcmus.edu.vn/thong-bao-dang-ky-lich-sinh-hoat-cong-dan-dau-nam-nam-hoc-2024-2025-bo-sung/",
+      "date": "03/11/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO TUYỂN DỤNG KHOA VẬT LÝ – VẬT LÝ KỸ THUẬT, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-vat-ly-vat-ly-ky-thuat-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/",
+      "date": "01/11/2024"
     },
     {
       "tieuDe": "TĂNG CƯỜNG HỢP TÁC VỚI TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN CỦA VIỆN KHOA HỌC VÀ CÔNG NGHỆ TIÊN TIẾN HÀN QUỐC",
@@ -437,6 +435,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "Thông báo về việc cung cấp thông tin lưu trú năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-ve-viec-cung-cap-thong-tin-luu-tru-nam-hoc-2024-2025/",
+      "date": "08/11/2024"
+    },
+    {
       "tieuDe": "Kết quả đăng ký Sinh hoạt Công dân đầu năm chuyên đề A, năm học 2024-2025 (Đợt bổ sung)",
       "url": "https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-nam-hoc-2024-2025-dot-bo-sung/",
       "date": "08/11/2024"
@@ -605,6 +608,16 @@
     }
   ],
   "HCMUS-Nguoi hoc": [
+    {
+      "tieuDe": "Thông báo về việc cung cấp thông tin lưu trú năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-ve-viec-cung-cap-thong-tin-luu-tru-nam-hoc-2024-2025/",
+      "date": "08/11/2024"
+    },
+    {
+      "tieuDe": "TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN: NƠI ƯƠM MẦM TINH THẦN CỐNG HIẾN VÀ LÝ TƯỞNG SỐNG",
+      "url": "https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-noi-uom-mam-tinh-than-cong-hien-va-ly-tuong-song/",
+      "date": "08/11/2024"
+    },
     {
       "tieuDe": "Kết quả đăng ký Sinh hoạt Công dân đầu năm chuyên đề A, năm học 2024-2025 (Đợt bổ sung)",
       "url": "https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-nam-hoc-2024-2025-dot-bo-sung/",
