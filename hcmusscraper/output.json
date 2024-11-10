@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "23:07:03 09/11/2024",
+  "Update time": "00:28:41 10/11/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2021 bảo vệ tháng 8/2025",
@@ -28,13 +28,7 @@
       "date": "16/10/2024"
     }
   ],
-  "Tin tuc": [
-    {
-      "tieuDe": "Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/",
-      "date": "15/10/2024"
-    }
-  ],
+  "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
@@ -453,11 +447,6 @@
       "tieuDe": "GẶP GỠ VÀ TRAO ĐỔI HỌC THUẬT VỚI TRƯỜNG ĐẠI HỌC QUỐC LẬP TRUNG ƯƠNG ĐÀI LOAN",
       "url": "https://hcmus.edu.vn/buoi-gap-go-va-trao-doi-giua-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-va-truong-dai-hoc-quoc-lap-trung-uong-dai-loan/",
       "date": "11/10/2024"
-    },
-    {
-      "tieuDe": "Thông báo chương trình Học bổng Thường niên AmCham năm 2024 (ACS24)",
-      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thuong-nien-amcham-nam-2024-acs24/",
-      "date": "10/10/2024"
     }
   ],
   "HCMUS-Thong tin sinh vien": [
@@ -615,11 +604,6 @@
       "tieuDe": "Kết quả xét tốt nghiệp đại học đợt tháng 10 năm 2024",
       "url": "https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-10-nam-2024/",
       "date": "11/10/2024"
-    },
-    {
-      "tieuDe": "Thông báo chương trình Học bổng Thường niên AmCham năm 2024 (ACS24)",
-      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thuong-nien-amcham-nam-2024-acs24/",
-      "date": "10/10/2024"
     }
   ],
   "HCMUS-Tuyen dung": [
@@ -781,11 +765,6 @@
       "tieuDe": "Thông báo Chương trình học bổng Phát triển Nhân tài –The sponsorship program for talented students – Never Give Up Năm học 2024 – 2025",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-phat-trien-nhan-tai-the-sponsorship-program-for-talented-studens-never-give-up-nam-hoc-2024-2025/",
       "date": "14/10/2024"
-    },
-    {
-      "tieuDe": "Thông báo chương trình Học bổng Thường niên AmCham năm 2024 (ACS24)",
-      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thuong-nien-amcham-nam-2024-acs24/",
-      "date": "10/10/2024"
     }
   ]
 }

@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:18:11 10/11/2024**_
+_Last update: **07:40:01 10/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 06/11/2024: [[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2021 bảo vệ tháng 8/2025](https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2021-bao-ve-thang-8-2025/)
 * 04/11/2024: [[VP] Thông báo khảo sát giữa kỳ HK1- 2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/vp-thong-bao-khao-sat-giua-ky-hk1-2425/)
@@ -7,7 +7,7 @@ _Last update: **06:18:11 10/11/2024**_
 * 04/11/2024: [[APCS] Thông báo khảo sát giữa kỳ HK1-2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/apcs-thong-bao-khao-sat-giua-ky-hk1-2425/)
 * 16/10/2024: [Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2024-2025/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
-* 15/10/2024: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2021 (có đổi mới)](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2021-co-doi-moi/)
+No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
 No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
@@ -101,7 +101,6 @@ No news in the last 1 month
 * 12/10/2024: [KÝ KẾT THỎA THUẬN TÀI TRỢ HỘI NGHỊ QUỐC TẾ ICEBA 2024](https://hcmus.edu.vn/le-ky-ket-thoa-thuan-tai-tro-hoi-nghi-quoc-te-iceba-2024/)
 * 11/10/2024: [Kết quả xét tốt nghiệp đại học đợt tháng 10 năm 2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-10-nam-2024/)
 * 11/10/2024: [GẶP GỠ VÀ TRAO ĐỔI HỌC THUẬT VỚI TRƯỜNG ĐẠI HỌC QUỐC LẬP TRUNG ƯƠNG ĐÀI LOAN](https://hcmus.edu.vn/buoi-gap-go-va-trao-doi-giua-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-va-truong-dai-hoc-quoc-lap-trung-uong-dai-loan/)
-* 10/10/2024: [Thông báo chương trình Học bổng Thường niên AmCham năm 2024 (ACS24)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thuong-nien-amcham-nam-2024-acs24/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 08/11/2024: [Thông báo về việc cung cấp thông tin lưu trú năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ve-viec-cung-cap-thong-tin-luu-tru-nam-hoc-2024-2025/)
 * 08/11/2024: [Kết quả đăng ký Sinh hoạt Công dân đầu năm chuyên đề A, năm học 2024-2025 (Đợt bổ sung)](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-nam-hoc-2024-2025-dot-bo-sung/)
@@ -134,7 +133,6 @@ No news in the last 1 month
 * 14/10/2024: [Thông báo chương trình học bổng Đồng Hành kỳ 47 học kỳ I, năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ky-47-hoc-ky-i-nam-hoc-2024-2025/)
 * 14/10/2024: [Thông báo Chương trình học bổng Phát triển Nhân tài –The sponsorship program for talented students – Never Give Up Năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-phat-trien-nhan-tai-the-sponsorship-program-for-talented-studens-never-give-up-nam-hoc-2024-2025/)
 * 11/10/2024: [Kết quả xét tốt nghiệp đại học đợt tháng 10 năm 2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dai-hoc-dot-thang-10-nam-2024/)
-* 10/10/2024: [Thông báo chương trình Học bổng Thường niên AmCham năm 2024 (ACS24)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thuong-nien-amcham-nam-2024-acs24/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 07/11/2024: [THÔNG BÁO TUYỂN DỤNG KHOA HÓA HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-hoa-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-2/)
 * 01/11/2024: [THÔNG BÁO TUYỂN DỤNG KHOA VẬT LÝ – VẬT LÝ KỸ THUẬT, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-vat-ly-vat-ly-ky-thuat-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
@@ -169,4 +167,3 @@ No news in the last 1 month
 * 14/10/2024: [Chương trình học bổng do Tổ chức Christina Noble Children’s Foundation tài trợ dành cho sinh viên năm cuối (năm học 2024-2025) đợt bổ sung](https://hcmus.edu.vn/chuong-trinh-hoc-bong-do-to-chuc-christina-noble-childrens-foundation-tai-tro-danh-cho-sinh-vien-nam-cuoi-nam-hoc-2024-2025-dot-bo-sung/)
 * 14/10/2024: [Thông báo chương trình học bổng Đồng Hành kỳ 47 học kỳ I, năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ky-47-hoc-ky-i-nam-hoc-2024-2025/)
 * 14/10/2024: [Thông báo Chương trình học bổng Phát triển Nhân tài –The sponsorship program for talented students – Never Give Up Năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-phat-trien-nhan-tai-the-sponsorship-program-for-talented-studens-never-give-up-nam-hoc-2024-2025/)
-* 10/10/2024: [Thông báo chương trình Học bổng Thường niên AmCham năm 2024 (ACS24)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-thuong-nien-amcham-nam-2024-acs24/)
