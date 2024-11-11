@@ -1,11 +1,16 @@
 [
 {
-  "Update time": "09:08:12 11/11/2024",
+  "Update time": "11:06:31 11/11/2024",
   "Thong Bao": [],
   "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Đăng ký tham quan công ty TecAlliance Việt Nam ngày 4/12",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16473",
+      "date": "11/11/2024"
+    },
     {
       "tieuDe": "Danh sách tham dự hội thảo 'Tối ưu bài toán doanh nghiệp với trí tuệ nhân tạo'",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16471",
@@ -50,14 +55,14 @@
       "tieuDe": "Đăng ký tham quan công ty Netcompany ngày 22/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16460",
       "date": "5/11/2024"
-    },
-    {
-      "tieuDe": "Danh sách tham quan công ty KBTG Việt Nam ngày 15/11",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16459",
-      "date": "5/11/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Đăng ký tham quan công ty TecAlliance Việt Nam ngày 4/12",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16473",
+      "date": "11/11/2024"
+    },
     {
       "tieuDe": "Danh sách tham dự hội thảo 'Tối ưu bài toán doanh nghiệp với trí tuệ nhân tạo'",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16471",
@@ -77,11 +82,6 @@
       "tieuDe": "Danh sách sinh viên tham quan công ty Netcompany ngày 22/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16468",
       "date": "08/11/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham quan công ty OPSWAT ngày 29/11",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16467",
-      "date": "07/11/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
@@ -121,6 +121,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "Join Us at Gameloft Village for Insights on AI and Society",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16472",
+      "date": "11/11/2024"
+    },
+    {
       "tieuDe": "Craft Master Challenge - Cuộc thi Sáng tạo Game từ Nhà phát hành Garena Việt Nam",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16464",
       "date": "06/11/2024"
@@ -139,11 +144,6 @@
       "tieuDe": "Hot hot hot ! DXC tuyển dụng 10 bạn Fresher ServiceNow developer",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16444",
       "date": "04/11/2024"
-    },
-    {
-      "tieuDe": "CÔNG TY HYBRID TECHNOLOGIES x TẬP ĐOÀN CIRCLACE NHẬT BẢN - ĐẦU TƯ VÀ PHÁT TRIỂN Ý TƯỞNG NGHIÊN CỨU TIỀM NĂNG",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16456",
-      "date": "31/10/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
@@ -206,6 +206,46 @@
       "tieuDe": "THÔNG BÁO Cuộc thi trực tuyến “Sinh viên Trường ĐH KHTN tìm hiểu pháp luật”",
       "url": "https://hcmus.edu.vn/thong-bao-cuoc-thi-truc-tuyen-sinh-vien-truong-dh-khtn-tim-hieu-phap-luat/",
       "date": "07/11/2024"
+    },
+    {
+      "tieuDe": "Thông báo về việc cảnh báo học tập và buộc thôi học tại HK1/2024-2025",
+      "url": "https://hcmus.edu.vn/thong-bao-ve-viec-canh-bao-hoc-tap-va-buoc-thoi-hoc-tai-hk1-2024-2025/",
+      "date": "08/11/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO Cuộc thi trực tuyến “Sinh viên Trường ĐH KHTN tìm hiểu pháp luật”",
+      "url": "https://hcmus.edu.vn/thong-bao-cuoc-thi-truc-tuyen-sinh-vien-truong-dh-khtn-tim-hieu-phap-luat/",
+      "date": "07/11/2024"
+    },
+    {
+      "tieuDe": "Thông báo thu phí bảo hiểm y tế năm 2025 (đợt 1) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2024)",
+      "url": "https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2025-dot-1-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2024/",
+      "date": "07/11/2024"
+    },
+    {
+      "tieuDe": "TUYÊN DƯƠNG TẬP THỂ, CÁ NHÂN ĐẠT THÀNH TÍCH XUẤT SẮC TRONG CUỘC THI OLYMPIC SINH HỌC SINH VIÊN VIỆT NAM, NĂM 2024",
+      "url": "https://hcmus.edu.vn/tuyen-duong-tap-the-ca-nhan-dat-thanh-tich-xuat-sac-trong-cuoc-thi-olympic-sinh-hoc-sinh-vien-viet-nam-nam-2024/",
+      "date": "07/11/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO TUYỂN DỤNG KHOA HÓA HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-hoa-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-2/",
+      "date": "07/11/2024"
+    },
+    {
+      "tieuDe": "05 SINH VIÊN TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN NHẬN HỌC BỔNG PONY CHUNG 2024",
+      "url": "https://hcmus.edu.vn/sinh-vien-truong-dai-hoc-khoa-hoc-tu-nhien-nhan-hoc-bong-pony-chung-2024/",
+      "date": "06/11/2024"
+    },
+    {
+      "tieuDe": "TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN LÀM VIỆC VỚI TẬP ĐOÀN SẢN XUẤT CHẤT BÁN DẪN TSMC, ĐÀI LOAN",
+      "url": "https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-lam-viec-voi-tap-doan-san-xuat-chat-ban-dan-tsmc-dai-loan/",
+      "date": "06/11/2024"
+    },
+    {
+      "tieuDe": "Nghiên Cứu Tác Động Của Hạn Hán Lên Sản Xuất Nông Nghiệp Tỉnh Ninh Thuận và xây dựng giải pháp thích ứng trong bối cảnh biến đổi khí hậu.",
+      "url": "https://hcmus.edu.vn/https-sdh-hcmus-edu-vn-2024-09-17-trang-thong-tin-gioi-thieu-luan-an-tien-si-cua-ncs-nguyen-hoang-tuan/",
+      "date": "06/11/2024"
     },
     {
       "tieuDe": "Thông báo nhận bằng tốt nghiệp bậc Đại học (hệ chính quy, hệ đào tạo từ xa), bậc Cao đẳng, Liên thông đại học (ngành Công nghệ thông tin) cho đợt tốt nghiệp tháng 9/2024",

@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **16:23:39 11/11/2024**_
+_Last update: **18:17:34 11/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 No news in the last 1 month
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -9,6 +9,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 11/11/2024: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 4/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16473)
 * 11/11/2024: [Danh sách tham dự hội thảo 'Tối ưu bài toán doanh nghiệp với trí tuệ nhân tạo'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16471)
 * 9/11/2024: [Danh sách tham quan công ty OPSWAT ngày 29/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16470)
 * 8/11/2024: [Đăng ký tham dự hội thảo 'Tối ưu bài toán doanh nghiệp với trí tuệ nhân tạo'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16469)
@@ -18,13 +19,12 @@ No news in the last 1 month
 * 7/11/2024: [Đăng ký ứng tuyển học bổng công ty TNHH Scrumviet](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16465)
 * 6/11/2024: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16463)
 * 5/11/2024: [Đăng ký tham quan công ty Netcompany ngày 22/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16460)
-* 5/11/2024: [Danh sách tham quan công ty KBTG Việt Nam ngày 15/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16459)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 11/11/2024: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 4/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16473)
 * 11/11/2024: [Danh sách tham dự hội thảo 'Tối ưu bài toán doanh nghiệp với trí tuệ nhân tạo'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16471)
 * 09/11/2024: [Danh sách tham quan công ty OPSWAT ngày 29/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16470)
 * 08/11/2024: [Đăng ký tham dự hội thảo 'Tối ưu bài toán doanh nghiệp với trí tuệ nhân tạo'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16469)
 * 08/11/2024: [Danh sách sinh viên tham quan công ty Netcompany ngày 22/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16468)
-* 07/11/2024: [Đăng ký tham quan công ty OPSWAT ngày 29/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16467)
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 07/11/2024: [Đăng ký ứng tuyển học bổng công ty TNHH Scrumviet](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16465)
 * 30/10/2024: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16454)
@@ -36,11 +36,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 11/11/2024: [Join Us at Gameloft Village for Insights on AI and Society](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16472)
 * 06/11/2024: [Craft Master Challenge - Cuộc thi Sáng tạo Game từ Nhà phát hành Garena Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16464)
 * 06/11/2024: [CƠ HỘI THỰC TẬP TẠI TẬP ĐOÀN RAKUTEN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16462)
 * 05/11/2024: [[AHAMOVE HCM] Tuyển Dụng Vị Trí Data Engineer và AI/ Machine Learning Engineer 11.2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16461)
 * 04/11/2024: [Hot hot hot ! DXC tuyển dụng 10 bạn Fresher ServiceNow developer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16444)
-* 31/10/2024: [CÔNG TY HYBRID TECHNOLOGIES x TẬP ĐOÀN CIRCLACE NHẬT BẢN - ĐẦU TƯ VÀ PHÁT TRIỂN Ý TƯỞNG NGHIÊN CỨU TIỀM NĂNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16456)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 11/11/2024: [Hội nghị quốc tế ICEBA2024 tại Trường Đại học Khoa học tự nhiên, ĐHQG-HCM: Cơ hội hợp tác nghiên cứu quốc tế](https://hcmus.edu.vn/hoi-nghi-quoc-te-iceba2024-tai-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-co-hoi-hop-tac-nghien-cuu-quoc-te/)
 * 11/11/2024: [Lễ Khai Mạc Hội thảo Quốc tế Khoa Học Trái Đất Và Phát Triển Bền Vững (CESD) 2024 Tại Trường Đại học Khoa học tự nhiên, ĐHQG-HCM](https://hcmus.edu.vn/le-khai-mac-hoi-thao-quoc-te-khoa-hoc-trai-dat-va-phat-trien-ben-vung-cesd-2024-tai-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
@@ -54,6 +54,14 @@ No news in the last 1 month
 * 08/11/2024: [Kết quả đăng ký Sinh hoạt Công dân đầu năm chuyên đề A, năm học 2024-2025 (Đợt bổ sung)](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-nam-hoc-2024-2025-dot-bo-sung/)
 * 08/11/2024: [Thông báo về việc cảnh báo học tập và buộc thôi học tại HK1/2024-2025](https://hcmus.edu.vn/thong-bao-ve-viec-canh-bao-hoc-tap-va-buoc-thoi-hoc-tai-hk1-2024-2025/)
 * 07/11/2024: [THÔNG BÁO Cuộc thi trực tuyến “Sinh viên Trường ĐH KHTN tìm hiểu pháp luật”](https://hcmus.edu.vn/thong-bao-cuoc-thi-truc-tuyen-sinh-vien-truong-dh-khtn-tim-hieu-phap-luat/)
+* 08/11/2024: [Thông báo về việc cảnh báo học tập và buộc thôi học tại HK1/2024-2025](https://hcmus.edu.vn/thong-bao-ve-viec-canh-bao-hoc-tap-va-buoc-thoi-hoc-tai-hk1-2024-2025/)
+* 07/11/2024: [THÔNG BÁO Cuộc thi trực tuyến “Sinh viên Trường ĐH KHTN tìm hiểu pháp luật”](https://hcmus.edu.vn/thong-bao-cuoc-thi-truc-tuyen-sinh-vien-truong-dh-khtn-tim-hieu-phap-luat/)
+* 07/11/2024: [Thông báo thu phí bảo hiểm y tế năm 2025 (đợt 1) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2024)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2025-dot-1-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2024/)
+* 07/11/2024: [TUYÊN DƯƠNG TẬP THỂ, CÁ NHÂN ĐẠT THÀNH TÍCH XUẤT SẮC TRONG CUỘC THI OLYMPIC SINH HỌC SINH VIÊN VIỆT NAM, NĂM 2024](https://hcmus.edu.vn/tuyen-duong-tap-the-ca-nhan-dat-thanh-tich-xuat-sac-trong-cuoc-thi-olympic-sinh-hoc-sinh-vien-viet-nam-nam-2024/)
+* 07/11/2024: [THÔNG BÁO TUYỂN DỤNG KHOA HÓA HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-hoa-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-2/)
+* 06/11/2024: [05 SINH VIÊN TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN NHẬN HỌC BỔNG PONY CHUNG 2024](https://hcmus.edu.vn/sinh-vien-truong-dai-hoc-khoa-hoc-tu-nhien-nhan-hoc-bong-pony-chung-2024/)
+* 06/11/2024: [TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN LÀM VIỆC VỚI TẬP ĐOÀN SẢN XUẤT CHẤT BÁN DẪN TSMC, ĐÀI LOAN](https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-lam-viec-voi-tap-doan-san-xuat-chat-ban-dan-tsmc-dai-loan/)
+* 06/11/2024: [Nghiên Cứu Tác Động Của Hạn Hán Lên Sản Xuất Nông Nghiệp Tỉnh Ninh Thuận và xây dựng giải pháp thích ứng trong bối cảnh biến đổi khí hậu.](https://hcmus.edu.vn/https-sdh-hcmus-edu-vn-2024-09-17-trang-thong-tin-gioi-thieu-luan-an-tien-si-cua-ncs-nguyen-hoang-tuan/)
 * 05/11/2024: [Thông báo nhận bằng tốt nghiệp bậc Đại học (hệ chính quy, hệ đào tạo từ xa), bậc Cao đẳng, Liên thông đại học (ngành Công nghệ thông tin) cho đợt tốt nghiệp tháng 9/2024](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-he-dao-tao-tu-xa-bac-cao-dang-lien-thong-dai-hoc-nganh-cong-nghe-thong-tin-cho-dot-tot-nghiep-thang-9-2024/)
 * 05/11/2024: [THÔNG BÁO ĐỀ XUẤT, ĐẶT HÀNG NHIỆM VỤ KH&CN CẤP TỈNH NĂM 2025 THUỘC CHƯƠNG TRÌNH PHÁT TRIỂN TÀI SẢN TRÍ TUỆ GIAI ĐOẠN 2022-2025 VÀ ĐỊNH HƯỚNG ĐẾN NĂM 2030 TRÊN ĐỊA BÀN TỈNH BÀ RỊA – VŨNG TÀU](https://hcmus.edu.vn/thong-bao-de-xuat-dat-hang-nhiem-vu-khcn-cap-tinh-nam-2025-thuoc-chuong-trinh-phat-trien-tai-san-tri-tue-giai-doan-2022-2025-va-dinh-huong-den-nam-2030-tren-dia-ban-tinh-ba-ria-vung-tau/)
 * 05/11/2024: [Danh sách sinh viên đã tham gia Sinh hoạt Công dân Đầu năm – Chuyên đề A ngày 02 và 03/11/2024](https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-ngay-02-va-03-11-2024/)
