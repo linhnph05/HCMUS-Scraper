@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **10:20:47 12/11/2024**_
+_Last update: **11:19:29 12/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 No news in the last 1 month
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -104,6 +104,7 @@ No news in the last 1 month
 * 14/10/2024: [Thông báo chương trình học bổng Đồng Hành kỳ 47 học kỳ I, năm học 2024-2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ky-47-hoc-ky-i-nam-hoc-2024-2025/)
 * 14/10/2024: [Thông báo Chương trình học bổng Phát triển Nhân tài –The sponsorship program for talented students – Never Give Up Năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-phat-trien-nhan-tai-the-sponsorship-program-for-talented-studens-never-give-up-nam-hoc-2024-2025/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 12/11/2024: [Danh sách sinh viên đã tham gia Sinh hoạt Công dân Đầu năm – Chuyên đề A ngày 09 và 10/11/2024](https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-ngay-09-va-10-11-2024/)
 * 12/11/2024: [Thông báo kết quả chính thức học bổng khuyến khích học tập học kỳ 2, năm học 2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-2-nam-hoc-2023-2024/)
 * 11/11/2024: [Thông báo xử lý chênh lệch số tiền tạm thu đầu năm nhiều hơn học phí HK1/24-25 đối với sinh viên khóa 2024](https://hcmus.edu.vn/thong-bao-xu-ly-chenh-lech-so-tien-tam-thu-dau-nam-nhieu-hon-hoc-phi-hk1-24-25-doi-voi-sinh-vien-khoa-2024/)
 * 11/11/2024: [Thông báo tham gia tập huấn kỹ năng phòng cháy chữa cháy và cứu nạn cứu hộ năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-tham-gia-tap-huan-ky-nang-phong-chay-chua-chay-va-cuu-nan-cuu-ho-nam-hoc-2024-2025/)
@@ -143,6 +144,7 @@ No news in the last 1 month
 * 07/11/2024: [THÔNG BÁO TUYỂN DỤNG KHOA HÓA HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-hoa-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-2/)
 * 01/11/2024: [THÔNG BÁO TUYỂN DỤNG KHOA VẬT LÝ – VẬT LÝ KỸ THUẬT, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-vat-ly-vat-ly-ky-thuat-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
+* 12/11/2024: [Danh sách sinh viên đã tham gia Sinh hoạt Công dân Đầu năm – Chuyên đề A ngày 09 và 10/11/2024](https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-ngay-09-va-10-11-2024/)
 * 12/11/2024: [Thông báo kết quả chính thức học bổng khuyến khích học tập học kỳ 2, năm học 2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-2-nam-hoc-2023-2024/)
 * 11/11/2024: [Thông báo tham gia tập huấn kỹ năng phòng cháy chữa cháy và cứu nạn cứu hộ năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-tham-gia-tap-huan-ky-nang-phong-chay-chua-chay-va-cuu-nan-cuu-ho-nam-hoc-2024-2025/)
 * 08/11/2024: [Thông báo về việc cung cấp thông tin lưu trú năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ve-viec-cung-cap-thong-tin-luu-tru-nam-hoc-2024-2025/)
