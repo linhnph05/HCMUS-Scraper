@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "10:07:17 13/11/2024",
+  "Update time": "11:06:49 13/11/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2",
@@ -32,6 +32,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Tiểu ban Công nghệ Thông tin - Hội nghị Khoa học Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM lần thứ XIV năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16475",
+      "date": "13/11/2024"
+    },
     {
       "tieuDe": "Đăng ký tham dự hội thảo Phát triển Game: Từ ý tưởng đến sản phẩm thực tế",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16474",
@@ -76,11 +81,6 @@
       "tieuDe": "Đăng ký ứng tuyển học bổng công ty TNHH Scrumviet",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16465",
       "date": "7/11/2024"
-    },
-    {
-      "tieuDe": "Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16463",
-      "date": "6/11/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -128,6 +128,11 @@
     }
   ],
   "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
+    {
+      "tieuDe": "Tiểu ban Công nghệ Thông tin - Hội nghị Khoa học Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM lần thứ XIV năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16475",
+      "date": "13/11/2024"
+    },
     {
       "tieuDe": "Đăng ký tham dự Hội nghị Khoa học Trường Đại học Khoa học tự nhiên lần thứ 14 - Năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16457",
