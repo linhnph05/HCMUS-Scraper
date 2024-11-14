@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **08:46:17 14/11/2024**_
+_Last update: **09:46:47 14/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 No news in the last 1 month
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -9,7 +9,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
-* 13/11/2024: [Tiểu ban Công nghệ Thông tin - Hội nghị Khoa học Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM lần thứ XIV năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16475)
+* 13/11/2024: [Tiểu ban Công nghệ Thông tin và Truyền thông - Hội nghị Khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM lần thứ XIV năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16475)
 * 12/11/2024: [Đăng ký tham dự hội thảo Phát triển Game: Từ ý tưởng đến sản phẩm thực tế](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16474)
 * 11/11/2024: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 4/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16473)
 * 11/11/2024: [Danh sách tham dự hội thảo 'Tối ưu bài toán doanh nghiệp với trí tuệ nhân tạo'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16471)
@@ -30,7 +30,7 @@ No news in the last 1 month
 * 30/10/2024: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16454)
 * 15/10/2024: [Đăng ký học bổng 'Hành trang hướng nghiệp' học kỳ 1, NH 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16427)
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 13/11/2024: [Tiểu ban Công nghệ Thông tin - Hội nghị Khoa học Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM lần thứ XIV năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16475)
+* 13/11/2024: [Tiểu ban Công nghệ Thông tin và Truyền thông - Hội nghị Khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM lần thứ XIV năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16475)
 * 01/11/2024: [Đăng ký tham dự Hội nghị Khoa học Trường Đại học Khoa học tự nhiên lần thứ 14 - Năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16457)
 * 16/10/2024: [Tổng kết Seminar Research & Study Opportunities at City University of Hong Kong](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16432)
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
