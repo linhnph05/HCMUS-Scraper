@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:10:42 14/11/2024",
+  "Update time": "10:07:47 14/11/2024",
   "Thong Bao": [],
   "Tin tuc": [],
   "Thong tin can biet": [],
@@ -121,6 +121,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "[FPT Software] Tuyển dụng Thực Tập Sinh Business Analyst",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16477",
+      "date": "14/11/2024"
+    },
+    {
       "tieuDe": "Early Careers - StarCamp by NAB’s Tech Academy - Batch 9",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16476",
       "date": "14/11/2024"
@@ -139,11 +144,6 @@
       "tieuDe": "CƠ HỘI THỰC TẬP TẠI TẬP ĐOÀN RAKUTEN",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16462",
       "date": "06/11/2024"
-    },
-    {
-      "tieuDe": "[AHAMOVE HCM] Tuyển Dụng Vị Trí Data Engineer và AI/ Machine Learning Engineer 11.2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16461",
-      "date": "05/11/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
