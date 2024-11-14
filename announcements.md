@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **13:27:18 14/11/2024**_
+_Last update: **14:25:04 14/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 No news in the last 1 month
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -36,11 +36,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 14/11/2024: [Early Careers - StarCamp by NAB’s Tech Academy - Batch 9](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16476)
 * 11/11/2024: [Join Us at Gameloft Village for Insights on AI and Society](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16472)
 * 06/11/2024: [Craft Master Challenge - Cuộc thi Sáng tạo Game từ Nhà phát hành Garena Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16464)
 * 06/11/2024: [CƠ HỘI THỰC TẬP TẠI TẬP ĐOÀN RAKUTEN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16462)
 * 05/11/2024: [[AHAMOVE HCM] Tuyển Dụng Vị Trí Data Engineer và AI/ Machine Learning Engineer 11.2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16461)
-* 04/11/2024: [Hot hot hot ! DXC tuyển dụng 10 bạn Fresher ServiceNow developer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16444)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 14/11/2024: [Thông báo kết quả học bổng chuyển tiếp sinh đợt 2, năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ket-qua-hoc-bong-chuyen-tiep-sinh-dot-2-nam-hoc-2024-2025/)
 * 13/11/2024: [GIỚI THIỆU HỌC BỔNG CỦA TRƯỜNG KỸ THUẬT – ĐẠI HỌC QUỐC GIA SEOUL, HÀN QUỐC](https://hcmus.edu.vn/chuong-trinh-gioi-thieu-hoc-bong-hop-tac-giua-dhqg-hcm-va-truong-ky-thuat-dai-hoc-quoc-gia-seoul-han-quoc/)

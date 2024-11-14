@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "06:10:17 14/11/2024",
+  "Update time": "07:07:42 14/11/2024",
   "Thong Bao": [],
   "Tin tuc": [],
   "Thong tin can biet": [],
@@ -121,6 +121,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "Early Careers - StarCamp by NAB’s Tech Academy - Batch 9",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16476",
+      "date": "14/11/2024"
+    },
+    {
       "tieuDe": "Join Us at Gameloft Village for Insights on AI and Society",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16472",
       "date": "11/11/2024"
@@ -139,11 +144,6 @@
       "tieuDe": "[AHAMOVE HCM] Tuyển Dụng Vị Trí Data Engineer và AI/ Machine Learning Engineer 11.2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16461",
       "date": "05/11/2024"
-    },
-    {
-      "tieuDe": "Hot hot hot ! DXC tuyển dụng 10 bạn Fresher ServiceNow developer",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16444",
-      "date": "04/11/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
