@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **18:18:18 14/11/2024**_
+_Last update: **19:21:53 14/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 No news in the last 1 month
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -110,7 +110,7 @@ No news in the last 1 month
 * 15/10/2024: [Thông báo đăng ký nhận Giấy chứng nhận tốt nghiệp đại học tạm thời đối với sinh viên tốt nghiệp đợt tháng 10/2024](https://hcmus.edu.vn/thong-bao-dang-ky-nhan-giay-chung-nhan-tot-nghiep-dai-hoc-tam-thoi-doi-voi-sinh-vien-tot-nghiep-dot-thang-10-2024/)
 * 15/10/2024: [Thông báo v/v khai báo thông tin Bảo hiểm y tế được cấp miễn phí hoặc mua tại doanh nghiệp năm học 2024-2025 (Đối với sinh viên từ khóa 2023 trở về trước)](https://hcmus.edu.vn/thong-bao-v-v-khai-bao-thong-tin-bao-hiem-y-te-duoc-cap-mien-phi-hoac-mua-tai-doanh-nghiep-nam-hoc-2024-2025-doi-voi-sinh-vien-tu-khoa-2023-tro-ve-truoc/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
-* 13/11/2024: [CHƯƠNG TRÌNH GIỚI THIỆU HỌC BỔNG – HỢP TÁC GIỮA ĐHQG-HCM VÀ TRƯỜNG KỸ THUẬT, ĐẠI HỌC QUỐC GIA SEOUL, HÀN QUỐC](https://hcmus.edu.vn/chuong-trinh-gioi-thieu-hoc-bong-hop-tac-giua-dhqg-hcm-va-truong-ky-thuat-dai-hoc-quoc-gia-seoul-han-quoc/)
+* 13/11/2024: [GIỚI THIỆU HỌC BỔNG CỦA TRƯỜNG KỸ THUẬT – ĐẠI HỌC QUỐC GIA SEOUL, HÀN QUỐC](https://hcmus.edu.vn/chuong-trinh-gioi-thieu-hoc-bong-hop-tac-giua-dhqg-hcm-va-truong-ky-thuat-dai-hoc-quoc-gia-seoul-han-quoc/)
 * 13/11/2024: [Thông báo về việc tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 2 năm 2024](https://hcmus.edu.vn/thong-bao-ve-viec-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-2-nam-2024/)
 * 12/11/2024: [[Thông Báo] Chương Trình Giới Thiệu Học Bổng của Trường Kỹ Thuật – Đại Học Quốc Gia Seoul, Hàn Quốc](https://hcmus.edu.vn/thong-bao-chuong-trinh-gioi-thieu-hoc-bong-cua-truong-ky-thuat-dai-hoc-quoc-gia-seoul-snu/)
 * 12/11/2024: [Danh sách sinh viên đã tham gia Sinh hoạt Công dân Đầu năm – Chuyên đề A ngày 09 và 10/11/2024](https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-ngay-09-va-10-11-2024/)
