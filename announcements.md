@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **18:24:46 15/11/2024**_
+_Last update: **19:22:43 15/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 No news in the last 1 month
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -107,6 +107,8 @@ No news in the last 1 month
 * 16/10/2024: [Thông báo nộp học phí học kỳ 1 năm học 2024-2025 đối với sinh viên hệ chính quy chương trình đại trà](https://hcmus.edu.vn/thong-bao-hoc-phi-hoc-ky-1-nam-hoc-2024-2025-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra/)
 * 16/10/2024: [Thông báo Khảo sát việc học, việc làm đối với sinh viên vừa tốt nghiệp đại học](https://hcmus.edu.vn/thong-bao-khao-sat-viec-hoc-viec-lam-doi-voi-sinh-vien-vua-tot-nghiep-dai-hoc/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 15/11/2024: [Kết quả xét tốt nghiệp đợt tháng 11/2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dot-thang-11-2024/)
+* 13/11/2024: [TIỂU BAN CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG – HỘI NGHỊ KHOA HỌC LẦN THỨ 14](https://hcmus.edu.vn/tieu-ban-cong-nghe-thong-tin-va-truyen-thong-hoi-nghi-khoa-hoc-lan-thu-14-2/)
 * 13/11/2024: [GIỚI THIỆU HỌC BỔNG CỦA TRƯỜNG KỸ THUẬT – ĐẠI HỌC QUỐC GIA SEOUL, HÀN QUỐC](https://hcmus.edu.vn/chuong-trinh-gioi-thieu-hoc-bong-hop-tac-giua-dhqg-hcm-va-truong-ky-thuat-dai-hoc-quoc-gia-seoul-han-quoc/)
 * 13/11/2024: [Thông báo về việc tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 2 năm 2024](https://hcmus.edu.vn/thong-bao-ve-viec-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-2-nam-2024/)
 * 12/11/2024: [[Thông Báo] Chương Trình Giới Thiệu Học Bổng của Trường Kỹ Thuật – Đại Học Quốc Gia Seoul, Hàn Quốc](https://hcmus.edu.vn/thong-bao-chuong-trinh-gioi-thieu-hoc-bong-cua-truong-ky-thuat-dai-hoc-quoc-gia-seoul-snu/)
@@ -135,7 +137,6 @@ No news in the last 1 month
 * 17/10/2024: [Thông báo đổi phòng học dãy nhà E, cơ sở 2 từ ngày 21/12/2024](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-day-nha-e-co-so-2-tu-ngay-21-12-2024/)
 * 17/10/2024: [THÔNG BÁO Đăng ký lịch Sinh hoạt Công dân Đầu năm, năm học 2024-2025](https://hcmus.edu.vn/thong-bao-dang-ky-lich-sinh-hoat-cong-dan-dau-nam-nam-hoc-2024-2025/)
 * 16/10/2024: [Thông báo nộp học phí học kỳ 1 năm học 2024-2025 đối với sinh viên hệ chính quy chương trình đại trà](https://hcmus.edu.vn/thong-bao-hoc-phi-hoc-ky-1-nam-hoc-2024-2025-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra/)
-* 16/10/2024: [Thông báo Khảo sát việc học, việc làm đối với sinh viên vừa tốt nghiệp đại học](https://hcmus.edu.vn/thong-bao-khao-sat-viec-hoc-viec-lam-doi-voi-sinh-vien-vua-tot-nghiep-dai-hoc/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 13/11/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ GIẢNG VIÊN KHOA TOÁN – TIN HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-giang-vien-khoa-toan-tin-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 13/11/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ GIẢNG VIÊN KHOA HÓA HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-giang-vien-khoa-hoa-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)

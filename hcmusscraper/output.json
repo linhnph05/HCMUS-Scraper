@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "11:06:55 15/11/2024",
+  "Update time": "12:11:43 15/11/2024",
   "Thong Bao": [],
   "Tin tuc": [],
   "Thong tin can biet": [],
@@ -470,6 +470,16 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "Kết quả xét tốt nghiệp đợt tháng 11/2024",
+      "url": "https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dot-thang-11-2024/",
+      "date": "15/11/2024"
+    },
+    {
+      "tieuDe": "TIỂU BAN CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG – HỘI NGHỊ KHOA HỌC LẦN THỨ 14",
+      "url": "https://hcmus.edu.vn/tieu-ban-cong-nghe-thong-tin-va-truyen-thong-hoi-nghi-khoa-hoc-lan-thu-14-2/",
+      "date": "13/11/2024"
+    },
+    {
       "tieuDe": "GIỚI THIỆU HỌC BỔNG CỦA TRƯỜNG KỸ THUẬT – ĐẠI HỌC QUỐC GIA SEOUL, HÀN QUỐC",
       "url": "https://hcmus.edu.vn/chuong-trinh-gioi-thieu-hoc-bong-hop-tac-giua-dhqg-hcm-va-truong-ky-thuat-dai-hoc-quoc-gia-seoul-han-quoc/",
       "date": "13/11/2024"
@@ -607,11 +617,6 @@
     {
       "tieuDe": "Thông báo nộp học phí học kỳ 1 năm học 2024-2025 đối với sinh viên hệ chính quy chương trình đại trà",
       "url": "https://hcmus.edu.vn/thong-bao-hoc-phi-hoc-ky-1-nam-hoc-2024-2025-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-dai-tra/",
-      "date": "16/10/2024"
-    },
-    {
-      "tieuDe": "Thông báo Khảo sát việc học, việc làm đối với sinh viên vừa tốt nghiệp đại học",
-      "url": "https://hcmus.edu.vn/thong-bao-khao-sat-viec-hoc-viec-lam-doi-voi-sinh-vien-vua-tot-nghiep-dai-hoc/",
       "date": "16/10/2024"
     }
   ],
