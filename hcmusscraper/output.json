@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "06:10:55 15/11/2024",
+  "Update time": "07:07:46 15/11/2024",
   "Thong Bao": [],
   "Tin tuc": [],
   "Thong tin can biet": [],
@@ -116,6 +116,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "Cuộc thi Huawei ICT toàn cầu 2024-2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16479",
+      "date": "15/11/2024"
+    },
+    {
       "tieuDe": "[FPT Software] Tuyển dụng Thực Tập Sinh Business Analyst",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16477",
       "date": "14/11/2024"
@@ -133,11 +138,6 @@
     {
       "tieuDe": "Craft Master Challenge - Cuộc thi Sáng tạo Game từ Nhà phát hành Garena Việt Nam",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16464",
-      "date": "06/11/2024"
-    },
-    {
-      "tieuDe": "CƠ HỘI THỰC TẬP TẠI TẬP ĐOÀN RAKUTEN",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16462",
       "date": "06/11/2024"
     }
   ],

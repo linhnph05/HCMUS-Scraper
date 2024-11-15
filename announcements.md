@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **13:22:41 15/11/2024**_
+_Last update: **14:23:58 15/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 No news in the last 1 month
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -35,11 +35,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 15/11/2024: [Cuộc thi Huawei ICT toàn cầu 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16479)
 * 14/11/2024: [[FPT Software] Tuyển dụng Thực Tập Sinh Business Analyst](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16477)
 * 14/11/2024: [Early Careers - StarCamp by NAB’s Tech Academy - Batch 9](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16476)
 * 11/11/2024: [Join Us at Gameloft Village for Insights on AI and Society](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16472)
 * 06/11/2024: [Craft Master Challenge - Cuộc thi Sáng tạo Game từ Nhà phát hành Garena Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16464)
-* 06/11/2024: [CƠ HỘI THỰC TẬP TẠI TẬP ĐOÀN RAKUTEN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16462)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 14/11/2024: [Tiểu ban Sinh học – Công nghệ Sinh học – Hội nghị Khoa học lần thứ 14](https://hcmus.edu.vn/khai-mac-cua-tieu-ban-sinh-hoc-cong-nghe-sinh-hoc-trong-khuon-kho-hoi-nghi-khoa-hoc-lan-thu-xiv/)
 * 14/11/2024: [Thông báo kết quả học bổng chuyển tiếp sinh đợt 2, năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ket-qua-hoc-bong-chuyen-tiep-sinh-dot-2-nam-hoc-2024-2025/)
