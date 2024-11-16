@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "05:07:02 16/11/2024",
+  "Update time": "06:10:41 16/11/2024",
   "Thong Bao": [],
   "Tin tuc": [],
   "Thong tin can biet": [],
@@ -138,6 +138,26 @@
   ],
   "HCMUS-Thong tin nguoi hoc": [
     {
+      "tieuDe": "Kết quả xét tốt nghiệp đợt tháng 11/2024",
+      "url": "https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dot-thang-11-2024/",
+      "date": "15/11/2024"
+    },
+    {
+      "tieuDe": "Tiểu ban Toán – Tin học – Hội nghị Khoa học lần thứ 14",
+      "url": "https://hcmus.edu.vn/tieu-ban-toan-tin-hoc-hoi-nghi-khoa-hoc-lan-thu-14/",
+      "date": "15/11/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO KẾT QUẢ GIẢI THƯỞNG LÊ VĂN THỚI NĂM 2024",
+      "url": "https://hcmus.edu.vn/thong-bao-ket-qua-giai-thuong-le-van-thoi-nam-2024/",
+      "date": "15/11/2024"
+    },
+    {
+      "tieuDe": "BUỔI BẢO VỆ LUẬN ÁN TIẾN SĨ CỦA NCS LÊ QUỲNH LOAN – ĐỘT PHÁ TRONG NGHIÊN CỨU BỆNH ĐẠO ÔN TRÊN CÂY LÚA",
+      "url": "https://hcmus.edu.vn/buoi-bao-ve-luan-an-tien-si-cua-ncs-le-quynh-loan-dot-pha-trong-nghien-cuu-benh-dao-on-tren-lua-gao/",
+      "date": "14/11/2024"
+    },
+    {
       "tieuDe": "Tiểu ban Sinh học – Công nghệ Sinh học – Hội nghị Khoa học lần thứ 14",
       "url": "https://hcmus.edu.vn/khai-mac-cua-tieu-ban-sinh-hoc-cong-nghe-sinh-hoc-trong-khuon-kho-hoi-nghi-khoa-hoc-lan-thu-xiv/",
       "date": "14/11/2024"
@@ -146,6 +166,16 @@
       "tieuDe": "Thông báo kết quả học bổng chuyển tiếp sinh đợt 2, năm học 2024-2025",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-hoc-bong-chuyen-tiep-sinh-dot-2-nam-hoc-2024-2025/",
       "date": "14/11/2024"
+    },
+    {
+      "tieuDe": "TIỂU BAN ĐIỆN TỬ – VIỄN THÔNG – HỘI NGHỊ KHOA HỌC LẦN THỨ 14",
+      "url": "https://hcmus.edu.vn/tieu-ban-dien-tu-vien-thong-hoi-nghi-khoa-hoc-lan-thu-14/",
+      "date": "13/11/2024"
+    },
+    {
+      "tieuDe": "TIỂU BAN CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG – HỘI NGHỊ KHOA HỌC LẦN THỨ 14",
+      "url": "https://hcmus.edu.vn/tieu-ban-cong-nghe-thong-tin-va-truyen-thong-hoi-nghi-khoa-hoc-lan-thu-14-2/",
+      "date": "13/11/2024"
     },
     {
       "tieuDe": "GIỚI THIỆU HỌC BỔNG CỦA TRƯỜNG KỸ THUẬT – ĐẠI HỌC QUỐC GIA SEOUL, HÀN QUỐC",
@@ -166,36 +196,6 @@
       "tieuDe": "THÔNG BÁO TUYỂN DỤNG VỊ TRÍ GIẢNG VIÊN KHOA HÓA HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM",
       "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-giang-vien-khoa-hoa-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/",
       "date": "13/11/2024"
-    },
-    {
-      "tieuDe": "[Thông Báo] Chương Trình Giới Thiệu Học Bổng của Trường Kỹ Thuật – Đại Học Quốc Gia Seoul, Hàn Quốc",
-      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-gioi-thieu-hoc-bong-cua-truong-ky-thuat-dai-hoc-quoc-gia-seoul-snu/",
-      "date": "12/11/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên đã tham gia Sinh hoạt Công dân Đầu năm – Chuyên đề A ngày 09 và 10/11/2024",
-      "url": "https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-ngay-09-va-10-11-2024/",
-      "date": "12/11/2024"
-    },
-    {
-      "tieuDe": "Lần đầu tiên Việt Nam đăng cai Hội nghị Quốc tế về Vật liệu tiên tiến và Đa chức năng",
-      "url": "https://hcmus.edu.vn/hoi-nghi-quoc-te-ve-vat-lieu-tien-tien-va-da-chuc-nang-icamm24-tai-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/",
-      "date": "12/11/2024"
-    },
-    {
-      "tieuDe": "Thông báo kết quả chính thức học bổng khuyến khích học tập học kỳ 2, năm học 2023-2024",
-      "url": "https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-2-nam-hoc-2023-2024/",
-      "date": "12/11/2024"
-    },
-    {
-      "tieuDe": "Hội nghị Khoa học lần thứ 14: Quy tụ hơn 500 báo cáo viên từ các chuyên gia trong và ngoài nước",
-      "url": "https://hcmus.edu.vn/hoi-nghi-khoa-hoc-lan-thu-14-quy-tu-hon-500-bao-cao-vien-tu-cac-chuyen-gia-trong-va-ngoai-nuoc/",
-      "date": "11/11/2024"
-    },
-    {
-      "tieuDe": "HỘI NGHỊ QUỐC TẾ VỀ MẠCH VÀ HỆ THỐNG TIÊN TIẾN 2024: NỀN TẢNG CHO ĐỔI MỚI VÀ HỢP TÁC",
-      "url": "https://hcmus.edu.vn/hoi-nghi-quoc-te-ve-mach-va-he-thong-tien-tien-2024-nen-tang-cho-doi-moi-va-hop-tac/",
-      "date": "11/11/2024"
     },
     {
       "tieuDe": "Thông báo xử lý chênh lệch số tiền tạm thu đầu năm nhiều hơn học phí HK1/24-25 đối với sinh viên khóa 2024",
