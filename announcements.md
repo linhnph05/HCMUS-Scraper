@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **13:22:28 16/11/2024**_
+_Last update: **14:25:09 16/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 No news in the last 1 month
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -52,6 +52,12 @@ No news in the last 1 month
 * 13/11/2024: [Thông báo về việc tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 2 năm 2024](https://hcmus.edu.vn/thong-bao-ve-viec-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-2-nam-2024/)
 * 13/11/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ GIẢNG VIÊN KHOA TOÁN – TIN HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-giang-vien-khoa-toan-tin-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 13/11/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ GIẢNG VIÊN KHOA HÓA HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-giang-vien-khoa-hoa-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
+* 12/11/2024: [[Thông Báo] Chương Trình Giới Thiệu Học Bổng của Trường Kỹ Thuật – Đại Học Quốc Gia Seoul, Hàn Quốc](https://hcmus.edu.vn/thong-bao-chuong-trinh-gioi-thieu-hoc-bong-cua-truong-ky-thuat-dai-hoc-quoc-gia-seoul-snu/)
+* 12/11/2024: [Danh sách sinh viên đã tham gia Sinh hoạt Công dân Đầu năm – Chuyên đề A ngày 09 và 10/11/2024](https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-ngay-09-va-10-11-2024/)
+* 12/11/2024: [Lần đầu tiên Việt Nam đăng cai Hội nghị Quốc tế về Vật liệu tiên tiến và Đa chức năng](https://hcmus.edu.vn/hoi-nghi-quoc-te-ve-vat-lieu-tien-tien-va-da-chuc-nang-icamm24-tai-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
+* 12/11/2024: [Thông báo kết quả chính thức học bổng khuyến khích học tập học kỳ 2, năm học 2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-2-nam-hoc-2023-2024/)
+* 11/11/2024: [Hội nghị Khoa học lần thứ 14: Quy tụ hơn 500 báo cáo viên từ các chuyên gia trong và ngoài nước](https://hcmus.edu.vn/hoi-nghi-khoa-hoc-lan-thu-14-quy-tu-hon-500-bao-cao-vien-tu-cac-chuyen-gia-trong-va-ngoai-nuoc/)
+* 11/11/2024: [HỘI NGHỊ QUỐC TẾ VỀ MẠCH VÀ HỆ THỐNG TIÊN TIẾN 2024: NỀN TẢNG CHO ĐỔI MỚI VÀ HỢP TÁC](https://hcmus.edu.vn/hoi-nghi-quoc-te-ve-mach-va-he-thong-tien-tien-2024-nen-tang-cho-doi-moi-va-hop-tac/)
 * 11/11/2024: [Thông báo xử lý chênh lệch số tiền tạm thu đầu năm nhiều hơn học phí HK1/24-25 đối với sinh viên khóa 2024](https://hcmus.edu.vn/thong-bao-xu-ly-chenh-lech-so-tien-tam-thu-dau-nam-nhieu-hon-hoc-phi-hk1-24-25-doi-voi-sinh-vien-khoa-2024/)
 * 11/11/2024: [Tiểu ban Công nghệ Giáo dục và Khoa học liên ngành – Hội nghị Khoa học lần thứ 14](https://hcmus.edu.vn/hoi-nghi-khoa-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-lan-thu-14-tieu-ban-cong-nghe-giao-duc-va-khoa-hoc-lien-nganh/)
 * 11/11/2024: [Hội nghị quốc tế ICEBA2024 tại Trường Đại học Khoa học tự nhiên, ĐHQG-HCM: Cơ hội hợp tác nghiên cứu quốc tế](https://hcmus.edu.vn/hoi-nghi-quoc-te-iceba2024-tai-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-co-hoi-hop-tac-nghien-cuu-quoc-te/)
