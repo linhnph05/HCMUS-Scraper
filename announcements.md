@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **04:18:05 19/11/2024**_
+_Last update: **05:22:49 19/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 11/11/2024: [[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2](https://www.ctda.hcmus.edu.vn/vi/2024/11/9389/)
 * 06/11/2024: [[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2021 bảo vệ tháng 8/2025](https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2021-bao-ve-thang-8-2025/)
@@ -48,6 +48,7 @@ No news in the last 1 month
 * 15/11/2024: [Kết quả xét tốt nghiệp đợt tháng 11/2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dot-thang-11-2024/)
 * 15/11/2024: [Tiểu ban Toán – Tin học – Hội nghị Khoa học lần thứ 14](https://hcmus.edu.vn/tieu-ban-toan-tin-hoc-hoi-nghi-khoa-hoc-lan-thu-14/)
 * 15/11/2024: [THÔNG BÁO KẾT QUẢ GIẢI THƯỞNG LÊ VĂN THỚI NĂM 2024](https://hcmus.edu.vn/thong-bao-ket-qua-giai-thuong-le-van-thoi-nam-2024/)
+* 15/11/2024: [TB tổ chức hoạt động workshop thúc đẩy sự hình thành tư duy khởi nghiệp, đổi mới sáng tạo trong sinh viên năm học 2024-2025](https://hcmus.edu.vn/tb-to-chuc-hoat-dong-workshop-thuc-day-su-hinh-thanh-tu-duy-khoi-nghiep-doi-moi-sang-tao-trong-sinh-vien-nam-hoc-2024-2025/)
 * 14/11/2024: [BUỔI BẢO VỆ LUẬN ÁN TIẾN SĨ CỦA NCS LÊ QUỲNH LOAN – ĐỘT PHÁ TRONG NGHIÊN CỨU BỆNH ĐẠO ÔN TRÊN CÂY LÚA](https://hcmus.edu.vn/buoi-bao-ve-luan-an-tien-si-cua-ncs-le-quynh-loan-dot-pha-trong-nghien-cuu-benh-dao-on-tren-lua-gao/)
 * 14/11/2024: [Tiểu ban Sinh học – Công nghệ Sinh học – Hội nghị Khoa học lần thứ 14](https://hcmus.edu.vn/khai-mac-cua-tieu-ban-sinh-hoc-cong-nghe-sinh-hoc-trong-khuon-kho-hoi-nghi-khoa-hoc-lan-thu-xiv/)
 * 14/11/2024: [Thông báo kết quả học bổng chuyển tiếp sinh đợt 2, năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ket-qua-hoc-bong-chuyen-tiep-sinh-dot-2-nam-hoc-2024-2025/)
