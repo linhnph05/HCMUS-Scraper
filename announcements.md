@@ -1,7 +1,11 @@
 # All news in the last 1 month 
-_Last update: **19:23:28 18/11/2024**_
+_Last update: **20:25:15 18/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
-No news in the last 1 month
+* 11/11/2024: [[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2](https://www.ctda.hcmus.edu.vn/vi/2024/11/9389/)
+* 06/11/2024: [[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2021 bảo vệ tháng 8/2025](https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2021-bao-ve-thang-8-2025/)
+* 04/11/2024: [[VP] Thông báo khảo sát giữa kỳ HK1- 2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/vp-thong-bao-khao-sat-giua-ky-hk1-2425/)
+* 04/11/2024: [[CLC] Thông báo khảo sát giữa kỳ HK1- 2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/clc-thong-bao-khao-sat-giua-ky-hk1-2425/)
+* 04/11/2024: [[APCS] Thông báo khảo sát giữa kỳ HK1-2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/apcs-thong-bao-khao-sat-giua-ky-hk1-2425/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
@@ -106,6 +110,7 @@ No news in the last 1 month
 * 19/10/2024: [TIẾP ĐÓN ĐOÀN CÔNG TÁC TỪ VIỆN LIÊN HIỆP NGHIÊN CỨU HẠT NHÂN DUBNA](https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-tiep-va-lam-viec-voi-vien-lien-hiep-nghien-cuu-hat-nhan-dubna/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 15/11/2024: [Kết quả xét tốt nghiệp đợt tháng 11/2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dot-thang-11-2024/)
+* 15/11/2024: [TB tổ chức hoạt động workshop thúc đẩy sự hình thành tư duy khởi nghiệp, đổi mới sáng tạo trong sinh viên năm học 2024-2025](https://hcmus.edu.vn/tb-to-chuc-hoat-dong-workshop-thuc-day-su-hinh-thanh-tu-duy-khoi-nghiep-doi-moi-sang-tao-trong-sinh-vien-nam-hoc-2024-2025/)
 * 13/11/2024: [TIỂU BAN CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG – HỘI NGHỊ KHOA HỌC LẦN THỨ 14](https://hcmus.edu.vn/tieu-ban-cong-nghe-thong-tin-va-truyen-thong-hoi-nghi-khoa-hoc-lan-thu-14-2/)
 * 13/11/2024: [GIỚI THIỆU HỌC BỔNG CỦA TRƯỜNG KỸ THUẬT – ĐẠI HỌC QUỐC GIA SEOUL, HÀN QUỐC](https://hcmus.edu.vn/chuong-trinh-gioi-thieu-hoc-bong-hop-tac-giua-dhqg-hcm-va-truong-ky-thuat-dai-hoc-quoc-gia-seoul-han-quoc/)
 * 13/11/2024: [Thông báo về việc tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 2 năm 2024](https://hcmus.edu.vn/thong-bao-ve-viec-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-2-nam-2024/)

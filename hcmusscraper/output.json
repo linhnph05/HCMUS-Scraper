@@ -1,7 +1,33 @@
 [
 {
-  "Update time": "12:11:55 18/11/2024",
-  "Thong Bao": [],
+  "Update time": "13:13:40 18/11/2024",
+  "Thong Bao": [
+    {
+      "tieuDe": "[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/9389/",
+      "date": "11/11/2024"
+    },
+    {
+      "tieuDe": "[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2021 bảo vệ tháng 8/2025",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2021-bao-ve-thang-8-2025/",
+      "date": "06/11/2024"
+    },
+    {
+      "tieuDe": "[VP] Thông báo khảo sát giữa kỳ HK1- 2425",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/vp-thong-bao-khao-sat-giua-ky-hk1-2425/",
+      "date": "04/11/2024"
+    },
+    {
+      "tieuDe": "[CLC] Thông báo khảo sát giữa kỳ HK1- 2425",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/clc-thong-bao-khao-sat-giua-ky-hk1-2425/",
+      "date": "04/11/2024"
+    },
+    {
+      "tieuDe": "[APCS] Thông báo khảo sát giữa kỳ HK1-2425",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/apcs-thong-bao-khao-sat-giua-ky-hk1-2425/",
+      "date": "04/11/2024"
+    }
+  ],
   "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
@@ -462,6 +488,11 @@
     {
       "tieuDe": "Kết quả xét tốt nghiệp đợt tháng 11/2024",
       "url": "https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dot-thang-11-2024/",
+      "date": "15/11/2024"
+    },
+    {
+      "tieuDe": "TB tổ chức hoạt động workshop thúc đẩy sự hình thành tư duy khởi nghiệp, đổi mới sáng tạo trong sinh viên năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/tb-to-chuc-hoat-dong-workshop-thuc-day-su-hinh-thanh-tu-duy-khoi-nghiep-doi-moi-sang-tao-trong-sinh-vien-nam-hoc-2024-2025/",
       "date": "15/11/2024"
     },
     {
