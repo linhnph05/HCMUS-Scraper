@@ -1,33 +1,7 @@
 [
 {
-  "Update time": "04:09:15 18/11/2024",
-  "Thong Bao": [
-    {
-      "tieuDe": "[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/9389/",
-      "date": "11/11/2024"
-    },
-    {
-      "tieuDe": "[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2021 bảo vệ tháng 8/2025",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2021-bao-ve-thang-8-2025/",
-      "date": "06/11/2024"
-    },
-    {
-      "tieuDe": "[VP] Thông báo khảo sát giữa kỳ HK1- 2425",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/vp-thong-bao-khao-sat-giua-ky-hk1-2425/",
-      "date": "04/11/2024"
-    },
-    {
-      "tieuDe": "[CLC] Thông báo khảo sát giữa kỳ HK1- 2425",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/clc-thong-bao-khao-sat-giua-ky-hk1-2425/",
-      "date": "04/11/2024"
-    },
-    {
-      "tieuDe": "[APCS] Thông báo khảo sát giữa kỳ HK1-2425",
-      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/apcs-thong-bao-khao-sat-giua-ky-hk1-2425/",
-      "date": "04/11/2024"
-    }
-  ],
+  "Update time": "05:07:59 18/11/2024",
+  "Thong Bao": [],
   "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
@@ -137,6 +111,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "CÔNG TY FAST - TUYỂN NHÂN VIÊN LẬP TRÌNH PHẦN MỀM TẠI TP.HCM",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16481",
+      "date": "18/11/2024"
+    },
+    {
       "tieuDe": "🔥[FPT SOFTWARE] TUYỂN DỤNG FRESHER AUTOMATION TESTING🔥",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16482",
       "date": "18/11/2024"
@@ -154,11 +133,6 @@
     {
       "tieuDe": "[FPT Software] Tuyển dụng Thực Tập Sinh Business Analyst",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16477",
-      "date": "14/11/2024"
-    },
-    {
-      "tieuDe": "Early Careers - StarCamp by NAB’s Tech Academy - Batch 9",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16476",
       "date": "14/11/2024"
     }
   ],
