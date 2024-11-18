@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **10:31:17 18/11/2024**_
+_Last update: **11:23:44 18/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 11/11/2024: [[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2](https://www.ctda.hcmus.edu.vn/vi/2024/11/9389/)
 * 06/11/2024: [[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2021 bảo vệ tháng 8/2025](https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2021-bao-ve-thang-8-2025/)
@@ -38,11 +38,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 18/11/2024: [🔥[FPT SOFTWARE] TUYỂN DỤNG FRESHER AUTOMATION TESTING🔥](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16482)
 * 16/11/2024: [TRƯỜNG THCS VÀ THPT ĐINH THIỆN LÝ (LSTS) - THÔNG BÁO VỀ NGÀY HỘI MỞ DÀNH CHO ỨNG VIÊN CHỦ ĐỀ: ĐỔI MỚI SÁNG TẠO TRONG GIẢNG DẠY VÀ NGHIÊN CỨU ỨNG DỤNG TẠI LSTS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16480)
 * 15/11/2024: [Cuộc thi Huawei ICT toàn cầu 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16479)
 * 14/11/2024: [[FPT Software] Tuyển dụng Thực Tập Sinh Business Analyst](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16477)
 * 14/11/2024: [Early Careers - StarCamp by NAB’s Tech Academy - Batch 9](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16476)
-* 11/11/2024: [Join Us at Gameloft Village for Insights on AI and Society](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16472)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 16/11/2024: [THAM GIA CHUYÊN ĐỀ KHOA HỌC DỮ LIỆU CÙNG CHUYÊN GIA](https://hcmus.edu.vn/tham-gia-khoa-hoc-du-lieu-cung-chuyen-gia/)
 * 15/11/2024: [Kết quả xét tốt nghiệp đợt tháng 11/2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dot-thang-11-2024/)
