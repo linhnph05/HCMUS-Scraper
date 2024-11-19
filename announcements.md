@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **11:20:54 19/11/2024**_
+_Last update: **12:24:57 19/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 No news in the last 1 month
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -70,6 +70,7 @@ No news in the last 1 month
 * 11/11/2024: [Thông báo tham gia tập huấn kỹ năng phòng cháy chữa cháy và cứu nạn cứu hộ năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-tham-gia-tap-huan-ky-nang-phong-chay-chua-chay-va-cuu-nan-cuu-ho-nam-hoc-2024-2025/)
 * 11/11/2024: [THÔNG BÁO VỀ VIỆC ĐỀ XUẤT, ĐẶT HÀNG NHIỆM VỤ KH&CN CẤP TỈNH AN GIANG NĂM 2025-2026](https://hcmus.edu.vn/thong-bao-ve-viec-de-xuat-dat-hang-nhiem-vu-khcn-cap-tinh-an-giang-nam-2025-2026/)
 * 09/11/2024: [Hành trình khoa học và dấu ấn Quả Cầu Vàng 2024 của Tiến sĩ Phạm Thanh Tuấn Anh](https://hcmus.edu.vn/hanh-trinh-khoa-hoc-va-dau-an-qua-cau-vang-2024-cua-tien-si-pham-thanh-tuan-anh/)
+* 09/11/2024: [HỌP HỘI ĐỒNG NGHIỆM THU ĐỀ TÀI CẤP ĐHQG-HCM: “PHÁT TRIỂN PHƯƠNG PHÁP SỐ CHO PHƯƠNG TRÌNH ĐẠO HÀM RIÊNG”](https://hcmus.edu.vn/hop-hoi-dong-nghiem-thu-de-tai-cap-dhqg-hcm-phat-trien-phuong-phap-so-cho-phuong-trinh-dao-ham-rieng/)
 * 08/11/2024: [Thông báo về việc cung cấp thông tin lưu trú năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ve-viec-cung-cap-thong-tin-luu-tru-nam-hoc-2024-2025/)
 * 08/11/2024: [TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN: NƠI ƯƠM MẦM TINH THẦN CỐNG HIẾN VÀ LÝ TƯỞNG SỐNG](https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-noi-uom-mam-tinh-than-cong-hien-va-ly-tuong-song/)
 * 08/11/2024: [Kết quả đăng ký Sinh hoạt Công dân đầu năm chuyên đề A, năm học 2024-2025 (Đợt bổ sung)](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-nam-hoc-2024-2025-dot-bo-sung/)
