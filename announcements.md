@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **09:46:08 19/11/2024**_
+_Last update: **10:29:45 19/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 No news in the last 1 month
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -40,6 +40,7 @@ No news in the last 1 month
 * 15/11/2024: [Cuộc thi Huawei ICT toàn cầu 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16479)
 * 14/11/2024: [[FPT Software] Tuyển dụng Thực Tập Sinh Business Analyst](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16477)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 19/11/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ CHUYÊN VIÊN VĂN PHÒNG ĐOÀN THANH NIÊN TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-chuyen-vien-van-phong-doan-thanh-nien-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 16/11/2024: [THAM GIA CHUYÊN ĐỀ KHOA HỌC DỮ LIỆU CÙNG CHUYÊN GIA](https://hcmus.edu.vn/tham-gia-khoa-hoc-du-lieu-cung-chuyen-gia/)
 * 15/11/2024: [Kết quả xét tốt nghiệp đợt tháng 11/2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dot-thang-11-2024/)
 * 15/11/2024: [Tiểu ban Toán – Tin học – Hội nghị Khoa học lần thứ 14](https://hcmus.edu.vn/tieu-ban-toan-tin-hoc-hoi-nghi-khoa-hoc-lan-thu-14/)
