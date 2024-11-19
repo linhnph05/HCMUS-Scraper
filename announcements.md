@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:17:57 19/11/2024**_
+_Last update: **07:45:19 19/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 No news in the last 1 month
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -104,7 +104,6 @@ No news in the last 1 month
 * 22/10/2024: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (CT Đại trà) và HK3/2023-2024 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ct-dai-tra-va-hk3-2023-2024-ct-de-an/)
 * 21/10/2024: [GIẢI THƯỞNG KHCN THƯỜNG NIÊN ĐHQG-HCM NĂM 2024](https://hcmus.edu.vn/giai-thuong-khcn-thuong-nien-dhqg-hcm-nam-2024/)
 * 21/10/2024: [Thông báo học bổng Vừ A Dính năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ho%cc%a3c-bo%cc%89ng-vu-a-dinh-nam-ho%cc%a3c-2024-2025/)
-* 19/10/2024: [TIẾP ĐÓN ĐOÀN CÔNG TÁC TỪ VIỆN LIÊN HIỆP NGHIÊN CỨU HẠT NHÂN DUBNA](https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-tiep-va-lam-viec-voi-vien-lien-hiep-nghien-cuu-hat-nhan-dubna/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 15/11/2024: [Kết quả xét tốt nghiệp đợt tháng 11/2024](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dot-thang-11-2024/)
 * 15/11/2024: [TB tổ chức hoạt động workshop thúc đẩy sự hình thành tư duy khởi nghiệp, đổi mới sáng tạo trong sinh viên năm học 2024-2025](https://hcmus.edu.vn/tb-to-chuc-hoat-dong-workshop-thuc-day-su-hinh-thanh-tu-duy-khoi-nghiep-doi-moi-sang-tao-trong-sinh-vien-nam-hoc-2024-2025/)
@@ -166,7 +165,6 @@ No news in the last 1 month
 * 26/10/2024: [HỘI NGHỊ “ÂM HƯỞNG TRONG THẾ GIỚI TOÁN HỌC”: KẾT NỐI CỘNG ĐỒNG TOÁN HỌC VIỆT NAM VÀ THẾ GIỚI](https://hcmus.edu.vn/hoi-nghi-am-huong-trong-the-gioi-toan-hoc-ket-noi-cong-dong-toan-hoc-viet-nam-va-the-gioi/)
 * 25/10/2024: [CHIA SẺ TỪ GIÁO SƯ TRẦN THẾ TRUYỀN VỀ TƯƠNG LAI CỦA AI](https://hcmus.edu.vn/chia-se-tu-giao-su-tran-the-truyen-ve-tuong-lai-cua-ai/)
 * 22/10/2024: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2023-2024 (CT Đại trà) và HK3/2023-2024 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2023-2024-ct-dai-tra-va-hk3-2023-2024-ct-de-an/)
-* 19/10/2024: [TIẾP ĐÓN ĐOÀN CÔNG TÁC TỪ VIỆN LIÊN HIỆP NGHIÊN CỨU HẠT NHÂN DUBNA](https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-tiep-va-lam-viec-voi-vien-lien-hiep-nghien-cuu-hat-nhan-dubna/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
 * 12/11/2024: [Thông báo kết quả chính thức học bổng khuyến khích học tập học kỳ 2, năm học 2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-2-nam-hoc-2023-2024/)
 * 29/10/2024: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2023-2024/)
