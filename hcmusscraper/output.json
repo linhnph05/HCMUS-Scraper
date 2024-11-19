@@ -1,11 +1,16 @@
 [
 {
-  "Update time": "03:16:54 19/11/2024",
+  "Update time": "04:08:54 19/11/2024",
   "Thong Bao": [],
   "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Mời đăng ký tham dự và trình bày Seminar Sau Đại học năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16484",
+      "date": "19/11/2024"
+    },
     {
       "tieuDe": "Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Đỗ Đức Hào (20/11/2024)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16483",
@@ -49,11 +54,6 @@
     {
       "tieuDe": "Đăng ký tham quan công ty OPSWAT ngày 29/11",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16467",
-      "date": "7/11/2024"
-    },
-    {
-      "tieuDe": "Talk Show 'Làm sao khởi nghiệp khi là sinh viên?'",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16466",
       "date": "7/11/2024"
     }
   ],
