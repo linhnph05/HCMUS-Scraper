@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:16:06 21/11/2024",
+  "Update time": "04:08:45 21/11/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2",
@@ -32,6 +32,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Đăng ký tham dự hội thảo 'Làm chủ kỹ năng phỏng vấn và viết CV'",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16489",
+      "date": "21/11/2024"
+    },
     {
       "tieuDe": "Danh sách tham quan công ty TecAlliance Việt Nam ngày 4/12",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16488",
@@ -76,14 +81,14 @@
       "tieuDe": "Danh sách tham dự hội thảo 'Tối ưu bài toán doanh nghiệp với trí tuệ nhân tạo'",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16471",
       "date": "11/11/2024"
-    },
-    {
-      "tieuDe": "Danh sách tham quan công ty OPSWAT ngày 29/11",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16470",
-      "date": "9/11/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Đăng ký tham dự hội thảo 'Làm chủ kỹ năng phỏng vấn và viết CV'",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16489",
+      "date": "21/11/2024"
+    },
     {
       "tieuDe": "Danh sách tham quan công ty TecAlliance Việt Nam ngày 4/12",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16488",
@@ -102,11 +107,6 @@
     {
       "tieuDe": "Đăng ký tham quan công ty TecAlliance Việt Nam ngày 4/12",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16473",
-      "date": "11/11/2024"
-    },
-    {
-      "tieuDe": "Danh sách tham dự hội thảo 'Tối ưu bài toán doanh nghiệp với trí tuệ nhân tạo'",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16471",
       "date": "11/11/2024"
     }
   ],
