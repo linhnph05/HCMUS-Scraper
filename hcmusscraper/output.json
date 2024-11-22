@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "01:35:01 22/11/2024",
+  "Update time": "02:32:36 22/11/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2",
@@ -137,6 +137,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "[Adnovum] Fresh IAM Engineer Opportunity",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16491",
+      "date": "22/11/2024"
+    },
+    {
       "tieuDe": "CÔNG TY FAST - TUYỂN NHÂN VIÊN LẬP TRÌNH PHẦN MỀM TẠI TP.HCM",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16481",
       "date": "18/11/2024"
@@ -155,11 +160,6 @@
       "tieuDe": "Cuộc thi Huawei ICT toàn cầu 2024-2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16479",
       "date": "15/11/2024"
-    },
-    {
-      "tieuDe": "[FPT Software] Tuyển dụng Thực Tập Sinh Business Analyst",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16477",
-      "date": "14/11/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [

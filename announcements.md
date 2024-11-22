@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **08:52:36 22/11/2024**_
+_Last update: **09:44:51 22/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 11/11/2024: [[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2](https://www.ctda.hcmus.edu.vn/vi/2024/11/9389/)
 * 06/11/2024: [[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2021 bảo vệ tháng 8/2025](https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2021-bao-ve-thang-8-2025/)
@@ -38,11 +38,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 22/11/2024: [[Adnovum] Fresh IAM Engineer Opportunity](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16491)
 * 18/11/2024: [CÔNG TY FAST - TUYỂN NHÂN VIÊN LẬP TRÌNH PHẦN MỀM TẠI TP.HCM](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16481)
 * 18/11/2024: [🔥[FPT SOFTWARE] TUYỂN DỤNG FRESHER AUTOMATION TESTING🔥](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16482)
 * 16/11/2024: [TRƯỜNG THCS VÀ THPT ĐINH THIỆN LÝ (LSTS) - THÔNG BÁO VỀ NGÀY HỘI MỞ DÀNH CHO ỨNG VIÊN CHỦ ĐỀ: ĐỔI MỚI SÁNG TẠO TRONG GIẢNG DẠY VÀ NGHIÊN CỨU ỨNG DỤNG TẠI LSTS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16480)
 * 15/11/2024: [Cuộc thi Huawei ICT toàn cầu 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16479)
-* 14/11/2024: [[FPT Software] Tuyển dụng Thực Tập Sinh Business Analyst](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16477)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 21/11/2024: [Thông báo thay đổi phòng học ngày 23/11/2024 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-ngay-23-11-2024-tai-co-so-2/)
 * 21/11/2024: [Danh sách sinh viên đã tham gia Sinh hoạt Công dân Đầu năm – Chuyên đề A ngày 16 và 17/11/2024](https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-ngay-16-va-17-11-2024/)
