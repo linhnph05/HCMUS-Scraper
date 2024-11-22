@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:09:36 22/11/2024",
+  "Update time": "09:07:48 22/11/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2",
@@ -32,6 +32,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Danh sách dự kiến cấp xét học bổng đột xuất HK1 năm học 2024-2025 Dự kiến",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16492",
+      "date": "22/11/2024"
+    },
     {
       "tieuDe": "Đăng ký tham dự lễ tốt nghiệp Khoa CNTT năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16490",
@@ -76,11 +81,6 @@
       "tieuDe": "Đăng ký tham dự hội thảo Phát triển Game: Từ ý tưởng đến sản phẩm thực tế",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16474",
       "date": "12/11/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham quan công ty TecAlliance Việt Nam ngày 4/12",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16473",
-      "date": "11/11/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -111,6 +111,11 @@
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
+    {
+      "tieuDe": "Danh sách dự kiến cấp xét học bổng đột xuất HK1 năm học 2024-2025 Dự kiến",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16492",
+      "date": "22/11/2024"
+    },
     {
       "tieuDe": "Đăng ký ứng tuyển học bổng công ty TNHH Scrumviet",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16465",
