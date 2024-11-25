@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **10:31:12 25/11/2024**_
+_Last update: **11:21:48 25/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 11/11/2024: [[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2](https://www.ctda.hcmus.edu.vn/vi/2024/11/9389/)
 * 06/11/2024: [[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2021 bảo vệ tháng 8/2025](https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2021-bao-ve-thang-8-2025/)
@@ -45,6 +45,7 @@ No news in the last 1 month
 * 16/11/2024: [TRƯỜNG THCS VÀ THPT ĐINH THIỆN LÝ (LSTS) - THÔNG BÁO VỀ NGÀY HỘI MỞ DÀNH CHO ỨNG VIÊN CHỦ ĐỀ: ĐỔI MỚI SÁNG TẠO TRONG GIẢNG DẠY VÀ NGHIÊN CỨU ỨNG DỤNG TẠI LSTS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16480)
 * 15/11/2024: [Cuộc thi Huawei ICT toàn cầu 2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16479)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 25/11/2024: [Thông báo nhận bằng tốt nghiệp đợt tháng 11 năm 2024](https://hcmus.edu.vn/47689-2/)
 * 24/11/2024: [THÔNG BÁO Tổ chức hoạt động workshop “Những vấn đề “nóng” trong sinh viên: Nhận biết và nhận thức”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-nhung-van-de-nong-trong-sinh-vien-nhan-biet-va-nhan-thuc/)
 * 22/11/2024: [Thông báo nộp học phí Học kỳ 1/2024-2025 lớp Liên thông đại học và Cao đẳng – hệ chính quy](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2024-2025-lop-lien-thong-dai-hoc-va-cao-dang-he-chinh-quy/)
 * 21/11/2024: [Thông báo thay đổi phòng học ngày 23/11/2024 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-ngay-23-11-2024-tai-co-so-2/)
@@ -110,6 +111,7 @@ No news in the last 1 month
 * 26/10/2024: [HỘI NGHỊ “ÂM HƯỞNG TRONG THẾ GIỚI TOÁN HỌC”: KẾT NỐI CỘNG ĐỒNG TOÁN HỌC VIỆT NAM VÀ THẾ GIỚI](https://hcmus.edu.vn/hoi-nghi-am-huong-trong-the-gioi-toan-hoc-ket-noi-cong-dong-toan-hoc-viet-nam-va-the-gioi/)
 * 26/10/2024: [Nghiên cứu phát triển màng mỏng ZnO biến tính cho ứng dụng quang xúc tác trong xử lý nước thải công nghiệp](https://hcmus.edu.vn/khcn-b2021-18-05/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 25/11/2024: [Thông báo nhận bằng tốt nghiệp đợt tháng 11 năm 2024](https://hcmus.edu.vn/47689-2/)
 * 24/11/2024: [THÔNG BÁO Tổ chức hoạt động workshop “Những vấn đề “nóng” trong sinh viên: Nhận biết và nhận thức”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-nhung-van-de-nong-trong-sinh-vien-nhan-biet-va-nhan-thuc/)
 * 22/11/2024: [Thông báo nộp học phí Học kỳ 1/2024-2025 lớp Liên thông đại học và Cao đẳng – hệ chính quy](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2024-2025-lop-lien-thong-dai-hoc-va-cao-dang-he-chinh-quy/)
 * 21/11/2024: [Thông báo thay đổi phòng học ngày 23/11/2024 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-ngay-23-11-2024-tai-co-so-2/)
