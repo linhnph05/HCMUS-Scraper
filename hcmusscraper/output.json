@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "01:35:44 25/11/2024",
+  "Update time": "02:33:45 25/11/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2",
@@ -32,6 +32,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Kết quả tuyển sinh Sau Đại học năm 2024 – đợt 2",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16495",
+      "date": "25/11/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên tham dự hội thảo 'Làm chủ kỹ năng phỏng vấn và viết CV'",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16494",
@@ -76,11 +81,6 @@
       "tieuDe": "Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Đỗ Đức Hào (20/11/2024)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16483",
       "date": "18/11/2024"
-    },
-    {
-      "tieuDe": "Tiểu ban Công nghệ Thông tin và Truyền thông - Hội nghị Khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM lần thứ XIV năm 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16475",
-      "date": "13/11/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
