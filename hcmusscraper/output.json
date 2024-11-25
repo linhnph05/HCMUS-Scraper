@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:07:50 25/11/2024",
+  "Update time": "08:10:09 25/11/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2",
@@ -32,6 +32,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Thông báo v/v báo cáo định kỳ tình hình hướng dẫn và kết quả học tập của nghiên cứu sinh năm 2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16496",
+      "date": "25/11/2024"
+    },
     {
       "tieuDe": "Kết quả tuyển sinh Sau Đại học năm 2024 – đợt 2",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16495",
@@ -76,11 +81,6 @@
       "tieuDe": "Mời đăng ký tham dự và trình bày Seminar Sau Đại học năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16484",
       "date": "19/11/2024"
-    },
-    {
-      "tieuDe": "Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Đỗ Đức Hào (20/11/2024)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16483",
-      "date": "18/11/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -168,6 +168,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu",
+      "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/",
+      "date": "25/11/2024"
+    },
     {
       "tieuDe": "Thông báo nhận bằng tốt nghiệp đợt tháng 11 năm 2024",
       "url": "https://hcmus.edu.vn/47689-2/",
@@ -496,6 +501,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu",
+      "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/",
+      "date": "25/11/2024"
+    },
+    {
       "tieuDe": "Thông báo nhận bằng tốt nghiệp đợt tháng 11 năm 2024",
       "url": "https://hcmus.edu.vn/47689-2/",
       "date": "25/11/2024"
@@ -675,6 +685,11 @@
   ],
   "HCMUS-Nguoi hoc": [
     {
+      "tieuDe": "Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu",
+      "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/",
+      "date": "25/11/2024"
+    },
+    {
       "tieuDe": "THÔNG BÁO Tổ chức hoạt động workshop “Những vấn đề “nóng” trong sinh viên: Nhận biết và nhận thức”",
       "url": "https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-nhung-van-de-nong-trong-sinh-vien-nhan-biet-va-nhan-thuc/",
       "date": "24/11/2024"
@@ -806,6 +821,11 @@
     }
   ],
   "HCMUS-Hoc bong dai hoc": [
+    {
+      "tieuDe": "Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu",
+      "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/",
+      "date": "25/11/2024"
+    },
     {
       "tieuDe": "Thông báo kết quả chính thức học bổng khuyến khích học tập học kỳ 2, năm học 2023-2024",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-2-nam-hoc-2023-2024/",
