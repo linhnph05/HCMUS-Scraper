@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:32:29 26/11/2024",
+  "Update time": "03:17:55 26/11/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2",
@@ -32,6 +32,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Đăng ký tham dự hội thảo Từ môi trường học đường đến môi trường doanh nghiệp: những điều bạn cần biết?",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16501",
+      "date": "26/11/2024"
+    },
     {
       "tieuDe": "Mời đăng ký tham dự Seminar “Evolutionary Feature Selection for High-Dimensional Data: A Fast and Efficient Algorithm with Potential for Medical Applications”",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16499",
@@ -76,14 +81,14 @@
       "tieuDe": "Đăng ký tham dự hội thảo 'Làm chủ kỹ năng phỏng vấn và viết CV'",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16489",
       "date": "21/11/2024"
-    },
-    {
-      "tieuDe": "Danh sách tham quan công ty TecAlliance Việt Nam ngày 4/12",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16488",
-      "date": "20/11/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Đăng ký tham dự hội thảo Từ môi trường học đường đến môi trường doanh nghiệp: những điều bạn cần biết?",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16501",
+      "date": "26/11/2024"
+    },
     {
       "tieuDe": "Thông báo đăng ký tham dự lễ tốt nghiệp Khoa Công nghệ thông tin (cập nhật)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16497",
@@ -103,11 +108,6 @@
       "tieuDe": "Đăng ký tham dự lễ tốt nghiệp Khoa CNTT năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16490",
       "date": "22/11/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham dự hội thảo 'Làm chủ kỹ năng phỏng vấn và viết CV'",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16489",
-      "date": "21/11/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
