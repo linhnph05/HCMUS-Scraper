@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **05:23:59 27/11/2024**_
+_Last update: **06:19:12 27/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/11/2024: [[CTDA] Lịch thi cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-lich-thi-cuoi-ky-hk1-2425/)
 * 11/11/2024: [[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2](https://www.ctda.hcmus.edu.vn/vi/2024/11/9389/)
