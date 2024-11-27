@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **20:32:02 27/11/2024**_
+_Last update: **21:26:04 27/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 27/11/2024: [Thông báo tổ chức lễ tốt nghiệp năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/11/thong-bao-to-chuc-le-tot-nghiep-nam-2024/)
 * 26/11/2024: [[CTDA] Lịch thi cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-lich-thi-cuoi-ky-hk1-2425/)
@@ -40,11 +40,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 27/11/2024: [Bouygues Construction IT Vietnam - Hiring IT System Supervision Level 1 (English) – Fresher](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16503)
 * 27/11/2024: [[GIHOT] Tuyển dụng Game Backend Developer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16502)
 * 27/11/2024: [CÔNG TY FAST - TUYỂN NHÂN VIÊN LẬP TRÌNH PHẦN MỀM TẠI TP.HCM](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16481)
 * 26/11/2024: [ĐẶC QUYỀN DÀNH RIÊNG CHO TALENT SOFTWARE ENGINEER - BẠN ĐÃ SẴN SÀNG 'CẤT CÁNH' CÙNG FPT SOFTWARE?](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16500)
 * 26/11/2024: [[Q2, Q.Bình Thạnh] Golden Owl Solutions Tuyển dụng Thực Tập Sinh IT Tháng 12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16487)
-* 22/11/2024: [[Adnovum] Fresh IAM Engineer Opportunity](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16491)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 27/11/2024: [Danh sách Sinh viên đã xác nhận thông tin lưu trú năm học 2024-2025 (tính đến ngày 26/11/2024)](https://hcmus.edu.vn/danh-sach-sinh-vien-da-xac-nhan-thong-tin-luu-tru-nam-hoc-2024-2025-tinh-den-ngay-26-11-2024/)
 * 26/11/2024: [HỘI NGHỊ KHOA HỌC QUỐC TẾ GIỮA TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM VÀ ĐẠI HỌC HALLYM, HÀN QUỐC](https://hcmus.edu.vn/hoi-nghi-khoa-hoc-quoc-te-giua-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-va-dai-hoc-hallym-han-quoc/)
