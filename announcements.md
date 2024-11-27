@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **08:54:49 27/11/2024**_
+_Last update: **09:56:13 27/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 26/11/2024: [[CTDA] Lịch thi cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-lich-thi-cuoi-ky-hk1-2425/)
 * 11/11/2024: [[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2](https://www.ctda.hcmus.edu.vn/vi/2024/11/9389/)
@@ -41,11 +41,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 27/11/2024: [[GIHOT] Tuyển dụng Game Backend Developer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16502)
+* 27/11/2024: [CÔNG TY FAST - TUYỂN NHÂN VIÊN LẬP TRÌNH PHẦN MỀM TẠI TP.HCM](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16481)
 * 26/11/2024: [ĐẶC QUYỀN DÀNH RIÊNG CHO TALENT SOFTWARE ENGINEER - BẠN ĐÃ SẴN SÀNG 'CẤT CÁNH' CÙNG FPT SOFTWARE?](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16500)
 * 26/11/2024: [[Q2, Q.Bình Thạnh] Golden Owl Solutions Tuyển dụng Thực Tập Sinh IT Tháng 12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16487)
 * 22/11/2024: [[Adnovum] Fresh IAM Engineer Opportunity](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16491)
-* 18/11/2024: [CÔNG TY FAST - TUYỂN NHÂN VIÊN LẬP TRÌNH PHẦN MỀM TẠI TP.HCM](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16481)
-* 18/11/2024: [🔥[FPT SOFTWARE] TUYỂN DỤNG FRESHER AUTOMATION TESTING🔥](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16482)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 25/11/2024: [BUỔI LÀM VIỆC GIỮA TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN VÀ ĐẠI HỌC CHONNAM, HÀN QUỐC](https://hcmus.edu.vn/buoi-lam-viec-giua-dai-hoc-khoa-hoc-tu-nhien-va-dai-hoc-chonnam-han-quoc/)
 * 25/11/2024: [Thông báo nhận bằng tốt nghiệp đợt tháng 10 năm 2024](https://hcmus.edu.vn/47689-2/)

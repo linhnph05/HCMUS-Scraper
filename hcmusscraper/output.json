@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "01:35:26 27/11/2024",
+  "Update time": "02:34:22 27/11/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTDA] Lịch thi cuối kỳ HK1/2425",
@@ -152,6 +152,16 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "[GIHOT] Tuyển dụng Game Backend Developer",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16502",
+      "date": "27/11/2024"
+    },
+    {
+      "tieuDe": "CÔNG TY FAST - TUYỂN NHÂN VIÊN LẬP TRÌNH PHẦN MỀM TẠI TP.HCM",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16481",
+      "date": "27/11/2024"
+    },
+    {
       "tieuDe": "ĐẶC QUYỀN DÀNH RIÊNG CHO TALENT SOFTWARE ENGINEER - BẠN ĐÃ SẴN SÀNG 'CẤT CÁNH' CÙNG FPT SOFTWARE?",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16500",
       "date": "26/11/2024"
@@ -165,16 +175,6 @@
       "tieuDe": "[Adnovum] Fresh IAM Engineer Opportunity",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16491",
       "date": "22/11/2024"
-    },
-    {
-      "tieuDe": "CÔNG TY FAST - TUYỂN NHÂN VIÊN LẬP TRÌNH PHẦN MỀM TẠI TP.HCM",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16481",
-      "date": "18/11/2024"
-    },
-    {
-      "tieuDe": "🔥[FPT SOFTWARE] TUYỂN DỤNG FRESHER AUTOMATION TESTING🔥",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16482",
-      "date": "18/11/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
