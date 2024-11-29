@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **21:27:13 29/11/2024**_
+_Last update: **22:28:03 29/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 27/11/2024: [Thông báo tổ chức lễ tốt nghiệp năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/11/thong-bao-to-chuc-le-tot-nghiep-nam-2024/)
 * 26/11/2024: [[CTDA] Lịch thi cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-lich-thi-cuoi-ky-hk1-2425/)
@@ -47,6 +47,7 @@ No news in the last 1 month
 * 26/11/2024: [ĐẶC QUYỀN DÀNH RIÊNG CHO TALENT SOFTWARE ENGINEER - BẠN ĐÃ SẴN SÀNG 'CẤT CÁNH' CÙNG FPT SOFTWARE?](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16500)
 * 26/11/2024: [[Q2, Q.Bình Thạnh] Golden Owl Solutions Tuyển dụng Thực Tập Sinh IT Tháng 12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16487)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 29/11/2024: [SINH VIÊN NGHIÊN CỨU KHOA HỌC – CÔNG NGHỆ 2024: NỀN TẢNG CHO THẾ HỆ KHOA HỌC TRẺ VIỆT NAM](https://hcmus.edu.vn/sinh-vien-nghien-cuu-khoa-hoc-cong-nghe-2024-nen-tang-cho-the-he-khoa-hoc-tre-viet-nam/)
 * 29/11/2024: [THÔNG BÁO Tổ chức hoạt động Workshop “Yêu sự không hoàn hảo”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-yeu-su-khong-hoan-hao/)
 * 28/11/2024: [Thông báo đăng ký học phần HK2/2024-2025, chương trình CLC, Tăng cường tiếng Anh và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk2-2024-2025-chuong-trinh-clc-tang-cuong-tieng-anh-va-viet-phap/)
 * 28/11/2024: [[THÔNG BÁO] Chương trình thực tập nghiên cứu 2025 – Viện Kỹ thuật Toyota (TTI), Nhật Bản](https://hcmus.edu.vn/thong-bao-chuong-trinh-thuc-tap-nghien-cuu-2025-vien-ky-thuat-toyota-tti-nhat-ban/)
@@ -153,6 +154,7 @@ No news in the last 1 month
 * 07/11/2024: [THÔNG BÁO TUYỂN DỤNG KHOA HÓA HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-hoa-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-2/)
 * 01/11/2024: [THÔNG BÁO TUYỂN DỤNG KHOA VẬT LÝ – VẬT LÝ KỸ THUẬT, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-vat-ly-vat-ly-ky-thuat-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
+* 29/11/2024: [SINH VIÊN NGHIÊN CỨU KHOA HỌC – CÔNG NGHỆ 2024: NỀN TẢNG CHO THẾ HỆ KHOA HỌC TRẺ VIỆT NAM](https://hcmus.edu.vn/sinh-vien-nghien-cuu-khoa-hoc-cong-nghe-2024-nen-tang-cho-the-he-khoa-hoc-tre-viet-nam/)
 * 29/11/2024: [THÔNG BÁO Tổ chức hoạt động Workshop “Yêu sự không hoàn hảo”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-yeu-su-khong-hoan-hao/)
 * 28/11/2024: [[THÔNG BÁO] Chương trình thực tập nghiên cứu 2025 – Viện Kỹ thuật Toyota (TTI), Nhật Bản](https://hcmus.edu.vn/thong-bao-chuong-trinh-thuc-tap-nghien-cuu-2025-vien-ky-thuat-toyota-tti-nhat-ban/)
 * 27/11/2024: [Danh sách Sinh viên đã xác nhận thông tin lưu trú năm học 2024-2025 (tính đến ngày 26/11/2024)](https://hcmus.edu.vn/danh-sach-sinh-vien-da-xac-nhan-thong-tin-luu-tru-nam-hoc-2024-2025-tinh-den-ngay-26-11-2024/)
