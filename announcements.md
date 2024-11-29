@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **10:37:42 29/11/2024**_
+_Last update: **11:26:28 29/11/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 27/11/2024: [Thông báo tổ chức lễ tốt nghiệp năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/11/thong-bao-to-chuc-le-tot-nghiep-nam-2024/)
 * 26/11/2024: [[CTDA] Lịch thi cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-lich-thi-cuoi-ky-hk1-2425/)
@@ -13,6 +13,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 29/11/2024: [Đăng ký áo quà tặng Khoa Công nghệ thông tin (fit@hcmus) dành cho lớp cao học khóa 34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16512)
 * 28/11/2024: [Tổng kết buổi gặp mặt trao đổi và tổ chức Seminar “Evolutionary Feature Selection for High-Dimensional Data: A Fast and Efficient Algorithm with Potential for Medical Applications”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16511)
 * 28/11/2024: [Đăng ký tham quan công ty Golden Owl](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16509)
 * 26/11/2024: [Đăng ký tham dự hội thảo Từ môi trường học đường đến môi trường doanh nghiệp: những điều bạn cần biết?](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16501)
@@ -22,7 +23,6 @@ No news in the last 1 month
 * 25/11/2024: [Thông báo v/v báo cáo định kỳ tình hình hướng dẫn và kết quả học tập của nghiên cứu sinh năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16496)
 * 25/11/2024: [Kết quả tuyển sinh Sau Đại học năm 2024 – đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16495)
 * 23/11/2024: [Danh sách sinh viên tham dự hội thảo 'Làm chủ kỹ năng phỏng vấn và viết CV'](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16494)
-* 22/11/2024: [Danh sách dự kiến cấp xét học bổng đột xuất HK1 năm học 2024-2025 Dự kiến](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16492)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 28/11/2024: [Đăng ký tham quan công ty Golden Owl](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16509)
 * 28/11/2024: [Chương trình thực tập nghiên cứu 2025 - Viện Kỹ thuật Toyota (TTI), Nhật Bản](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16504)

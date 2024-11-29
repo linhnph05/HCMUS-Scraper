@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:19:31 29/11/2024",
+  "Update time": "04:08:45 29/11/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo tổ chức lễ tốt nghiệp năm 2024",
@@ -32,6 +32,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Đăng ký áo quà tặng Khoa Công nghệ thông tin (fit@hcmus) dành cho lớp cao học khóa 34/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16512",
+      "date": "29/11/2024"
+    },
     {
       "tieuDe": "Tổng kết buổi gặp mặt trao đổi và tổ chức Seminar “Evolutionary Feature Selection for High-Dimensional Data: A Fast and Efficient Algorithm with Potential for Medical Applications”",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16511",
@@ -76,11 +81,6 @@
       "tieuDe": "Danh sách sinh viên tham dự hội thảo 'Làm chủ kỹ năng phỏng vấn và viết CV'",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16494",
       "date": "23/11/2024"
-    },
-    {
-      "tieuDe": "Danh sách dự kiến cấp xét học bổng đột xuất HK1 năm học 2024-2025 Dự kiến",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16492",
-      "date": "22/11/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
