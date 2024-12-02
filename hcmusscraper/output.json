@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "11:07:07 02/12/2024",
+  "Update time": "12:12:35 02/12/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo tổ chức lễ tốt nghiệp năm 2024",
@@ -32,6 +32,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Danh sách sinh viên nhận học bổng 'Hành trang hướng nghiệp' HK1/ 2024 - 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16515",
+      "date": "2/12/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên tham dự hội thảo: Từ môi trường học đường đến doanh nghiệp: những điều bạn cần biết?",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16514",
@@ -76,11 +81,6 @@
       "tieuDe": "Thông báo đăng ký tham dự lễ tốt nghiệp Khoa Công nghệ thông tin (cập nhật)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16497",
       "date": "25/11/2024"
-    },
-    {
-      "tieuDe": "Thông báo v/v báo cáo định kỳ tình hình hướng dẫn và kết quả học tập của nghiên cứu sinh năm 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16496",
-      "date": "25/11/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -111,6 +111,11 @@
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
+    {
+      "tieuDe": "Danh sách sinh viên nhận học bổng 'Hành trang hướng nghiệp' HK1/ 2024 - 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16515",
+      "date": "02/12/2024"
+    },
     {
       "tieuDe": "Danh sách dự kiến cấp xét học bổng đột xuất HK1 năm học 2024-2025 Dự kiến",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16492",
