@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "01:35:58 02/12/2024",
+  "Update time": "02:34:45 02/12/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo tổ chức lễ tốt nghiệp năm 2024",
@@ -168,6 +168,11 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "Thông báo thay đổi phòng học môn VTP 1C và Sinh học tế bào",
+      "url": "https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-mon-vtp-1c-va-sinh-hoc-te-bao/",
+      "date": "02/12/2024"
+    },
     {
       "tieuDe": "SINH VIÊN NGHIÊN CỨU KHOA HỌC – CÔNG NGHỆ 2024: NỀN TẢNG CHO THẾ HỆ KHOA HỌC TRẺ VIỆT NAM",
       "url": "https://hcmus.edu.vn/sinh-vien-nghien-cuu-khoa-hoc-cong-nghe-2024-nen-tang-cho-the-he-khoa-hoc-tre-viet-nam/",
@@ -485,6 +490,11 @@
     }
   ],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Thông báo thay đổi phòng học môn VTP 1C và Sinh học tế bào",
+      "url": "https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-mon-vtp-1c-va-sinh-hoc-te-bao/",
+      "date": "02/12/2024"
+    },
     {
       "tieuDe": "THÔNG BÁO Tổ chức hoạt động Workshop “Yêu sự không hoàn hảo”",
       "url": "https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-yeu-su-khong-hoan-hao/",
