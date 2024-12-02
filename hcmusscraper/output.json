@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:10:28 02/12/2024",
+  "Update time": "09:08:31 02/12/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo tổ chức lễ tốt nghiệp năm 2024",
@@ -32,6 +32,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Danh sách sinh viên tham dự hội thảo: Từ môi trường học đường đến doanh nghiệp: những điều bạn cần biết?",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16514",
+      "date": "2/12/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên tham quan công ty Golden Owl",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16513",
@@ -76,14 +81,14 @@
       "tieuDe": "Thông báo v/v báo cáo định kỳ tình hình hướng dẫn và kết quả học tập của nghiên cứu sinh năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16496",
       "date": "25/11/2024"
-    },
-    {
-      "tieuDe": "Kết quả tuyển sinh Sau Đại học năm 2024 – đợt 2",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16495",
-      "date": "25/11/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Danh sách sinh viên tham dự hội thảo: Từ môi trường học đường đến doanh nghiệp: những điều bạn cần biết?",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16514",
+      "date": "02/12/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên tham quan công ty Golden Owl",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16513",
@@ -103,11 +108,6 @@
       "tieuDe": "Đăng ký tham dự hội thảo Từ môi trường học đường đến môi trường doanh nghiệp: những điều bạn cần biết?",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16501",
       "date": "26/11/2024"
-    },
-    {
-      "tieuDe": "Thông báo đăng ký tham dự lễ tốt nghiệp Khoa Công nghệ thông tin (cập nhật)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16497",
-      "date": "25/11/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
@@ -168,6 +168,16 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "[THÔNG BÁO] Chương trình trao đổi học kỳ mùa Xuân 2025 tại ĐH Yeungnam, Hàn Quốc",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-trao-doi-hoc-ky-mua-xuan-2025-tai-dh-yeungnam-han-quoc/",
+      "date": "02/12/2024"
+    },
+    {
+      "tieuDe": "[THÔNG BÁO] Tuyển sinh đi học tại Hung-ga-ri diện Hiệp định năm 2025",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-hung-ga-ri-dien-hiep-dinh-nam-2025/",
+      "date": "02/12/2024"
+    },
     {
       "tieuDe": "Thông báo thay đổi phòng học một số môn tại cơ sở 2 từ ngày 02/12/2024",
       "url": "https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-mon-vtp-1c-va-sinh-hoc-te-bao/",
@@ -491,6 +501,16 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "[THÔNG BÁO] Chương trình trao đổi học kỳ mùa Xuân 2025 tại ĐH Yeungnam, Hàn Quốc",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-trao-doi-hoc-ky-mua-xuan-2025-tai-dh-yeungnam-han-quoc/",
+      "date": "02/12/2024"
+    },
+    {
+      "tieuDe": "[THÔNG BÁO] Tuyển sinh đi học tại Hung-ga-ri diện Hiệp định năm 2025",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-hung-ga-ri-dien-hiep-dinh-nam-2025/",
+      "date": "02/12/2024"
+    },
+    {
       "tieuDe": "Thông báo thay đổi phòng học một số môn tại cơ sở 2 từ ngày 02/12/2024",
       "url": "https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-mon-vtp-1c-va-sinh-hoc-te-bao/",
       "date": "02/12/2024"
@@ -675,6 +695,11 @@
   ],
   "HCMUS-Nguoi hoc": [
     {
+      "tieuDe": "[THÔNG BÁO] Tuyển sinh đi học tại Hung-ga-ri diện Hiệp định năm 2025",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-hung-ga-ri-dien-hiep-dinh-nam-2025/",
+      "date": "02/12/2024"
+    },
+    {
       "tieuDe": "SINH VIÊN NGHIÊN CỨU KHOA HỌC – CÔNG NGHỆ 2024: NỀN TẢNG CHO THẾ HỆ KHOA HỌC TRẺ VIỆT NAM",
       "url": "https://hcmus.edu.vn/sinh-vien-nghien-cuu-khoa-hoc-cong-nghe-2024-nen-tang-cho-the-he-khoa-hoc-tre-viet-nam/",
       "date": "29/11/2024"
@@ -801,6 +826,11 @@
     }
   ],
   "HCMUS-Hoc bong dai hoc": [
+    {
+      "tieuDe": "[THÔNG BÁO] Tuyển sinh đi học tại Hung-ga-ri diện Hiệp định năm 2025",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-hung-ga-ri-dien-hiep-dinh-nam-2025/",
+      "date": "02/12/2024"
+    },
     {
       "tieuDe": "[THÔNG BÁO] Chương trình học bổng France Excellence năm học 2025-2026",
       "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-france-excellence-nam-hoc-2025-2026/",
