@@ -1,11 +1,13 @@
 # All news in the last 1 month 
-_Last update: **09:48:13 03/12/2024**_
+_Last update: **10:35:22 03/12/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 27/11/2024: [Thông báo tổ chức lễ tốt nghiệp năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/11/thong-bao-to-chuc-le-tot-nghiep-nam-2024/)
 * 26/11/2024: [[CTDA] Lịch thi cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-lich-thi-cuoi-ky-hk1-2425/)
 * 11/11/2024: [[CTĐA] Thông báo nộp đề cương Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2020 đợt 2](https://www.ctda.hcmus.edu.vn/vi/2024/11/9389/)
 * 06/11/2024: [[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2021 bảo vệ tháng 8/2025](https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2021-bao-ve-thang-8-2025/)
 * 04/11/2024: [[VP] Thông báo khảo sát giữa kỳ HK1- 2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/vp-thong-bao-khao-sat-giua-ky-hk1-2425/)
+* 04/11/2024: [[CLC] Thông báo khảo sát giữa kỳ HK1- 2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/clc-thong-bao-khao-sat-giua-ky-hk1-2425/)
+* 04/11/2024: [[APCS] Thông báo khảo sát giữa kỳ HK1-2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/apcs-thong-bao-khao-sat-giua-ky-hk1-2425/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
@@ -93,7 +95,7 @@ No news in the last 1 month
 * 11/11/2024: [Thông báo xử lý chênh lệch số tiền tạm thu đầu năm nhiều hơn học phí HK1/24-25 đối với sinh viên khóa 2024](https://hcmus.edu.vn/thong-bao-xu-ly-chenh-lech-so-tien-tam-thu-dau-nam-nhieu-hon-hoc-phi-hk1-24-25-doi-voi-sinh-vien-khoa-2024/)
 * 11/11/2024: [Tiểu ban Công nghệ Giáo dục và Khoa học liên ngành – Hội nghị Khoa học lần thứ 14](https://hcmus.edu.vn/hoi-nghi-khoa-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-lan-thu-14-tieu-ban-cong-nghe-giao-duc-va-khoa-hoc-lien-nganh/)
 * 11/11/2024: [Hội nghị quốc tế ICEBA2024 tại Trường Đại học Khoa học tự nhiên, ĐHQG-HCM: Cơ hội hợp tác nghiên cứu quốc tế](https://hcmus.edu.vn/hoi-nghi-quoc-te-iceba2024-tai-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-co-hoi-hop-tac-nghien-cuu-quoc-te/)
-* 11/11/2024: [Lễ Khai Mạc Hội thảo Quốc tế Khoa Học Trái Đất Và Phát Triển Bền Vững (CESD) 2024 Tại Trường Đại học Khoa học tự nhiên, ĐHQG-HCM](https://hcmus.edu.vn/le-khai-mac-hoi-thao-quoc-te-khoa-hoc-trai-dat-va-phat-trien-ben-vung-cesd-2024-tai-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
+* 11/11/2024: [Lễ Khai mạc Hội thảo Quốc tế Khoa học Trái đất và Phát triển bền vững (CESD) 2024 tại Trường Đại học Khoa học tự nhiên, ĐHQG-HCM](https://hcmus.edu.vn/le-khai-mac-hoi-thao-quoc-te-khoa-hoc-trai-dat-va-phat-trien-ben-vung-cesd-2024-tai-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 11/11/2024: [THÔNG BÁO TUYỂN DỤNG NGHIÊN CỨU VIÊN PHÒNG THÍ NGHIỆM VẬT LIỆU KỸ THUẬT CAO](https://hcmus.edu.vn/thong-bao-tuyen-dung-nghien-cuu-vien-phong-thi-nghiem-vat-lieu-ky-thuat-cao/)
 * 11/11/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ CHUYÊN VIÊN KHOA TOÁN – TIN HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-chuyen-vien-khoa-toan-tin-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 11/11/2024: [Thông báo tham gia tập huấn kỹ năng phòng cháy chữa cháy và cứu nạn cứu hộ năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-tham-gia-tap-huan-ky-nang-phong-chay-chua-chay-va-cuu-nan-cuu-ho-nam-hoc-2024-2025/)

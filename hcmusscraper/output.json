@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "02:34:41 03/12/2024",
+  "Update time": "03:21:49 03/12/2024",
   "Thong Bao": [
     {
       "tieuDe": "Thông báo tổ chức lễ tốt nghiệp năm 2024",
@@ -25,6 +25,16 @@
     {
       "tieuDe": "[VP] Thông báo khảo sát giữa kỳ HK1- 2425",
       "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/vp-thong-bao-khao-sat-giua-ky-hk1-2425/",
+      "date": "04/11/2024"
+    },
+    {
+      "tieuDe": "[CLC] Thông báo khảo sát giữa kỳ HK1- 2425",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/clc-thong-bao-khao-sat-giua-ky-hk1-2425/",
+      "date": "04/11/2024"
+    },
+    {
+      "tieuDe": "[APCS] Thông báo khảo sát giữa kỳ HK1-2425",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/apcs-thong-bao-khao-sat-giua-ky-hk1-2425/",
       "date": "04/11/2024"
     }
   ],
@@ -409,7 +419,7 @@
       "date": "11/11/2024"
     },
     {
-      "tieuDe": "Lễ Khai Mạc Hội thảo Quốc tế Khoa Học Trái Đất Và Phát Triển Bền Vững (CESD) 2024 Tại Trường Đại học Khoa học tự nhiên, ĐHQG-HCM",
+      "tieuDe": "Lễ Khai mạc Hội thảo Quốc tế Khoa học Trái đất và Phát triển bền vững (CESD) 2024 tại Trường Đại học Khoa học tự nhiên, ĐHQG-HCM",
       "url": "https://hcmus.edu.vn/le-khai-mac-hoi-thao-quoc-te-khoa-hoc-trai-dat-va-phat-trien-ben-vung-cesd-2024-tai-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/",
       "date": "11/11/2024"
     },
