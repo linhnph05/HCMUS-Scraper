@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **10:35:22 03/12/2024**_
+_Last update: **11:22:23 03/12/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 27/11/2024: [Thông báo tổ chức lễ tốt nghiệp năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/11/thong-bao-to-chuc-le-tot-nghiep-nam-2024/)
 * 26/11/2024: [[CTDA] Lịch thi cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-lich-thi-cuoi-ky-hk1-2425/)
@@ -48,8 +48,7 @@ No news in the last 1 month
 * 26/11/2024: [ĐẶC QUYỀN DÀNH RIÊNG CHO TALENT SOFTWARE ENGINEER - BẠN ĐÃ SẴN SÀNG 'CẤT CÁNH' CÙNG FPT SOFTWARE?](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16500)
 * 26/11/2024: [[Q2, Q.Bình Thạnh] Golden Owl Solutions Tuyển dụng Thực Tập Sinh IT Tháng 12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16487)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
-* 03/12/2024: [Thông báo Tổ chức hoạt động chuyên đề “Biển đảo quê hương – nhận thức bảo vệ Tổ quốc của thế hệ trẻ hiện nay”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-chuyen-de-bien-dao-que-huong-nhan-thuc-bao-ve-to-quoc-cua-the-he-tre-hien-nay-2/)
-* 03/12/2024: [THÔNG BÁO Tổ chức hoạt động chuyên đề “Biển đảo quê hương – nhận thức bảo vệ Tổ quốc của thế hệ trẻ hiện nay”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-chuyen-de-bien-dao-que-huong-nhan-thuc-bao-ve-to-quoc-cua-the-he-tre-hien-nay/)
+* 03/12/2024: [Thông báo Tổ chức hoạt động chuyên đề “Biển đảo quê hương – nhận thức bảo vệ Tổ quốc của thế hệ trẻ hiện nay”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-chuyen-de-bien-dao-que-huong-nhan-thuc-bao-ve-to-quoc-cua-the-he-tre-hien-nay/)
 * 02/12/2024: [[THÔNG BÁO] Chương trình trao đổi học kỳ mùa Xuân 2025 tại ĐH Yeungnam, Hàn Quốc](https://hcmus.edu.vn/thong-bao-chuong-trinh-trao-doi-hoc-ky-mua-xuan-2025-tai-dh-yeungnam-han-quoc/)
 * 02/12/2024: [[THÔNG BÁO] Tuyển sinh đi học tại Hung-ga-ri diện Hiệp định năm 2025](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-hung-ga-ri-dien-hiep-dinh-nam-2025/)
 * 02/12/2024: [Thông báo thay đổi phòng học một số môn tại cơ sở 2 từ ngày 02/12/2024](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-mon-vtp-1c-va-sinh-hoc-te-bao/)
@@ -120,8 +119,7 @@ No news in the last 1 month
 * 04/11/2024: [THƯ MỜI THAM GIA HỘI NGHỊ QUỐC TẾ ANALYTICA VIỆT NAM 2025](https://hcmus.edu.vn/thu-moi-tham-gia-hoi-nghi-quoc-te-analytica-viet-nam-2025/)
 * 03/11/2024: [THÔNG BÁO Đăng ký lịch Sinh hoạt Công dân Đầu năm, năm học 2024-2025 (Bổ sung)](https://hcmus.edu.vn/thong-bao-dang-ky-lich-sinh-hoat-cong-dan-dau-nam-nam-hoc-2024-2025-bo-sung/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
-* 03/12/2024: [Thông báo Tổ chức hoạt động chuyên đề “Biển đảo quê hương – nhận thức bảo vệ Tổ quốc của thế hệ trẻ hiện nay”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-chuyen-de-bien-dao-que-huong-nhan-thuc-bao-ve-to-quoc-cua-the-he-tre-hien-nay-2/)
-* 03/12/2024: [THÔNG BÁO Tổ chức hoạt động chuyên đề “Biển đảo quê hương – nhận thức bảo vệ Tổ quốc của thế hệ trẻ hiện nay”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-chuyen-de-bien-dao-que-huong-nhan-thuc-bao-ve-to-quoc-cua-the-he-tre-hien-nay/)
+* 03/12/2024: [Thông báo Tổ chức hoạt động chuyên đề “Biển đảo quê hương – nhận thức bảo vệ Tổ quốc của thế hệ trẻ hiện nay”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-chuyen-de-bien-dao-que-huong-nhan-thuc-bao-ve-to-quoc-cua-the-he-tre-hien-nay/)
 * 02/12/2024: [[THÔNG BÁO] Chương trình trao đổi học kỳ mùa Xuân 2025 tại ĐH Yeungnam, Hàn Quốc](https://hcmus.edu.vn/thong-bao-chuong-trinh-trao-doi-hoc-ky-mua-xuan-2025-tai-dh-yeungnam-han-quoc/)
 * 02/12/2024: [[THÔNG BÁO] Tuyển sinh đi học tại Hung-ga-ri diện Hiệp định năm 2025](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-hung-ga-ri-dien-hiep-dinh-nam-2025/)
 * 02/12/2024: [Thông báo thay đổi phòng học một số môn tại cơ sở 2 từ ngày 02/12/2024](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-mon-vtp-1c-va-sinh-hoc-te-bao/)
@@ -160,7 +158,6 @@ No news in the last 1 month
 * 11/11/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ CHUYÊN VIÊN KHOA TOÁN – TIN HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-chuyen-vien-khoa-toan-tin-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 07/11/2024: [THÔNG BÁO TUYỂN DỤNG KHOA HÓA HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-khoa-hoa-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-2/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
-* 03/12/2024: [THÔNG BÁO Tổ chức hoạt động chuyên đề “Biển đảo quê hương – nhận thức bảo vệ Tổ quốc của thế hệ trẻ hiện nay”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-chuyen-de-bien-dao-que-huong-nhan-thuc-bao-ve-to-quoc-cua-the-he-tre-hien-nay/)
 * 02/12/2024: [[THÔNG BÁO] Tuyển sinh đi học tại Hung-ga-ri diện Hiệp định năm 2025](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-hung-ga-ri-dien-hiep-dinh-nam-2025/)
 * 29/11/2024: [THÔNG BÁO Tổ chức hoạt động Workshop “Yêu sự không hoàn hảo”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-yeu-su-khong-hoan-hao/)
 * 28/11/2024: [[THÔNG BÁO] Chương trình thực tập nghiên cứu 2025 – Viện Kỹ thuật Toyota (TTI), Nhật Bản](https://hcmus.edu.vn/thong-bao-chuong-trinh-thuc-tap-nghien-cuu-2025-vien-ky-thuat-toyota-tti-nhat-ban/)
