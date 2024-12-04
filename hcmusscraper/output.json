@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "04:09:15 04/12/2024",
+  "Update time": "05:07:46 04/12/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1",
@@ -26,12 +26,32 @@
       "tieuDe": "[CTĐA] Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2021 bảo vệ tháng 8/2025",
       "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/ctda-thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2021-bao-ve-thang-8-2025/",
       "date": "06/11/2024"
+    },
+    {
+      "tieuDe": "[VP] Thông báo khảo sát giữa kỳ HK1- 2425",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/vp-thong-bao-khao-sat-giua-ky-hk1-2425/",
+      "date": "04/11/2024"
+    },
+    {
+      "tieuDe": "[CLC] Thông báo khảo sát giữa kỳ HK1- 2425",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/clc-thong-bao-khao-sat-giua-ky-hk1-2425/",
+      "date": "04/11/2024"
+    },
+    {
+      "tieuDe": "[APCS] Thông báo khảo sát giữa kỳ HK1-2425",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2024/11/apcs-thong-bao-khao-sat-giua-ky-hk1-2425/",
+      "date": "04/11/2024"
     }
   ],
   "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Đăng ký tham dự hội thảo Hành trang vào nghề: Chinh phục môi trường doanh nghiệp",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16517",
+      "date": "4/12/2024"
+    },
     {
       "tieuDe": "Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 4 năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16516",
@@ -76,14 +96,14 @@
       "tieuDe": "Mời đăng ký tham dự Seminar “Evolutionary Feature Selection for High-Dimensional Data: A Fast and Efficient Algorithm with Potential for Medical Applications”",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16499",
       "date": "25/11/2024"
-    },
-    {
-      "tieuDe": "Thông báo kế hoạch học tập chương trình thạc sĩ khóa 34/ 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16498",
-      "date": "25/11/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Đăng ký tham dự hội thảo Hành trang vào nghề: Chinh phục môi trường doanh nghiệp",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16517",
+      "date": "04/12/2024"
+    },
     {
       "tieuDe": "Danh sách sinh viên tham dự hội thảo: Từ môi trường học đường đến doanh nghiệp: những điều bạn cần biết?",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16514",
@@ -103,11 +123,6 @@
       "tieuDe": "Chương trình thực tập nghiên cứu 2025 - Viện Kỹ thuật Toyota (TTI), Nhật Bản",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16504",
       "date": "28/11/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham dự hội thảo Từ môi trường học đường đến môi trường doanh nghiệp: những điều bạn cần biết?",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16501",
-      "date": "26/11/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
