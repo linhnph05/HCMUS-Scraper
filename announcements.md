@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **10:35:22 05/12/2024**_
+_Last update: **11:23:08 05/12/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 03/12/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2021-dot-1/)
 * 27/11/2024: [Thông báo tổ chức lễ tốt nghiệp năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/11/thong-bao-to-chuc-le-tot-nghiep-nam-2024/)
@@ -41,11 +41,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 05/12/2024: [Công Ty TNHH ARIS Việt Nam - INTERNSHIP DEVELOPER (FOR INTERNS/FRESH GRADUATES)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16519)
 * 27/11/2024: [Bouygues Construction IT Vietnam - Hiring IT System Supervision Level 1 (English) – Fresher](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16503)
 * 27/11/2024: [[GIHOT] Tuyển dụng Game Backend Developer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16502)
 * 27/11/2024: [CÔNG TY FAST - TUYỂN NHÂN VIÊN LẬP TRÌNH PHẦN MỀM TẠI TP.HCM](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16481)
 * 26/11/2024: [ĐẶC QUYỀN DÀNH RIÊNG CHO TALENT SOFTWARE ENGINEER - BẠN ĐÃ SẴN SÀNG 'CẤT CÁNH' CÙNG FPT SOFTWARE?](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16500)
-* 26/11/2024: [[Q2, Q.Bình Thạnh] Golden Owl Solutions Tuyển dụng Thực Tập Sinh IT Tháng 12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16487)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 * 04/12/2024: [Thông báo đổi phòng học từ ngày 03/12 tại cơ sở 2 – Block E, F](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-tu-ngay-03-12-tai-co-so-2-block-e-f/)
 * 03/12/2024: [LỄ TRAO BẰNG TỐT NGHIỆP CỬ NHÂN KHOA HỌC ĐỢT 2 – NĂM 2024](https://hcmus.edu.vn/le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-2-nam-2024/)
