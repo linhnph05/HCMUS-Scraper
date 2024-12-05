@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:08:12 05/12/2024",
+  "Update time": "10:08:20 05/12/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1",
@@ -32,6 +32,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Thông báo đăng ký tín chỉ học phần 1 chương trình cao học khoá 34/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16524",
+      "date": "5/12/2024"
+    },
     {
       "tieuDe": "V/v nộp hồ sơ bảo vệ dành cho học viên cao học bảo vệ đợt cuối tháng 12/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16523",
@@ -76,11 +81,6 @@
       "tieuDe": "Sinh viên Khoa Công nghệ thông tin xuất sắc giành Huy chương Vàng Kỳ thi ICPC lần thứ 49 - Vòng thi Khu vực Châu Á Jakarta",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16520",
       "date": "1/12/2024"
-    },
-    {
-      "tieuDe": "Đăng ký áo quà tặng Khoa Công nghệ thông tin (fit@hcmus) dành cho lớp cao học khóa 34/2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16512",
-      "date": "29/11/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -183,6 +183,16 @@
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [
+    {
+      "tieuDe": "THÔNG BÁO TUYỂN DỤNG VỊ TRÍ TRỢ LÝ SINH VIÊN KHOA HÓA HỌC",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-tro-ly-sinh-vien-khoa-hoa-hoc/",
+      "date": "05/12/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO CỦA BỘ KH&CN VỀ VIỆC ĐỀ XUẤT NHIỆM VỤ KH&CN CẤP QUỐC GIA THUỘC CHƯƠNG TRÌNH KH&CN CẤP QUỐC GIA GIAI ĐOẠN ĐẾN NĂM 2030 “NGHIÊN CỨU KH&CN PHỤC VỤ MỤC TIÊU ĐẠT MỨC PHÁT THẢI RÒNG BẰNG 0 TẠI VIỆT NAM”, MÃ SỐ KC.16/24-30",
+      "url": "https://hcmus.edu.vn/thong-bao-cua-bo-khcn-ve-viec-de-xuat-nhiem-vu-khcn-cap-quoc-gia-thuoc-chuong-trinh-khcn-cap-quoc-gia-giai-doan-den-nam-2030-nghien-cuu-khcn-phuc-vu-muc-tieu-dat-muc-phat-thai-ro/",
+      "date": "05/12/2024"
+    },
     {
       "tieuDe": "Thông báo đổi phòng học từ ngày 03/12 tại cơ sở 2 – Block E, F",
       "url": "https://hcmus.edu.vn/thong-bao-doi-phong-hoc-tu-ngay-03-12-tai-co-so-2-block-e-f/",
@@ -687,6 +697,11 @@
     }
   ],
   "HCMUS-Tuyen dung": [
+    {
+      "tieuDe": "THÔNG BÁO TUYỂN DỤNG VỊ TRÍ TRỢ LÝ SINH VIÊN KHOA HÓA HỌC",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-tro-ly-sinh-vien-khoa-hoa-hoc/",
+      "date": "05/12/2024"
+    },
     {
       "tieuDe": "THÔNG BÁO TUYỂN DỤNG VỊ TRÍ CHUYÊN VIÊN VĂN PHÒNG ĐOÀN THANH NIÊN TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM",
       "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-chuyen-vien-van-phong-doan-thanh-nien-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/",
