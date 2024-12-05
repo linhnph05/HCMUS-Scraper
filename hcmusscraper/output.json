@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "04:09:36 05/12/2024",
+  "Update time": "05:07:40 05/12/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1",
@@ -33,6 +33,11 @@
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
     {
+      "tieuDe": "Thông báo Seminar hằng tuần của Bộ môn Công nghệ Tri thức",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16522",
+      "date": "5/12/2024"
+    },
+    {
       "tieuDe": "Lịch sinh hoạt đầu khóa dành cho học viên, nghiên cứu sinh Khóa 34/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16518",
       "date": "4/12/2024"
@@ -63,6 +68,11 @@
       "date": "2/12/2024"
     },
     {
+      "tieuDe": "Sinh viên Khoa Công nghệ thông tin xuất sắc giành Huy chương Vàng Kỳ thi ICPC lần thứ 49 - Vòng thi Khu vực Châu Á Jakarta",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16520",
+      "date": "1/12/2024"
+    },
+    {
       "tieuDe": "Đăng ký áo quà tặng Khoa Công nghệ thông tin (fit@hcmus) dành cho lớp cao học khóa 34/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16512",
       "date": "29/11/2024"
@@ -71,16 +81,6 @@
       "tieuDe": "Tổng kết buổi gặp mặt trao đổi và tổ chức Seminar “Evolutionary Feature Selection for High-Dimensional Data: A Fast and Efficient Algorithm with Potential for Medical Applications”",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16511",
       "date": "28/11/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham quan công ty Golden Owl",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16509",
-      "date": "28/11/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham dự hội thảo Từ môi trường học đường đến môi trường doanh nghiệp: những điều bạn cần biết?",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16501",
-      "date": "26/11/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -128,6 +128,11 @@
     }
   ],
   "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
+    {
+      "tieuDe": "Thông báo Seminar hằng tuần của Bộ môn Công nghệ Tri thức",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16522",
+      "date": "05/12/2024"
+    },
     {
       "tieuDe": "Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 4 năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16516",
