@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "04:09:09 06/12/2024",
+  "Update time": "05:07:25 06/12/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1",
@@ -184,6 +184,11 @@
   ],
   "HCMUS-Thong tin nguoi hoc": [
     {
+      "tieuDe": "Học bổng toàn phần dành cho sinh viên có hoàn cảnh khó khăn, khuyết tật lần 05 năm 2024",
+      "url": "https://hcmus.edu.vn/hoc-bong-toan-phan-danh-cho-sinh-vien-co-hoan-canh-kho-khan-khuyet-tat-lan-05-nam-2024/",
+      "date": "06/12/2024"
+    },
+    {
       "tieuDe": "Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/",
       "date": "05/12/2024"
@@ -204,7 +209,7 @@
       "date": "04/12/2024"
     },
     {
-      "tieuDe": "LỄ TRAO BẰNG TỐT NGHIỆP CỬ NHÂN KHOA HỌC ĐỢT 2 – NĂM 2024",
+      "tieuDe": "LỄ TRAO BẰNG TỐT NGHIỆP CỬ NHÂN KHOA HỌC – ĐỢT 2, NĂM 2024",
       "url": "https://hcmus.edu.vn/le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-2-nam-2024/",
       "date": "03/12/2024"
     },
@@ -531,6 +536,11 @@
   ],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "Học bổng toàn phần dành cho sinh viên có hoàn cảnh khó khăn, khuyết tật lần 05 năm 2024",
+      "url": "https://hcmus.edu.vn/hoc-bong-toan-phan-danh-cho-sinh-vien-co-hoan-canh-kho-khan-khuyet-tat-lan-05-nam-2024/",
+      "date": "06/12/2024"
+    },
+    {
       "tieuDe": "Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/",
       "date": "05/12/2024"
@@ -826,6 +836,11 @@
     }
   ],
   "HCMUS-Hoc bong dai hoc": [
+    {
+      "tieuDe": "Học bổng toàn phần dành cho sinh viên có hoàn cảnh khó khăn, khuyết tật lần 05 năm 2024",
+      "url": "https://hcmus.edu.vn/hoc-bong-toan-phan-danh-cho-sinh-vien-co-hoan-canh-kho-khan-khuyet-tat-lan-05-nam-2024/",
+      "date": "06/12/2024"
+    },
     {
       "tieuDe": "Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/",

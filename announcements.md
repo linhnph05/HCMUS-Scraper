@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **11:23:26 06/12/2024**_
+_Last update: **12:21:45 06/12/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 03/12/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2021-dot-1/)
 * 27/11/2024: [Thông báo tổ chức lễ tốt nghiệp năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/11/thong-bao-to-chuc-le-tot-nghiep-nam-2024/)
@@ -48,11 +48,12 @@ No news in the last 1 month
 * 27/11/2024: [CÔNG TY FAST - TUYỂN NHÂN VIÊN LẬP TRÌNH PHẦN MỀM TẠI TP.HCM](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16481)
 * 26/11/2024: [ĐẶC QUYỀN DÀNH RIÊNG CHO TALENT SOFTWARE ENGINEER - BẠN ĐÃ SẴN SÀNG 'CẤT CÁNH' CÙNG FPT SOFTWARE?](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16500)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
+* 06/12/2024: [Học bổng toàn phần dành cho sinh viên có hoàn cảnh khó khăn, khuyết tật lần 05 năm 2024](https://hcmus.edu.vn/hoc-bong-toan-phan-danh-cho-sinh-vien-co-hoan-canh-kho-khan-khuyet-tat-lan-05-nam-2024/)
 * 05/12/2024: [Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/)
 * 05/12/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ TRỢ LÝ SINH VIÊN KHOA HÓA HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-tro-ly-sinh-vien-khoa-hoa-hoc/)
 * 05/12/2024: [THÔNG BÁO CỦA BỘ KH&CN VỀ VIỆC ĐỀ XUẤT NHIỆM VỤ KH&CN CẤP QUỐC GIA THUỘC CHƯƠNG TRÌNH KH&CN CẤP QUỐC GIA GIAI ĐOẠN ĐẾN NĂM 2030 “NGHIÊN CỨU KH&CN PHỤC VỤ MỤC TIÊU ĐẠT MỨC PHÁT THẢI RÒNG BẰNG 0 TẠI VIỆT NAM”, MÃ SỐ KC.16/24-30](https://hcmus.edu.vn/thong-bao-cua-bo-khcn-ve-viec-de-xuat-nhiem-vu-khcn-cap-quoc-gia-thuoc-chuong-trinh-khcn-cap-quoc-gia-giai-doan-den-nam-2030-nghien-cuu-khcn-phuc-vu-muc-tieu-dat-muc-phat-thai-ro/)
 * 04/12/2024: [Thông báo đổi phòng học từ ngày 03/12 tại cơ sở 2 – Block E, F](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-tu-ngay-03-12-tai-co-so-2-block-e-f/)
-* 03/12/2024: [LỄ TRAO BẰNG TỐT NGHIỆP CỬ NHÂN KHOA HỌC ĐỢT 2 – NĂM 2024](https://hcmus.edu.vn/le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-2-nam-2024/)
+* 03/12/2024: [LỄ TRAO BẰNG TỐT NGHIỆP CỬ NHÂN KHOA HỌC – ĐỢT 2, NĂM 2024](https://hcmus.edu.vn/le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-2-nam-2024/)
 * 03/12/2024: [Thông báo Tổ chức hoạt động chuyên đề “Biển đảo quê hương – nhận thức bảo vệ Tổ quốc của thế hệ trẻ hiện nay”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-chuyen-de-bien-dao-que-huong-nhan-thuc-bao-ve-to-quoc-cua-the-he-tre-hien-nay/)
 * 02/12/2024: [[THÔNG BÁO] Chương trình trao đổi học kỳ mùa Xuân 2025 tại ĐH Yeungnam, Hàn Quốc](https://hcmus.edu.vn/thong-bao-chuong-trinh-trao-doi-hoc-ky-mua-xuan-2025-tai-dh-yeungnam-han-quoc/)
 * 02/12/2024: [[THÔNG BÁO] Tuyển sinh đi học tại Hung-ga-ri diện Hiệp định năm 2025](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-hung-ga-ri-dien-hiep-dinh-nam-2025/)
@@ -118,6 +119,7 @@ No news in the last 1 month
 * 06/11/2024: [TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN LÀM VIỆC VỚI TẬP ĐOÀN SẢN XUẤT CHẤT BÁN DẪN TSMC, ĐÀI LOAN](https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-lam-viec-voi-tap-doan-san-xuat-chat-ban-dan-tsmc-dai-loan/)
 * 06/11/2024: [Nghiên Cứu Tác Động Của Hạn Hán Lên Sản Xuất Nông Nghiệp Tỉnh Ninh Thuận và xây dựng giải pháp thích ứng trong bối cảnh biến đổi khí hậu.](https://hcmus.edu.vn/https-sdh-hcmus-edu-vn-2024-09-17-trang-thong-tin-gioi-thieu-luan-an-tien-si-cua-ncs-nguyen-hoang-tuan/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 06/12/2024: [Học bổng toàn phần dành cho sinh viên có hoàn cảnh khó khăn, khuyết tật lần 05 năm 2024](https://hcmus.edu.vn/hoc-bong-toan-phan-danh-cho-sinh-vien-co-hoan-canh-kho-khan-khuyet-tat-lan-05-nam-2024/)
 * 05/12/2024: [Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/)
 * 04/12/2024: [Thông báo đổi phòng học từ ngày 03/12 tại cơ sở 2 – Block E, F](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-tu-ngay-03-12-tai-co-so-2-block-e-f/)
 * 03/12/2024: [Thông báo Tổ chức hoạt động chuyên đề “Biển đảo quê hương – nhận thức bảo vệ Tổ quốc của thế hệ trẻ hiện nay”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-chuyen-de-bien-dao-que-huong-nhan-thuc-bao-ve-to-quoc-cua-the-he-tre-hien-nay/)
@@ -179,6 +181,7 @@ No news in the last 1 month
 * 07/11/2024: [Thông báo thu phí bảo hiểm y tế năm 2025 (đợt 1) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2024)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2025-dot-1-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2024/)
 * 06/11/2024: [Nghiên Cứu Tác Động Của Hạn Hán Lên Sản Xuất Nông Nghiệp Tỉnh Ninh Thuận và xây dựng giải pháp thích ứng trong bối cảnh biến đổi khí hậu.](https://hcmus.edu.vn/https-sdh-hcmus-edu-vn-2024-09-17-trang-thong-tin-gioi-thieu-luan-an-tien-si-cua-ncs-nguyen-hoang-tuan/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
+* 06/12/2024: [Học bổng toàn phần dành cho sinh viên có hoàn cảnh khó khăn, khuyết tật lần 05 năm 2024](https://hcmus.edu.vn/hoc-bong-toan-phan-danh-cho-sinh-vien-co-hoan-canh-kho-khan-khuyet-tat-lan-05-nam-2024/)
 * 05/12/2024: [Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/)
 * 02/12/2024: [[THÔNG BÁO] Tuyển sinh đi học tại Hung-ga-ri diện Hiệp định năm 2025](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-hung-ga-ri-dien-hiep-dinh-nam-2025/)
 * 28/11/2024: [[THÔNG BÁO] Chương trình học bổng France Excellence năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-france-excellence-nam-hoc-2025-2026/)
