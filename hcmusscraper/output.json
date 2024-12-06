@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "12:11:38 06/12/2024",
+  "Update time": "13:13:31 06/12/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1",
@@ -32,6 +32,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "[Hỗ trợ truyền thông] MBZUAI Webinar online: Undergraduate Research Internship Program 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16525",
+      "date": "6/12/2024"
+    },
     {
       "tieuDe": "Thông báo đăng ký tín chỉ học phần 1 chương trình cao học khoá 34/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16524",
@@ -76,11 +81,6 @@
       "tieuDe": "Danh sách sinh viên tham quan công ty Golden Owl",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16513",
       "date": "2/12/2024"
-    },
-    {
-      "tieuDe": "Sinh viên Khoa Công nghệ thông tin xuất sắc giành Huy chương Vàng Kỳ thi ICPC lần thứ 49 - Vòng thi Khu vực Châu Á Jakarta",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16520",
-      "date": "1/12/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -129,6 +129,11 @@
   ],
   "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
     {
+      "tieuDe": "[Hỗ trợ truyền thông] MBZUAI Webinar online: Undergraduate Research Internship Program 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16525",
+      "date": "06/12/2024"
+    },
+    {
       "tieuDe": "Thông báo Seminar hằng tuần của Bộ môn Công nghệ Tri thức",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16522",
       "date": "05/12/2024"
@@ -147,11 +152,6 @@
       "tieuDe": "Mời đăng ký tham dự Seminar “Evolutionary Feature Selection for High-Dimensional Data: A Fast and Efficient Algorithm with Potential for Medical Applications”",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16499",
       "date": "25/11/2024"
-    },
-    {
-      "tieuDe": "Tiểu ban Công nghệ Thông tin và Truyền thông - Hội nghị Khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM lần thứ XIV năm 2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16475",
-      "date": "13/11/2024"
     }
   ],
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],

@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **19:25:21 06/12/2024**_
+_Last update: **20:26:43 06/12/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 03/12/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2021-dot-1/)
 * 27/11/2024: [Thông báo tổ chức lễ tốt nghiệp năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/11/thong-bao-to-chuc-le-tot-nghiep-nam-2024/)
@@ -13,6 +13,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 6/12/2024: [[Hỗ trợ truyền thông] MBZUAI Webinar online: Undergraduate Research Internship Program 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16525)
 * 5/12/2024: [Thông báo đăng ký tín chỉ học phần 1 chương trình cao học khoá 34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16524)
 * 5/12/2024: [V/v nộp hồ sơ bảo vệ dành cho học viên cao học bảo vệ đợt cuối tháng 12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16523)
 * 5/12/2024: [Thông báo Seminar hằng tuần của Bộ môn Công nghệ Tri thức](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16522)
@@ -22,7 +23,6 @@ No news in the last 1 month
 * 2/12/2024: [Danh sách sinh viên nhận học bổng 'Hành trang hướng nghiệp' HK1/ 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16515)
 * 2/12/2024: [Danh sách sinh viên tham dự hội thảo: Từ môi trường học đường đến doanh nghiệp: những điều bạn cần biết?](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16514)
 * 2/12/2024: [Danh sách sinh viên tham quan công ty Golden Owl](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16513)
-* 1/12/2024: [Sinh viên Khoa Công nghệ thông tin xuất sắc giành Huy chương Vàng Kỳ thi ICPC lần thứ 49 - Vòng thi Khu vực Châu Á Jakarta](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16520)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 04/12/2024: [Đăng ký tham dự hội thảo Hành trang vào nghề: Chinh phục môi trường doanh nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16517)
 * 02/12/2024: [Danh sách sinh viên tham dự hội thảo: Từ môi trường học đường đến doanh nghiệp: những điều bạn cần biết?](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16514)
@@ -34,11 +34,11 @@ No news in the last 1 month
 * 22/11/2024: [Danh sách dự kiến cấp xét học bổng đột xuất HK1 năm học 2024-2025 Dự kiến](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16492)
 * 07/11/2024: [Đăng ký ứng tuyển học bổng công ty TNHH Scrumviet](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16465)
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 06/12/2024: [[Hỗ trợ truyền thông] MBZUAI Webinar online: Undergraduate Research Internship Program 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16525)
 * 05/12/2024: [Thông báo Seminar hằng tuần của Bộ môn Công nghệ Tri thức](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16522)
 * 03/12/2024: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 4 năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16516)
 * 28/11/2024: [Tổng kết buổi gặp mặt trao đổi và tổ chức Seminar “Evolutionary Feature Selection for High-Dimensional Data: A Fast and Efficient Algorithm with Potential for Medical Applications”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16511)
 * 25/11/2024: [Mời đăng ký tham dự Seminar “Evolutionary Feature Selection for High-Dimensional Data: A Fast and Efficient Algorithm with Potential for Medical Applications”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16499)
-* 13/11/2024: [Tiểu ban Công nghệ Thông tin và Truyền thông - Hội nghị Khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM lần thứ XIV năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16475)
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
