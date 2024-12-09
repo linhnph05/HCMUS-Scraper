@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:20:19 09/12/2024**_
+_Last update: **07:44:12 09/12/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 03/12/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2021-dot-1/)
 * 27/11/2024: [Thông báo tổ chức lễ tốt nghiệp năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/11/thong-bao-to-chuc-le-tot-nghiep-nam-2024/)
@@ -105,10 +105,6 @@ No news in the last 1 month
 * 11/11/2024: [THÔNG BÁO VỀ VIỆC ĐỀ XUẤT, ĐẶT HÀNG NHIỆM VỤ KH&CN CẤP TỈNH AN GIANG NĂM 2025-2026](https://hcmus.edu.vn/thong-bao-ve-viec-de-xuat-dat-hang-nhiem-vu-khcn-cap-tinh-an-giang-nam-2025-2026/)
 * 09/11/2024: [Hành trình khoa học và dấu ấn Quả Cầu Vàng 2024 của Tiến sĩ Phạm Thanh Tuấn Anh](https://hcmus.edu.vn/hanh-trinh-khoa-hoc-va-dau-an-qua-cau-vang-2024-cua-tien-si-pham-thanh-tuan-anh/)
 * 09/11/2024: [HỌP HỘI ĐỒNG NGHIỆM THU ĐỀ TÀI CẤP ĐHQG-HCM: “PHÁT TRIỂN PHƯƠNG PHÁP SỐ CHO PHƯƠNG TRÌNH ĐẠO HÀM RIÊNG”](https://hcmus.edu.vn/hop-hoi-dong-nghiem-thu-de-tai-cap-dhqg-hcm-phat-trien-phuong-phap-so-cho-phuong-trinh-dao-ham-rieng/)
-* 08/11/2024: [Thông báo về việc cung cấp thông tin lưu trú năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ve-viec-cung-cap-thong-tin-luu-tru-nam-hoc-2024-2025/)
-* 08/11/2024: [TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN: NƠI ƯƠM MẦM TINH THẦN CỐNG HIẾN VÀ LÝ TƯỞNG SỐNG](https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-noi-uom-mam-tinh-than-cong-hien-va-ly-tuong-song/)
-* 08/11/2024: [Kết quả đăng ký Sinh hoạt Công dân đầu năm chuyên đề A, năm học 2024-2025 (Đợt bổ sung)](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-nam-hoc-2024-2025-dot-bo-sung/)
-* 08/11/2024: [Thông báo về việc cảnh báo học tập và buộc thôi học tại HK1/2024-2025](https://hcmus.edu.vn/thong-bao-ve-viec-canh-bao-hoc-tap-va-buoc-thoi-hoc-tai-hk1-2024-2025/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 06/12/2024: [Học bổng toàn phần dành cho sinh viên có hoàn cảnh khó khăn, khuyết tật lần 05 năm 2024](https://hcmus.edu.vn/hoc-bong-toan-phan-danh-cho-sinh-vien-co-hoan-canh-kho-khan-khuyet-tat-lan-05-nam-2024/)
 * 05/12/2024: [Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/)
@@ -135,9 +131,6 @@ No news in the last 1 month
 * 12/11/2024: [Thông báo kết quả chính thức học bổng khuyến khích học tập học kỳ 2, năm học 2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-2-nam-hoc-2023-2024/)
 * 11/11/2024: [Thông báo xử lý chênh lệch số tiền tạm thu đầu năm nhiều hơn học phí HK1/24-25 đối với sinh viên khóa 2024](https://hcmus.edu.vn/thong-bao-xu-ly-chenh-lech-so-tien-tam-thu-dau-nam-nhieu-hon-hoc-phi-hk1-24-25-doi-voi-sinh-vien-khoa-2024/)
 * 11/11/2024: [Thông báo tham gia tập huấn kỹ năng phòng cháy chữa cháy và cứu nạn cứu hộ năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-tham-gia-tap-huan-ky-nang-phong-chay-chua-chay-va-cuu-nan-cuu-ho-nam-hoc-2024-2025/)
-* 08/11/2024: [Thông báo về việc cung cấp thông tin lưu trú năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ve-viec-cung-cap-thong-tin-luu-tru-nam-hoc-2024-2025/)
-* 08/11/2024: [Kết quả đăng ký Sinh hoạt Công dân đầu năm chuyên đề A, năm học 2024-2025 (Đợt bổ sung)](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-nam-hoc-2024-2025-dot-bo-sung/)
-* 08/11/2024: [Thông báo về việc cảnh báo học tập và buộc thôi học tại HK1/2024-2025](https://hcmus.edu.vn/thong-bao-ve-viec-canh-bao-hoc-tap-va-buoc-thoi-hoc-tai-hk1-2024-2025/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 05/12/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ TRỢ LÝ SINH VIÊN KHOA HÓA HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-tro-ly-sinh-vien-khoa-hoa-hoc/)
 * 19/11/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ CHUYÊN VIÊN VĂN PHÒNG ĐOÀN THANH NIÊN TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-chuyen-vien-van-phong-doan-thanh-nien-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
@@ -161,9 +154,6 @@ No news in the last 1 month
 * 12/11/2024: [Danh sách sinh viên đã tham gia Sinh hoạt Công dân Đầu năm – Chuyên đề A ngày 09 và 10/11/2024](https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-ngay-09-va-10-11-2024/)
 * 12/11/2024: [Thông báo kết quả chính thức học bổng khuyến khích học tập học kỳ 2, năm học 2023-2024](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-2-nam-hoc-2023-2024/)
 * 11/11/2024: [Thông báo tham gia tập huấn kỹ năng phòng cháy chữa cháy và cứu nạn cứu hộ năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-tham-gia-tap-huan-ky-nang-phong-chay-chua-chay-va-cuu-nan-cuu-ho-nam-hoc-2024-2025/)
-* 08/11/2024: [Thông báo về việc cung cấp thông tin lưu trú năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ve-viec-cung-cap-thong-tin-luu-tru-nam-hoc-2024-2025/)
-* 08/11/2024: [TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN: NƠI ƯƠM MẦM TINH THẦN CỐNG HIẾN VÀ LÝ TƯỞNG SỐNG](https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-noi-uom-mam-tinh-than-cong-hien-va-ly-tuong-song/)
-* 08/11/2024: [Kết quả đăng ký Sinh hoạt Công dân đầu năm chuyên đề A, năm học 2024-2025 (Đợt bổ sung)](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-nam-hoc-2024-2025-dot-bo-sung/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
 * 06/12/2024: [Học bổng toàn phần dành cho sinh viên có hoàn cảnh khó khăn, khuyết tật lần 05 năm 2024](https://hcmus.edu.vn/hoc-bong-toan-phan-danh-cho-sinh-vien-co-hoan-canh-kho-khan-khuyet-tat-lan-05-nam-2024/)
 * 05/12/2024: [Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/)
