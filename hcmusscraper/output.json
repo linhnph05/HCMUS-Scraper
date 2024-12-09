@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "11:07:03 09/12/2024",
+  "Update time": "12:12:22 09/12/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1",
@@ -27,6 +27,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Danh sách sinh viên tham gia hội thảo Hành trang vào nghề: Chinh phục môi trường doanh nghiệp",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16528",
+      "date": "9/12/2024"
+    },
     {
       "tieuDe": "Thông báo đăng ký Học phần 1 cùng lớp cao học khóa 34/2024 đối với sinh viên liên thông ĐH-ThS khóa 2021",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16527",
@@ -71,14 +76,14 @@
       "tieuDe": "Danh sách sinh viên nhận học bổng 'Hành trang hướng nghiệp' HK1/ 2024 - 2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16515",
       "date": "2/12/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên tham dự hội thảo: Từ môi trường học đường đến doanh nghiệp: những điều bạn cần biết?",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16514",
-      "date": "2/12/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Danh sách sinh viên tham gia hội thảo Hành trang vào nghề: Chinh phục môi trường doanh nghiệp",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16528",
+      "date": "09/12/2024"
+    },
     {
       "tieuDe": "Đăng ký tham dự hội thảo Hành trang vào nghề: Chinh phục môi trường doanh nghiệp",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16517",
@@ -97,11 +102,6 @@
     {
       "tieuDe": "Đăng ký tham quan công ty Golden Owl",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16509",
-      "date": "28/11/2024"
-    },
-    {
-      "tieuDe": "Chương trình thực tập nghiên cứu 2025 - Viện Kỹ thuật Toyota (TTI), Nhật Bản",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16504",
       "date": "28/11/2024"
     }
   ],
