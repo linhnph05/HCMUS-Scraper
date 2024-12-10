@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:20:52 10/12/2024**_
+_Last update: **07:41:46 10/12/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 03/12/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2021-dot-1/)
 * 27/11/2024: [Thông báo tổ chức lễ tốt nghiệp năm 2024](https://www.ctda.hcmus.edu.vn/vi/2024/11/thong-bao-to-chuc-le-tot-nghiep-nam-2024/)
@@ -106,8 +106,6 @@ No news in the last 1 month
 * 11/11/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ CHUYÊN VIÊN KHOA TOÁN – TIN HỌC, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-chuyen-vien-khoa-toan-tin-hoc-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 11/11/2024: [Thông báo tham gia tập huấn kỹ năng phòng cháy chữa cháy và cứu nạn cứu hộ năm học 2024 – 2025](https://hcmus.edu.vn/thong-bao-tham-gia-tap-huan-ky-nang-phong-chay-chua-chay-va-cuu-nan-cuu-ho-nam-hoc-2024-2025/)
 * 11/11/2024: [THÔNG BÁO VỀ VIỆC ĐỀ XUẤT, ĐẶT HÀNG NHIỆM VỤ KH&CN CẤP TỈNH AN GIANG NĂM 2025-2026](https://hcmus.edu.vn/thong-bao-ve-viec-de-xuat-dat-hang-nhiem-vu-khcn-cap-tinh-an-giang-nam-2025-2026/)
-* 09/11/2024: [Hành trình khoa học và dấu ấn Quả Cầu Vàng 2024 của Tiến sĩ Phạm Thanh Tuấn Anh](https://hcmus.edu.vn/hanh-trinh-khoa-hoc-va-dau-an-qua-cau-vang-2024-cua-tien-si-pham-thanh-tuan-anh/)
-* 09/11/2024: [HỌP HỘI ĐỒNG NGHIỆM THU ĐỀ TÀI CẤP ĐHQG-HCM: “PHÁT TRIỂN PHƯƠNG PHÁP SỐ CHO PHƯƠNG TRÌNH ĐẠO HÀM RIÊNG”](https://hcmus.edu.vn/hop-hoi-dong-nghiem-thu-de-tai-cap-dhqg-hcm-phat-trien-phuong-phap-so-cho-phuong-trinh-dao-ham-rieng/)
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
 * 09/12/2024: [Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/)
 * 06/12/2024: [Học bổng toàn phần dành cho sinh viên có hoàn cảnh khó khăn, khuyết tật lần 05 năm 2024](https://hcmus.edu.vn/hoc-bong-toan-phan-danh-cho-sinh-vien-co-hoan-canh-kho-khan-khuyet-tat-lan-05-nam-2024/)
