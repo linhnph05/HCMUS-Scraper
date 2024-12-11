@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "03:20:51 11/12/2024",
+  "Update time": "04:09:33 11/12/2024",
   "Thong Bao": [
     {
       "tieuDe": "CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1",
@@ -175,6 +175,16 @@
   "HCMUS-Thong tin nguoi hoc": [],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "Thông báo v/v đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2025 dành cho các sinh viên tham gia BHYT tại Trường",
+      "url": "https://hcmus.edu.vn/thong-bao-v-v-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2025-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/",
+      "date": "11/12/2024"
+    },
+    {
+      "tieuDe": "THÔNG BÁO Chương trình bồi dưỡng Kỹ năng thực hành “An toàn số”",
+      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-boi-duong-ky-nang-thuc-hanh-an-toan-so/",
+      "date": "11/12/2024"
+    },
+    {
       "tieuDe": "Kết quả xét Hoàn tất chương trình đại học đợt tháng 12/2024",
       "url": "https://hcmus.edu.vn/ket-qua-xet-hoan-tat-chuong-trinh-dai-hoc-dot-thang-12-2024/",
       "date": "10/12/2024"
@@ -343,6 +353,11 @@
     }
   ],
   "HCMUS-Nguoi hoc": [
+    {
+      "tieuDe": "Thông báo v/v đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2025 dành cho các sinh viên tham gia BHYT tại Trường",
+      "url": "https://hcmus.edu.vn/thong-bao-v-v-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2025-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/",
+      "date": "11/12/2024"
+    },
     {
       "tieuDe": "Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/",
