@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **14:22:29 16/12/2024**_
+_Last update: **15:14:33 16/12/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/12/2024: [[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda-lich-thi-chi-tiet-cuoi-ky-hk1-2425/)
 * 03/12/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2021-dot-1/)
@@ -23,11 +23,11 @@ No news in the last 1 month
 * 4/12/2024: [Đăng ký tham dự hội thảo Hành trang vào nghề: Chinh phục môi trường doanh nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16517)
 * 3/12/2024: [Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 4 năm 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16516)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 16/12/2024: [CHUYẾN 'XE VỀ NHÀ' 2025 TÀI TRỢ BỞI KMS TECHNOLOGY](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16531)
 * 09/12/2024: [Danh sách sinh viên tham gia hội thảo Hành trang vào nghề: Chinh phục môi trường doanh nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16528)
 * 04/12/2024: [Đăng ký tham dự hội thảo Hành trang vào nghề: Chinh phục môi trường doanh nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16517)
 * 02/12/2024: [Danh sách sinh viên tham dự hội thảo: Từ môi trường học đường đến doanh nghiệp: những điều bạn cần biết?](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16514)
 * 02/12/2024: [Danh sách sinh viên tham quan công ty Golden Owl](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16513)
-* 28/11/2024: [Đăng ký tham quan công ty Golden Owl](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16509)
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 02/12/2024: [Danh sách sinh viên nhận học bổng 'Hành trang hướng nghiệp' HK1/ 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16515)
 * 22/11/2024: [Danh sách dự kiến cấp xét học bổng đột xuất HK1 năm học 2024-2025 Dự kiến](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16492)
