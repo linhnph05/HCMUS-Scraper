@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **20:27:51 16/12/2024**_
+_Last update: **21:21:51 16/12/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/12/2024: [[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda-lich-thi-chi-tiet-cuoi-ky-hk1-2425/)
 * 03/12/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2021-dot-1/)
@@ -74,6 +74,7 @@ No news in the last 1 month
 * 05/12/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ TRỢ LÝ SINH VIÊN KHOA HÓA HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-tro-ly-sinh-vien-khoa-hoa-hoc/)
 * 19/11/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ CHUYÊN VIÊN VĂN PHÒNG ĐOÀN THANH NIÊN TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-chuyen-vien-van-phong-doan-thanh-nien-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
+* 16/12/2024: [317 Ý TƯỞNG ĐỘT PHÁ TỪ CUỘC THI SÁNG TẠO TẾ BÀO GỐC LẦN THỨ 9 – STEM CELL INNOVATION 2024](https://hcmus.edu.vn/y-tuong-dot-pha-tu-cuoc-thi-sang-tao-te-bao-goc-lan-thu-9-stem-cell-innovation-2024/)
 * 11/12/2024: [Thông báo nhận hình Lễ Trao Bằng tốt nghiệp Cử nhân Khoa học Đợt 2 năm 2024 do Trường tổ chức ngày 01/12, 05/12 và 07/12/2024](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-2-nam-2024-do-truong-to-chuc-ngay-01-12-05-12-va-07-12-2024/)
 * 11/12/2024: [Thông báo v/v đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2025 dành cho các sinh viên tham gia BHYT tại Trường](https://hcmus.edu.vn/thong-bao-v-v-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2025-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
 * 09/12/2024: [Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/)
