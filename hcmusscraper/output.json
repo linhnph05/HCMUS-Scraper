@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "10:08:14 17/12/2024",
+  "Update time": "11:07:04 17/12/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425",
@@ -27,6 +27,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Thời khóa biểu có phòng các lớp Học phần 1 Khóa 34/2024 - bắt đầu học 16/12/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16535",
+      "date": "17/12/2024"
+    },
     {
       "tieuDe": "Mời đăng ký tham dự Seminar Sau đại học ngày 21/12/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16533",
@@ -71,11 +76,6 @@
       "tieuDe": "Thông báo Seminar hằng tuần của Bộ môn Công nghệ Tri thức",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16522",
       "date": "5/12/2024"
-    },
-    {
-      "tieuDe": "Lịch sinh hoạt đầu khóa dành cho học viên, nghiên cứu sinh Khóa 34/2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16518",
-      "date": "4/12/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
