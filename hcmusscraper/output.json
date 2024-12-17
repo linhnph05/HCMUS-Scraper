@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "04:08:57 17/12/2024",
+  "Update time": "05:07:47 17/12/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425",
@@ -147,6 +147,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "Phygital Labs tuyển dụng Backend Fresher/Junior",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16534",
+      "date": "17/12/2024"
+    },
+    {
       "tieuDe": "NAB WeCamp Training Program - Batch 7 (Open for female talents)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16530",
       "date": "16/12/2024"
@@ -164,11 +169,6 @@
     {
       "tieuDe": "[GIHOT] Tuyển dụng Game Backend Developer",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16502",
-      "date": "27/11/2024"
-    },
-    {
-      "tieuDe": "CÔNG TY FAST - TUYỂN NHÂN VIÊN LẬP TRÌNH PHẦN MỀM TẠI TP.HCM",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16481",
       "date": "27/11/2024"
     }
   ],

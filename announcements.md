@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **11:23:16 17/12/2024**_
+_Last update: **12:22:38 17/12/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/12/2024: [[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda-lich-thi-chi-tiet-cuoi-ky-hk1-2425/)
 * 03/12/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2021-dot-1/)
@@ -40,11 +40,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 17/12/2024: [Phygital Labs tuyển dụng Backend Fresher/Junior](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16534)
 * 16/12/2024: [NAB WeCamp Training Program - Batch 7 (Open for female talents)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16530)
 * 05/12/2024: [Công Ty TNHH ARIS Việt Nam - INTERNSHIP DEVELOPER (FOR INTERNS/FRESH GRADUATES)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16519)
 * 27/11/2024: [Bouygues Construction IT Vietnam - Hiring IT System Supervision Level 1 (English) – Fresher](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16503)
 * 27/11/2024: [[GIHOT] Tuyển dụng Game Backend Developer](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16502)
-* 27/11/2024: [CÔNG TY FAST - TUYỂN NHÂN VIÊN LẬP TRÌNH PHẦN MỀM TẠI TP.HCM](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16481)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 No news in the last 1 month
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
