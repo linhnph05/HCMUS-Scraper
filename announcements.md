@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:21:27 17/12/2024**_
+_Last update: **07:42:16 17/12/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/12/2024: [[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda-lich-thi-chi-tiet-cuoi-ky-hk1-2425/)
 * 03/12/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2021-dot-1/)
@@ -86,7 +86,6 @@ No news in the last 1 month
 * 24/11/2024: [THÔNG BÁO Tổ chức hoạt động workshop “Những vấn đề “nóng” trong sinh viên: Nhận biết và nhận thức”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-nhung-van-de-nong-trong-sinh-vien-nhan-biet-va-nhan-thuc/)
 * 24/11/2024: [Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/)
 * 21/11/2024: [Danh sách sinh viên đã tham gia Sinh hoạt Công dân Đầu năm – Chuyên đề A ngày 16 và 17/11/2024](https://hcmus.edu.vn/danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-dau-nam-chuyen-de-a-ngay-16-va-17-11-2024/)
-* 16/11/2024: [THAM GIA CHUYÊN ĐỀ KHOA HỌC DỮ LIỆU CÙNG CHUYÊN GIA](https://hcmus.edu.vn/tham-gia-khoa-hoc-du-lieu-cung-chuyen-gia/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
 * 09/12/2024: [Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/)
 * 06/12/2024: [Học bổng toàn phần dành cho sinh viên có hoàn cảnh khó khăn, khuyết tật lần 05 năm 2024](https://hcmus.edu.vn/hoc-bong-toan-phan-danh-cho-sinh-vien-co-hoan-canh-kho-khan-khuyet-tat-lan-05-nam-2024/)
@@ -94,4 +93,3 @@ No news in the last 1 month
 * 02/12/2024: [[THÔNG BÁO] Tuyển sinh đi học tại Hung-ga-ri diện Hiệp định năm 2025](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-hung-ga-ri-dien-hiep-dinh-nam-2025/)
 * 28/11/2024: [[THÔNG BÁO] Chương trình học bổng France Excellence năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-france-excellence-nam-hoc-2025-2026/)
 * 24/11/2024: [Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/)
-* 16/11/2024: [Chữ Tình khoa Hóa học: Những suất học bổng ý nghĩa và Quỹ Vượt khó lãi suất 0%](https://hcmus.edu.vn/khoa-hoa-hoc-dong-hanh-cung-sinh-vien-nhung-suat-hoc-bong-y-nghia-va-quy-vuot-kho-lai-suat-0/)
