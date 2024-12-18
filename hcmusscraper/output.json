@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:07:49 18/12/2024",
+  "Update time": "10:08:11 18/12/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425",
@@ -27,6 +27,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Tổng kết Seminar Safe, open, locally-aligned language models",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16538",
+      "date": "18/12/2024"
+    },
     {
       "tieuDe": "Mời tham dự buổi bảo vệ luận văn Thạc sĩ đợt cuối tháng 12/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16536",
@@ -71,11 +76,6 @@
       "tieuDe": "Thông báo đăng ký tín chỉ học phần 1 chương trình cao học khoá 34/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16524",
       "date": "5/12/2024"
-    },
-    {
-      "tieuDe": "V/v nộp hồ sơ bảo vệ dành cho học viên cao học bảo vệ đợt cuối tháng 12/2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16523",
-      "date": "5/12/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -119,6 +119,11 @@
   ],
   "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
     {
+      "tieuDe": "Tổng kết Seminar Safe, open, locally-aligned language models",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16538",
+      "date": "18/12/2024"
+    },
+    {
       "tieuDe": "Đăng kí tham gia Seminar Safe, open, locally-aligned language models",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16529",
       "date": "14/12/2024"
@@ -137,11 +142,6 @@
       "tieuDe": "Đăng ký tham dự Seminar Bộ môn Công nghệ Tri thức - Lần 4 năm 2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16516",
       "date": "03/12/2024"
-    },
-    {
-      "tieuDe": "Tổng kết buổi gặp mặt trao đổi và tổ chức Seminar “Evolutionary Feature Selection for High-Dimensional Data: A Fast and Efficient Algorithm with Potential for Medical Applications”",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16511",
-      "date": "28/11/2024"
     }
   ],
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
