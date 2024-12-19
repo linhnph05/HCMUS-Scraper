@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "01:35:14 19/12/2024",
+  "Update time": "02:32:54 19/12/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425",
@@ -27,6 +27,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Cảnh giác về các phương thức lừa đảo nhắm vào phụ huynh, sinh viên",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16540",
+      "date": "19/12/2024"
+    },
     {
       "tieuDe": "Tổng kết Seminar Safe, open, locally-aligned language models",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16538",
@@ -71,14 +76,14 @@
       "tieuDe": "[Hỗ trợ truyền thông] MBZUAI Webinar online: Undergraduate Research Internship Program 2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16525",
       "date": "6/12/2024"
-    },
-    {
-      "tieuDe": "Thông báo đăng ký tín chỉ học phần 1 chương trình cao học khoá 34/2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16524",
-      "date": "5/12/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Cảnh giác về các phương thức lừa đảo nhắm vào phụ huynh, sinh viên",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16540",
+      "date": "19/12/2024"
+    },
     {
       "tieuDe": "CHUYẾN 'XE VỀ NHÀ' 2025 TÀI TRỢ BỞI KMS TECHNOLOGY",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16531",
@@ -97,11 +102,6 @@
     {
       "tieuDe": "Danh sách sinh viên tham dự hội thảo: Từ môi trường học đường đến doanh nghiệp: những điều bạn cần biết?",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16514",
-      "date": "02/12/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên tham quan công ty Golden Owl",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16513",
       "date": "02/12/2024"
     }
   ],
