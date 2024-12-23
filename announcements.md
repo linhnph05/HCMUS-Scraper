@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:21:53 23/12/2024**_
+_Last update: **07:42:09 23/12/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/12/2024: [[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda-lich-thi-chi-tiet-cuoi-ky-hk1-2425/)
 * 03/12/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2021-dot-1/)
@@ -30,7 +30,6 @@ No news in the last 1 month
 * 02/12/2024: [Danh sách sinh viên tham dự hội thảo: Từ môi trường học đường đến doanh nghiệp: những điều bạn cần biết?](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16514)
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 02/12/2024: [Danh sách sinh viên nhận học bổng 'Hành trang hướng nghiệp' HK1/ 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16515)
-* 22/11/2024: [Danh sách dự kiến cấp xét học bổng đột xuất HK1 năm học 2024-2025 Dự kiến](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16492)
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 18/12/2024: [Tổng kết Seminar Safe, open, locally-aligned language models](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16538)
 * 14/12/2024: [Đăng kí tham gia Seminar Safe, open, locally-aligned language models](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16529)
@@ -69,7 +68,6 @@ No news in the last 1 month
 * 25/11/2024: [Thông báo nhận bằng tốt nghiệp đợt tháng 10 năm 2024](https://hcmus.edu.vn/47689-2/)
 * 24/11/2024: [THÔNG BÁO Tổ chức hoạt động workshop “Những vấn đề “nóng” trong sinh viên: Nhận biết và nhận thức”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-nhung-van-de-nong-trong-sinh-vien-nhan-biet-va-nhan-thuc/)
 * 24/11/2024: [Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/)
-* 22/11/2024: [Thông báo nộp học phí Học kỳ 1/2024-2025 lớp Liên thông đại học và Cao đẳng – hệ chính quy](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2024-2025-lop-lien-thong-dai-hoc-va-cao-dang-he-chinh-quy/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 05/12/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ TRỢ LÝ SINH VIÊN KHOA HÓA HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-tro-ly-sinh-vien-khoa-hoa-hoc/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
