@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "04:08:45 24/12/2024",
+  "Update time": "05:07:28 24/12/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425",
@@ -170,6 +170,16 @@
   "HCMUS-Thong tin nguoi hoc": [],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "Kết quả cung cấp thông tin lưu trú năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/ket-qua-cung-cap-thong-tin-luu-tru-nam-hoc-2024-2025/",
+      "date": "24/12/2024"
+    },
+    {
+      "tieuDe": "Kế hoạch mở học phần HK2/24-25 tại cơ sở 2",
+      "url": "https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hk2-24-25-tai-co-so-2/",
+      "date": "24/12/2024"
+    },
+    {
       "tieuDe": "Thông báo công bố Zalo Official Account phòng Đào tạo",
       "url": "https://hcmus.edu.vn/thong-bao-cong-bo-zalo-official-account-phong-dao-tao/",
       "date": "23/12/2024"
@@ -293,6 +303,11 @@
     }
   ],
   "HCMUS-Nguoi hoc": [
+    {
+      "tieuDe": "Kết quả cung cấp thông tin lưu trú năm học 2024-2025",
+      "url": "https://hcmus.edu.vn/ket-qua-cung-cap-thong-tin-luu-tru-nam-hoc-2024-2025/",
+      "date": "24/12/2024"
+    },
     {
       "tieuDe": "Thông báo chuyển tiền học bổng khuyến khích HK3/2023-2024 dành cho sinh viên các chương trình Đề án",
       "url": "https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk3-2023-2024-danh-cho-sinh-vien-cac-chuong-trinh-de-an/",
