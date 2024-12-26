@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:20:33 26/12/2024**_
+_Last update: **07:39:52 26/12/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/12/2024: [[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda-lich-thi-chi-tiet-cuoi-ky-hk1-2425/)
 * 03/12/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2021-dot-1/)
@@ -68,7 +68,6 @@ No news in the last 1 month
 * 28/11/2024: [Thông báo đăng ký học phần HK2/2024-2025, chương trình CLC, Tăng cường tiếng Anh và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk2-2024-2025-chuong-trinh-clc-tang-cuong-tieng-anh-va-viet-phap/)
 * 28/11/2024: [[THÔNG BÁO] Chương trình học bổng France Excellence năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-france-excellence-nam-hoc-2025-2026/)
 * 27/11/2024: [Danh sách Sinh viên đã xác nhận thông tin lưu trú năm học 2024-2025 (tính đến ngày 26/11/2024)](https://hcmus.edu.vn/danh-sach-sinh-vien-da-xac-nhan-thong-tin-luu-tru-nam-hoc-2024-2025-tinh-den-ngay-26-11-2024/)
-* 25/11/2024: [Thông báo nhận bằng tốt nghiệp đợt tháng 10 năm 2024](https://hcmus.edu.vn/47689-2/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 23/12/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ TRỢ GIẢNG KHOA ĐIỆN TỬ – VIỄN THÔNG, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-tro-giang-khoa-dien-tu-vien-thong-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 05/12/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ TRỢ LÝ SINH VIÊN KHOA HÓA HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-tro-ly-sinh-vien-khoa-hoa-hoc/)
