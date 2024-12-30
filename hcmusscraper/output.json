@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "10:08:04 30/12/2024",
+  "Update time": "11:06:39 30/12/2024",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425",
@@ -17,6 +17,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Cập nhật thành tích sinh viên khoa CNTT HK1/ 2024 - 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16546",
+      "date": "30/12/2024"
+    },
     {
       "tieuDe": "Buổi Seminar Sau đại học ngày 21/12/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16543",
@@ -61,14 +66,14 @@
       "tieuDe": "Đăng kí tham gia Seminar Safe, open, locally-aligned language models",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16529",
       "date": "14/12/2024"
-    },
-    {
-      "tieuDe": "Danh sách sinh viên tham gia hội thảo Hành trang vào nghề: Chinh phục môi trường doanh nghiệp",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16528",
-      "date": "9/12/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Cập nhật thành tích sinh viên khoa CNTT HK1/ 2024 - 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16546",
+      "date": "30/12/2024"
+    },
     {
       "tieuDe": "University Careers Day 2025 - Explore job opportunities at SAP Labs Vietnam",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16542",
@@ -88,11 +93,6 @@
       "tieuDe": "Danh sách sinh viên tham gia hội thảo Hành trang vào nghề: Chinh phục môi trường doanh nghiệp",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16528",
       "date": "09/12/2024"
-    },
-    {
-      "tieuDe": "Đăng ký tham dự hội thảo Hành trang vào nghề: Chinh phục môi trường doanh nghiệp",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16517",
-      "date": "04/12/2024"
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [
