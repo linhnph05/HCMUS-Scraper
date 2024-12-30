@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:23:19 30/12/2024**_
+_Last update: **16:21:31 30/12/2024**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/12/2024: [[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda-lich-thi-chi-tiet-cuoi-ky-hk1-2425/)
 * 03/12/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2021-dot-1/)
@@ -44,6 +44,7 @@ No news in the last 1 month
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 No news in the last 1 month
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 30/12/2024: [Thông báo Đăng ký học phần Học kỳ 2/2024-2025 cho sinh viên Đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-2024-2025-cho-sinh-vien-dai-hoc-he-chinh-quy/)
 * 30/12/2024: [Thông báo thu phí bảo hiểm y tế năm 2025 (đợt 2) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2024)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2025-dot-2-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2024/)
 * 24/12/2024: [Kết quả cung cấp thông tin lưu trú năm học 2024-2025](https://hcmus.edu.vn/ket-qua-cung-cap-thong-tin-luu-tru-nam-hoc-2024-2025/)
 * 24/12/2024: [Kế hoạch mở học phần HK2/24-25 tại cơ sở 2](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hk2-24-25-tai-co-so-2/)
