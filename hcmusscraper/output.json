@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "23:06:56 01/01/2025",
+  "Update time": "00:26:37 02/01/2025",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425",
@@ -95,13 +95,7 @@
       "date": "09/12/2024"
     }
   ],
-  "FIT-THÔNG TIN HỌC BỔNG": [
-    {
-      "tieuDe": "Danh sách sinh viên nhận học bổng 'Hành trang hướng nghiệp' HK1/ 2024 - 2025",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16515",
-      "date": "02/12/2024"
-    }
-  ],
+  "FIT-THÔNG TIN HỌC BỔNG": [],
   "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
     {
       "tieuDe": "Tổng kết Seminar Safe, open, locally-aligned language models",
@@ -233,21 +227,6 @@
       "tieuDe": "Thông báo Tổ chức hoạt động chuyên đề “Biển đảo quê hương – nhận thức bảo vệ Tổ quốc của thế hệ trẻ hiện nay”",
       "url": "https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-chuyen-de-bien-dao-que-huong-nhan-thuc-bao-ve-to-quoc-cua-the-he-tre-hien-nay/",
       "date": "03/12/2024"
-    },
-    {
-      "tieuDe": "[THÔNG BÁO] Chương trình trao đổi học kỳ mùa Xuân 2025 tại ĐH Yeungnam, Hàn Quốc",
-      "url": "https://hcmus.edu.vn/thong-bao-chuong-trinh-trao-doi-hoc-ky-mua-xuan-2025-tai-dh-yeungnam-han-quoc/",
-      "date": "02/12/2024"
-    },
-    {
-      "tieuDe": "[THÔNG BÁO] Tuyển sinh đi học tại Hung-ga-ri diện Hiệp định năm 2025",
-      "url": "https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-hung-ga-ri-dien-hiep-dinh-nam-2025/",
-      "date": "02/12/2024"
-    },
-    {
-      "tieuDe": "Thông báo thay đổi phòng học một số môn tại cơ sở 2 từ ngày 02/12/2024",
-      "url": "https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-mon-vtp-1c-va-sinh-hoc-te-bao/",
-      "date": "02/12/2024"
     }
   ],
   "HCMUS-Tuyen dung": [
@@ -307,11 +286,6 @@
       "tieuDe": "Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/",
       "date": "05/12/2024"
-    },
-    {
-      "tieuDe": "[THÔNG BÁO] Tuyển sinh đi học tại Hung-ga-ri diện Hiệp định năm 2025",
-      "url": "https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-hung-ga-ri-dien-hiep-dinh-nam-2025/",
-      "date": "02/12/2024"
     }
   ],
   "HCMUS-Hoc bong dai hoc": [
@@ -329,11 +303,6 @@
       "tieuDe": "Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)",
       "url": "https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/",
       "date": "05/12/2024"
-    },
-    {
-      "tieuDe": "[THÔNG BÁO] Tuyển sinh đi học tại Hung-ga-ri diện Hiệp định năm 2025",
-      "url": "https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-hung-ga-ri-dien-hiep-dinh-nam-2025/",
-      "date": "02/12/2024"
     }
   ]
 }

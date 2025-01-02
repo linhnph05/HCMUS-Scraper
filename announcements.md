@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:15:18 02/01/2025**_
+_Last update: **07:34:42 02/01/2025**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/12/2024: [[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda-lich-thi-chi-tiet-cuoi-ky-hk1-2425/)
 * 03/12/2024: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 1](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2021-dot-1/)
@@ -27,7 +27,7 @@ No news in the last 1 month
 * 16/12/2024: [CHUYẾN 'XE VỀ NHÀ' 2025 TÀI TRỢ BỞI KMS TECHNOLOGY](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16531)
 * 09/12/2024: [Danh sách sinh viên tham gia hội thảo Hành trang vào nghề: Chinh phục môi trường doanh nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16528)
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-* 02/12/2024: [Danh sách sinh viên nhận học bổng 'Hành trang hướng nghiệp' HK1/ 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16515)
+No news in the last 1 month
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 18/12/2024: [Tổng kết Seminar Safe, open, locally-aligned language models](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16538)
 * 14/12/2024: [Đăng kí tham gia Seminar Safe, open, locally-aligned language models](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16529)
@@ -60,9 +60,6 @@ No news in the last 1 month
 * 05/12/2024: [Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/)
 * 04/12/2024: [Thông báo đổi phòng học từ ngày 03/12 tại cơ sở 2 – Block E, F](https://hcmus.edu.vn/thong-bao-doi-phong-hoc-tu-ngay-03-12-tai-co-so-2-block-e-f/)
 * 03/12/2024: [Thông báo Tổ chức hoạt động chuyên đề “Biển đảo quê hương – nhận thức bảo vệ Tổ quốc của thế hệ trẻ hiện nay”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-chuyen-de-bien-dao-que-huong-nhan-thuc-bao-ve-to-quoc-cua-the-he-tre-hien-nay/)
-* 02/12/2024: [[THÔNG BÁO] Chương trình trao đổi học kỳ mùa Xuân 2025 tại ĐH Yeungnam, Hàn Quốc](https://hcmus.edu.vn/thong-bao-chuong-trinh-trao-doi-hoc-ky-mua-xuan-2025-tai-dh-yeungnam-han-quoc/)
-* 02/12/2024: [[THÔNG BÁO] Tuyển sinh đi học tại Hung-ga-ri diện Hiệp định năm 2025](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-hung-ga-ri-dien-hiep-dinh-nam-2025/)
-* 02/12/2024: [Thông báo thay đổi phòng học một số môn tại cơ sở 2 từ ngày 02/12/2024](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-mon-vtp-1c-va-sinh-hoc-te-bao/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 23/12/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ TRỢ GIẢNG KHOA ĐIỆN TỬ – VIỄN THÔNG, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-tro-giang-khoa-dien-tu-vien-thong-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 * 05/12/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ TRỢ LÝ SINH VIÊN KHOA HÓA HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-tro-ly-sinh-vien-khoa-hoa-hoc/)
@@ -76,9 +73,7 @@ No news in the last 1 month
 * 11/12/2024: [Thông báo v/v đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2025 dành cho các sinh viên tham gia BHYT tại Trường](https://hcmus.edu.vn/thong-bao-v-v-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2025-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
 * 09/12/2024: [Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/)
 * 05/12/2024: [Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/)
-* 02/12/2024: [[THÔNG BÁO] Tuyển sinh đi học tại Hung-ga-ri diện Hiệp định năm 2025](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-hung-ga-ri-dien-hiep-dinh-nam-2025/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
 * 09/12/2024: [Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/)
 * 06/12/2024: [Học bổng toàn phần dành cho sinh viên có hoàn cảnh khó khăn, khuyết tật lần 05 năm 2024](https://hcmus.edu.vn/hoc-bong-toan-phan-danh-cho-sinh-vien-co-hoan-canh-kho-khan-khuyet-tat-lan-05-nam-2024/)
 * 05/12/2024: [Thông báo kết quả dự kiến HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/)
-* 02/12/2024: [[THÔNG BÁO] Tuyển sinh đi học tại Hung-ga-ri diện Hiệp định năm 2025](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-hung-ga-ri-dien-hiep-dinh-nam-2025/)
