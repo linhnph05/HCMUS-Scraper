@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **11:16:38 03/01/2025**_
+_Last update: **12:15:39 03/01/2025**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/12/2024: [[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda-lich-thi-chi-tiet-cuoi-ky-hk1-2425/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -9,6 +9,7 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
+* 3/1/2025: [Đăng kí tham dự Seminar Towards Backwards-Compatible Data with Confounded Domain Adaptation](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16549)
 * 30/12/2024: [Cập nhật thành tích sinh viên khoa CNTT HK1/ 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16546)
 * 25/12/2024: [Buổi Seminar Sau đại học ngày 21/12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16543)
 * 23/12/2024: [University Careers Day 2025 - Explore job opportunities at SAP Labs Vietnam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16542)
@@ -18,7 +19,6 @@ No news in the last 1 month
 * 17/12/2024: [Thời khóa biểu có phòng các lớp Học phần 1 Khóa 34/2024 - bắt đầu học 16/12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16535)
 * 17/12/2024: [Mời đăng ký tham dự Seminar Sau đại học ngày 21/12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16533)
 * 16/12/2024: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp (KLTN/TTTN/TTDATN) Khóa 2021- Đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16532)
-* 14/12/2024: [Đăng kí tham gia Seminar Safe, open, locally-aligned language models](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16529)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 30/12/2024: [Cập nhật thành tích sinh viên khoa CNTT HK1/ 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16546)
 * 23/12/2024: [University Careers Day 2025 - Explore job opportunities at SAP Labs Vietnam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16542)
@@ -28,6 +28,7 @@ No news in the last 1 month
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 03/01/2025: [Đăng kí tham dự Seminar Towards Backwards-Compatible Data with Confounded Domain Adaptation](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16549)
 * 18/12/2024: [Tổng kết Seminar Safe, open, locally-aligned language models](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16538)
 * 14/12/2024: [Đăng kí tham gia Seminar Safe, open, locally-aligned language models](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16529)
 * 06/12/2024: [[Hỗ trợ truyền thông] MBZUAI Webinar online: Undergraduate Research Internship Program 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16525)
@@ -35,11 +36,11 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 03/01/2025: [KHỞI ĐẦU SỰ NGHIỆP TOÀN CẦU - FPT SOFTWARE CHINH PHỤC ĐỈNH CAO CÔNG NGHỆ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16548)
 * 03/01/2025: [KHẢO SÁT THƯƠNG HIỆU NHÀ TUYỂN DỤNG VNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16547)
 * 18/12/2024: [AZAPA ENGINEERING - THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16539)
 * 17/12/2024: [Phygital Labs tuyển dụng Backend Fresher/Junior](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16534)
 * 16/12/2024: [NAB WeCamp Training Program - Batch 7 (Open for female talents)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16530)
-* 05/12/2024: [Công Ty TNHH ARIS Việt Nam - INTERNSHIP DEVELOPER (FOR INTERNS/FRESH GRADUATES)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16519)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 No news in the last 1 month
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)

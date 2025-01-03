@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "04:08:39 03/01/2025",
+  "Update time": "05:07:23 03/01/2025",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425",
@@ -12,6 +12,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Đăng kí tham dự Seminar Towards Backwards-Compatible Data with Confounded Domain Adaptation",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16549",
+      "date": "3/1/2025"
+    },
     {
       "tieuDe": "Cập nhật thành tích sinh viên khoa CNTT HK1/ 2024 - 2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16546",
@@ -56,11 +61,6 @@
       "tieuDe": "[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp (KLTN/TTTN/TTDATN) Khóa 2021- Đợt 2",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16532",
       "date": "16/12/2024"
-    },
-    {
-      "tieuDe": "Đăng kí tham gia Seminar Safe, open, locally-aligned language models",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16529",
-      "date": "14/12/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -93,6 +93,11 @@
   "FIT-THÔNG TIN HỌC BỔNG": [],
   "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
     {
+      "tieuDe": "Đăng kí tham dự Seminar Towards Backwards-Compatible Data with Confounded Domain Adaptation",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16549",
+      "date": "03/01/2025"
+    },
+    {
       "tieuDe": "Tổng kết Seminar Safe, open, locally-aligned language models",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16538",
       "date": "18/12/2024"
@@ -116,6 +121,11 @@
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
   "FIT-THÔNG TIN TUYỂN DỤNG": [
     {
+      "tieuDe": "KHỞI ĐẦU SỰ NGHIỆP TOÀN CẦU - FPT SOFTWARE CHINH PHỤC ĐỈNH CAO CÔNG NGHỆ",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16548",
+      "date": "03/01/2025"
+    },
+    {
       "tieuDe": "KHẢO SÁT THƯƠNG HIỆU NHÀ TUYỂN DỤNG VNG",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16547",
       "date": "03/01/2025"
@@ -134,11 +144,6 @@
       "tieuDe": "NAB WeCamp Training Program - Batch 7 (Open for female talents)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16530",
       "date": "16/12/2024"
-    },
-    {
-      "tieuDe": "Công Ty TNHH ARIS Việt Nam - INTERNSHIP DEVELOPER (FOR INTERNS/FRESH GRADUATES)",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16519",
-      "date": "05/12/2024"
     }
   ],
   "HCMUS-Thong tin nguoi hoc": [],
