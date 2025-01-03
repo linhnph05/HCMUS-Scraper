@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **09:38:19 03/01/2025**_
+_Last update: **10:18:43 03/01/2025**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/12/2024: [[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda-lich-thi-chi-tiet-cuoi-ky-hk1-2425/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -35,6 +35,7 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 03/01/2025: [KHẢO SÁT THƯƠNG HIỆU NHÀ TUYỂN DỤNG VNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16547)
 * 18/12/2024: [AZAPA ENGINEERING - THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16539)
 * 17/12/2024: [Phygital Labs tuyển dụng Backend Fresher/Junior](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16534)
 * 16/12/2024: [NAB WeCamp Training Program - Batch 7 (Open for female talents)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16530)
