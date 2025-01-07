@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **14:16:23 07/01/2025**_
+_Last update: **15:18:05 07/01/2025**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/12/2024: [[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda-lich-thi-chi-tiet-cuoi-ky-hk1-2425/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -42,13 +42,13 @@ No news in the last 1 month
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 No news in the last 1 month
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 07/01/2025: [Kế hoạch mở học phần HK2/24-25 tại cơ sở 2 (cập nhật)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hk2-24-25-tai-co-so-2/)
 * 07/01/2025: [THÔNG BÁO Cuộc thi Thiết kế vi mạch cho đô thị thông minh lần 2 năm 2024](https://hcmus.edu.vn/thong-bao-cuoc-thi-thiet-ke-vi-mach-cho-do-thi-thong-minh-lan-2-nam-2024/)
 * 07/01/2025: [Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/)
 * 06/01/2025: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 2 năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-2-nam-2024/)
 * 30/12/2024: [Thông báo Đăng ký học phần Học kỳ 2/2024-2025 cho sinh viên Đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-2024-2025-cho-sinh-vien-dai-hoc-he-chinh-quy/)
 * 30/12/2024: [Thông báo thu phí bảo hiểm y tế năm 2025 (đợt 2) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2024)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2025-dot-2-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2024/)
 * 24/12/2024: [Kết quả cung cấp thông tin lưu trú năm học 2024-2025](https://hcmus.edu.vn/ket-qua-cung-cap-thong-tin-luu-tru-nam-hoc-2024-2025/)
-* 24/12/2024: [Kế hoạch mở học phần HK2/24-25 tại cơ sở 2](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hk2-24-25-tai-co-so-2/)
 * 23/12/2024: [Thông báo công bố Zalo Official Account phòng Đào tạo](https://hcmus.edu.vn/thong-bao-cong-bo-zalo-official-account-phong-dao-tao/)
 * 19/12/2024: [Thông báo nghỉ Tết Dương lịch và Tết Âm lịch năm 2025](https://hcmus.edu.vn/thong-bao-nghi-tet-duong-lich-va-tet-am-lich-nam-2025/)
 * 19/12/2024: [Thông báo chuyển tiền học bổng khuyến khích HK3/2023-2024 dành cho sinh viên các chương trình Đề án](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk3-2023-2024-danh-cho-sinh-vien-cac-chuong-trinh-de-an/)
