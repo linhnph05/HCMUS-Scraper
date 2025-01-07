@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **09:37:56 07/01/2025**_
+_Last update: **10:20:48 07/01/2025**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/12/2024: [[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda-lich-thi-chi-tiet-cuoi-ky-hk1-2425/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -42,6 +42,7 @@ No news in the last 1 month
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 No news in the last 1 month
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 07/01/2025: [Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/)
 * 06/01/2025: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 2 năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-2-nam-2024/)
 * 30/12/2024: [Thông báo Đăng ký học phần Học kỳ 2/2024-2025 cho sinh viên Đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-2024-2025-cho-sinh-vien-dai-hoc-he-chinh-quy/)
 * 30/12/2024: [Thông báo thu phí bảo hiểm y tế năm 2025 (đợt 2) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2024)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2025-dot-2-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2024/)
@@ -58,6 +59,7 @@ No news in the last 1 month
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 23/12/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ TRỢ GIẢNG KHOA ĐIỆN TỬ – VIỄN THÔNG, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-tro-giang-khoa-dien-tu-vien-thong-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
+* 07/01/2025: [Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/)
 * 06/01/2025: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 2 năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-2-nam-2024/)
 * 30/12/2024: [Thông báo thu phí bảo hiểm y tế năm 2025 (đợt 2) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2024)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2025-dot-2-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2024/)
 * 27/12/2024: [Phổ biến, quán triệt, triển khai thi hành các luật, nghị quyết được Quốc hội khóa XV thông qua tại Kỳ họp thứ 7, Kỳ họp thứ 8 Hộp thư đến](https://hcmus.edu.vn/pho-bien-quan-triet-trien-khai-thi-hanh-cac-luat-nghi-quyet-duoc-quoc-hoi-khoa-xv-thong-qua-tai-ky-hop-thu-7-ky-hop-thu-8-hop-thu-den/)
@@ -68,5 +70,6 @@ No news in the last 1 month
 * 11/12/2024: [Thông báo v/v đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2025 dành cho các sinh viên tham gia BHYT tại Trường](https://hcmus.edu.vn/thong-bao-v-v-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2025-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
 * 09/12/2024: [Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
+* 07/01/2025: [Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/)
 * 06/01/2025: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 2 năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-2-nam-2024/)
 * 09/12/2024: [Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/)
