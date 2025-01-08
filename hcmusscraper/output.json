@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "01:35:01 08/01/2025",
+  "Update time": "02:29:17 08/01/2025",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425",
@@ -139,6 +139,11 @@
   "HCMUS-Thong tin nguoi hoc": [],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "Thông tin về việc đăng ký tham dự Diễn đàn và Triển lãm Đại học 2025",
+      "url": "https://hcmus.edu.vn/thong-tin-ve-viec-dang-ky-tham-du-dien-dan-va-trien-lam-dai-hoc-2025/",
+      "date": "08/01/2025"
+    },
+    {
       "tieuDe": "Kế hoạch mở học phần HK2/24-25 tại cơ sở 2 (cập nhật)",
       "url": "https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hk2-24-25-tai-co-so-2/",
       "date": "07/01/2025"
@@ -222,6 +227,11 @@
     }
   ],
   "HCMUS-Nguoi hoc": [
+    {
+      "tieuDe": "Thông tin về việc đăng ký tham dự Diễn đàn và Triển lãm Đại học 2025",
+      "url": "https://hcmus.edu.vn/thong-tin-ve-viec-dang-ky-tham-du-dien-dan-va-trien-lam-dai-hoc-2025/",
+      "date": "08/01/2025"
+    },
     {
       "tieuDe": "THÔNG BÁO Cuộc thi Thiết kế vi mạch cho đô thị thông minh lần 2 năm 2024",
       "url": "https://hcmus.edu.vn/thong-bao-cuoc-thi-thiet-ke-vi-mach-cho-do-thi-thong-minh-lan-2-nam-2024/",
