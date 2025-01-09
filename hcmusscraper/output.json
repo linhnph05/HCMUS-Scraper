@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "07:08:08 09/01/2025",
+  "Update time": "08:09:12 09/01/2025",
   "Thong Bao": [
     {
       "tieuDe": "[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425",
@@ -12,6 +12,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Thư ngỏ mời Doanh nghiệp tham gia Ngày hội việc làm 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16551",
+      "date": "9/1/2025"
+    },
     {
       "tieuDe": "[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK2/2024-2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16550",
@@ -56,14 +61,14 @@
       "tieuDe": "Thời khóa biểu có phòng các lớp Học phần 1 Khóa 34/2024 - bắt đầu học 16/12/2024",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16535",
       "date": "17/12/2024"
-    },
-    {
-      "tieuDe": "Mời đăng ký tham dự Seminar Sau đại học ngày 21/12/2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16533",
-      "date": "17/12/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Thư ngỏ mời Doanh nghiệp tham gia Ngày hội việc làm 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16551",
+      "date": "09/01/2025"
+    },
     {
       "tieuDe": "Cập nhật thành tích sinh viên khoa CNTT HK1/ 2024 - 2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16546",
