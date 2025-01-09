@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:15:00 09/01/2025**_
+_Last update: **07:34:49 09/01/2025**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/12/2024: [[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda-lich-thi-chi-tiet-cuoi-ky-hk1-2425/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -24,7 +24,6 @@ No news in the last 1 month
 * 23/12/2024: [University Careers Day 2025 - Explore job opportunities at SAP Labs Vietnam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16542)
 * 19/12/2024: [Cảnh giác về các phương thức lừa đảo nhắm vào phụ huynh, sinh viên](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16540)
 * 16/12/2024: [CHUYẾN 'XE VỀ NHÀ' 2025 TÀI TRỢ BỞI KMS TECHNOLOGY](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16531)
-* 09/12/2024: [Danh sách sinh viên tham gia hội thảo Hành trang vào nghề: Chinh phục môi trường doanh nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16528)
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
@@ -57,7 +56,6 @@ No news in the last 1 month
 * 11/12/2024: [Thông báo v/v đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2025 dành cho các sinh viên tham gia BHYT tại Trường](https://hcmus.edu.vn/thong-bao-v-v-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2025-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
 * 11/12/2024: [THÔNG BÁO Chương trình bồi dưỡng Kỹ năng thực hành “An toàn số”](https://hcmus.edu.vn/thong-bao-chuong-trinh-boi-duong-ky-nang-thuc-hanh-an-toan-so/)
 * 10/12/2024: [Kết quả xét Hoàn tất chương trình đại học đợt tháng 12/2024](https://hcmus.edu.vn/ket-qua-xet-hoan-tat-chuong-trinh-dai-hoc-dot-thang-12-2024/)
-* 09/12/2024: [Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 23/12/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ TRỢ GIẢNG KHOA ĐIỆN TỬ – VIỄN THÔNG, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-tro-giang-khoa-dien-tu-vien-thong-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
@@ -72,8 +70,6 @@ No news in the last 1 month
 * 16/12/2024: [317 Ý TƯỞNG ĐỘT PHÁ TỪ CUỘC THI SÁNG TẠO TẾ BÀO GỐC LẦN THỨ 9 – STEM CELL INNOVATION 2024](https://hcmus.edu.vn/y-tuong-dot-pha-tu-cuoc-thi-sang-tao-te-bao-goc-lan-thu-9-stem-cell-innovation-2024/)
 * 11/12/2024: [Thông báo nhận hình Lễ Trao Bằng tốt nghiệp Cử nhân Khoa học Đợt 2 năm 2024 do Trường tổ chức ngày 01/12, 05/12 và 07/12/2024](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-2-nam-2024-do-truong-to-chuc-ngay-01-12-05-12-va-07-12-2024/)
 * 11/12/2024: [Thông báo v/v đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2025 dành cho các sinh viên tham gia BHYT tại Trường](https://hcmus.edu.vn/thong-bao-v-v-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2025-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
-* 09/12/2024: [Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/)
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
 * 07/01/2025: [Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-cong-nghe-thong-tin-ctda/)
 * 06/01/2025: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 2 năm 2024](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-2-nam-2024/)
-* 09/12/2024: [Thông báo kết quả chính thức HBKK HK3/2023-2024 Khoa Hóa học, Điện tử-Viễn thông, Sinh học-CNSH, Môi trường (CTĐA) và ngành Khoa học Vật liệu](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2023-2024-khoa-hoa-hoc-dien-tu-vien-thong-sinh-hoc-cnsh-moi-truong-ctda-va-nganh-khoa-hoc-vat-lieu/)
