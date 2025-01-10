@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:15:03 10/01/2025**_
+_Last update: **07:35:30 10/01/2025**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 13/12/2024: [[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2024/12/ctda-lich-thi-chi-tiet-cuoi-ky-hk1-2425/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -57,7 +57,6 @@ No news in the last 1 month
 * 11/12/2024: [Thông báo nhận hình Lễ Trao Bằng tốt nghiệp Cử nhân Khoa học Đợt 2 năm 2024 do Trường tổ chức ngày 01/12, 05/12 và 07/12/2024](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-2-nam-2024-do-truong-to-chuc-ngay-01-12-05-12-va-07-12-2024/)
 * 11/12/2024: [Thông báo v/v đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2025 dành cho các sinh viên tham gia BHYT tại Trường](https://hcmus.edu.vn/thong-bao-v-v-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2025-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
 * 11/12/2024: [THÔNG BÁO Chương trình bồi dưỡng Kỹ năng thực hành “An toàn số”](https://hcmus.edu.vn/thong-bao-chuong-trinh-boi-duong-ky-nang-thuc-hanh-an-toan-so/)
-* 10/12/2024: [Kết quả xét Hoàn tất chương trình đại học đợt tháng 12/2024](https://hcmus.edu.vn/ket-qua-xet-hoan-tat-chuong-trinh-dai-hoc-dot-thang-12-2024/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 23/12/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ TRỢ GIẢNG KHOA ĐIỆN TỬ – VIỄN THÔNG, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-tro-giang-khoa-dien-tu-vien-thong-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
