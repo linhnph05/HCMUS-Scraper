@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **15:18:05 13/01/2025**_
+_Last update: **16:15:47 13/01/2025**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 10/01/2025: [Mời tham gia sinh hoạt về kế hoạch tổ chức học phần Thực tập thực tế – Học kỳ 3 năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/01/moi-tham-gia-sinh-hoat-ve-ke-hoach-to-chuc-hoc-phan-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2024-2025/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -42,6 +42,7 @@ No news in the last 1 month
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 No news in the last 1 month
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 13/01/2025: [Thông báo nhận bằng tốt nghiệp bậc Đại học hệ chính quy, bậc Cao đẳng, Liên thông đại học và hệ đào tạo từ xa cho đợt xét tốt nghiệp tháng 11/2024](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-lien-thong-dai-hoc-va-he-dao-tao-tu-xa-cho-dot-xet-tot-nghiep-thang-11-2024/)
 * 09/01/2025: [Thông báo V/v thực hiện bài kiểm tra và khảo sát đợt Sinh hoạt công dân đầu năm năm học 2024-2025](https://hcmus.edu.vn/thong-bao-v-v-thuc-hien-bai-kiem-tra-va-khao-sat-dot-sinh-hoat-cong-dan-dau-nam-nam-hoc-2024-2025/)
 * 08/01/2025: [Thông tin về việc đăng ký tham dự Diễn đàn và Triển lãm Đại học 2025](https://hcmus.edu.vn/thong-tin-ve-viec-dang-ky-tham-du-dien-dan-va-trien-lam-dai-hoc-2025/)
 * 07/01/2025: [Kế hoạch mở học phần HK2/24-25 tại cơ sở 2 (cập nhật)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-hk2-24-25-tai-co-so-2/)
