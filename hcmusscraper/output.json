@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "08:09:34 14/01/2025",
+  "Update time": "09:07:37 14/01/2025",
   "Thong Bao": [
     {
       "tieuDe": "Mời tham gia sinh hoạt về kế hoạch tổ chức học phần Thực tập thực tế – Học kỳ 3 năm học 2024-2025",
@@ -12,6 +12,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "[CQ] DSSV được duyệt đăng ký thực hiện đề tài tốt nghiệp Khóa 2021 - đợt 2 (bảo vệ tháng 7/2025)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16553",
+      "date": "14/1/2025"
+    },
     {
       "tieuDe": "Thông báo về việc đăng ký chuyển sang hệ tự túc áp dụng cho học viên cao học khoá 32/2022",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16552",
@@ -55,11 +60,6 @@
     {
       "tieuDe": "Tổng kết Seminar Safe, open, locally-aligned language models",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16538",
-      "date": "18/12/2024"
-    },
-    {
-      "tieuDe": "Mời tham dự buổi bảo vệ luận văn Thạc sĩ đợt cuối tháng 12/2024",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16536",
       "date": "18/12/2024"
     }
   ],
@@ -133,6 +133,11 @@
   ],
   "HCMUS-Thong tin nguoi hoc": [],
   "HCMUS-Thong tin sinh vien": [
+    {
+      "tieuDe": "Chương trình học bổng vượt khó học tốt năm 2024",
+      "url": "https://hcmus.edu.vn/chuong-trinh-ho%cc%a3c-bo%cc%89ng-vuo%cc%a3t-kho-ho%cc%a3c-tot-nam-2024/",
+      "date": "14/01/2025"
+    },
     {
       "tieuDe": "Thông báo_Chương trình học bổng tại sự kiện Ngày hội kết nối Đại học – Địa phương – Doanh nghiệp",
       "url": "https://hcmus.edu.vn/thong-bao_chuong-trinh-ho%cc%a3c-bo%cc%89ng-ta%cc%a3i-su%cc%a3-kie%cc%a3n-ngay-ho%cc%a3i-ket-noi-da%cc%a3i-ho%cc%a3c-di%cc%a3a-phuong-doanh-nghie%cc%a3p/",
@@ -218,6 +223,11 @@
   ],
   "HCMUS-Nguoi hoc": [],
   "HCMUS-Hoc bong dai hoc": [
+    {
+      "tieuDe": "Chương trình học bổng vượt khó học tốt năm 2024",
+      "url": "https://hcmus.edu.vn/chuong-trinh-ho%cc%a3c-bo%cc%89ng-vuo%cc%a3t-kho-ho%cc%a3c-tot-nam-2024/",
+      "date": "14/01/2025"
+    },
     {
       "tieuDe": "Thông báo_Chương trình học bổng tại sự kiện Ngày hội kết nối Đại học – Địa phương – Doanh nghiệp",
       "url": "https://hcmus.edu.vn/thong-bao_chuong-trinh-ho%cc%a3c-bo%cc%89ng-ta%cc%a3i-su%cc%a3-kie%cc%a3n-ngay-ho%cc%a3i-ket-noi-da%cc%a3i-ho%cc%a3c-di%cc%a3a-phuong-doanh-nghie%cc%a3p/",
