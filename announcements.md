@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **16:15:25 15/01/2025**_
+_Last update: **17:15:19 15/01/2025**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 10/01/2025: [Mời tham gia sinh hoạt về kế hoạch tổ chức học phần Thực tập thực tế – Học kỳ 3 năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/01/moi-tham-gia-sinh-hoat-ve-ke-hoach-to-chuc-hoc-phan-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2024-2025/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -41,6 +41,7 @@ No news in the last 1 month
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 No news in the last 1 month
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 15/01/2025: [Thông báo đăng ký học phần HK2/2024-2025 đối với sinh viên Liên thông đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk2-2024-2025-doi-voi-sinh-vien-lien-thong-dai-hoc-he-chinh-quy/)
 * 14/01/2025: [Chương trình học bổng vượt khó học tốt năm 2024](https://hcmus.edu.vn/chuong-trinh-ho%cc%a3c-bo%cc%89ng-vuo%cc%a3t-kho-ho%cc%a3c-tot-nam-2024/)
 * 14/01/2025: [Thông báo_Chương trình học bổng tại sự kiện Ngày hội kết nối Đại học – Địa phương – Doanh nghiệp](https://hcmus.edu.vn/thong-bao_chuong-trinh-ho%cc%a3c-bo%cc%89ng-ta%cc%a3i-su%cc%a3-kie%cc%a3n-ngay-ho%cc%a3i-ket-noi-da%cc%a3i-ho%cc%a3c-di%cc%a3a-phuong-doanh-nghie%cc%a3p/)
 * 14/01/2025: [Thông báo về việc đăng ký nội trú KTX Trường học kỳ 2, năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ve-viec-dang-ky-noi-tru-ktx-truong-hoc-ky-2-nam-hoc-2024-2025/)
