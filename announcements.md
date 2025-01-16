@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:15:48 16/01/2025**_
+_Last update: **07:34:07 16/01/2025**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 10/01/2025: [Mời tham gia sinh hoạt về kế hoạch tổ chức học phần Thực tập thực tế – Học kỳ 3 năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/01/moi-tham-gia-sinh-hoat-ve-ke-hoach-to-chuc-hoc-phan-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2024-2025/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -24,7 +24,6 @@ No news in the last 1 month
 * 30/12/2024: [Cập nhật thành tích sinh viên khoa CNTT HK1/ 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16546)
 * 23/12/2024: [University Careers Day 2025 - Explore job opportunities at SAP Labs Vietnam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16542)
 * 19/12/2024: [Cảnh giác về các phương thức lừa đảo nhắm vào phụ huynh, sinh viên](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16540)
-* 16/12/2024: [CHUYẾN 'XE VỀ NHÀ' 2025 TÀI TRỢ BỞI KMS TECHNOLOGY](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16531)
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
@@ -37,7 +36,6 @@ No news in the last 1 month
 * 03/01/2025: [KHẢO SÁT THƯƠNG HIỆU NHÀ TUYỂN DỤNG VNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16547)
 * 18/12/2024: [AZAPA ENGINEERING - THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16539)
 * 17/12/2024: [Phygital Labs tuyển dụng Backend Fresher/Junior](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16534)
-* 16/12/2024: [NAB WeCamp Training Program - Batch 7 (Open for female talents)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16530)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 No news in the last 1 month
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
