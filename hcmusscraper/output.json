@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "01:34:43 16/01/2025",
+  "Update time": "02:25:49 16/01/2025",
   "Thong Bao": [
     {
       "tieuDe": "Mời tham gia sinh hoạt về kế hoạch tổ chức học phần Thực tập thực tế – Học kỳ 3 năm học 2024-2025",
@@ -12,6 +12,11 @@
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
   "FIT-Tin tuc": [
+    {
+      "tieuDe": "Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 9/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16554",
+      "date": "16/1/2025"
+    },
     {
       "tieuDe": "[CQ] DSSV được duyệt đăng ký thực hiện đề tài tốt nghiệp Khóa 2021 - đợt 2 (bảo vệ tháng 7/2025)",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16553",
@@ -56,11 +61,6 @@
       "tieuDe": "Cảnh giác về các phương thức lừa đảo nhắm vào phụ huynh, sinh viên",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16540",
       "date": "19/12/2024"
-    },
-    {
-      "tieuDe": "Tổng kết Seminar Safe, open, locally-aligned language models",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16538",
-      "date": "18/12/2024"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
