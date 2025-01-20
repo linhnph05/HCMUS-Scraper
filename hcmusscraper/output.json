@@ -1,16 +1,101 @@
 [
 {
-  "Update time": "02:28:17 20/01/2025",
-  "Thong Bao": [],
+  "Update time": "03:09:25 20/01/2025",
+  "Thong Bao": [
+    {
+      "tieuDe": "Mời tham gia sinh hoạt về kế hoạch tổ chức học phần Thực tập thực tế – Học kỳ 3 năm học 2024-2025",
+      "url": "https://www.ctda.hcmus.edu.vn/vi/2025/01/moi-tham-gia-sinh-hoat-ve-ke-hoach-to-chuc-hoc-phan-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2024-2025/",
+      "date": "10/01/2025"
+    }
+  ],
   "Tin tuc": [],
   "Thong tin can biet": [],
   "Hoat dong sinh vien": [],
-  "FIT-Tin tuc": [],
-  "FIT-THÔNG TIN CHUNG": [],
+  "FIT-Tin tuc": [
+    {
+      "tieuDe": "Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 9/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16554",
+      "date": "16/1/2025"
+    },
+    {
+      "tieuDe": "[CQ] DSSV được duyệt đăng ký thực hiện đề tài tốt nghiệp Khóa 2021 - đợt 2 (bảo vệ tháng 7/2025)",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16553",
+      "date": "14/1/2025"
+    },
+    {
+      "tieuDe": "Thông báo về việc đăng ký chuyển sang hệ tự túc áp dụng cho học viên cao học khoá 32/2022",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16552",
+      "date": "13/1/2025"
+    },
+    {
+      "tieuDe": "Thư ngỏ mời Doanh nghiệp tham gia Ngày hội việc làm 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16551",
+      "date": "9/1/2025"
+    },
+    {
+      "tieuDe": "[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK2/2024-2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16550",
+      "date": "6/1/2025"
+    },
+    {
+      "tieuDe": "Đăng kí tham dự Seminar Towards Backwards-Compatible Data with Confounded Domain Adaptation",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16549",
+      "date": "3/1/2025"
+    },
+    {
+      "tieuDe": "Cập nhật thành tích sinh viên khoa CNTT HK1/ 2024 - 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16546",
+      "date": "30/12/2024"
+    },
+    {
+      "tieuDe": "Buổi Seminar Sau đại học ngày 21/12/2024",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16543",
+      "date": "25/12/2024"
+    },
+    {
+      "tieuDe": "University Careers Day 2025 - Explore job opportunities at SAP Labs Vietnam",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16542",
+      "date": "23/12/2024"
+    }
+  ],
+  "FIT-THÔNG TIN CHUNG": [
+    {
+      "tieuDe": "Thư ngỏ mời Doanh nghiệp tham gia Ngày hội việc làm 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16551",
+      "date": "09/01/2025"
+    },
+    {
+      "tieuDe": "Cập nhật thành tích sinh viên khoa CNTT HK1/ 2024 - 2025",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16546",
+      "date": "30/12/2024"
+    },
+    {
+      "tieuDe": "University Careers Day 2025 - Explore job opportunities at SAP Labs Vietnam",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16542",
+      "date": "23/12/2024"
+    }
+  ],
   "FIT-THÔNG TIN HỌC BỔNG": [],
-  "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [],
+  "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
+    {
+      "tieuDe": "Đăng kí tham dự Seminar Towards Backwards-Compatible Data with Confounded Domain Adaptation",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16549",
+      "date": "03/01/2025"
+    }
+  ],
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
-  "FIT-THÔNG TIN TUYỂN DỤNG": [],
+  "FIT-THÔNG TIN TUYỂN DỤNG": [
+    {
+      "tieuDe": "KHỞI ĐẦU SỰ NGHIỆP TOÀN CẦU - FPT SOFTWARE CHINH PHỤC ĐỈNH CAO CÔNG NGHỆ",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16548",
+      "date": "03/01/2025"
+    },
+    {
+      "tieuDe": "KHẢO SÁT THƯƠNG HIỆU NHÀ TUYỂN DỤNG VNG",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16547",
+      "date": "03/01/2025"
+    }
+  ],
   "HCMUS-Thong tin nguoi hoc": [],
   "HCMUS-Thong tin sinh vien": [
     {

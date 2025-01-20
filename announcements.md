@@ -1,7 +1,7 @@
 # All news in the last 1 month 
-_Last update: **09:32:05 20/01/2025**_
+_Last update: **10:17:34 20/01/2025**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
-No news in the last 1 month
+* 10/01/2025: [Mời tham gia sinh hoạt về kế hoạch tổ chức học phần Thực tập thực tế – Học kỳ 3 năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/01/moi-tham-gia-sinh-hoat-ve-ke-hoach-to-chuc-hoc-phan-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2024-2025/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
 No news in the last 1 month
 ## [Thong tin can biet](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/thong-tin-can-biet/)
@@ -9,17 +9,28 @@ No news in the last 1 month
 ## [Hoat dong sinh vien](https://www.ctda.hcmus.edu.vn/vi/goc-sinh-vien/hoat-dong-sinh-vien/)
 No news in the last 1 month
 ## [FIT-Tin tuc](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=36)
-No news in the last 1 month
+* 16/1/2025: [Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16554)
+* 14/1/2025: [[CQ] DSSV được duyệt đăng ký thực hiện đề tài tốt nghiệp Khóa 2021 - đợt 2 (bảo vệ tháng 7/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16553)
+* 13/1/2025: [Thông báo về việc đăng ký chuyển sang hệ tự túc áp dụng cho học viên cao học khoá 32/2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16552)
+* 9/1/2025: [Thư ngỏ mời Doanh nghiệp tham gia Ngày hội việc làm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16551)
+* 6/1/2025: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK2/2024-2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16550)
+* 3/1/2025: [Đăng kí tham dự Seminar Towards Backwards-Compatible Data with Confounded Domain Adaptation](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16549)
+* 30/12/2024: [Cập nhật thành tích sinh viên khoa CNTT HK1/ 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16546)
+* 25/12/2024: [Buổi Seminar Sau đại học ngày 21/12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16543)
+* 23/12/2024: [University Careers Day 2025 - Explore job opportunities at SAP Labs Vietnam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16542)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-No news in the last 1 month
+* 09/01/2025: [Thư ngỏ mời Doanh nghiệp tham gia Ngày hội việc làm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16551)
+* 30/12/2024: [Cập nhật thành tích sinh viên khoa CNTT HK1/ 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16546)
+* 23/12/2024: [University Careers Day 2025 - Explore job opportunities at SAP Labs Vietnam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16542)
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-No news in the last 1 month
+* 03/01/2025: [Đăng kí tham dự Seminar Towards Backwards-Compatible Data with Confounded Domain Adaptation](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16549)
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
-No news in the last 1 month
+* 03/01/2025: [KHỞI ĐẦU SỰ NGHIỆP TOÀN CẦU - FPT SOFTWARE CHINH PHỤC ĐỈNH CAO CÔNG NGHỆ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16548)
+* 03/01/2025: [KHẢO SÁT THƯƠNG HIỆU NHÀ TUYỂN DỤNG VNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16547)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 No news in the last 1 month
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
