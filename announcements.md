@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:13:52 23/01/2025**_
+_Last update: **07:33:01 23/01/2025**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 10/01/2025: [Mời tham gia sinh hoạt về kế hoạch tổ chức học phần Thực tập thực tế – Học kỳ 3 năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/01/moi-tham-gia-sinh-hoat-ve-ke-hoach-to-chuc-hoc-phan-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2024-2025/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -17,11 +17,9 @@ No news in the last 1 month
 * 3/1/2025: [Đăng kí tham dự Seminar Towards Backwards-Compatible Data with Confounded Domain Adaptation](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16549)
 * 30/12/2024: [Cập nhật thành tích sinh viên khoa CNTT HK1/ 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16546)
 * 25/12/2024: [Buổi Seminar Sau đại học ngày 21/12/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16543)
-* 23/12/2024: [University Careers Day 2025 - Explore job opportunities at SAP Labs Vietnam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16542)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 09/01/2025: [Thư ngỏ mời Doanh nghiệp tham gia Ngày hội việc làm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16551)
 * 30/12/2024: [Cập nhật thành tích sinh viên khoa CNTT HK1/ 2024 - 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16546)
-* 23/12/2024: [University Careers Day 2025 - Explore job opportunities at SAP Labs Vietnam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16542)
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
@@ -48,9 +46,8 @@ No news in the last 1 month
 * 30/12/2024: [Thông báo Đăng ký học phần Học kỳ 2/2024-2025 cho sinh viên Đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-2024-2025-cho-sinh-vien-dai-hoc-he-chinh-quy/)
 * 30/12/2024: [Thông báo thu phí bảo hiểm y tế năm 2025 (đợt 2) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2024)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2025-dot-2-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2024/)
 * 24/12/2024: [Kết quả cung cấp thông tin lưu trú năm học 2024-2025](https://hcmus.edu.vn/ket-qua-cung-cap-thong-tin-luu-tru-nam-hoc-2024-2025/)
-* 23/12/2024: [Thông báo công bố Zalo Official Account phòng Đào tạo](https://hcmus.edu.vn/thong-bao-cong-bo-zalo-official-account-phong-dao-tao/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
-* 23/12/2024: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ TRỢ GIẢNG KHOA ĐIỆN TỬ – VIỄN THÔNG, TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-tro-giang-khoa-dien-tu-vien-thong-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
+No news in the last 1 month
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
 No news in the last 1 month
 ## [HCMUS-Hoc bong dai hoc](https://hcmus.edu.vn/category/dao-tao/dai-hoc/hoc-bong-dai-hoc/)
