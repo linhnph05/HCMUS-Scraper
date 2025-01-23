@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "09:07:37 23/01/2025",
+  "Update time": "10:08:23 23/01/2025",
   "Thong Bao": [
     {
       "tieuDe": "Mời tham gia sinh hoạt về kế hoạch tổ chức học phần Thực tập thực tế – Học kỳ 3 năm học 2024-2025",
@@ -89,6 +89,11 @@
   "HCMUS-Thong tin nguoi hoc": [],
   "HCMUS-Thong tin sinh vien": [
     {
+      "tieuDe": "Kết quả xét duyệt hồ sơ chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM cho sinh viên tham gia vay lần đầu HK1 NH 24-25",
+      "url": "https://hcmus.edu.vn/ket-qua-xet-duyet-ho-so-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-cho-sinh-vien-tham-gia-vay-lan-dau-hk1-nh-24-25/",
+      "date": "23/01/2025"
+    },
+    {
       "tieuDe": "Thông báo đăng ký học phần HK2/2024-2025 đối với sinh viên Liên thông đại học hệ chính quy",
       "url": "https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk2-2024-2025-doi-voi-sinh-vien-lien-thong-dai-hoc-he-chinh-quy/",
       "date": "15/01/2025"
@@ -162,6 +167,11 @@
   "HCMUS-Tuyen dung": [],
   "HCMUS-Nguoi hoc": [],
   "HCMUS-Hoc bong dai hoc": [
+    {
+      "tieuDe": "Kết quả xét duyệt hồ sơ chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM cho sinh viên tham gia vay lần đầu HK1 NH 24-25",
+      "url": "https://hcmus.edu.vn/ket-qua-xet-duyet-ho-so-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-cho-sinh-vien-tham-gia-vay-lan-dau-hk1-nh-24-25/",
+      "date": "23/01/2025"
+    },
     {
       "tieuDe": "Chương trình học bổng vượt khó học tốt năm 2024",
       "url": "https://hcmus.edu.vn/chuong-trinh-ho%cc%a3c-bo%cc%89ng-vuo%cc%a3t-kho-ho%cc%a3c-tot-nam-2024/",
