@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "01:34:26 24/01/2025",
+  "Update time": "02:26:55 24/01/2025",
   "Thong Bao": [
     {
       "tieuDe": "Mời tham gia sinh hoạt về kế hoạch tổ chức học phần Thực tập thực tế – Học kỳ 3 năm học 2024-2025",
@@ -159,7 +159,13 @@
       "date": "30/12/2024"
     }
   ],
-  "HCMUS-Tuyen dung": [],
+  "HCMUS-Tuyen dung": [
+    {
+      "tieuDe": "THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN KHOA HÓA HỌC",
+      "url": "https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-khoa-hoa-hoc/",
+      "date": "24/01/2025"
+    }
+  ],
   "HCMUS-Nguoi hoc": [],
   "HCMUS-Hoc bong dai hoc": [
     {
