@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "06:09:41 03/02/2025",
+  "Update time": "07:07:40 03/02/2025",
   "Thong Bao": [
     {
       "tieuDe": "Mời tham gia sinh hoạt về kế hoạch tổ chức học phần Thực tập thực tế – Học kỳ 3 năm học 2024-2025",
@@ -48,7 +48,13 @@
   "FIT-THÔNG TIN HỌC BỔNG": [],
   "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [],
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
-  "FIT-THÔNG TIN TUYỂN DỤNG": [],
+  "FIT-THÔNG TIN TUYỂN DỤNG": [
+    {
+      "tieuDe": "Công ty FAST - Tuyển nhân viên lập trình",
+      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16555",
+      "date": "03/02/2025"
+    }
+  ],
   "HCMUS-Thong tin nguoi hoc": [],
   "HCMUS-Thong tin sinh vien": [
     {
