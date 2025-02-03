@@ -1,6 +1,6 @@
 [
 {
-  "Update time": "23:06:49 02/02/2025",
+  "Update time": "00:27:01 03/02/2025",
   "Thong Bao": [
     {
       "tieuDe": "Mời tham gia sinh hoạt về kế hoạch tổ chức học phần Thực tập thực tế – Học kỳ 3 năm học 2024-2025",
@@ -36,11 +36,6 @@
       "tieuDe": "[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK2/2024-2025",
       "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16550",
       "date": "6/1/2025"
-    },
-    {
-      "tieuDe": "Đăng kí tham dự Seminar Towards Backwards-Compatible Data with Confounded Domain Adaptation",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16549",
-      "date": "3/1/2025"
     }
   ],
   "FIT-THÔNG TIN CHUNG": [
@@ -51,26 +46,9 @@
     }
   ],
   "FIT-THÔNG TIN HỌC BỔNG": [],
-  "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [
-    {
-      "tieuDe": "Đăng kí tham dự Seminar Towards Backwards-Compatible Data with Confounded Domain Adaptation",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16549",
-      "date": "03/01/2025"
-    }
-  ],
+  "FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ": [],
   "FIT-HOẠT ĐỘNG SINH VIÊN": [],
-  "FIT-THÔNG TIN TUYỂN DỤNG": [
-    {
-      "tieuDe": "KHỞI ĐẦU SỰ NGHIỆP TOÀN CẦU - FPT SOFTWARE CHINH PHỤC ĐỈNH CAO CÔNG NGHỆ",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16548",
-      "date": "03/01/2025"
-    },
-    {
-      "tieuDe": "KHẢO SÁT THƯƠNG HIỆU NHÀ TUYỂN DỤNG VNG",
-      "url": "https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16547",
-      "date": "03/01/2025"
-    }
-  ],
+  "FIT-THÔNG TIN TUYỂN DỤNG": [],
   "HCMUS-Thong tin nguoi hoc": [],
   "HCMUS-Thong tin sinh vien": [
     {
