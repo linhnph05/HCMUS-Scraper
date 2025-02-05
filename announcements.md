@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **13:14:39 05/02/2025**_
+_Last update: **14:12:32 05/02/2025**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 05/02/2025: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2021 (bảo vệ 08/2025)](https://www.ctda.hcmus.edu.vn/vi/2025/02/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2021-bao-ve-08-2025/)
 * 10/01/2025: [Mời tham gia sinh hoạt về kế hoạch tổ chức học phần Thực tập thực tế – Học kỳ 3 năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/01/moi-tham-gia-sinh-hoat-ve-ke-hoach-to-chuc-hoc-phan-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2024-2025/)
@@ -25,6 +25,7 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 05/02/2025: [[Lihuhu][Part time] Cộng tác viên xếp Level cho Mobile Game (Vietnamese) - ver Oct 2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16558)
 * 05/02/2025: [[TUYỂN DỤNG] CÔNG TY TNHH JOURNEYHORIZON – SOFTWARE ENGINEER – REACTJS (FRESHER)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16557)
 * 03/02/2025: [Công ty FAST - Tuyển nhân viên lập trình](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16555)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
