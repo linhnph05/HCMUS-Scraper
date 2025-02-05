@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **08:39:41 05/02/2025**_
+_Last update: **09:32:48 05/02/2025**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 10/01/2025: [Mời tham gia sinh hoạt về kế hoạch tổ chức học phần Thực tập thực tế – Học kỳ 3 năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/01/moi-tham-gia-sinh-hoat-ve-ke-hoach-to-chuc-hoc-phan-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2024-2025/)
 ## [Tin tuc](https://www.ctda.hcmus.edu.vn/vi/tin-tuc/)
@@ -24,6 +24,7 @@ No news in the last 1 month
 ## [FIT-HOẠT ĐỘNG SINH VIÊN](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN TUYỂN DỤNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
+* 05/02/2025: [[TUYỂN DỤNG] CÔNG TY TNHH JOURNEYHORIZON – SOFTWARE ENGINEER – REACTJS (FRESHER)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16557)
 * 03/02/2025: [Công ty FAST - Tuyển nhân viên lập trình](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16555)
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 No news in the last 1 month
