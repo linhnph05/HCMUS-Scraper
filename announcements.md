@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **07:32:00 07/02/2025**_
+_Last update: **08:40:17 07/02/2025**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 05/02/2025: [[CTDA] – Thông báo phúc khảo HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2025/02/ctda-thong-bao-phuc-khao-hk1-2425/)
 * 05/02/2025: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2021 (bảo vệ 08/2025)](https://www.ctda.hcmus.edu.vn/vi/2025/02/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2021-bao-ve-08-2025/)
@@ -31,6 +31,7 @@ No news in the last 1 month
 ## [HCMUS-Thong tin nguoi hoc](https://hcmus.edu.vn/thong-tin-danh-cho-nguoi-hoc/)
 No news in the last 1 month
 ## [HCMUS-Thong tin sinh vien](https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/)
+* 07/02/2025: [Thông báo bảo trì hệ thống Portal](https://hcmus.edu.vn/thong-bao-bao-tri-he-thong-portal/)
 * 23/01/2025: [Kết quả xét duyệt hồ sơ chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM cho sinh viên tham gia vay lần đầu HK1 NH 24-25](https://hcmus.edu.vn/ket-qua-xet-duyet-ho-so-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-cho-sinh-vien-tham-gia-vay-lan-dau-hk1-nh-24-25/)
 * 15/01/2025: [Thông báo đăng ký học phần HK2/2024-2025 đối với sinh viên Liên thông đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk2-2024-2025-doi-voi-sinh-vien-lien-thong-dai-hoc-he-chinh-quy/)
 * 14/01/2025: [Chương trình học bổng vượt khó học tốt năm 2024](https://hcmus.edu.vn/chuong-trinh-ho%cc%a3c-bo%cc%89ng-vuo%cc%a3t-kho-ho%cc%a3c-tot-nam-2024/)
