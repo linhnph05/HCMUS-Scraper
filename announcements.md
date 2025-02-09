@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **06:11:56 09/02/2025**_
+_Last update: **07:34:44 09/02/2025**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 05/02/2025: [[CTDA] – Thông báo phúc khảo HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2025/02/ctda-thong-bao-phuc-khao-hk1-2425/)
 * 05/02/2025: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2021 (bảo vệ 08/2025)](https://www.ctda.hcmus.edu.vn/vi/2025/02/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2021-bao-ve-08-2025/)
@@ -15,10 +15,8 @@ No news in the last 1 month
 * 16/1/2025: [Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 9/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16554)
 * 14/1/2025: [[CQ] DSSV được duyệt đăng ký thực hiện đề tài tốt nghiệp Khóa 2021 - đợt 2 (bảo vệ tháng 7/2025)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16553)
 * 13/1/2025: [Thông báo về việc đăng ký chuyển sang hệ tự túc áp dụng cho học viên cao học khoá 32/2022](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16552)
-* 9/1/2025: [Thư ngỏ mời Doanh nghiệp tham gia Ngày hội việc làm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16551)
 ## [FIT-THÔNG TIN CHUNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 * 04/02/2025: [National AI Student Challenge 2025 - AWS Challenge Available to Vietnam Students](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16556)
-* 09/01/2025: [Thư ngỏ mời Doanh nghiệp tham gia Ngày hội việc làm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16551)
 ## [FIT-THÔNG TIN HỌC BỔNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
 No news in the last 1 month
 ## [FIT-THÔNG TIN HỘI THẢO - HỘI NGHỊ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=53)
@@ -39,7 +37,6 @@ No news in the last 1 month
 * 14/01/2025: [Thông báo_Chương trình học bổng tại sự kiện Ngày hội kết nối Đại học – Địa phương – Doanh nghiệp](https://hcmus.edu.vn/thong-bao_chuong-trinh-ho%cc%a3c-bo%cc%89ng-ta%cc%a3i-su%cc%a3-kie%cc%a3n-ngay-ho%cc%a3i-ket-noi-da%cc%a3i-ho%cc%a3c-di%cc%a3a-phuong-doanh-nghie%cc%a3p/)
 * 14/01/2025: [Thông báo về việc đăng ký nội trú KTX Trường học kỳ 2, năm học 2024-2025](https://hcmus.edu.vn/thong-bao-ve-viec-dang-ky-noi-tru-ktx-truong-hoc-ky-2-nam-hoc-2024-2025/)
 * 13/01/2025: [Thông báo nhận bằng tốt nghiệp bậc Đại học hệ chính quy, bậc Cao đẳng, Liên thông đại học và hệ đào tạo từ xa cho đợt xét tốt nghiệp tháng 11/2024](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-lien-thong-dai-hoc-va-he-dao-tao-tu-xa-cho-dot-xet-tot-nghiep-thang-11-2024/)
-* 09/01/2025: [Thông báo V/v thực hiện bài kiểm tra và khảo sát đợt Sinh hoạt công dân đầu năm năm học 2024-2025](https://hcmus.edu.vn/thong-bao-v-v-thuc-hien-bai-kiem-tra-va-khao-sat-dot-sinh-hoat-cong-dan-dau-nam-nam-hoc-2024-2025/)
 ## [HCMUS-Tuyen dung](https://hcmus.edu.vn/category/tuyen-dung-viec-lam/)
 * 24/01/2025: [THÔNG BÁO TUYỂN DỤNG VỊ TRÍ NGHIÊN CỨU VIÊN KHOA HÓA HỌC](https://hcmus.edu.vn/thong-bao-tuyen-dung-vi-tri-nghien-cuu-vien-khoa-hoa-hoc/)
 ## [HCMUS-Nguoi hoc](https://hcmus.edu.vn/category/nguoi-hoc/)
