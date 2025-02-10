@@ -1,5 +1,5 @@
 # All news in the last 1 month 
-_Last update: **07:33:57 10/02/2025**_
+_Last update: **08:41:47 10/02/2025**_
 ## [Thong Bao](https://www.ctda.hcmus.edu.vn/vi/thong-bao/)
 * 05/02/2025: [[CTDA] – Thông báo phúc khảo HK1/2425](https://www.ctda.hcmus.edu.vn/vi/2025/02/ctda-thong-bao-phuc-khao-hk1-2425/)
 * 05/02/2025: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2021 (bảo vệ 08/2025)](https://www.ctda.hcmus.edu.vn/vi/2025/02/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2021-bao-ve-08-2025/)
